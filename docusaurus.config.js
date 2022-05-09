@@ -71,7 +71,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'countries',
             position: 'left',
             label: 'Country guide',
           },
