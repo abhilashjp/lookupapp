@@ -57,9 +57,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Lookup Tax',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Global APIs for VAT Validation',
           src: 'img/logo.svg',
         },
         items: [
@@ -69,6 +69,13 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: 'Country guide',
+          },
+          
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
