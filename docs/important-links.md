@@ -1,8 +1,8 @@
 ---
 id: important-tax-links
 title: Links to EU taxation 
-description: 
-image: 
+<!--- description: -->
+<!---image: -->
 keywords: [EU VAT,VAT rate]
 tags:
   - EU VAT
