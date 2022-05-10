@@ -60,6 +60,8 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      
+      metadata: [{name: 'keywords', content: 'VAT APIs, Tax guide, Tax invoice, Sales tax'}],
       navbar: {
         title: 'Lookup Tax',
         logo: {
@@ -71,11 +73,11 @@ const config = {
           {
             type: 'doc',
             docId: 'countries',
-            position: 'left',
+            position: 'right',
             label: 'Country guide',
           },
           
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'right'},
           {
             href: 'https://github.com/abhilashjp/lookupapp',
             label: 'GitHub',
