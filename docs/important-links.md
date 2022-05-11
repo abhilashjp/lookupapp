@@ -9,4 +9,6 @@ tags:
   - VAT rate
 ---
 
- <Link to="'https://ec.europa.eu/taxation_customs/vies/">Vat vies validation</Link>
+|Description|Website|
+|--|--|
+|EU Vat Validation|[Vat vies validation](https://ec.europa.eu/taxation_customs/vies/)|
