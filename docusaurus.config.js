@@ -50,8 +50,17 @@ const config = {
           editUrl:
             'https://github.com/abhilashjp/lookupapp/blob/main/',
         },
+        googleAnalytics: {
+          trackingID: 'G-D5YNWHF9Q3',
+          anonymizeIP: true,
+        },
+        gtag: {
+          trackingID: 'G-D5YNWHF9Q3',
+          anonymizeIP: true,
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+            
         },
       }),
     ],
