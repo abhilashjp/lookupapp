@@ -16,7 +16,7 @@ tags:
   <tbody>
     <tr>
       <td>Country code</td>
-      <td>IN</td>
+      <td><b>IN</b></td>
     </tr>
      <tr>
       <td>Tax name</td>
