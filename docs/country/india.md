@@ -72,7 +72,7 @@ On Intra state transactions [CGST](https://www.cbic.gov.in/resources//htdocs-cbe
 The items in the invoices should have HSN/SAC code mentioned against it. 
 
 ## Einvoicing in India
-Einvoicing is mandatory for businesses with a turnover of more than Rs.20 crores. This is the revised threshold limit as per the [notification on Feb'22] (https://einv-apisandbox.nic.in/downloads/notfctn-01-central-tax-english-2022.pdf) with effect from 1st day of April, 2022. 
+Einvoicing is mandatory for businesses with a turnover of more than Rs.20 crores. This is the revised threshold limit as per the [notification on Feb'22](https://einv-apisandbox.nic.in/downloads/notfctn-01-central-tax-english-2022.pdf) with effect from 1st day of April, 2022. 
 
 Einvoicing in india is enabled by Invoice Regsritaion Portal (IRP). Invoices issues by the supplier has to be regestered with the IRP. On successful registration IRP returns a QR code and an IRN(invoice reference number). ThE QR code has to be affixed on the invoice before sending it to the buyer. 
 
