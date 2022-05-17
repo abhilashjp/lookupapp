@@ -12,7 +12,12 @@ Country code : **IN** Flag:🇮🇳
 Indirect taxes in India is called GST (Goods and Services Tax). It came into effect in July 2017. It relplaced the several indirect taxes such as VAT, excise duty, services taxes etc. Read [more](https://cbic-gst.gov.in/pdf/01062019-GST-Concept-Status.pdf)
 
 ## Registration 
-The registration in GST is PAN based and State specific. Supplier has to register in each of such State or Union territory from where he effectssupply. A person registered in one State is considered ‘unregistered person’ outside the State. If a person has unit in SEZ or is a SEZ developer and also unit in domestic tariff Area (i.e. outside the SEZ) in the same State, then he has to take separate registration for his SEZ unit / as a SEZ developer as a separate place of business of him. The GST law does not have the facility of centralized registration for units across multiple states. Read [more](https://www.cbic.gov.in/resources//htdocs-cbec/gst/51_GST_Flyer_Chapter1.pdf) 
+
+The registration in GST is PAN based and State specific. Supplier has to register in each of such State or Union territory from where he effectssupply. A person registered in one State is considered ‘unregistered person’ outside the State. 
+
+If a person has unit in SEZ or is a SEZ developer and also unit in domestic tariff Area (i.e. outside the SEZ) in the same State, then he has to take separate registration for his SEZ unit / as a SEZ developer as a separate place of business of him. The GST law does not have the facility of centralized registration for units across multiple states. 
+
+Read [more](https://www.cbic.gov.in/resources//htdocs-cbec/gst/51_GST_Flyer_Chapter1.pdf) 
 
 ### Who should register for GST 
 
@@ -22,7 +27,8 @@ Threshold limit of aggregate turnover for exemption from registrationand payment
 
 
 Where to resgister? 
- Viist [GST portal](https://www.gst.gov.in/). Go to  Services > Registration > [New Regisrtration](https://reg.gst.gov.in/registration/). 
+
+Visit [GST portal](https://www.gst.gov.in/). Go to  Services > Registration > [New Regisrtration](https://reg.gst.gov.in/registration/). 
 
 ## Tax Regsitration number - GSTIN
 A supplier is issued a 15 digit GST identification number(GSTIN). The first 2 digits of the GSTIN is the State code, next 10 digits are the PAN of 
@@ -40,23 +46,25 @@ Following are considered as offenses under GST law.
 2. Issuing an invoice without making supply;  
 3. Not paying tax collected for a period exceeding three months;  
 4. Not paying tax collected in contravention of the CGST/SGST Act for a period exceeding 3 months;  
-5) Non deduction or lower deduction of tax deducted at source or not depositing tax deducted at source under section 51; 
-6) Non  collection  or  lower  collection  of  or  non- payment of tax collectible at source under section 52; 
-7) Availing/utilizing    input    tax    credit    without actual receipt of goods and/or services; 
-8) Fraudulently obtaining any refund;  
-9) Availing/distributing input tax  credit by an Input Service Distributor in violation of  Section 20; 
-10) Furnishing false information or falsification of financial  records  or  furnishing  of  fake  accounts/documents with intent to evade payment of tax; 
-11) Failure to register despite being liable to pay tax;  
-12) Furnishing false information regarding registration particulars either at the time of applying for registration or subsequently; 
-13) Obstructing or preventing any official in discharge of his duty;  
-14) Transporting goods without prescribed documents;  
-15) Suppressing turnover leading to tax evasion;  
-16) Failure  to  maintain  accounts/documents in the manner  specified in the Act or failure to retain accounts/documents for the period specified in the Act; 
-17) Failure to furnish information/documents required by an officer in terms of the Act/Rules or furnishing false information/documents during the course of any proceeding; 
-18) Supplying/transporting/storing any goods liable to confiscation; 
-19) Issuing invoice or document using GSTIN of another person;  
-20) Tampering/destroying any material evidence;  
-21) Disposing of/tampering with goods detained/seized/attached under the Act.
+5. Non deduction or lower deduction of tax deducted at source or not depositing tax deducted at source under section 51; 
+6. Non  collection  or  lower  collection  of  or  non- payment of tax collectible at source under section 52; 
+7. Availing/utilizing    input    tax    credit    without actual receipt of goods and/or services; 
+8. Fraudulently obtaining any refund;  
+9. Availing/distributing input tax  credit by an Input Service Distributor in violation of  Section 20; 
+10. Furnishing false information or falsification of financial  records  or  furnishing  of  fake  accounts/documents with intent to evade payment of tax;
+11. Failure to register despite being liable to pay tax;  
+12. Furnishing false information regarding registration particulars either at the time of applying for registration or subsequently; 
+13. Obstructing or preventing any official in discharge of his duty;  
+14. Transporting goods without prescribed documents;  
+15. Suppressing turnover leading to tax evasion;  
+16. Failure  to  maintain  accounts/documents in the manner  specified in the Act or failure to retain accounts/documents for the period specified in the Act; 
+17. Failure to furnish information/documents required by an officer in terms of the Act/Rules or furnishing false information/documents during the course of any proceeding; 
+18. Supplying/transporting/storing any goods liable to confiscation; 
+19. Issuing invoice or document using GSTIN of another person;  
+20. Tampering/destroying any material evidence;  
+21. Disposing of/tampering with goods detained/seized/attached under the Act.
+
+
 ### Penalty
 
 Any taxable person who has committed any of the offences shall be punished with a penalty that shall be higher of the following amounts: 
