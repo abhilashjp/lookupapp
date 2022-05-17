@@ -7,8 +7,7 @@ tags:
   - GST
 ---
 
-### Country code : [IN](https://www.iso.org/obp/ui/#iso:code:3166:IN) 
-### Flag : 
+### Country code : [IN](https://www.iso.org/obp/ui/#iso:code:3166:IN) Flag :india: 
 
 Indirect taxes in India is called GST (Goods and Services Tax). It came into effect in July 2017. It relplaced the several indirect taxes such as VAT, excise duty, services taxes etc. Read [more](https://cbic-gst.gov.in/pdf/01062019-GST-Concept-Status.pdf)
 
@@ -33,13 +32,14 @@ that there is a single registration for all the taxes i.e. CGST, SGST/UTGST, IGS
 ## Tax rates
 On Intra state transactions [CGST](https://www.cbic.gov.in/resources//htdocs-cbec/gst/CGST%20Act%20Updated%20as%20on%2031.08.2021.pdf) and SGST/UTGST are applied .In case of intersate transction [IGST](https://www.cbic.gov.in/resources//htdocs-cbec/gst/IGST-Act-Updated.pdf) is appiled 
 
-### [Exemptions](https://cbic-gst.gov.in/pdf/igst-exemption-concession-list-03.06.2017.pdf)
+
 ### Offenses
-Following are considered as offenses under GST law. 
-1) Making a supply without invoice or with false/incorrect invoice;  
-2) Issuing an invoice without making supply;  
-3) Not paying tax collected for a period exceeding three months;  
-4) Not paying tax collected in contravention of the CGST/SGST Act for a period exceeding 3 months;  
+Following are considered as offenses under GST law.
+
+1. Making a supply without invoice or with false/incorrect invoice;  
+2. Issuing an invoice without making supply;  
+3. Not paying tax collected for a period exceeding three months;  
+4. Not paying tax collected in contravention of the CGST/SGST Act for a period exceeding 3 months;  
 5) Non deduction or lower deduction of tax deducted at source or not depositing tax deducted at source under section 51; 
 6) Non  collection  or  lower  collection  of  or  non- payment of tax collectible at source under section 52; 
 7) Availing/utilizing    input    tax    credit    without actual receipt of goods and/or services; 
@@ -81,6 +81,7 @@ It is noticed that the state codes defined by the GST council doesnot match with
 * [Numneric State code](https://docs.ewaybillgst.gov.in/apidocs/state-code.html)
 * [Official Pdf](https://ddvat.gov.in/docs/List%20of%20State%20Code.pdf)
 
+### [Exemptions](https://cbic-gst.gov.in/pdf/igst-exemption-concession-list-03.06.2017.pdf)
 
 ## Important Wesbites
 
