@@ -7,7 +7,7 @@ tags:
   - GST
 ---
 
-Country code : **[IN]**(https://www.iso.org/obp/ui/#iso:code:3166:IN) Flag:🇮🇳
+Country code : **[IN]** Flag:🇮🇳
 
 Indirect taxes in India is called GST (Goods and Services Tax). It came into effect in July 2017. It relplaced the several indirect taxes such as VAT, excise duty, services taxes etc. Read [more](https://cbic-gst.gov.in/pdf/01062019-GST-Concept-Status.pdf)
 
@@ -104,6 +104,7 @@ It is noticed that the state codes defined by the GST council doesnot match with
 * [Penalty on GST](https://www.tgct.gov.in/tgportal/staffcollege/DR%20ACTOs%2017.01.2020%20to%2018.02.2020/February%20-%202020%20%20PDF%27s/03.02.2020,%201.%20Ch.Raja%20Krishna,%20Deputy%20Commissioner%20(ST),%20Demand%20and%20Recovery.pdf)
 * [Offences, Penalties, Prosecution and 
 Compounding, Page 438](https://www.cbic.gov.in/resources//htdocs-cbec/gst/Final-GST-FAQ-31218.pdf)
+* [ISO Code](https://www.iso.org/obp/ui/#iso:code:3166:IN)
 
 
 
