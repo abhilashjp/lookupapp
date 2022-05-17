@@ -7,9 +7,27 @@ tags:
   - GST
 ---
 
-Country code : **IN** Flag:🇮🇳
+<table>
+  <thead>
+    <tr>
+      <th colspan="2">FACTSHEET</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Country code</td>
+      <td>IN</td>
+    </tr>
+     <tr>
+      <td>Tax name</td>
+      <td>Goods and Services Tax(GST)</td>
+    </tr>
+  </tbody>
+</table>
 
-Indirect taxes in India is called GST (Goods and Services Tax). It came into effect in July 2017. It replaced the several indirect taxes such as VAT, excise duty, services taxes etc. Read [more](https://cbic-gst.gov.in/pdf/01062019-GST-Concept-Status.pdf)
+## Overview
+
+Indirect taxes in India is called GST (Goods and Services Tax). It came into effect in July 2017. It replaced the several indirect taxes such as VAT, excise duty, services taxes etc.  Read [more](https://cbic-gst.gov.in/pdf/01062019-GST-Concept-Status.pdf)
 
 ## Registration 
 
@@ -26,7 +44,7 @@ Threshold limits of aggregate turnover for exemption from registration and payme
 Threshold limit of aggregate turnover for exemption from registrationand payment of GST for suppliers of services is Rs.20 lakhs and Rs.10 lakhs in the States of Manipur, Mizoram, Nagaland and Tripura.
 
 
-Where to resgister? 
+#### Where to register? 
 
 Visit [GST portal](https://www.gst.gov.in/). Go to  Services > Registration > [New Regisrtration](https://reg.gst.gov.in/registration/). 
 
@@ -38,6 +56,23 @@ that there is a single registration for all the taxes i.e. CGST, SGST/UTGST, IGS
 ## Tax rates
 On Intra state transactions [CGST](https://www.cbic.gov.in/resources//htdocs-cbec/gst/CGST%20Act%20Updated%20as%20on%2031.08.2021.pdf) and SGST/UTGST are applied .In case of intersate transction [IGST](https://www.cbic.gov.in/resources//htdocs-cbec/gst/IGST-Act-Updated.pdf) is appiled 
 
+
+## Invoice Format
+The items in the invoices should have HSN code mentioned against it. 
+
+## Einvoicing in India
+Einvoicing is mandatory for businesses with a turnover of more than Rs.20 crores. This is the revised threshold limit as per the [notification on Feb'22] (https://einv-apisandbox.nic.in/downloads/notfctn-01-central-tax-english-2022.pdf) with effect from 1st day of April, 2022. 
+
+Einvoicing in india is enabled by Invoice Regsritaion Portal (IRP). Invoices issues by the supplier has to be regestered with the IRP. On successful registration IRP returns a QR code and an IRN(invoice reference number). ThE QR code has to be affixed on the invoice before sending it to the buyer. 
+
+
+### State code
+It is noticed that the state codes defined by the GST council doesnot match with the [ISO code](https://www.iso.org/obp/ui/#iso:code:3166:IN). 
+
+* [Numneric State code](https://docs.ewaybillgst.gov.in/apidocs/state-code.html)
+* [Official Pdf](https://ddvat.gov.in/docs/List%20of%20State%20Code.pdf)
+
+### [Exemptions](https://cbic-gst.gov.in/pdf/igst-exemption-concession-list-03.06.2017.pdf)
 
 ### Offenses
 Following are considered as offenses under GST law.
@@ -77,19 +112,6 @@ Any registered person who has not paid tax or makes a short payment of tax on su
 
 Any person who contravenes any provision of the Act or the rules  made  under  this  Act  for  which no separate penalty has  been  prescribed  shall  be  punishable with a penalty that may extend to Rs.25,000/-
 
-## Einvoicing in India
-Einvoicing is mandatory for businesses with a turnover of more than Rs.20 crores. This is the revised threshold limit as per the [notification on Feb'22] (https://einv-apisandbox.nic.in/downloads/notfctn-01-central-tax-english-2022.pdf) with effect from 1st day of April, 2022. 
-
-Einvoicing in india is enabled by Invoice Regsritaion Portal (IRP). Invoices issues by the supplier has to be regestered with the IRP. On successful registration IRP returns a QR code and an IRN(invoice reference number). ThE QR code has to be affixed on the invoice before sending it to the buyer. 
-
-
-### State code
-It is noticed that the state codes defined by the GST council doesnot match with the [ISO code](https://www.iso.org/obp/ui/#iso:code:3166:IN). 
-
-* [Numneric State code](https://docs.ewaybillgst.gov.in/apidocs/state-code.html)
-* [Official Pdf](https://ddvat.gov.in/docs/List%20of%20State%20Code.pdf)
-
-### [Exemptions](https://cbic-gst.gov.in/pdf/igst-exemption-concession-list-03.06.2017.pdf)
 
 ## Important Wesbites
 
