@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title} All things invoices`}
-      description="Enscylopedia of all things invoices and taxation">
+      description="Encylopedia of invoices and taxation">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
