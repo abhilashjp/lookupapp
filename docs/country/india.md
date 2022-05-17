@@ -54,11 +54,22 @@ the legal entity, the next two digits are for entity code, and the last digit is
 that there is a single registration for all the taxes i.e. CGST, SGST/UTGST, IGST and cesses
 
 ## Tax rates
-On Intra state transactions [CGST](https://www.cbic.gov.in/resources//htdocs-cbec/gst/CGST%20Act%20Updated%20as%20on%2031.08.2021.pdf) and SGST/UTGST are applied .In case of intersate transction [IGST](https://www.cbic.gov.in/resources//htdocs-cbec/gst/IGST-Act-Updated.pdf) is appiled 
+On Intra state transactions [CGST](https://www.cbic.gov.in/resources//htdocs-cbec/gst/CGST%20Act%20Updated%20as%20on%2031.08.2021.pdf) and SGST/UTGST are applied .In case of intersate transction [IGST](https://www.cbic.gov.in/resources//htdocs-cbec/gst/IGST-Act-Updated.pdf) is appiled . Following are the currently allowed tax rates. Along with these 'cess' might be levied by the state governments on some items
 
+|CGST (%)|SGST (%)|IGST (%)|
+|-|-|-|
+|0|0|0|
+|0.05|0.05|0.1|
+|0.125|0.125|0.25|
+|1.5|1.5|3|
+|2.5|2.5|5|
+|6|6|12|
+|9|9|18|
+|14|14|28|
+|0.25|0.25|0.5|
 
 ## Invoice Format
-The items in the invoices should have HSN code mentioned against it. 
+The items in the invoices should have HSN/SAC code mentioned against it. 
 
 ## Einvoicing in India
 Einvoicing is mandatory for businesses with a turnover of more than Rs.20 crores. This is the revised threshold limit as per the [notification on Feb'22] (https://einv-apisandbox.nic.in/downloads/notfctn-01-central-tax-english-2022.pdf) with effect from 1st day of April, 2022. 
