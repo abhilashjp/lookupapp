@@ -128,8 +128,8 @@ Any person who contravenes any provision of the Act or the rules  made  under  t
 
 |Description|Website|
 |---|----|
-|GST council|[website](https://gstcouncil.gov.in/)|
-|GST law|[website](https://cbic-gst.gov.in/gst-acts.html)|
+|GST council|[Website](https://gstcouncil.gov.in/)|
+|GST law|[Website](https://cbic-gst.gov.in/gst-acts.html)|
 |GST State code|[Official Pdf](https://ddvat.gov.in/docs/List%20of%20State%20Code.pdf)|
 |HSN code search|[Website](https://services.gst.gov.in/services/searchhsnsac)|
 |GST rates|[Wesbite](https://cbic-gst.gov.in/gst-goods-services-rates.html)|
