@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Lookup Tax',
   tagline: 'Global API for VAT validation',
-  url: 'https://lookuptax.com',
+  url: 'https://lookup-guides.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
