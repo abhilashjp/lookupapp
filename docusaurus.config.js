@@ -1,66 +1,64 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const lightCodeTheme = require("prism-react-renderer/themes/github");
+const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Lookup Tax',
-  tagline: 'Global API for VAT validation',
-  url: 'https://sleepy-dijkstra-418cba.netlify.app/',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  title: "Lookup Tax",
+  tagline: "Global API for VAT validation",
+  url: "https://lookup-guides.netlify.app/",
+  baseUrl: "/docs/",
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
+  favicon: "img/favicon.ico",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'abhilashjp', // Usually your GitHub org/user name.
-  projectName: 'Lookupapp', // Usually your repo name.
+  organizationName: "abhilashjp", // Usually your GitHub org/user name.
+  projectName: "lookupapp", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: "/",
+          sidebarPath: require.resolve("./sidebars.js"),
           breadcrumbs: true,
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/abhilashjp/lookupapp/blob/main/',
+          editUrl: "https://github.com/abhilashjp/lookupapp/blob/main/",
         },
         blog: {
           showReadingTime: true,
 
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/abhilashjp/lookupapp/blob/main/',
+          editUrl: "https://github.com/abhilashjp/lookupapp/blob/main/",
         },
         googleAnalytics: {
-          trackingID: 'G-D5YNWHF9Q3',
+          trackingID: "G-D5YNWHF9Q3",
           anonymizeIP: true,
         },
         gtag: {
-          trackingID: 'G-D5YNWHF9Q3',
+          trackingID: "G-D5YNWHF9Q3",
           anonymizeIP: true,
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-            
+          customCss: require.resolve("./src/css/custom.css"),
         },
       }),
     ],
@@ -69,70 +67,73 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      
-      metadata: [{name: 'keywords', content: 'VAT APIs, Tax guide, Tax invoice, Sales tax'}],
+      metadata: [
+        {
+          name: "keywords",
+          content: "VAT APIs, Tax guide, Tax invoice, Sales tax",
+        },
+      ],
       navbar: {
-        title: 'Lookup Tax',
+        title: "Lookup Tax",
         logo: {
-          alt: 'Global APIs for VAT Validation',
-          src: 'img/logo.svg',
+          alt: "Global APIs for VAT Validation",
+          src: "img/logo.svg",
         },
         items: [
-          
           {
-            type: 'doc',
-            docId: 'countries',
-            position: 'right',
-            label: 'Country guide',
+            type: "doc",
+            docId: "countries",
+            position: "right",
+            label: "Country guide",
           },
-          
-          {to: '/blog', label: 'Blog', position: 'right'},
+
+          { to: "/blog", label: "Blog", position: "right" },
           {
-            href: 'https://github.com/abhilashjp/lookupapp',
-            label: 'GitHub',
-            position: 'right',
+            href: "https://github.com/abhilashjp/lookupapp",
+            label: "GitHub",
+            position: "right",
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: "dark",
         links: [
           {
-            title: 'Docs',
+            title: "Docs",
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: "Tutorial",
+                to: "/docs/intro",
               },
             ],
           },
           {
-            title: 'Community',
+            title: "Community",
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: "Stack Overflow",
+                href: "https://stackoverflow.com/questions/tagged/docusaurus",
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: "Discord",
+                href: "https://discordapp.com/invite/docusaurus",
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: "Twitter",
+                href: "https://twitter.com/docusaurus",
               },
             ],
           },
           {
-            title: 'More',
+            title: "More",
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: "Blog",
+                to: "/blog",
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/abhilashjp/lookupapp/',
+                label: "GitHub",
+                href: "https://github.com/abhilashjp/lookupapp/",
               },
             ],
           },
