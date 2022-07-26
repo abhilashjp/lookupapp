@@ -134,6 +134,7 @@ Any person who contravenes any provision of the Act or the rules  made  under  t
 |HSN code search|[Website](https://services.gst.gov.in/services/searchhsnsac)|
 |GST rates|[Wesbite](https://cbic-gst.gov.in/gst-goods-services-rates.html)|
 |Help Desk Number|1800-103-4786|
+|GSTIN Lookup|[Search](https://services.gst.gov.in/services/searchtp)|
 
 
 
