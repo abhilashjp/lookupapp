@@ -49,9 +49,21 @@ Threshold limit of aggregate turnover for exemption from registrationand payment
 Visit [GST portal](https://www.gst.gov.in/). Go to  Services > Registration > [New Regisrtration](https://reg.gst.gov.in/registration/). 
 
 ## Tax Regsitration number - GSTIN
-A supplier is issued a 15 digit GST identification number(GSTIN). The first 2 digits of the GSTIN is the State code, next 10 digits are the PAN of 
-the legal entity, the next two digits are for entity code, and the last digit is check sum number. Registration under GST is not tax specific which means 
-that there is a single registration for all the taxes i.e. CGST, SGST/UTGST, IGST and cesses
+Once GST regsitration is complete a supplier is issued a 15 digit GST identification number(GSTIN). The first 2 digits of the GSTIN is the State code, next 10 digits are the PAN of the legal entity, the next two digits are for entity code, and the last digit is check sum number. Registration under GST is not tax specific which means that there is a single registration for all the taxes i.e. CGST, SGST/UTGST, IGST and cesses
+
+### Regex 
+``` 
+\d{2}[A-Z]{5}\d{4}[A-Z]{1}[A-Z\d]{1}[Z]{1}[A-Z\d]{1}
+
+ ```
+ Following are the details of the format 
+
+ 1. 1st 2 digits: This is the state code as per the Indian Census 2011
+ 2. Next 10 digits:This is the PAN of the business entity.
+ 3. 13th digit: This denotes the serial number of registrations the business entity has for business verticals in the state, under the same PAN. It can range from 1-9 for businesses with up to 9 business vertical registrations in the state and for more than 9 registrations, from A-Z.
+ 4. 14th digit:This will be ‘Z’ by default.
+ 5. 15th digit: This digit denotes a ‘checksum’. It may be an alphabet or a number.
+
 
 ## Tax rates
 On Intra state transactions [CGST](https://www.cbic.gov.in/resources//htdocs-cbec/gst/CGST%20Act%20Updated%20as%20on%2031.08.2021.pdf) and SGST/UTGST are applied .In case of intersate transction [IGST](https://www.cbic.gov.in/resources//htdocs-cbec/gst/IGST-Act-Updated.pdf) is appiled . Following are the currently allowed tax rates. Along with these 'cess' might be levied by the state governments on some items
