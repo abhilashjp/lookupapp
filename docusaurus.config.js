@@ -9,7 +9,7 @@ const config = {
   title: "Lookup Tax",
   tagline: "Global API for VAT validation",
   url: "https://lookup-guides.netlify.app/",
-  baseUrl: "/docs/",
+  baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
