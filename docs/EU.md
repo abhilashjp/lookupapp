@@ -1,15 +1,13 @@
-
 ---
-id: important-tax-links
+id: EU
 title: European Union 
-<!--- description: -->
+description: VAT in national language 
 <!---image: -->
 keywords: [EU VAT,VAT name]
 tags:
   - EU VAT
   - VAT name
   - Local Name
-
 sidebar_position: 2
 ---
 
