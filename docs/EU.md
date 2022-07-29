@@ -2,7 +2,6 @@
 id: EU
 title: European Union 
 description: VAT in national language 
-<!---image: -->
 keywords: [EU VAT,VAT name]
 tags:
   - EU VAT
