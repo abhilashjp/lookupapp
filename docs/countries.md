@@ -1,11 +1,12 @@
 ---
-sidebar_position: 2
-id: vat-names 
-title: Counrtries and VAT Names
-description: VAT 
-keywords: [ VAT IDs,VAT names]
+id: important-tax-link
+title: Links to EU taxation 
+<!--- description: -->
+<!---image: -->
+keywords: [EU VAT,VAT rate]
 tags:
-  - VAT IDs
+  - EU VAT
+  - VAT rate
 ---
 
 
