@@ -1,12 +1,5 @@
 ---
-id: important-tax-link
-title: Links to EU taxation 
-<!--- description: -->
-<!---image: -->
-keywords: [EU VAT,VAT rate]
-tags:
-  - EU VAT
-  - VAT rate
+title: Vat names 
 ---
 
 
