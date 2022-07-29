@@ -1,5 +1,11 @@
 ---
 sidebar_position: 2
+id: VAT Names 
+title: Counrtries and VAT Names
+description: VAT 
+keywords: [ VAT IDs,VAT names]
+tags:
+  - VAT IDs
 ---
 
 
