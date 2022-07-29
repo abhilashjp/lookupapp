@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-id: VAT Names 
+id: vat-names 
 title: Counrtries and VAT Names
 description: VAT 
 keywords: [ VAT IDs,VAT names]
