@@ -1,5 +1,9 @@
 ---
-title: Vat names 
+title: Countries and Vat Names
+keywords: [EU VAT name,VAT number]
+tags:
+  - VAT IDs
+ 
 ---
 
 
