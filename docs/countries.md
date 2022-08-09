@@ -37,3 +37,9 @@ tags:
 |Sweden|SE|Mervärdesskatteregistreringsnummer (momsregistreringsnummer)|
 |Slovenia|SI|identifikacijska številka za DDV|
 |Slovakia|SK|identifikacné cķslo pre dan (IC DPH)|
+
+
+
+## Reference links
+* [EU website](https://taxation-customs.ec.europa.eu/system/files/2016-09/vat_in_ec_annexii.pdf)
+
