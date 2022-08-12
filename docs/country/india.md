@@ -2,6 +2,7 @@
 id: India
 title: India GST guidelines 
 keywords: [India GST,GSTIN]
+sidebar_label: India
 tags:
   - India
   - GST
