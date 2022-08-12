@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Country Guides',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/guides.png').default,
     description: (
       <>
         Learn about the taxation guidlines in the countries you operate in. <a href="https://lookuptax.com/docs/category/country-guides">Explore more</a>
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Explainers',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/explainer.png').default,
     description: (
       <>
        Confused with different terminologies. Dont worry we have simplified various concepts in Taxation for you. 
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'API Documentation',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/docs.png').default,
     description: (
       <>
         Integrate our Global Vad validation APIs and validated TAX IDs accross the world with just one API.
