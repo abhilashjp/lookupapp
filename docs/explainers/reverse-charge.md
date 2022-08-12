@@ -1,7 +1,8 @@
 ---
 id: reverse-charge
-title: What is reverse Charge 
+title: What is reverse charge ?
 keywords: [Reverse charge]
+sidebar_label: Reverse Charge
 tags:
   - Reverse Charge
   - RCM
