@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Country Guides',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Learn about the taxation guidlines in the countries you operate in. <a href="https://lookuptax.com/docs/category/country-guides">Explore more</a>
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Explainers',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+       Confused with different terminologies. Dont worry we have simplified various concepts in Taxation for you. 
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'API Documentation',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Integrate our Global Vad validation APIs and validated TAX IDs accross the world with just one API.
       </>
     ),
   },
