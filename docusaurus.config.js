@@ -82,7 +82,7 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "intro",
+            docId: "docs/category/country-guides",
             position: "right",
             label: "Country guide",
           },
