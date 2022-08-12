@@ -84,8 +84,8 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "right",
-            label: "Country guide",*/
-          },
+            label: "Country guide",
+          },*/
           { to: "/category/country-guides", label: "Country guide", position: "right" },
 
           { to: "/blog", label: "Blog", position: "right" },
