@@ -16,8 +16,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            to="/docs/category/country-guides">
+           Read about sales tax for my billing 
           </Link>
         </div>
       </div>
@@ -29,8 +29,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title} All things invoices`}
-      description="Encylopedia of invoices and taxation">
+      title={`${siteConfig.title} | VAT Validation APIs`}
+      description="Validate VAT number, ABN, GSTIN and more using our free, secure and refreshingly easy to use APIs.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
