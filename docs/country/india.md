@@ -139,18 +139,16 @@ Any person who contravenes any provision of the Act or the rules  made  under  t
 ## Frequently Asked Questions
 <details>
   <summary>Do I need to add digital signature on the einvoice ? </summary>
-  <p> Though there are several documents available online saying that digital signature is necesssary on GST einvoices, but as per the <a href="https://www.cbic.gov.in/resources/htdocs-cbec/gst/notfctn-74-central-tax-english-2018.pdf"> 14th amendment</a> digital signatures are not necessary on an GST invoice if its an einvoice.  Refer to <a href="https://www.cbic.gov.in/resources//htdocs-cbec/gst/30.07.2020_CGST%20Rules,%202017_(Part-A_Rules).pdf">GST rules</a>  Rule 46 page 51 end of the section. 
+  Though there are several documents available online saying that digital signature is necesssary on GST einvoices, but as per the <a href="https://www.cbic.gov.in/resources/htdocs-cbec/gst/notfctn-74-central-tax-english-2018.pdf"> 14th amendment</a> digital signatures are not necessary on an GST invoice if its an einvoice.  Refer to <a href="https://www.cbic.gov.in/resources//htdocs-cbec/gst/30.07.2020_CGST%20Rules,%202017_(Part-A_Rules).pdf">GST rules</a>  Rule 46 page 51 end of the section. 
   </br>According to the <a href="https://einvoice1.gst.gov.in/Others/Faqs" >IRP portal</a> "The digitally signed invoice is one which has been digitally or electronically signed by the IRP after receiving the invoice details from the supplier. That is, the government is authenticating the genuineness of the invoice details submitted/registered by the taxpayer" 
 
-</p>
 </details>
 
 <details>
   <summary>Do I need to genererate einvoices for b2c sales? </summary>
-  <p> All the businesses whose annual turnover exceed 500 crores in any preceding financial year (starting from 2017-18) are mandated to display QR code on their B2C invoices from 1st December 2020 as per the <a href="https://einvoice1.gst.gov.in/Documents/B2B_einvoiceQRCodevsB2CDynamicQRCode.pdf">GST rules</a> </br>
+  All the businesses whose annual turnover exceed 500 crores in any preceding financial year (starting from 2017-18) are mandated to display QR code on their B2C invoices from 1st December 2020 as per the <a href="https://einvoice1.gst.gov.in/Documents/B2B_einvoiceQRCodevsB2CDynamicQRCode.pdf">GST rules</a> </br>
 The dynamic QR code will have the payment details and thus ‘scan and pay’ in one go will be possible. This requirement has no relevance or connection with e-invoicing mandated for B2B Supplies and Exports by notified class of taxpayers. Hence IRN generation is not required and you need not upload B2C invoices to IRP. If uploaded, IRP will reject such invoices.
 
-</p>
 </details>
 
 
