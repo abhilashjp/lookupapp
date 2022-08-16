@@ -24,6 +24,7 @@ tags:
 |UK|GB|value added tax (VAT) registration no.|
 |Croatia|HR|PDV identifikacijski broj|
 |Hungary|HU|közösségi adószįm|
+|India|IN|GST identification number(GSTIN)|
 |Ireland|IE|value added tax identification no.|
 |Italy|IT|il numero di registrazione IVA|
 |Lithuania|LT|PVM moketojo kodas|
