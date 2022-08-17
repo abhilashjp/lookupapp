@@ -3,9 +3,8 @@ id: check-vat-number-free
 title: Official links to check Vat number (TAX IDs) 
 <!--- description: -->
 <!---image: -->
-keywords: [Check Vat Number UK,VAT rate]
+keywords: [Check Vat Number UK,Free VAT Search]
 tags:
-  - 
   - VAT ID search
 ---
 
