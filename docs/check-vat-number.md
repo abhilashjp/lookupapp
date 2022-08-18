@@ -13,6 +13,7 @@ tags:
 |--|--|
 |European Union(EU)| [Vat VIES website](https://ec.europa.eu/taxation_customs/vies/#/vat-validation) |
 |United Kingdom(UK)|[HMRC VAT Search](https://www.gov.uk/check-uk-vat-number)|
+|Canada|[GST/HST Search](https://www.businessregistration-inscriptionentreprise.gc.ca/ebci/brom/registry/pub/reg_01_Ld.action)|
 |South Africa|[SARS efiling](https://secure.sarsefiling.co.za/vatvendorsearch.aspx)|
 |India|[GSTIN Search](https://services.gst.gov.in/services/searchtp)|
 |Texas|[Texas Comptroller of Public Accounts](https://mycpa.cpa.state.tx.us/staxpayersearch/)|
