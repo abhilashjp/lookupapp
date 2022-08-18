@@ -16,5 +16,6 @@ tags:
 |Canada|[GST/HST Search](https://www.businessregistration-inscriptionentreprise.gc.ca/ebci/brom/registry/pub/reg_01_Ld.action)|
 |South Africa|[SARS efiling](https://secure.sarsefiling.co.za/vatvendorsearch.aspx)|
 |India|[GSTIN Search](https://services.gst.gov.in/services/searchtp)|
+|Quebec|[QST](https://entreprises.revenuquebec.ca/EntNa/SX/SX00/SX00.SXCLT20A.ValiderInscription/SXCLT20AA?CLNG=F&SVAR=01)|
 |Texas|[Texas Comptroller of Public Accounts](https://mycpa.cpa.state.tx.us/staxpayersearch/)|
 |Nevada|[Nevada Department of Taxation ](https://taxpermitsearch.nv.gov/Search.aspx)|
