@@ -76,8 +76,8 @@ const config = {
       navbar: {
         title: "Lookup Tax",
         logo: {
-          alt: "Global APIs for VAT Validation",
-          src: "img/logo.svg",
+          alt: "Global API for VAT Validation",
+          src: "img/lookuptax-icon.svg",
         },
         items: [
          /** {
