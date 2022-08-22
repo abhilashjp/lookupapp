@@ -113,7 +113,7 @@ const config = {
             items: [
               {
                 label: "Stack Overflow",
-                href: "#",
+                href: "https://stackoverflow.com/questions/tagged/lookuptax",
               },
               {
                 label: "Discord",
@@ -121,7 +121,7 @@ const config = {
               },
               {
                 label: "Twitter",
-                href: "#",
+                href: "https://twitter.com/lookuptax",
               },
             ],
           },
