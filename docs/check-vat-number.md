@@ -9,6 +9,8 @@ tags:
   - VAT ID search
 ---
 
+Below is the list of National Databases for seachring Tax IDs. You can check VAT IDs for free on these websites. 
+
 |Country/Region|Official Website|
 |--|--|
 |Australia|[ABN Search](https://abr.business.gov.au/)|
