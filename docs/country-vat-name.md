@@ -7,9 +7,9 @@ tags:
 ---
 
 
-|Country|Country code|VAT in national language|
-|--|--|--|
-|Austria|AT|Umsatzsteuer – Identifikationsnummer|
+|Country|Country code|VAT in national language|Format|Regex|
+|--|--|--|--|--|
+|Austria|AT|Umsatzsteuer – Identifikationsnummer|U12345678|`(/^(AT)(U\d{8}$)/i)`|
 |Belgium|BE|le numéro d’identification ą la taxe sur la valeur ajoutée BTW – identificatienummer|
 |Bulgaria|BG|Идентификационен номер по ДДС|
 |Cyprus|CY|Αριθμός Εγγραφής Φ.Π.Α.; Arithmos Egrafis FPA|
@@ -43,4 +43,6 @@ tags:
 
 ## Reference links
 * [EU website](https://taxation-customs.ec.europa.eu/system/files/2016-09/vat_in_ec_annexii.pdf)
+* [Format,#Q11](https://ec.europa.eu/taxation_customs/vies/#/faq)
+* [UK Official guide](https://www.gov.uk/guidance/vat-eu-country-codes-vat-numbers-and-vat-in-other-languages)
 
