@@ -51,11 +51,11 @@ const config = {
         },
         googleAnalytics: {
           trackingID: "G-D5YNWHF9Q3",
-          anonymizeIP: true,
+          anonymizeIP: false,
         },
         gtag: {
-          trackingID: "G-D5YNWHF9Q3",
-          anonymizeIP: true,
+          trackingID: "GTM-KQDFC4J",
+          anonymizeIP: false,
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
