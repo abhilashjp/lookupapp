@@ -54,7 +54,7 @@ const config = {
           anonymizeIP: false,
         },
         gtag: {
-          trackingID: "GTM-KQDFC4J",
+          trackingID: "G-D5YNWHF9Q3",
           anonymizeIP: false,
         },
         theme: {
