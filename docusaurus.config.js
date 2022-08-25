@@ -49,10 +49,10 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl: "https://github.com/abhilashjp/lookupapp/blob/main/",
         },
-        googleAnalytics: {
+      /**  googleAnalytics: {
           trackingID: "G-D5YNWHF9Q3",
           anonymizeIP: false,
-        },
+        },*/
         gtag: {
           trackingID: "G-D5YNWHF9Q3",
           anonymizeIP: false,
