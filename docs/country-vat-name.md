@@ -13,7 +13,7 @@ tags:
 |Belgium|BE|le numéro d’identification ą la taxe sur la valeur ajoutée BTW – identificatienummer(BTW, TVA, NWSt)|1234567890|10 characters. Prefix with zero ‘0’ if the customer provides a 9 digit VAT number|`(\d{10}$)/i)`| |
 |Bulgaria|BG|Идентификационен номер по ДДС(ДДС)|123456789, 1234567890|9 or 10 characters.|`(\d{9,10}$)/i)`| |
 |Croatia |HR|PDV identifikacijski broj|12345678901|11 characters|`(\d{11}$)/i)`| |
-|Cyprus|CY|Αριθμός Εγγραφής Φ.Π.Α.; Arithmos Egrafis FPA|12345678X|9 characters. The last character must always be a letter. |`([0-5|\9]\d{7}[A-Z]$)/i)`| |
+|Cyprus|CY|Αριθμός Εγγραφής Φ.Π.Α.; Arithmos Egrafis FPA|12345678X|9 characters. The last character must always be a letter. |`([0-5\|9]\d{7}[A-Z]$)/i)`| |
 |Czech Republic|CZ|danové identifikacnķ cķslo (DIC/DPH)|12345678, 123456789, 1234567890|8, 9 or 10 characters. If more than 10 characters are provided delete the first 3 as these are a tax code.|`(\d{8,10})?$/i)`| |
 |Denmark|DK|momsregistreringsnummer(moms)|12345678|8 characters.|`(\d{8}$)/i)`|Except the Faroe Islands and Greenland |
 |Estionia|EE|käibemaksukohustuslasena registreerimise number(km)|123456789|9 characters.|`(10\d{7}$)/i)`| |
