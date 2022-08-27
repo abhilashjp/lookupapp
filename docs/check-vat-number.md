@@ -21,7 +21,7 @@ Below is the list of National Databases for seachring Tax IDs. You can check VAT
 |Canada|[GST/HST Search](https://www.businessregistration-inscriptionentreprise.gc.ca/ebci/brom/registry/pub/reg_01_Ld.action)|
 |Germany|[USt-IdNr ](https://evatr.bff-online.de/eVatR/index_html)|
 |Denmark|[CVR Search](https://datacvr.virk.dk/)|
-|India|[GSTIN Search](https://services.gst.gov.in/services/searchtp)|
+|India|[GSTIN Search](https://services.gst.gov.in/services/searchtp), [icegate web](https://www.icegate.gov.in/Webappl/GSTN)|
 |Oman|[VATIN Search](https://www.taxoman.gov.om/portal/web/taxportal/tax-data-validation)|
 |Quebec|[QST Search](https://entreprises.revenuquebec.ca/EntNa/SX/SX00/SX00.SXCLT20A.ValiderInscription/SXCLT20AA?CLNG=F&SVAR=01)|
 |South Africa|[SARS efiling](https://secure.sarsefiling.co.za/vatvendorsearch.aspx)|
