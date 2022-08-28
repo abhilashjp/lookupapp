@@ -8,7 +8,9 @@ keywords: [VAT threshold UK, What is the VAT threshold, Vat limit, GST limit, va
 tags:
   - VAT registration threshold
 ---
-In many countries especially in EU if you make taxable supplies of goods or services below a certain annual limit , you might be exempt from tax. In such case you will not be required to register or collect taxes. Please note that these thresholds will change from country to country and some may not even have exemptions. Adding to these the rules or thresholds will be different for domestic and non-domestic sellers. 
+In many countries especially in EU if you make taxable supplies of goods or services below a certain annual limit , you might be exempt from tax. In such case you will not be required to register or collect taxes. Please note that these thresholds will change from country to country and some may not even have exemptions. Adding to these the rules or thresholds will be different for domestic and non-domestic sellers.
+
+## VAT Thresholds in 2022
 
 ||National currency|Registration or collection threshold|Domestic thresholds|Distance selling thresholds|Voluntary registration or collection|Minimum registration period|
 |--|--|--|--|--|--|--|
