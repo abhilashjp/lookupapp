@@ -15,7 +15,7 @@ tags:
 |Croatia |HR|PDV identifikacijski broj|12345678901|11 characters|`(\d{11}$)/i)`| |
 |Cyprus|CY|Αριθμός Εγγραφής Φ.Π.Α.; Arithmos Egrafis FPA|12345678X|9 characters. The last character must always be a letter. |`([0-5\|9]\d{7}[A-Z]$)/i)`| |
 |Czech Republic|CZ|danové identifikacnķ cķslo (DIC/DPH)|12345678, 123456789, 1234567890|8, 9 or 10 characters. If more than 10 characters are provided delete the first 3 as these are a tax code.|`(\d{8,10})?$/i)`| |
-|Denmark|DK|momsregistreringsnummer(moms)|12345678|8 characters.|`(\d{8}$)/i)`|Except the Faroe Islands and Greenland |
+|Denmark[^1]|DK|momsregistreringsnummer(moms)|12345678|8 characters.|`(\d{8}$)/i)`|Except the Faroe Islands and Greenland |
 |Estionia|EE|käibemaksukohustuslasena registreerimise number(km)|123456789|9 characters.|`(10\d{7}$)/i)`| |
 |Finland|FI|arvonlisćverorekisterõintinumero; Mervärdesskatteregistreringsnummer (momsregistreringsnummer)(ALV, Moms)|12345678|8 characters.|`(\d{8}$)/i)`|Excluding the Åland Islands|
 |France|FR|le numéro d’identification ą la taxe sur la valeur ajoutée(TVA)|12345678901, X1234567890, 1X123456789, XX123456789|11 characters. May include alphabetical characters (any except O or I) as first or second or first and second characters.|`([0-9A-Z]{2}[0-9]{9}$)/i)`|Including Monaco but excluding Guadeloupe, Martinique, Réunion, St Pierre and Miquelon, and French Guiana|"
@@ -41,9 +41,13 @@ tags:
 |UK|GB|value added tax (VAT) registration no.| | |`(?:[0-9]{12}\|[0-9]{9}|(?:GD|HA)[0-9]{3})$)/i)`||
 |Northern Ireland|XI| |999999999, 999999999999, GD999, HA999| |` `| |
 
+[^1]: Except the Faroe Islands and Greenland
+
 ## Reference links
 * [EU website](https://taxation-customs.ec.europa.eu/system/files/2016-09/vat_in_ec_annexii.pdf)
 * [Format,#Q11](https://ec.europa.eu/taxation_customs/vies/#/faq)
 * [UK Official guide](https://www.gov.uk/guidance/vat-eu-country-codes-vat-numbers-and-vat-in-other-languages)
 * [Test VAT number](https://web.archive.org/web/20170727163017/http://www.braemoor.co.uk/software/vattest.php)
+
+
 
