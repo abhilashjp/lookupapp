@@ -48,6 +48,7 @@ tags:
 * [Format,#Q11](https://ec.europa.eu/taxation_customs/vies/#/faq)
 * [UK Official guide](https://www.gov.uk/guidance/vat-eu-country-codes-vat-numbers-and-vat-in-other-languages)
 * [Test VAT number](https://web.archive.org/web/20170727163017/http://www.braemoor.co.uk/software/vattest.php)
+* [Format and explainations](https://euipo.europa.eu/tunnel-web/secure/webdav/guest/document_library/Documents/COSME/VAT%20numbers%20EU.pdf)
 
 
 
