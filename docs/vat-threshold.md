@@ -7,6 +7,7 @@ sidebar_label: Vat Thresholds
 keywords: [VAT threshold UK, What is the VAT threshold, Vat limit, GST limit, vat registration threshold]
 tags:
   - VAT registration threshold
+  - EU VAT
 ---
 In many countries especially in EU if you make taxable supplies of goods or services below a certain annual limit , you might be exempt from tax. In such case you will not be required to register or collect taxes. Please note that these thresholds will change from country to country and some may not even have exemptions. Adding to these the rules or thresholds will be different for domestic and non-domestic sellers.
 
