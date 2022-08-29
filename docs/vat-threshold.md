@@ -32,7 +32,7 @@ In many countries especially in EU if you make taxable supplies of goods or serv
 |Germany|EUR|C|22000|100000|Yes|5 years|
 |Greece|EUR|C|10000|35000|Yes|1 year|
 |Hungary|HUF|C|12000000|~14405300|Yes|1 year|
-|Iceland|ISK|R|2000000||Yes|None|
+|Iceland|ISK|R|2000000|2000000|Yes|None|
 |Ireland|EUR|R|None|35000|Yes|None|
 |Israel|ILS|C|100491||No|None|
 |Italy|EUR|C|65000|100000|Yes|None|
@@ -114,5 +114,6 @@ In many countries especially in EU if you make taxable supplies of goods or serv
 * [European VAT thresholds](https://taxation-customs.ec.europa.eu/system/files/2021-02/vat_in_ec_annexi.pdf)
 * [GST exemption threshold limit](https://www.cbic.gov.in/resources//htdocs-cbec/press-release/Press_Release_07032019.pdf)
 * [OECD Tax database](https://www.oecd.org/tax/consumption/vat-gst-annual-turnover-concessions-ctt-trends.xlsx)
-* [Irish Tax and customs Web](https://www.revenue.ie/en/vat/vat-registration/who-should-register-for-vat/what-are-the-vat-thresholds.aspx)
+* [Irish Tax and Customs Web](https://www.revenue.ie/en/vat/vat-registration/who-should-register-for-vat/what-are-the-vat-thresholds.aspx)
 * [UK HMRC VAT threshold](https://www.gov.uk/how-vat-works)
+* [Iceland Revenue and Customs web](https://www.skatturinn.is/english/companies/value-added-tax/)
