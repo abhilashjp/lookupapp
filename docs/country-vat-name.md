@@ -1,6 +1,6 @@
 ---
 id: country-vat-name
-title: Countries, Vat Names
+title: Countries and Vat Names
 keywords: [EU VAT name,VAT number, VAT format, VAT Regex, Tax Identification number local name]
 tags:
   - VAT ID
