@@ -42,6 +42,7 @@ Even though we generally term the Tax Identification Numbers as VAT numbers, it 
 |Sweden|SE|Mervärdesskatteregistreringsnummer (momsregistreringsnummer)(Moms)|123456789012|12 characters|`(\d{10}01$)/i)`| |
 |UK|GB|value added tax (VAT) registration no.| | |`(?:[0-9]{12}\|[0-9]{9}|(?:GD|HA)[0-9]{3})$)/i)`||
 |Northern Ireland|XI| |999999999, 999999999999, GD999, HA999| |` `| |
+|EU||non union VAT moss number|EUxxxyyyyyz| | | 
 
 [^1]: Except the Faroe Islands and Greenland
 
