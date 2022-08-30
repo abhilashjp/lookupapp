@@ -28,13 +28,13 @@ tags:
 
 ## Overview
 
-Indirect taxes in India is called GST (Goods and Services Tax). It came into effect in July 2017. It replaced the several indirect taxes such as VAT, excise duty, services taxes etc.  Read [more](https://cbic-gst.gov.in/pdf/01062019-GST-Concept-Status.pdf)
+Indirect taxes in India is called GST (Goods and Services Tax). It came into effect in July 2017. It replaced several indirect taxes such as VAT, excise duty, services taxes etc.  Read [more](https://cbic-gst.gov.in/pdf/01062019-GST-Concept-Status.pdf)
 
 ## Registration 
 
 The registration in GST is PAN based and State specific. Supplier has to register in each of such State or Union territory from where he effectssupply. A person registered in one State is considered ‘unregistered person’ outside the State. 
 
-If a person has unit in SEZ or is a SEZ developer and also unit in domestic tariff Area (i.e. outside the SEZ) in the same State, then he has to take separate registration for his SEZ unit / as a SEZ developer as a separate place of business of him. The GST law does not have the facility of centralized registration for units across multiple states. 
+If a person has unit in SEZ(Special Economic Zone) or is a SEZ developer and also unit in domestic tariff Area (i.e. outside the SEZ) in the same State, then he has to take separate registration for his SEZ unit / as a SEZ developer as a separate place of business of him. The GST law does not have the facility of centralized registration for units across multiple states. 
 
 Read [more](https://www.cbic.gov.in/resources//htdocs-cbec/gst/51_GST_Flyer_Chapter1.pdf) 
 
@@ -49,7 +49,7 @@ Threshold limit of aggregate turnover for exemption from registrationand payment
 
 Visit [GST portal](https://www.gst.gov.in/). Go to  Services > Registration > [New Regisrtration](https://reg.gst.gov.in/registration/). 
 
-## Tax Regsitration number - GSTIN
+## Tax Regsitration number - GSTIN 
 Once GST regsitration is complete a supplier is issued a 15 digit GST identification number(GSTIN). The first 2 digits of the GSTIN is the State code, next 10 digits are the PAN of the legal entity, the next two digits are for entity code, and the last digit is check sum number. Registration under GST is not tax specific which means that there is a single registration for all the taxes i.e. CGST, SGST/UTGST, IGST and cesses
 
 ### Regex 
@@ -57,7 +57,7 @@ Once GST regsitration is complete a supplier is issued a 15 digit GST identifica
 \d{2}[A-Z]{5}\d{4}[A-Z]{1}[A-Z\d]{1}[Z]{1}[A-Z\d]{1}
 
  ```
- Following are the details of the format 
+ Following are the details of the **GSTIN** format 
 
  1. 1st 2 digits: This is the state code as per the Indian Census 2011
  2. Next 10 digits:This is the PAN of the business entity.
@@ -67,7 +67,7 @@ Once GST regsitration is complete a supplier is issued a 15 digit GST identifica
 
 
 ## Tax rates
-On Intra state transactions [CGST](https://www.cbic.gov.in/resources//htdocs-cbec/gst/CGST%20Act%20Updated%20as%20on%2031.08.2021.pdf) and SGST/UTGST are applied .In case of intersate transction [IGST](https://www.cbic.gov.in/resources//htdocs-cbec/gst/IGST-Act-Updated.pdf) is appiled . Following are the currently allowed tax rates. Along with these 'cess' might be levied by the state governments on some items
+On Intra state transactions [CGST](https://www.cbic.gov.in/resources//htdocs-cbec/gst/CGST%20Act%20Updated%20as%20on%2031.08.2021.pdf) and SGST/UTGST are applied. In case of intersate transction [IGST](https://www.cbic.gov.in/resources//htdocs-cbec/gst/IGST-Act-Updated.pdf) is appiled . Following are the currently allowed tax rates. Along with these 'cess' might be levied by the state governments on some items
 
 |CGST (%)|SGST (%)|IGST (%)|
 |-|-|-|
@@ -87,7 +87,11 @@ The items in the invoices should have HSN/SAC code mentioned against it.
 ## Einvoicing in India
 Einvoicing is mandatory for businesses with a turnover of more than Rs.20 crores. This is the revised threshold limit as per the [notification on Feb'22](https://einv-apisandbox.nic.in/downloads/notfctn-01-central-tax-english-2022.pdf) with effect from 1st day of April, 2022. 
 
-Einvoicing in india is enabled by Invoice Regsritaion Portal (IRP). Invoices issues by the supplier has to be regestered with the IRP. On successful registration IRP returns a QR code and an IRN(invoice reference number). ThE QR code has to be affixed on the invoice before sending it to the buyer. 
+Einvoicing in india is enabled by Invoice Regsritaion Portal (IRP). Invoices issues by the supplier has to be regestered with the IRP. On successful registration IRP returns a QR code and an IRN(invoice reference number). The QR code has to be affixed on the invoice before sending it to the buyer. Note that IRP portal is registration network and not an einvoice delivery network. This implies that merchants have to send the invoice to the receivers themselves after registering it with the IRP. This is in contrast with other einvoicing networks such as Peppol, which sends the einvoices to the end receipient.  
+
+
+### Auto-population of einvoice for returns filing
+The invoices successfully registered on the IRP will be automatically popluated on GSTR-1. This will be available for download as an excel file. Read [more..](https://tutorial.gst.gov.in/downloads/news/e-invoice_advisory_gstr-1_dashboard.pdf)
 
 
 ### State code
@@ -147,6 +151,16 @@ Though there are several documents available online saying that digital signatur
 
 </details>
 
+<details>
+  <summary>Can I cancel an IRN ? </summary>
+  Yes can cancel an IRN within 24 hours of its generetion. IRN cannot be cancelled, if a valid or active ewaybill exists for the same. Note that you can't delete or modify an IRN or invoice. It can only be cancelled and report a new document a with new invoice number and generate a fresh IRN (ideally issue credit note and then generate a new invoice)
+</details>
+
+<details>
+  <summary>Is partial cancellation allowed on an IRN ? </summary>
+E-Invoice or IRN can’t be partially cancelled. It has to be fully cancelled. 
+
+</details>
 
 ## Important Wesbites
 
@@ -172,6 +186,9 @@ Though there are several documents available online saying that digital signatur
 * [Offences, Penalties, Prosecution and 
 Compounding, Page 438](https://www.cbic.gov.in/resources//htdocs-cbec/gst/Final-GST-FAQ-31218.pdf)
 * [ISO Code](https://www.iso.org/obp/ui/#iso:code:3166:IN)
+* [Cancellation of einvoice . Refer page 4 & 11](https://einvoice1.gst.gov.in/Documents/GST_eInvoiceSystemDetailedOverview.pdf)
+* [Einvoice Cancellation](https://einvoice1.gst.gov.in/Others/Faqs)
+* [India einvoice user manual](https://einvoice1.gst.gov.in/Documents/EINVOICE_UserManual_Web.pdf)
 
 
 
