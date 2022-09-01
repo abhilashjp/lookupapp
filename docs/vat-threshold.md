@@ -119,3 +119,4 @@ In many countries especially in EU if you make taxable supplies of goods or serv
 * [Iceland Revenue and Customs web](https://www.skatturinn.is/english/companies/value-added-tax/)
 * [New Vat rules for ecommerce, July'21](https://ec.europa.eu/commission/presscorner/detail/en/ip_21_3098)
 * [VAT rules from 1 July 2021 to Cross-border VAT e-commerce](https://vat-one-stop-shop.ec.europa.eu/index_en)
+* [Explanatory notes on ecom VAT rules](https://vat-one-stop-shop.ec.europa.eu/document/download/3372e2f2-d5ec-46ea-a2ac-97bc4f5ec634_en?filename=vatecommerceexplanatory_notes_28102020_en.pdf)
