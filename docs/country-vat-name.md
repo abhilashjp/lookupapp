@@ -38,7 +38,7 @@ Even though we generally term the Tax Identification Numbers as VAT numbers, it 
 |Romania|RO|cod de īnregistrare īn scopuri de TVA|12, 123, 1234, 12345, 123456, 1234567, 12345678, 123456789, 1234567890|From 2 to 10 characters.|`([1-9]\d{1,9}$)/i)`| |
 |Slovakia|SK|identifikacné cķslo pre dan (IC DPH)|1234567890|10 characters|`([1-9]\d[(2-4)\|(6-9)]\d{7}$)/i)`| |
 |Slovenia|SI|identifikacijska številka za (DDV)|12345678|8 characters|`([1-9]\d{7}$)/i)`| |
-|Spain|ES|el nśmero de identificación a efectos del Impuesto sobre el Valor Añadido(IVA)|X12345678, 12345678X, X1234567X|9 characters. Includes one or two alphabetical characters (first or last or first and last).|`([0-9A-Z][0-9]{7}[0-9A-Z]$)/i)`|Including the Balearic Islands but excluding Ceuta, Melilla and the Canary Islands|
+|Spain|ES|el nśmero de identificación a efectos del Impuesto sobre el Valor Añadido(IVA)(NIF or CIF)|X12345678, 12345678X, X1234567X|9 characters. Includes one or two alphabetical characters (first or last or first and last).|`([0-9A-Z][0-9]{7}[0-9A-Z]$)/i)`|Including the Balearic Islands but excluding Ceuta, Melilla and the Canary Islands|
 |Sweden|SE|Mervärdesskatteregistreringsnummer (momsregistreringsnummer)(Moms)|123456789012|12 characters|`(\d{10}01$)/i)`| |
 |UK|GB|value added tax (VAT) registration no.| | |`(?:[0-9]{12}\|[0-9]{9}|(?:GD|HA)[0-9]{3})$)/i)`||
 |Northern Ireland|XI| |999999999, 999999999999, GD999, HA999| |` `| |
