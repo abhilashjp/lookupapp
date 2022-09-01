@@ -117,3 +117,5 @@ In many countries especially in EU if you make taxable supplies of goods or serv
 * [Irish Tax and Customs Web](https://www.revenue.ie/en/vat/vat-registration/who-should-register-for-vat/what-are-the-vat-thresholds.aspx)
 * [UK HMRC VAT threshold](https://www.gov.uk/how-vat-works)
 * [Iceland Revenue and Customs web](https://www.skatturinn.is/english/companies/value-added-tax/)
+* [New Vat rules for ecommerce, July'21](https://ec.europa.eu/commission/presscorner/detail/en/ip_21_3098)
+* [VAT rules from 1 July 2021 to Cross-border VAT e-commerce](https://vat-one-stop-shop.ec.europa.eu/index_en)
