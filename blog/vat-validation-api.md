@@ -1,11 +1,11 @@
 ---
 slug: vat-validation-api
-title: Welcome
+title: Vat Validation API
 authors: [AakashJNair1]
 tags: [lookupapp]
 ---
 
-While working for a large fintech company building products, we noticed more and more companies wanting to shift from manually validating VAT numbers of their customers to automating this process via APIs. What exactly is driving this trend?
+While working for a large fintech company building products, we noticed more and more companies wanting to shift from manually validating VAT numbers of their customers to automating this process via APIs. What exactly is driving this trend? <!--truncate-->
 
 
 #### Brief introduction into why VAT number validation is important
