@@ -16,6 +16,8 @@ Below is the list of National Databases for seachring Tax IDs. You can check VAT
 |Country/Region|Official Website|
 |--|--|
 |Australia|[ABN Search](https://abr.business.gov.au/)|
+|Argentina|[AFIP Website](https://seti.afip.gob.ar/padron-puc-constancia-internet/ConsultaConstanciaAction.do)|
+|Bosnia and Herzegovina|[UINO](http://www.new.uino.gov.ba/bs/Obveznici%20indirektnih%20poreza)|
 |European Union(EU)| [Vat VIES website](https://ec.europa.eu/taxation_customs/vies/#/vat-validation) |
 |United Kingdom(UK)|[HMRC VAT Search](https://www.gov.uk/check-uk-vat-number)|
 |Canada|[GST/HST Search](https://www.businessregistration-inscriptionentreprise.gc.ca/ebci/brom/registry/pub/reg_01_Ld.action)|
