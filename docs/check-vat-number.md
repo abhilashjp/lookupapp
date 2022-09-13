@@ -31,6 +31,7 @@ Below is the list of National Databases for seachring Tax IDs. You can check VAT
 |Oman|[VATIN Search](https://www.taxoman.gov.om/portal/web/taxportal/tax-data-validation)|
 |Quebec|[QST Search](https://entreprises.revenuquebec.ca/EntNa/SX/SX00/SX00.SXCLT20A.ValiderInscription/SXCLT20AA?CLNG=F&SVAR=01)|
 |Russia|[ИНН](https://egrul.nalog.ru/index.html)|
+|Saudi Arabia(KSA)|[Zatca website](https://zatca.gov.sa/en/eServices/Pages/TaxpayerLookup.aspx)|
 |Serbia|[ ПИБ регистар ](https://www.purs.gov.rs/pib.html)|
 |South Africa|[SARS efiling](https://secure.sarsefiling.co.za/vatvendorsearch.aspx)|
 |Singapore|[ UEN or GST Reg No. or NRIC](https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=GSTListingSearch)|
