@@ -1,6 +1,8 @@
 ---
 slug: vat-number-check-api
 title: Automate VAT number check through APIs
+description: How are companies automating VAT number check and avoiding paying huge amounts as tax penalties.
+keywords: [VAT number check]
 authors: [AakashJNair1]
 tags: [lookupapp]
 ---
