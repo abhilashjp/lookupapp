@@ -14,7 +14,7 @@ As you sell your products or services globally it becomes important to categoris
 
 ## Why are companies automating VAT number check?
 
-The answer is pretty obvious. Scale. Every country has a different source to validate if the VAT number is valid or not. For example, VIES for the European Union ( EU ) and Northern Ireland, HMRC for the United Kingdom ( UK ), IRS for the United States and so on. 
+The answer is pretty obvious. Scale. Every country has a different source to validate if the VAT number is valid or not. For example, [VIES](https://ec.europa.eu/taxation_customs/vies/#/vat-validation) for the European Union ( EU ) and Northern Ireland, [HMRC](https://www.gov.uk/check-uk-vat-number) for the United Kingdom ( UK ), [IRS](https://www.irs.gov/tax-professionals/taxpayer-identification-number-tin-matching) for the United States and so on. 
 
 You might have to either call up the relevant tax authority to get a confirmation or in some cases countries have dedicated websites that allow you to check if a VAT number is right or not. You can try this manual process to start off with but as the company grows, validating each VAT number manually is highly error prone. One of two things may happen:
 
