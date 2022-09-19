@@ -25,3 +25,22 @@ You might have to either call up the relevant tax authority to get a confirmatio
 
 
 This is why companies are choosing to automate VAT number check instead. You don’t have to worry about this operational aspect and you can focus on your product or services instead.
+
+## Ways to automate VAT number check
+
+Your customers might come from different countries across the world. Every country offers a different source to validate VAT numbers. These VAT numbers are called by different names in different countries, for example, Tax Identification number ( TIN ) in the United States, Australian Business number ( ABN) in Australia, Goods and Services Tax Identification number ( GSTIN ) in India and so on. So going forward, we will be referring to them as Tax IDs.
+
+If you want to automate Tax ID validation, then you will have to integrate with the respective Tax ID database of that country. This will require some knowledge in programming. Based on our experience, this is a [list of national databases](https://lookuptax.com/docs/check-vat-number-free) that are commonly asked by merchants. 
+
+
+You would have noticed that in some cases the APIs are not publicly available which means that either the API access is only provided to select third parties that have been licensed by the government or you might have to load this page and enter the Tax ID number yourself (using methods like Robotics Process Automation). 
+
+If you have any suggestions on making this list more extensive, feel free to drop an email to <support@lookuptax.com>
+
+## How does Lookup Tax help?
+
+Lookup has already built this integration for you and all you have to do is use a single API to check Tax ID numbers for a wide range of countries. You don’t have to go searching for the right tax authority to verify the Tax ID against. All you have to do is select your country and pass the Tax ID number. If you are a startup with very few Tax ID numbers to verify, you can start with the free plan and keep the automation ready. As you grow bigger, you have to simply upgrade to the paid version to make more API requests. 
+
+[Sign up for free today](https://lookuptax.com/) and become part of a community that helps each other solve taxation problems.
+
+
