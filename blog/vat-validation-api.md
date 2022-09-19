@@ -23,9 +23,7 @@ You might have to either call up the relevant tax authority to get a confirmatio
 In this case, the invoice will contain tax rates and will lead to bad customer experience because the customer will have to reach out to you to correct this invoice. You would then have to cancel this invoice and generate a new one. A lot of time spent in communication and correcting the invoice.
 
 
-- **Identifying a consumer (B2C) as a business customer (B2B)**
-
-In this case, you might not have applied any taxes on the invoice but since you are dealing with a consumer you are liable to collect taxes. When the audit happens you will have to pay the tax that was supposed to have been originally paid by the customer because the chances of retrieving it from the customer are minimal. But it doesn’t end there. You may also have to pay heavy penalties over this because of wrong declaration of taxes.
+- **Identifying a consumer (B2C) as a business customer (B2B)** <br><br>In this case, you might not have applied any taxes on the invoice but since you are dealing with a consumer you are liable to collect taxes. When the audit happens you will have to pay the tax that was supposed to have been originally paid by the customer because the chances of retrieving it from the customer are minimal. But it doesn’t end there. You may also have to pay heavy penalties over this because of wrong declaration of taxes.
 
 
 This is why companies are choosing to automate VAT number check instead. You don’t have to worry about this operational aspect and you can focus on your product or services instead.
