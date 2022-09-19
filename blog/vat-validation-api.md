@@ -24,6 +24,7 @@ In this case, the invoice will contain tax rates and will lead to bad customer e
 
 
 - **Identifying a consumer (B2C) as a business customer (B2B)**
+
 In this case, you might not have applied any taxes on the invoice but since you are dealing with a consumer you are liable to collect taxes. When the audit happens you will have to pay the tax that was supposed to have been originally paid by the customer because the chances of retrieving it from the customer are minimal. But it doesn’t end there. You may also have to pay heavy penalties over this because of wrong declaration of taxes.
 
 
