@@ -1,6 +1,6 @@
 ---
-slug: vat-validation-api
-title: Vat Validation API
+slug: vat-number-check-api
+title: Automate VAT number check through APIs
 authors: [AakashJNair1]
 tags: [lookupapp]
 ---
