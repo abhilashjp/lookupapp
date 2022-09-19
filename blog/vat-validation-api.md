@@ -16,7 +16,7 @@ As you sell your products or services globally it becomes important to categoris
 
 The answer is pretty obvious. Scale. Every country has a different source to validate if the VAT number is valid or not. For example, VIES for the European Union ( EU ) and Northern Ireland, HMRC for the United Kingdom ( UK ), IRS for the United States and so on. 
 
-You might have to either call up the relevant tax authority to get a confirmation or in some cases countries have dedicated websites that allow you to check if a VAT number is right or not. You can try this manual process to start off with but as the company grows, validating each VAT number manually is highly error prone. 2 things may happen:
+You might have to either call up the relevant tax authority to get a confirmation or in some cases countries have dedicated websites that allow you to check if a VAT number is right or not. You can try this manual process to start off with but as the company grows, validating each VAT number manually is highly error prone. One of two things may happen:
 
 - ***Identifying a business customer (B2B) as a consumer (B2C)*** <p>In this case, the invoice will contain tax rates and will lead to bad customer experience because the customer will have to reach out to you to correct this invoice. You would then have to cancel this invoice and generate a new one. A lot of time spent in communication and correcting the invoice.</p>
 
