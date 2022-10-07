@@ -1,0 +1,43 @@
+---
+slug: qr-bill-switzerland
+title: QR-bill in Switzerland explained
+description: Finer details of QR-bill in Switzerland so that you are compliant with the new rules.
+keywords: [QR-bill Switzerland]
+authors: [AakashJNair1]
+tags: [lookupapp]
+---
+
+A QR-bill is an invoice with an integrated payment part and receipt. The QR-bill is replacing today’s orange and red payment slips, which will be permanently withdrawn on 30 September 2022.
+
+The upper part of the QR-bill is like a normal invoice. The lower part is divided into two parts - the payment part and the receipt. The payment part includes the Swiss QR Code, which contains all relevant information necessary for both invoicing and payment.
+
+You can have the QR bill in 2 formats:
+
+An invoice with a payment part and receipt integrated on a single bill.
+
+An invoice with a separately enclosed payment part and receipt.
+
+Note: The receipt must be on the left of the payment part, regardless of whether it is integrated in the bill or on a separate sheet of paper. 
+
+Expected Size: The payment part is in DIN-A6 landscape format (148 x 105 mm). The receipt to the left of the payment part measures 62 x 105 mm, so the two together measure 210 x 105 mm.
+
+
+Swiss QR code: The Swiss QR Code enables payments to be triggered by financial institutions across all payment channels and at post office counters. It is marked with a Swiss cross in the middle ( See image above ). 
+
+Payment part explained:
+
+The Payment part consists of 5 different sections:
+
+Title Section — The text “Payment part” must be printed in the title section.
+
+Swiss QR Code section — The QR code must be printed here
+
+Amount section — The amount section includes the currency and the amount, which are used as headings. Swiss francs and euros are the supported currencies.
+
+Information section — All values relevant for a payment from the Swiss QR Code must be printed in the information section.
+- Account / Payable to: IBAN/QR-IBAN from the Swiss QR Code
+- Reference: QR reference or Creditor Reference
+- Additional information: Upto 140 characters allowed and can be used to fill anything that the merchant wants. Works a lot like invoice notes.
+- Payable by or Payable by (name/address)
+
+Further Information Section — This area contains the two data elements “Ultimate Creditor” and “Alternative procedures“. The Ultimate Creditor is the final payee ( the person to whom money is paid. In our case the merchant). Alternative procedures refers to Alternative payment procedures. Upto 90 characters allowed.
