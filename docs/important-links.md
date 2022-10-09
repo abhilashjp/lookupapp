@@ -19,4 +19,5 @@ It is often difficult to find the correct official sources of information for ta
 |EU|EU Vat Rates| [PDF](https://taxation-customs.ec.europa.eu/system/files/2021-06/vat_rates_en.pdf)|
 |EU|European central bank forex rates|[ECB Forex Rates](https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html)|
 |EU|Links to national tax websites|[Link](https://taxation-customs.ec.europa.eu/national-tax-websites_en)|
+|FR|French customs guidelines in english|[Douane Site](https://www.douane.gouv.fr/french-customs-information-available-english#Businesses)|
 |US|US Address lookup|[USPS Database](https://tools.usps.com/zip-code-lookup.htm)|
