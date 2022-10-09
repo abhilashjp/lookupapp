@@ -1,6 +1,6 @@
 ---
 id: reverse-charge
-title: Reverse charge ?
+title: What is Reverse charge ?
 keywords: [Reverse charge]
 sidebar_label: Reverse Charge
 tags:
