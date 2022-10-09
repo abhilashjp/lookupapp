@@ -1,6 +1,6 @@
 ---
 id: reverse-charge
-title: What is reverse charge ?
+title: Reverse charge ?
 keywords: [Reverse charge]
 sidebar_label: Reverse Charge
 tags:
@@ -11,7 +11,7 @@ tags:
 
 If you are a business selling across the globe you would have likely came across the term “reverse charge” frequently.  If you are business and happen to buy a product or service from abroad and if you are wondering why VAT is not charged in your invoices, it could be a case of reverse charges.  
 
-## What is reverse charge ? 
+## The concept of reverse charge
 
 Reverse charge is a mechanism in indirect tax in which liability of paying taxes is on the recipient of the goods or services rather than the supplier. 
 
