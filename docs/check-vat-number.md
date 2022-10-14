@@ -41,6 +41,7 @@ Below is the list of National Databases for seachring Tax IDs. You can check VAT
 |Thailand|[TAX ID search](https://eservice.rd.go.th/rd-ves-web/search/vat)|
 |Turkey|[Vergi Kimlik No](https://ivd.gib.gov.tr/tvd_side/main.jsp?token=d1078f5e3dc646b78d5d4e5842f21e97feb48d366bc7617458b6679dec12675154a01fccc42292bb04d926bc259dbc75e39dd8e202535fd70a7098396c74a6f7&gn=vkndogrulamalar)|
 |United States|[TIN Matching](https://www.irs.gov/tax-professionals/taxpayer-identification-number-tin-matching)|
+|US Tax Exempt Organisations|[IRS Tax Exempt Organization Search](https://apps.irs.gov/app/eos/)|
 |Texas|[Texas Comptroller of Public Accounts](https://mycpa.cpa.state.tx.us/staxpayersearch/)|
 |Nevada|[Nevada Department of Taxation ](https://taxpermitsearch.nv.gov/Search.aspx)|
 |Czechia|[VAT search](https://adisspr.mfcr.cz/adis/jepo/epo/dpr/apl_ramce.htm?R=/cgi-bin/adis/idph/int_dp_prij.cgi?ZPRAC=FDPHI2&poc_dic=2&OK=Zobraz)|
