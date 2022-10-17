@@ -121,7 +121,7 @@ Learn [more](https://www.cbic.gov.in/resources/htdocs-cbec/gst/51_GST_Flyer_Chap
 
 ## Things to note
 
-* Before applying reverse charge , it is better to validate the VAT IDs provided. The tax number provided by the customer might sometimes be wrong or in some cases,  in order to purchase goods or services at a lower price, some customers intentionally enter a tax number that belongs to another entity to avoid taxes. Failing to charge tax in such cases can lead to losses as you are liable to pay taxes to the authorities. 
+* Before applying reverse charge , it is better to [validate the VAT IDs](/docs/check-vat-number-free) provided. The tax number provided by the customer might sometimes be wrong or in some cases,  in order to purchase goods or services at a lower price, some customers intentionally enter a tax number that belongs to another entity to avoid taxes. Failing to charge tax in such cases can lead to losses as you are liable to pay taxes to the authorities. 
 * You will be required to indicate that the  reverse charge was applied on the invoice. The exact text might change depending on the country you are selling to. 
 
 
