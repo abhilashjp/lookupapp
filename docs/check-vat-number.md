@@ -23,15 +23,18 @@ Below is the list of National Databases for seachring Tax IDs. You can check VAT
 |European Union(EU)| [Vat VIES website](https://ec.europa.eu/taxation_customs/vies/#/vat-validation) |
 |United Kingdom(UK)|[HMRC VAT Search](https://www.gov.uk/check-uk-vat-number)|
 |Canada|[GST/HST Search](https://www.businessregistration-inscriptionentreprise.gc.ca/ebci/brom/registry/pub/reg_01_Ld.action)|
+|Czechia|[adisspr](https://adisspr.mfcr.cz/adis/jepo/epo/dpr/apl_ramce.htm?R=/cgi-bin/adis/idph/int_dp_prij.cgi?ZPRAC=FDPHI2&poc_dic=2&OK=Zobraz)|
 |Chile|[RUT](https://zeus.sii.cl/cvc/stc/stc.html)|
 |Germany|[USt-IdNr ](https://evatr.bff-online.de/eVatR/index_html)|
 |Denmark|[CVR Search](https://datacvr.virk.dk/)|
 |Iceland|[Virðisaukaskattsnúmer](https://www.skatturinn.is/fyrirtaekjaskra/)|
 |India|[GSTIN Search](https://services.gst.gov.in/services/searchtp), [icegate web](https://www.icegate.gov.in/Webappl/GSTN)|
+|Netherland|[](https://www.kvk.nl/download/KvK-API-Search-Manual-EN_tcm109-430594.pdf)|
 |North Macedonia|[Едниствен Даночен Број](http://ujp.gov.mk/en)|
 |Norway|[Enhetsregisteret](https://w2.brreg.no/enhet/sok/index.jsp)|
 |Oman|[VATIN Search](https://www.taxoman.gov.om/portal/web/taxportal/tax-data-validation)|
 |Quebec|[QST Search](https://entreprises.revenuquebec.ca/EntNa/SX/SX00/SX00.SXCLT20A.ValiderInscription/SXCLT20AA?CLNG=F&SVAR=01)|
+|Romania|[NAFA website](https://chat.anaf.ro/cod_tva.nsf/solicitare_tva)|
 |Russia|[ИНН](https://egrul.nalog.ru/index.html)|
 |Saudi Arabia(KSA)|[Zatca website](https://zatca.gov.sa/en/eServices/Pages/TaxpayerLookup.aspx)|
 |Serbia|[ ПИБ регистар ](https://www.purs.gov.rs/pib.html)|
