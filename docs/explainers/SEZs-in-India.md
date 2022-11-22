@@ -2,7 +2,7 @@
 id: SEZ-in-India
 title: Special Economic Zones(SEZs)
 keywords: [SEZ]
-sidebar_label: Reverse Charge
+sidebar_label: Special Economic Zones
 tags:
   - SEZ
   - Special Economic Zones
