@@ -39,3 +39,28 @@ SEZ policy was announced in 2000 with the aim to overcome the shortcomings exper
 ## What is the procedure for setting up of units in SEZ?
 A consolidated application seeking permission for setting up of a Unit and other clearances, including those given in [17(1) of the SEZ Rules), shall be made to the DC (in Form F of the SEZ Rules), with a copy to the Developer: — The DC shall get the proposal scrutinised and get it placed before the Approval Committee for its consideration. The Approval Committee shall meet once in every fortnight on a fixed predetermined day. The proposals received [under clauses (c) & (e) of sub-section (2) of section 9 of the SEZ Act] shall be placed before the BOA by the DC for its consideration. The Approval Committee may approve or approve with modification or reject a proposal placed before it, within 15 days, where the approval is to be granted by the Board, the Board shall approve or approve with modification or reject such proposal within 45 days of its receipt: The Approval Committee shall approve the proposal if it fulfils the criteria such as meeting NFE, availability of space, conforming to pollution norms, contact and personnel information, barring of specified activities etc. [sub rules 2, 3,4,5,6 of Rule 18]
 On approval of the proposal, the DC shall issue a LOA (in Form G) for setting up of the unit.
+
+
+## Einvoicing
+Special Economic Zone Units (including FTWZs) are exempted from Einvoicing. The exemption is with reference to entity as a whole and not nature of supply/transaction.
+Einvoicing is applicable for invoices issued by SEZ Developers
+
+
+## DESH Bill (Development of Enterprise and Service Hubs)
+
+Development Of  Enterprise and service Hubs (DESH) bill introduced by the government of India will replace the Current Special Economic Zone Act, 2005. SEZs will be revamped and renamed as Development hubs and will be free from a number of the laws that currently restrict them. These hubs will facilitate both export-oriented and domestic investment, playing the dual role of domestic tariff area and SEZ.
+
+The government may impose an equalization levy on goods or services supplied to the domestic market to bring taxes at par with those provided by units outside.
+
+
+## Frequently Asked Questions
+<details>
+  <summary>What is meant by Domestic Tariff Area (DTA)? </summary>
+Domestic Tariff Area (DTA) means the whole of India (including the territorial waters and continental shelf) but does not include the areas of the Special Economic Zones.
+ </details>
+
+<details>
+  <summary>What are the differences between Special Economic Zones (SEZs) and Export Oriented Units (EOUs)? </summary>
+
+Although both EOUs and SEZs were initiated to boost exports, there are differences between the two. An EOU can be set up anywhere in the country, provided it meets the scheme’s criteria. On the other hand, an SEZ is a specially demarcated enclave that is deemed to be outside the customs jurisdiction and therefore, a foreign territory. Thus, any sale made from within an SEZ to DTA is considered export while any sale made by an EOU to DTA is regarded as deemed exports. Sales from SEZs to DTAs are more common, compared to sales from EOUs to DTAs. Being a clearly demarcated area, there is substantial control over the physical movement of goods to and from SEZs, but the same cannot be said about EOUs. In terms of taxability, an SEZ based establishment is not required to pay tax, while an EOU has to pay tax which it can claim as a refund later. Minimum investment in plant and machinery and building is Rs. 1 crore for EOUs. This should be before commencement of commercial production, there is no such limit for SEZ. 
+ </details>
