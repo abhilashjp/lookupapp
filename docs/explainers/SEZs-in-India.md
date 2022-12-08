@@ -8,6 +8,7 @@ tags:
   - Special Economic Zones
   - GST on SEZ
   - Einvoice on SEZ
+  - India
 
 ---
 ## What are Special Economic Zones (SEZs) 
@@ -62,5 +63,6 @@ Domestic Tariff Area (DTA) means the whole of India (including the territorial w
 <details>
   <summary>What are the differences between Special Economic Zones (SEZs) and Export Oriented Units (EOUs)? </summary>
 
-Although both EOUs and SEZs were initiated to boost exports, there are differences between the two. An EOU can be set up anywhere in the country, provided it meets the scheme’s criteria. On the other hand, an SEZ is a specially demarcated enclave that is deemed to be outside the customs jurisdiction and therefore, a foreign territory. Thus, any sale made from within an SEZ to DTA is considered export while any sale made by an EOU to DTA is regarded as deemed exports. Sales from SEZs to DTAs are more common, compared to sales from EOUs to DTAs. Being a clearly demarcated area, there is substantial control over the physical movement of goods to and from SEZs, but the same cannot be said about EOUs. In terms of taxability, an SEZ based establishment is not required to pay tax, while an EOU has to pay tax which it can claim as a refund later. Minimum investment in plant and machinery and building is Rs. 1 crore for EOUs. This should be before commencement of commercial production, there is no such limit for SEZ. 
+Although both EOUs and SEZs were initiated to boost exports, there are differences between the two.
+* An EOU can be set up anywhere in the country, provided it meets the scheme’s criteria. On the other hand, an SEZ is a specially demarcated enclave that is deemed to be outside the customs jurisdiction and therefore, a foreign territory. Thus, any sale made from within an SEZ to DTA is considered export while any sale made by an EOU to DTA is regarded as deemed exports. Sales from SEZs to DTAs are more common, compared to sales from EOUs to DTAs. Being a clearly demarcated area, there is substantial control over the physical movement of goods to and from SEZs, but the same cannot be said about EOUs. In terms of taxability, an SEZ based establishment is not required to pay tax, while an EOU has to pay tax which it can claim as a refund later. Minimum investment in plant and machinery and building is Rs. 1 crore for EOUs. This should be before commencement of commercial production, there is no such limit for SEZ. 
  </details>
