@@ -46,32 +46,36 @@ The two versions indicate that as a merchant you can either send —
 
 
 
-### Let’s break down each part of the QR bill now.
+### Break down of the QR bill
 
-#### Invoice : The invoice contains information about the description of the items or service purchased, discounts, taxes applied, amount to be paid by the end customer, tax registration numbers and so on. 
+#### Invoice 
+
+The invoice contains information about the description of the items or service purchased, discounts, taxes applied, amount to be paid by the end customer, tax registration numbers and so on. 
 
 
-#### Payment part:
+#### Payment part
 
 The Payment part consists of 5 different sections ( see image for reference ):
 
-1. Title Section — The text “Payment part” must be printed in the title section.
+Title Section — The text “Payment part” must be printed in the title section.
 
-2. Swiss QR Code section — The QR code must be printed here.
+Swiss QR Code section — The QR code must be printed here.
 
-3. Amount section — The amount section includes the currency and the amount, which are used as headings. Swiss francs and euros are the supported currencies.
+Amount section — The amount section includes the currency and the amount, which are used as headings. Swiss francs and euros are the supported currencies.
 
-4. Information section — All values relevant for a payment from the Swiss QR Code must be printed in the information section.
+Information section — All values relevant for a payment from the Swiss QR Code must be printed in the information section.
 
 
 - Account / Payable to: IBAN/QR-IBAN from the Swiss QR Code
 - Reference: QR reference or Creditor Reference
-- Additional information: Up to 140 characters allowed and can be used to fill anything that the merchant wants. Works a lot like invoice notes.
-- Payable by or Payable by (name/address)
+- Additional information: Up to 140 characters allowed and can be used to fill anything that the merchant wants. The purpose generally is to indicate the payment purpose or to fill additional information about the payment.
+Payable by or Payable by (name/address)
 
-**Note**: If Amount has already been paid ( for example, automatically paid via credit card then the Additional Information section should read ‘DO NOT USE FOR PAYMENT’ and Amount should read 0.00. )
+**Note** : If Amount has already been paid ( for example, automatically paid via credit card then the Additional Information section should read ‘DO NOT USE FOR PAYMENT’ and Amount should read 0.00. )
 
-5. Further Information Section — This area contains the two data elements “Ultimate Creditor” and “Alternative procedures“. The Ultimate Creditor is the final payee ( the person to whom money is paid. In our case the merchant). Alternative procedures refers to Alternative payment procedures. Upto 90 characters allowed.
+Further Information Section — This area contains the two data elements “Ultimate Creditor” and “Alternative procedures“. The Ultimate Creditor is the final payee ( the person to whom money is paid. In our case the merchant). Alternative procedures refers to Alternative payment procedures. Upto 90 characters allowed.
+
+
 
 
 
