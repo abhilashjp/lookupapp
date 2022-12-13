@@ -55,15 +55,15 @@ The invoice contains information about the description of the items or service p
 
 #### Payment part
 
-The Payment part consists of 5 different sections ( see image for reference ):
+The Payment part consists of 5 different sections ( see image for reference )
 
-Title Section — The text “Payment part” must be printed in the title section.
+1. Title Section — The text “Payment part” must be printed in the title section.
 
-Swiss QR Code section — The QR code must be printed here.
+2. Swiss QR Code section — The QR code must be printed here.
 
-Amount section — The amount section includes the currency and the amount, which are used as headings. Swiss francs and euros are the supported currencies.
+3. Amount section — The amount section includes the currency and the amount, which are used as headings. Swiss francs and euros are the supported currencies.
 
-Information section — All values relevant for a payment from the Swiss QR Code must be printed in the information section.
+4. Information section — All values relevant for a payment from the Swiss QR Code must be printed in the information section.
 
 
 - Account / Payable to: IBAN/QR-IBAN from the Swiss QR Code
@@ -73,29 +73,45 @@ Payable by or Payable by (name/address)
 
 **Note** : If Amount has already been paid ( for example, automatically paid via credit card then the Additional Information section should read ‘DO NOT USE FOR PAYMENT’ and Amount should read 0.00. )
 
-Further Information Section — This area contains the two data elements “Ultimate Creditor” and “Alternative procedures“. The Ultimate Creditor is the final payee ( the person to whom money is paid. In our case the merchant). Alternative procedures refers to Alternative payment procedures. Upto 90 characters allowed.
-
-
-
-
-
-
+5. Further Information Section — This area contains the two data elements “Ultimate Creditor” and “Alternative procedures“. The Ultimate Creditor is the final payee (the person to whom money is paid). Alternative procedures refers to Alternative payment procedures. Upto 90 characters allowed.
 
 
 Receipt:
 
 Receipt has pretty much the same information as the Payment part. The main difference is the QR code. Also ‘Additional Information’ and 'Further Information Section’ are missing here.
 
-**Advantage of QR bill over Orange and Red slips**
+## Advantage of the QR bill over Orange and Red slips
 
 Both the merchant and the end customer have unique advantages with the introduction of the QR bill.
 
-*For the merchant ( bill issuer )*
+#### For the merchant ( bill issuer )
 
-– Invoices can be printed on white paper. There is no longer a need to order preprinted Orange or Red payment slips.
-– ISR reference numbers can be reused (QR reference) 
-– SCOR reference can be used (e.g. for payments in the SEPA zone) 
-– The combination of reference and message is possible (free text or use of Swico syntax recommendation) 
-– The fields for the amount or debtor can be left blank – Alternative procedures (e.g. eBill) can be used
+– Invoices can be printed on white, perforated paper. There is no longer a need to order preprinted Orange or Red payment slips.
+
+– Automated payment processing and reduced potential for error because the end customer does not have to manually enter bank account numbers and reference numbers.
+
+– If you are planning to convert existing Orange slips to QR-bills then the ISR reference numbers can be reused. The reason this is allowed is because the format of the QR reference is the same as the ISR reference ( 27 digits with the check digit calculated using recursive modulo 10 method). Note that the QR reference can only be used for payments in Switzerland and Liechtenstein. If international payments are being made then SCOR reference ( also called the Creditor Reference) can be used. The difference between the Creditor reference and the QR reference is that the Creditor reference can be up to 25 digits long, is alphanumeric and its structure is based on ISO 11649. 
+
+– The combination of reference and message is possible (free text or use of Swico syntax recommendation). This allows the merchant to include any additional information required about the payment.
+
+– The fields for the amount or debtor can be left blank instead of being printed ( However, corresponding fields have to be provided in the Payment Part and Receipt for entry by hand later. )
+
+#### For the customer ( bill receiver )
+
+– Customers can now quickly scan the QR code to pay digitally via e-banking or mobile banking. But this does not mean the traditional ways of making payments at the bank or through postal methods will be replaced. The QR Bill provides flexibility to the customer to use their payment method of convenience.
+
+– The Account and Reference numbers need not be typed manually. This makes the payment faster and reduces the potential for error.
+
+#### What should you do as a business to generate QR bills?
+
+1. You can follow the Swiss implementation guidelines to create your own QR-bills. 
+2. Major ERP players like SAP, Netsuite etc already support QR bill in Switzerland. 
+3. If you don’t use one of the major ERP players you can think about using apps like QR-invoice and connect it with your product using Zapier. 
+
+## References used:
+
+1. SIX group newsroom
+2. Swiss Implementation guidelines for QR bill
+3. FAQs
 
 
