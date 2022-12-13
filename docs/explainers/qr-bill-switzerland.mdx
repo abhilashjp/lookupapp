@@ -22,7 +22,7 @@ As the name indicates these are orange coloured slips. ISR is an abbreviation fo
 
 Assume that 3 different payments are made on a single invoice to pay off the entire bill. Since all the payments will use the same reference number that is issued on the invoice you can easily link all 3 payments back to that invoice. This helps reduce manual effort to link payments to invoices while updating the ledger. Manual efforts can be time consuming and are error prone.
 
-These reference numbers are generally a combination of the Invoice number, the bank account number, the customer number and a check digit. The check digit is used to ensure that the entered reference number is not wrong during manual input by the payer. The check digit is calculated using the other digits of the reference number using an algorithm ( like the MOD10 ). So in case the payer makes a mistake while entering the reference number, the check digit will help give a warning.
+These reference numbers are generally a combination of the Invoice number, the bank account number, the customer number and a check digit. The check digit is used to ensure that the entered reference number is not wrong during manual input by the payer. The check digit is calculated using the other digits of the reference number using an algorithm ( like the recursive MOD10 method ). So in case the payer makes a mistake while entering the reference number, the check digit will help give a warning.
 
 **NOTE**: This concept of using a reference number can be seen in other countries too like the KID number in Norway, the Finnish reference number in Finland, the OCR number in Denmark and Sweden.
 
