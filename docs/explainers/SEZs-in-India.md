@@ -84,6 +84,6 @@ Although both EOUs and SEZs were initiated to boost exports, there are differenc
 
 
 ## Reference links
-* [User guide for filing LUT (Letter of Undertaking)](https://tutorial.gst.gov.in/userguide/refund/Furnishing_of_Letter_of_Undertaking.htm)
+* [User guide for filing LUT - Letter of Undertaking](https://tutorial.gst.gov.in/userguide/refund/Furnishing_of_Letter_of_Undertaking.htm)
 * [Details on Supply type](https://einv-apisandbox.nic.in/version1.03/generate-irn.html#requestPayload)
 * [SEZ rules](http://sezindia.nic.in/cms/sez-rules-and-amendments.php)
