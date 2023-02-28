@@ -50,7 +50,9 @@ Suppliers selling to SEZs can have two options when it comes to GST. They can ei
 
 ## Einvoicing
 Special Economic Zone Units (including FTWZs) are exempted from Einvoicing. The exemption is with reference to entity as a whole and not nature of supply/transaction.
+
 Einvoicing is applicable for invoices issued by SEZ Developers.
+
 Domestic suppliers selling to SEZs have to issue einvoices while selling to SEZ customers. While gerenating einvoices they need to specify the type of supply as SEZWP - SEZ with payment or SEZWOP - SEZ without payment. The supply types SEZWP and SEZWOP is allowed only if the taxpayer type of recipient GSTIN is ‘SEZ Unit’ or ‘SEZ Developer’
 
 
