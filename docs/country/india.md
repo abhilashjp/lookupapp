@@ -52,7 +52,7 @@ Visit [GST portal](https://www.gst.gov.in/). Go to  Services > Registration > [N
 ## Tax Registration number - GSTIN 
 Once GST regsitration is complete a supplier is issued a 15 digit GST identification number(GSTIN). The first 2 digits of the GSTIN is the State code, next 10 digits are the PAN of the legal entity, the next two digits are for entity code, and the last digit is check sum number. Registration under GST is not tax specific which means that there is a single registration for all the taxes i.e. CGST, SGST/UTGST, IGST and cesses
 
-### Regex 
+### Regex Format
 ``` 
 \d{2}[A-Z]{5}\d{4}[A-Z]{1}[A-Z\d]{1}[Z]{1}[A-Z\d]{1}
 
@@ -82,12 +82,31 @@ On Intra state transactions [CGST](https://www.cbic.gov.in/resources//htdocs-cbe
 |0.25|0.25|0.5|
 
 ## Invoice Format
-The items in the invoices should have HSN/SAC code mentioned against it. 
+There is no particular prescribed format but the following fields are mandatory 
+1. Name, address and GSTIN of the supplier
+2. A consecutive serial number, in one or multiple series, containing alphabets or numerals or special characters like hyphen or dash and slash symbolised as “-” and “/” respectively, and any combination there of, unique for a financial year
+3. Date of its issue
+4. Name, address and GSTIN or UIN, if registered, of the recipient
+5. Name and address of the recipient and the address of delivery, along with the name of State and its code, if such recipient is un-registered and where the value of taxable supply is fifty thousand rupees or more
+6. HSN code of goods or Accounting Code of Services
+7. Description of goods or services
+8. Quantity in case of goods and unit or Unique Quantity Code there of
+9. Total value of supply of goods or services or both
+10. Taxable value of supply of goods or services or both, taking into account the discount or abatement, if any
+11. Rate of tax (Central tax, State tax, Integrated tax, union territory tax or cess)
+12. Amount of tax charged in respect of taxable goods or services (Central tax, State tax, Integrated tax, union territory tax or cess)
+13. Place of supply along with the name of State, in case of a supply in the course of inter-State trade or commerce
+14. Address of delivery where the same is different from the place of supply
+15. Whether the tax is payable on reverse charge basis
+16. Signature or digital signature of the supplier or his authorized representative 
+
 
 ## Einvoicing in India
 Einvoicing is mandatory for businesses with a turnover of more than Rs.20 crores. This is the revised threshold limit as per the [notification on Feb'22](https://einv-apisandbox.nic.in/downloads/notfctn-01-central-tax-english-2022.pdf) with effect from 1st day of April, 2022. 
 
-Einvoicing in india is enabled by Invoice Regsritaion Portal (IRP). Invoices issues by the supplier has to be regestered with the IRP. On successful registration IRP returns a QR code and an IRN(invoice reference number). The QR code has to be affixed on the invoice before sending it to the buyer. Note that IRP portal is registration network and not an einvoice delivery network. This implies that merchants have to send the invoice to the receivers themselves after registering it with the IRP. This is in contrast with other einvoicing networks such as Peppol, which sends the einvoices to the end receipient.  
+Einvoicing in india is enabled by Invoice Regsritaion Portal (IRP). Invoices issues by the supplier has to be regestered with the IRP. On successful registration IRP returns a QR code and an IRN(invoice reference number). The QR code has to be affixed on the invoice before sending it to the buyer. Some supplier also add the IRN number on the invoice in addition to the QR code. 
+
+Note that IRP portal is registration network and not an einvoice delivery network. This implies that merchants have to send the invoice to the receivers themselves after registering it with the IRP. This is in contrast with other einvoicing networks such as Peppol, which sends the einvoices to the end receipient.  
 
 
 ### Auto-population of einvoice for returns filing
@@ -189,7 +208,7 @@ Compounding, Page 438](https://www.cbic.gov.in/resources//htdocs-cbec/gst/Final-
 * [Cancellation of einvoice . Refer page 4 & 11](https://einvoice1.gst.gov.in/Documents/GST_eInvoiceSystemDetailedOverview.pdf)
 * [Einvoice Cancellation](https://einvoice1.gst.gov.in/Others/Faqs)
 * [India einvoice user manual](https://einvoice1.gst.gov.in/Documents/EINVOICE_UserManual_Web.pdf)
-
+* [Invoice Format](https://cbic-gst.gov.in/hindi/pdf/e-version-gst-fliers/tax-invoice-efliers.pdf)
 
 
 
