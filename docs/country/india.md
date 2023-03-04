@@ -50,7 +50,7 @@ Threshold limit of aggregate turnover for exemption from registrationand payment
 Visit [GST portal](https://www.gst.gov.in/). Go to  Services > Registration > [New Regisrtration](https://reg.gst.gov.in/registration/). 
 
 ## Tax Registration number - GSTIN 
-Once GST regsitration is complete a supplier is issued a 15 digit GST identification number([GSTIN](docs/country-vat-name)). The first 2 digits of the GSTIN is the State code, next 10 digits are the PAN of the legal entity, the next two digits are for entity code, and the last digit is check sum number. Registration under GST is not tax specific which means that there is a single registration for all the taxes i.e. CGST, SGST/UTGST, IGST and cesses
+Once GST regsitration is complete a supplier is issued a 15 digit GST identification number(GSTIN). The first 2 digits of the GSTIN is the State code, next 10 digits are the PAN of the legal entity, the next two digits are for entity code, and the last digit is check sum number. Registration under GST is not tax specific which means that there is a single registration for all the taxes i.e. CGST, SGST/UTGST, IGST and cesses
 
 ### Regex Format
 ``` 
