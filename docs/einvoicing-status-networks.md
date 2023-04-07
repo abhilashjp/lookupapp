@@ -32,4 +32,4 @@ tags:
 |Turkey | | | |2023 July - Businesses that have issued invoices of more than 3 million Turkish Liras in 2022 will be required to report their e-Fatura and e-Arsiv (e-Invoice and e-Archive invoices) to the authorities.| |
 |Singapore|Mandatory|Peppol|SG Peppol BIS Billing 3.0| |[Peppol Guide](https://www.peppolguide.sg/) [IMDA](https://www.imda.gov.sg/How-We-Can-Help/nationwide-e-invoicing-framework)|
 |Australia| |Peppol|PEPPOL BIS Billing 3.0.| |[Official guide](https://www.ato.gov.au/Business/eInvoicing/)|
-|New Zealand| | | | |[Official Website](https://www.einvoicing.govt.nz)|
+|New Zealand| |Peppol|PEPPOL BIS Billing 3.0.| |[Official Website](https://www.einvoicing.govt.nz), [Setup guide](https://www.einvoicing.govt.nz/assets/e-invoicing/einvoicing-getting-your-business-up-to-speed.pdf)|
