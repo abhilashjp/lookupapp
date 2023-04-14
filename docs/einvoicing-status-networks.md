@@ -33,8 +33,10 @@ tags:
 |Singapore|Mandatory|Peppol|SG Peppol BIS Billing 3.0| |[Peppol Guide](https://www.peppolguide.sg/) [IMDA](https://www.imda.gov.sg/How-We-Can-Help/nationwide-e-invoicing-framework)|
 |Australia| |Peppol|PEPPOL BIS Billing 3.0.| |[Official guide](https://www.ato.gov.au/Business/eInvoicing/)|
 |New Zealand| |Peppol|PEPPOL BIS Billing 3.0.| |[Official Website](https://www.einvoicing.govt.nz), [Setup guide](https://www.einvoicing.govt.nz/assets/e-invoicing/einvoicing-getting-your-business-up-to-speed.pdf)|
+|Norway|Mandatory for supplies to central government entirties|Peppol, ELMA registry |EHF format , Peppol BIS | |[Difi,Peppol Authority in Norway](https://vefa.difi.no/peppol/)|
 
 
 
 ## Reference Links
 * [Einvoicing Country Factsheets](https://ec.europa.eu/digital-building-blocks/wikis/display/DIGITAL/eInvoicing+Country+Factsheets+for+each+Member+State+and+other+countries)
+* [Peppol country profile](https://peppol.eu/what-is-peppol/peppol-country-profiles/)
