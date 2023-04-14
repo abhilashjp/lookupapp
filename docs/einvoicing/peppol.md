@@ -1,13 +1,13 @@
 ---
 id: peppol
-title: What is Peppol
+title: Peppol Network
 keywords: [Peppol]
 sidebar_label: Peppol explained
 tags:
   - Peppol
 ---
 
-## Peppol Network: What it is, How to Use it, and Things to Note for e-Invoicing in Europe
+## What it is, How to Use it, and Things to Note for e-Invoicing in Europe
 
 Peppol stands for Pan-European Public Procurement On-Line. It is the most widely used e-invoicing network in Europe. Like any other einvoicing networks it facilitates electronic transactions between businesses to businesses and to government agencies. In this article, we’ll take a closer look at Peppol, its uses, and how to sign up and send e-invoices on the network.
 
