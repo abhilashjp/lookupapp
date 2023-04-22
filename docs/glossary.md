@@ -236,3 +236,25 @@ VAT VIES stands for Value Added Tax (VAT) Information Exchange System. It's a sy
 ### HMRC
 HMRC stands for Her Majesty's Revenue and Customs, which is the UK government department responsible for collecting taxes, enforcing customs and excise laws, and administering welfare programs. They also oversee compliance with tax and customs regulations and provide guidance to taxpayers and businesses.
 
+### DAC7
+DAC7 is a directive proposed by the European Union that requires digital platforms to collect and report information on cross-border transactions made by their users to tax authorities. The directive aims to combat tax evasion and improve tax transparency in the digital economy.
+
+### Tax evasion 
+Tax evasion refers to the illegal practice of not reporting or underreporting income, or claiming false deductions or credits to avoid paying taxes. It is a criminal offense that can lead to penalties, fines, and imprisonment. Tax authorities use audits, investigations, and other measures to identify and prosecute individuals or businesses engaged in tax evasion.
+
+### Tax havens
+Tax havens are countries or jurisdictions that offer favorable tax treatment to foreign individuals and companies. They often have low or zero tax rates, strict banking secrecy laws, and limited transparency. Tax havens are used by individuals and companies to minimize their tax liability and avoid disclosure of their financial affairs. However, their use has been criticized for facilitating tax evasion, money laundering, and other illicit activities. Many countries have taken steps to combat tax havens through international cooperation and regulatory measures.
+
+### FATCA
+FATCA, or the Foreign Account Tax Compliance Act, is a U.S. federal law that requires foreign financial institutions to report information about their U.S. account holders to the Internal Revenue Service. This is aimed at preventing tax evasion by U.S. citizens and residents through offshore accounts. FATCA also requires U.S. taxpayers to report their foreign financial assets on their tax returns.
+
+### Common Reporting Standard (CRS)
+The Common Reporting Standard (CRS) is a global standard for the automatic exchange of financial account information between tax authorities to combat tax evasion. Under CRS, financial institutions report account information of their foreign customers to the tax authorities in their country of residence, which is then shared with the tax authorities of the customer's country of residence. The aim of CRS is to provide tax authorities with a comprehensive view of the financial assets held by their taxpayers outside their home jurisdiction.
+
+### OECD
+The Organisation for Economic Co-operation and Development (OECD) is an international organization of 38 member countries committed to promoting economic growth, prosperity, and sustainable development. It provides policy recommendations and research on a wide range of economic and social issues, including tax policy, international trade, and environmental policy. The OECD is a leading authority on international tax cooperation and has developed many global tax initiatives and guidelines, such as the Common Reporting Standard (CRS) and Base Erosion and Profit Shifting (BEPS).
+
+### Base Erosion
+Base erosion refers to a tax planning strategy used by multinational companies to reduce their taxable income by shifting profits from high-tax countries to low-tax countries. This can be achieved through various means such as transfer pricing, treaty shopping, and use of tax havens. Base erosion can lead to a loss of tax revenue for high-tax countries and create an uneven playing field for domestic businesses. As a result, many countries have implemented measures to combat base erosion and profit shifting, such as the OECD's Base Erosion and Profit Shifting (BEPS) initiative.
+
+
