@@ -85,7 +85,7 @@ VAT reverse charge mechanism applies in different kinds of transactions:
 * Reverse charge on specific goods and services
 * Reverse charge on domestic transactions performed by foreign suppliers
 * Reverse charge on intra-EU transactions
-* Reverse charge on postponed import VAT https://www.revenue.ie/en/vat/what-is-vat/reverse-charge-self-accounting.aspx 
+* Reverse charge on postponed [import VAT](https://www.revenue.ie/en/vat/what-is-vat/reverse-charge-self-accounting.aspx )
 
 
 ### UK 
