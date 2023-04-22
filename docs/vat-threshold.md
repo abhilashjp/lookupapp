@@ -2,7 +2,7 @@
 id: vat-threshold-2022
 title: Vat thresholds in countries
 description: Latest VAT threshold details made available for you. 
-<!---image: -->
+hide_table_of_contents: true
 sidebar_label: Vat Thresholds
 keywords: [VAT threshold UK, What is the VAT threshold, Vat limit, GST limit, vat registration threshold]
 tags:
@@ -15,7 +15,7 @@ In many countries especially in EU if you make taxable supplies of goods or serv
 
 ||National currency|Registration or collection threshold|Domestic thresholds|Distance selling thresholds|Voluntary registration or collection|Minimum registration period|
 |--|--|--|--|--|--|--|
-|Australia|AUD|R|75000||Yes|1 year|
+|Australia |AUD|R|75000||Yes|1 year|
 |Austria|EUR|R|35000|35000|Yes|5 years|
 |Belgium|EUR|C|25000|35000|Yes|None|
 |Bulgaria|BGN||50000|70000|||
