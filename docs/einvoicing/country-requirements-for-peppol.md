@@ -1,8 +1,9 @@
 ---
 id: country-wise-requirements-for-peppol
-title: Country wise requirements-for-peppol
+title: Country wise requirements for Peppol
 keywords: [Peppol]
 sidebar_label: Country requirements for peppol
+position: 2
 tags:
   - Peppol
 ---
