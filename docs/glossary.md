@@ -127,3 +127,46 @@ A subsidy is a financial assistance provided by the government to individuals, b
 ### Zero-rated products
 Zero-rated products refer to goods or services that are taxable, but the rate of tax applicable to them is zero. This means that while the transaction is recorded for tax purposes, no tax is payable on the sale of these goods or services. Examples include basic food items, essential medicines, and exports.
 
+### Tax exemption
+Sales tax exemption refers to the legal exclusion of certain goods or services from sales tax collection and payment obligations. This exemption may apply to specific items, individuals or organizations based on various factors like their intended use, location, or tax laws of the governing jurisdiction.
+
+### Exemption certificate
+An exemption certificate is a document that exempts a business or individual from paying sales tax on certain purchases. It's issued by a government agency or authorized body, and it specifies the items or transactions that are exempted from sales tax. Businesses or individuals must provide the exemption certificate to the seller to claim the exemption.
+
+### Sanctions
+Sanctions are measures taken by governments or international organizations to restrict or prohibit trade or other economic activity with a particular country or entity in order to achieve foreign policy objectives. Sanctions may include trade embargoes, asset freezes, travel bans, and other restrictions designed to limit economic or political engagement with the targeted country or entity.
+Sales to sanctioned regions are usually prohibited and can result in legal and financial consequences. Companies that violate sanctions may face penalties, fines, legal action, and reputational damage. It is important for businesses to ensure that their sales practices comply with all relevant laws and regulations to avoid such risks.
+
+### Invoice 
+An invoice is a commercial document that itemizes a transaction between a buyer and seller, typically including the quantity, description, and price of goods or services sold, as well as any applicable taxes, discounts, and payment terms. It serves as a formal request for payment and evidence of the transaction.
+
+### Credit note
+A credit note is a document that records a reduction in the amount due from a buyer to a seller. It is issued by the seller to correct a previous invoice, typically to account for returns, allowances, or discounts. The credit note shows the original invoice details, the amount being credited, and the reason for the credit.
+A credit note is a document issued by a seller to a buyer that reduces the amount owed by the buyer for a previous sale, while a debit note is a document issued by a seller to a buyer that increases the amount owed by the buyer due to an adjustment in the initial transaction. In other words, a credit note is issued to reduce a debt, while a debit note is issued to increase a debt.
+
+### Purchase order 
+A Purchase Order (PO) is a commercial document that a buyer sends to a seller, requesting goods or services. It includes details such as the item description, quantity, price, delivery date, and payment terms. The seller creates an invoice based on the PO, and the buyer uses it to track and verify the order.
+
+### Quote
+A quote is a formal document provided by a seller to a potential buyer that outlines the details of goods or services being offered, including the price, quantity, and delivery terms. It serves as a preliminary agreement between the two parties and can be used as a basis for negotiating the terms of a sale.
+
+A PO is a legal document that a buyer sends to a seller to order goods or services, while a quote is a non-binding document that a seller provides to a buyer detailing the cost of goods or services. A PO is a commitment to purchase, while a quote is only an offer to sell.
+
+### Contract
+In the context of sales, a contract is a legally binding agreement between two or more parties that outlines the terms and conditions of a sale. It establishes the rights and obligations of each party involved, including the product or service being sold, the price, payment terms, delivery details, and any warranties or guarantees.
+
+A purchase order (PO) is a document issued by the buyer to the supplier, indicating the details of goods or services required. A contract, on the other hand, is a legal agreement between the buyer and the seller that outlines the terms and conditions of the sale, including payment terms, delivery schedules, warranties, and other important details. A PO is often used as part of the contracting process, but it is not the same as a contract. The contract is a broader agreement that governs the entire relationship between the buyer and the seller, while a PO is a specific document that outlines the details of a particular transaction.
+
+### Receivables
+Receivables refer to the money owed to a business by its customers for the goods or services provided on credit. It is recorded as an asset on the balance sheet until payment is received, and can be managed using accounts receivable management techniques to ensure timely payment and minimize bad debt.
+
+### Revenue recognition
+Revenue recognition is the process of accounting for the revenue earned by a company. It determines the timing and amount of revenue that can be recognized in a financial statement. Generally, revenue is recognized when a product or service is delivered, and the customer is invoiced for it. However, there are different rules and methods for revenue recognition depending on the industry and nature of the business. Accurate revenue recognition is crucial for a company's financial reporting, as it affects profitability, cash flow, and key performance metrics.
+
+### Accural accounting 
+Accrual accounting is an accounting method where revenue and expenses are recognized when they are earned and incurred, respectively, regardless of when the payment is received or made. This provides a more accurate picture of a company's financial position and performance by matching revenue with expenses incurred to generate that revenue.
+
+### Cash Accounting
+Cash accounting is a method of accounting where transactions are recognized when cash is received or paid. It is a simple and straightforward method that does not take into account when the transaction actually occurred, but instead records it based on when the cash was exchanged. It is commonly used by small businesses and is useful for managing cash flow.
+
+The choice between cash and accrual accounting methods depends on the specific needs of a business. Generally, accrual accounting is better for larger businesses with complex financial transactions, while cash accounting is simpler and more appropriate for smaller businesses with straightforward transactions. It's best to consult with a professional accountant to determine which method is best for your business.
