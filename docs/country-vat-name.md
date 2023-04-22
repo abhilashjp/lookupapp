@@ -10,11 +10,6 @@ tags:
 ---
 Even though we generally term the Tax Identification Numbers as VAT numbers, it will be populary known in the issuing country by its local name. This document list downs the local name of the VAT numbers and its formats.   
 
-<style>
-table {
-  font-size=="13px"
-}
-</style>
 
 |Country|Country code|VAT in national language|Stucture|Format|Regex|Remarks|
 |--|--|--|--|--|--|--|
