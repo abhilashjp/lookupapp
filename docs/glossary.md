@@ -102,4 +102,28 @@ Tax filing refers to the process of submitting tax returns and related forms to 
 ### Autofiling
 Autofiling is a system that uses automation and artificial intelligence (AI) to help businesses and individuals prepare and file their tax returns. This technology can streamline the tax filing process by automatically populating tax forms with data from other sources, such as bank accounts and accounting software. Autofiling can reduce the risk of errors and improve the accuracy and completeness of tax filings. In addition, it can save time and effort for taxpayers and tax professionals by automating routine tasks and minimizing the need for manual data entry.
 
+### Transitional rates
+Transitional rates are temporary tax rates or thresholds introduced during a tax reform or transition period to mitigate the impact of the changes on taxpayers. These rates are often lower than the regular tax rates and are intended to provide a gradual adjustment to the new tax system. Transitional rates may be based on the taxpayer's prior tax liability or other factors that are relevant to the specific tax reform. The duration of transitional rates may vary depending on the scope and complexity of the tax reform and the applicable legal framework.
+
+### Trade Tariffs
+Tariffs are taxes imposed by a government on imported or exported goods. Tariffs can be specific (based on the quantity of the goods) or ad valorem (based on the value of the goods) and are typically designed to protect domestic industries, generate revenue for the government, or regulate international trade. Tariffs can have significant impacts on the prices of goods and services, as well as on the competitiveness of businesses and the overall economy. Tariffs can also be used as a tool in trade negotiations and disputes between countries.
+
+### Customs duty
+Customs duty is a tax levied by a government on goods that are imported or exported across its borders. The purpose of customs duty is to regulate and control international trade, protect domestic industries, generate revenue for the government, and enforce trade agreements and policies. Customs duty rates can vary based on the type of goods, their origin and destination, and other factors, and can be a significant cost for businesses engaged in international trade. Customs duties are usually collected by customs authorities at ports of entry or exit.
+
+### Excise duty 
+Excise duty is a type of tax imposed by a government on certain types of goods that are produced within the country. These goods include tobacco, alcohol, petroleum products, and other items that are considered harmful or luxury items. The purpose of excise duty is to discourage the consumption of such goods and to generate revenue for the government. Excise duty rates can vary based on factors such as the type of goods, their production and distribution, and any trade agreements or policies in place. Excise duty is usually collected by the government or its authorized agencies at the time of production or sale of the goods.
+
+### Cess
+Cess is a type of tax levied by the government of India on specific goods or services. It is imposed over and above the existing taxes and is collected to fund specific government initiatives or schemes. Cesses are usually temporary taxes, and their proceeds are earmarked for a particular purpose. Some examples of cesses in India include the Swachh Bharat cess, Krishi Kalyan cess, and Education cess. The rate of cess varies depending on the type of goods or services, and the revenue generated from cess goes directly to the designated fund or scheme.
+
+### Free Trade Zones
+Free trade zones, also known as foreign trade zones or free zones, are designated areas within a country where imported goods can be stored, processed, or assembled without being subjected to customs duties or other taxes. The aim of free trade zones is to promote international trade by providing a secure and cost-effective environment for businesses to operate. Free trade zones can offer various benefits, such as exemption from import/export duties, relaxed regulations, and simplified customs procedures. They can be found in different countries and are often located near ports, airports, or other transportation hubs.
+
+### Subsidy
+A subsidy is a financial assistance provided by the government to individuals, businesses, or organizations to encourage or protect certain industries, create jobs, or promote specific economic activities. It is usually in the form of direct payments or tax incentives to offset costs or reduce prices, aimed at achieving social, economic, or political objectives. However, subsidies can also have negative effects on competition, market distortions, and fiscal burdens, and must be carefully balanced and monitored.
+
+
+### Zero-rated products
+Zero-rated products refer to goods or services that are taxable, but the rate of tax applicable to them is zero. This means that while the transaction is recorded for tax purposes, no tax is payable on the sale of these goods or services. Examples include basic food items, essential medicines, and exports.
 
