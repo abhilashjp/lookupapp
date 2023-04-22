@@ -12,7 +12,7 @@ Even though we generally term the Tax Identification Numbers as VAT numbers, it 
 
 <style scoped>
 table {
-  font-size: "13px";
+  font-size="13px";
 }
 </style>
 
