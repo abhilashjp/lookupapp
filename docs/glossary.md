@@ -170,3 +170,47 @@ Accrual accounting is an accounting method where revenue and expenses are recogn
 Cash accounting is a method of accounting where transactions are recognized when cash is received or paid. It is a simple and straightforward method that does not take into account when the transaction actually occurred, but instead records it based on when the cash was exchanged. It is commonly used by small businesses and is useful for managing cash flow.
 
 The choice between cash and accrual accounting methods depends on the specific needs of a business. Generally, accrual accounting is better for larger businesses with complex financial transactions, while cash accounting is simpler and more appropriate for smaller businesses with straightforward transactions. It's best to consult with a professional accountant to determine which method is best for your business.
+
+### GDPR
+The General Data Protection Regulation (GDPR) is a regulation by the European Union (EU) that governs the processing and protection of personal data of individuals within the EU. It applies to all organizations, including those outside the EU, that process the personal data of EU individuals. The regulation aims to provide greater transparency, control, and security to individuals over their personal data.
+
+### PII
+PII (Personally Identifiable Information) regulations are laws that govern the collection, use, storage, and sharing of sensitive personal information. These regulations protect an individual's privacy and typically require organizations to obtain explicit consent, implement adequate security measures, and provide notification in the event of a data breach. Examples of PII include names, addresses, social security numbers, and financial information.
+
+PII (Personally Identifiable Information) and GDPR (General Data Protection Regulation) are similar in that they both deal with protecting personal data, but GDPR is a comprehensive regulation that applies to all EU member states, while PII regulations are specific to certain countries or industries. PII regulations typically define the types of data that are considered personally identifiable and outline guidelines for how that data can be collected, used, and protected.
+
+### SOC 
+SOC stands for System and Organization Controls. It is a set of auditing standards and procedures that measures how well a service organization controls its information, data, and systems. There are three types of SOC reports, which are SOC 1, SOC 2, and SOC 3, each addressing different areas of concern.
+
+### PCI compliance
+PCI compliance refers to the adherence of Payment Card Industry Data Security Standards by organizations that handle credit card information. The standards ensure that sensitive cardholder data is securely stored, processed, and transmitted to prevent fraud and data breaches. Organizations must regularly undergo audits and implement necessary security measures to maintain PCI compliance.
+
+### Annual Aggregated Turnover (AATO)
+Annual Aggregated Turnover (AATO) is the total value of sales made by a business in a financial year. In some countries, AATO is used to determine whether a business needs to register for VAT/GST and comply with its related regulations. It includes the value of taxable and non-taxable supplies, exports, and inter-state supplies.
+
+### Input VAT
+Input VAT, also known as input tax, is the tax paid by a business on purchases of goods and services used for business purposes. It can be deducted from the output VAT, or sales tax, owed to the government. The difference between the input VAT and output VAT is either paid to the government or refunded to the business.
+
+### Output VAT 
+Output VAT is the value-added tax collected on sales made by a business, which is charged to the buyer and must be remitted to the tax authorities. It is calculated as the difference between the VAT charged on sales and the VAT paid on purchases, and is payable to the tax authorities on a periodic basis.
+
+### Remote services
+Remote services refer to services that are provided to a client by a service provider located in a different geographic location, typically through electronic means such as the internet or telecommunication networks. These services can include a range of activities such as consulting, software development, and customer support.
+
+### Digital Goods 
+Digital goods refer to any products or services that are delivered electronically over the internet or other digital networks, such as software, music, videos, e-books, and online courses. They do not have a physical form and can be easily replicated and distributed globally.
+
+### Place of Supply
+The place of supply refers to the location where goods or services are deemed to be supplied. It determines the applicable tax rate, reporting requirements, and compliance rules. The place of supply is determined based on various factors such as the type of supply, the nature of the transaction, and the location of the supplier and the recipient.
+
+### Place of origin
+Place of origin refers to the physical location where goods or products are produced, manufactured or assembled. It is an important concept in supply chain management, as it affects transportation costs, taxes, and other regulatory requirements. The place of origin is typically specified on the product label or in shipping documents.
+
+### Destination taxes
+Destination taxes are taxes that are imposed on goods and services based on the location of the customer, rather than the location of the supplier. The taxes are usually imposed by the country or state where the customer is located and can include sales taxes, value-added taxes (VAT), and other similar taxes. The purpose of destination taxes is to ensure that the tax revenue from a transaction is collected by the jurisdiction where the customer is located.
+
+### Origin taxes
+Origin taxes refer to taxes levied by the country of origin on goods and services exported to other countries. They are paid by the exporter, and the amount is calculated based on the value of the goods or services. Origin taxes can include customs duties, export taxes, and other taxes and fees imposed by the exporting country's government.
+
+Both origin and destination taxes cannot be applied on the same transaction or invoice. Generally, only one type of tax, either origin or destination-based, is applied depending on the tax laws and regulations of the countries involved in the transaction. This is done to avoid double taxation and ensure that taxes are paid only once.
+
