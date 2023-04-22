@@ -22,3 +22,4 @@ It is often difficult to find the correct official sources of information for ta
 |France|French customs guidelines in english|[Douane Site](https://www.douane.gouv.fr/french-customs-information-available-english#Businesses)|
 |USA|US Address lookup|[USPS Database](https://tools.usps.com/zip-code-lookup.htm)|
 |Slovenia|Einvoice Validation|[Official einvoice validator](https://storitve.ujp.gov.si/dostop/preverjanje-strukture/)|
+|Spain|Invoice Format|[Formato FACTURAE](https://www.facturae.gob.es/formato/Documents/EspanolFacturae3_0.pdf)|
