@@ -41,5 +41,4 @@ Peppol is not a single system, but a collection of interconnected Access Points 
 ## Reference Links
 * [List of Peppol access points](https://peppol.eu/who-is-who/peppol-certified-aps/)
 * [Peppol Directory](https://directory.peppol.eu/public)
-* 
-
+* [List of countries accepting Peppol invoices](https://peppol.eu/what-is-peppol/peppol-country-profiles/)
