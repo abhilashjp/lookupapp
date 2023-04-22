@@ -34,6 +34,7 @@ tags:
 |Australia| |Peppol|PEPPOL BIS Billing 3.0.| |[Official guide](https://www.ato.gov.au/Business/eInvoicing/)|
 |New Zealand| |Peppol|PEPPOL BIS Billing 3.0.| |[Official Website](https://www.einvoicing.govt.nz), [Setup guide](https://www.einvoicing.govt.nz/assets/e-invoicing/einvoicing-getting-your-business-up-to-speed.pdf)|
 |Norway|Mandatory for supplies to central government entirties|Peppol, ELMA registry |EHF format , Peppol BIS | |[Difi,Peppol Authority in Norway](https://vefa.difi.no/peppol/)|
+|Germany|Non Mandatory|Peppol,KoSIT|XRechnung|Jan-2025 - Mandatory B2B domestic transactions |[Implementation Status](https://xeinkauf.de/app/uploads/2022/11/eRechnung-oeffentliche-Laendersynopse.pdf),[Receiving XRechnung via Peppol](https://xeinkauf.de/peppol/)|
 
 
 
