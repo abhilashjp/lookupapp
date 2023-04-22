@@ -114,9 +114,7 @@ In India, reverse charge is applicable in 2 scenarios
 Section 9(3), 9(4) and 9(5) of Central GST and State GST Acts govern the reverse charge scenarios for intra-state transactions. Also, sections 5(3), 5(4) and 5(5) of the Integrated GST Act govern the reverse charge scenarios for inter-state transactions.
 
 
-
 Learn [more](https://www.cbic.gov.in/resources/htdocs-cbec/gst/51_GST_Flyer_Chapter12.pdf)
-
 
 
 ## Things to note
