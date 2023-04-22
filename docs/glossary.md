@@ -214,3 +214,25 @@ Origin taxes refer to taxes levied by the country of origin on goods and service
 
 Both origin and destination taxes cannot be applied on the same transaction or invoice. Generally, only one type of tax, either origin or destination-based, is applied depending on the tax laws and regulations of the countries involved in the transaction. This is done to avoid double taxation and ensure that taxes are paid only once.
 
+### Double taxation
+Double taxation refers to a situation where the same income or transaction is taxed twice by two different tax authorities, such as in the country where it was earned and in the country where it is received. This can result in an unfair tax burden on the taxpayer, reducing their income and discouraging cross-border trade and investment. To avoid double taxation, countries may enter into tax treaties or offer tax credits to taxpayers to offset the taxes paid in the other country.
+
+### GAAR
+General Anti-Avoidance Rule (GAAR) is a tax law that allows tax authorities to invalidate tax arrangements that are contrary to the object and spirit of the tax laws, and entered into primarily to obtain a tax benefit. GAAR applies when the arrangements result in a reduction of tax liability or deferral of tax payment. This rule is applied in countries such as United States, Canada, Australia, and India. 
+
+### Accounting books
+Accounting books refer to the record-keeping documents used by businesses to track their financial transactions. They include journals, ledgers, financial statements, and other relevant documents used to record and report financial data. Proper accounting books are essential for accurate financial reporting and compliance with tax laws and regulations.
+
+### Audit trail
+
+An audit trail is a record of events that provide documentary evidence of the sequence of activities that have affected a specific operation or procedure. It helps to verify the accuracy and completeness of the accounting records, and trace any discrepancies or errors in financial reporting. The audit trail typically includes information such as date, time, user identity, system status, and transaction details, and can be used to track changes made to financial data. An audit trail is needed to maintain the integrity of financial records and provide a clear and transparent record of all financial transactions. It helps to prevent fraud and errors, ensures compliance with regulatory requirements, and supports the accuracy of financial statements. Additionally, it helps auditors to review and verify the accuracy and completeness of financial records.
+
+### Financial year
+A financial year is a 12-month period used for accounting and tax purposes. It may or may not coincide with the calendar year. The financial year is important for businesses and organizations to prepare financial statements, calculate taxes, and evaluate their financial performance over a specific period. In many countries, the financial year starts on January 1 and ends on December 31, while in others, it may start on a different date.
+
+### VAT VIES
+VAT VIES stands for Value Added Tax (VAT) Information Exchange System. It's a system that enables EU member states to exchange VAT information on cross-border transactions. VIES helps businesses to confirm the validity of their customers' VAT registration numbers, and ensure that they charge the correct VAT rate on sales to customers in other EU countries. The system allows businesses to check the VAT numbers of their customers and suppliers in real-time, and ensures that VAT is accounted for correctly across borders.
+
+### HMRC
+HMRC stands for Her Majesty's Revenue and Customs, which is the UK government department responsible for collecting taxes, enforcing customs and excise laws, and administering welfare programs. They also oversee compliance with tax and customs regulations and provide guidance to taxpayers and businesses.
+
