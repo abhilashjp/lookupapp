@@ -24,3 +24,4 @@ It is often difficult to find the correct official sources of information for ta
 |Slovenia|Einvoice Validation|[Official einvoice validator](https://storitve.ujp.gov.si/dostop/preverjanje-strukture/)|
 |Spain|Invoice Format|[Formato FACTURAE](https://www.facturae.gob.es/formato/Documents/EspanolFacturae3_0.pdf)|
 |Spain|Einvoice Validation|[Validador y visualizador de facturas](https://face.gob.es/es/facturas/validar-visualizar-facturas)|
+|United Kingdom|UK VAT guide|[HMRC VAT guide](https://www.gov.uk/guidance/vat-guide-notice-700)|
