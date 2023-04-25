@@ -42,7 +42,7 @@ Even though we generally term the Tax Identification Numbers as VAT numbers, it 
 |Slovenia|SI|identifikacijska številka za (DDV)|12345678|8 characters|`([1-9]\d{7}$)/i)`| |
 |Spain|ES|el nśmero de identificación a efectos del Impuesto sobre el Valor Añadido(IVA)(NIF or CIF)|X12345678, 12345678X, X1234567X|9 characters. Includes one or two alphabetical characters (first or last or first and last).|`([0-9A-Z][0-9]{7}[0-9A-Z]$)/i)`|Including the Balearic Islands but excluding Ceuta, Melilla and the Canary Islands|
 |Sweden|SE|Mervärdesskatteregistreringsnummer (momsregistreringsnummer)(Moms)|123456789012|12 characters|`(\d{10}01$)/i)`| |
-|UK|GB|value added tax (VAT) registration no.| | |`(?\:[0-9]{12}\|[0-9]{9}\|(?:GD\|HA)[0-9]{3})$)/i)"`| |
+|UK|GB|value added tax (VAT) registration no.| | |`(?:[0-9]{12}\|[0-9]{9}\|(?:GD\|HA)[0-9]{3})$)/i)"`| |
 |Northern Ireland|XI| |999999999, 999999999999, GD999, HA999| | | |
 |EU||non union VAT moss number|EUxxxyyyyyz| | | 
 
