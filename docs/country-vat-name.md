@@ -55,6 +55,7 @@ Even though we generally term the Tax Identification Numbers as VAT numbers, it 
 * [Test VAT number](https://web.archive.org/web/20170727163017/http://www.braemoor.co.uk/software/vattest.php)
 * [Format and explainations](https://euipo.europa.eu/tunnel-web/secure/webdav/guest/document_library/Documents/COSME/VAT%20numbers%20EU.pdf)
 * [Oreilly guide](https://www.oreilly.com/library/view/regular-expressions-cookbook/9781449327453/ch04s21.html)
+* [OECD Tax Identification Number Guide](https://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/)
 
 
 
