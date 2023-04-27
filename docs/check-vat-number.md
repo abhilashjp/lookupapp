@@ -1,8 +1,7 @@
 ---
 id: check-vat-number-free
 title: Official links to check Vat number (TAX IDs) 
-description: Links to official sites to check Vat Numbers or Tax IDs across the world 
-<!---image: -->
+description: Links to official sites to check Vat Numbers or Tax IDs across the world. Discover the different ways to lookup a VAT number, including online tools and government databases, to ensure its validity. 
 sidebar_label: Vat number check
 keywords: [Check Vat Number UK,Free VAT Search, Vat number search,GSTIN Search, ABN Search, VAT Number Lookup, VAT Number Verification, VAT Number Application Status]
 tags:
