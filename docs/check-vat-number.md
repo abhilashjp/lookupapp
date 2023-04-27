@@ -4,11 +4,12 @@ title: Official links to check Vat number (TAX IDs)
 description: Links to official sites to check Vat Numbers or Tax IDs across the world 
 <!---image: -->
 sidebar_label: Vat number check
-keywords: [Check Vat Number UK,Free VAT Search, Vat number search,GSTIN Search, ABN Search]
+keywords: [Check Vat Number UK,Free VAT Search, Vat number search,GSTIN Search, ABN Search, VAT Number Lookup, VAT Number Verification, VAT Number Application Status]
 tags:
   - VAT ID search
   - GSTIN Search
   - ABN Lookup
+  - VAT Number Lookup
 ---
 
 Below is the list of National Databases for seachring Tax IDs. You can check VAT IDs for free on these websites. 
@@ -29,7 +30,7 @@ Below is the list of National Databases for seachring Tax IDs. You can check VAT
 |Denmark|[CVR Search](https://datacvr.virk.dk/)|
 |Iceland|[Virðisaukaskattsnúmer](https://www.skatturinn.is/fyrirtaekjaskra/)|
 |India|[GSTIN Search](https://services.gst.gov.in/services/searchtp), [icegate web](https://www.icegate.gov.in/Webappl/GSTN)|
-|Netherland|[](https://www.kvk.nl/download/KvK-API-Search-Manual-EN_tcm109-430594.pdf)|
+|Netherland|[SBI Code search tool](https://www.rvo.nl/subsidies-financiering/togs/vastgestelde-sbi-codes#block-agnl-kvk-api-kvk-block)|
 |North Macedonia|[Едниствен Даночен Број](http://ujp.gov.mk/en)|
 |Norway|[Enhetsregisteret](https://w2.brreg.no/enhet/sok/index.jsp)|
 |Oman|[VATIN Search](https://www.taxoman.gov.om/portal/web/taxportal/tax-data-validation)|
