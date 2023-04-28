@@ -1,8 +1,9 @@
 ---
 id: SEZ-in-India
 title: Special Economic Zones(SEZs)
-keywords: [SEZ]
+keywords: [SEZ,Special Economic Zones, SEZ India, SEZ tax rules, SEZ taxation, SEZ tax implications, SEZ for businesses, SEZ compliance, SEZ and Indian tax laws, SEZ for exports, SEZ benefits, SEZ regulations, SEZ incentives, SEZ tax exemptions.]
 sidebar_label: Special Economic Zones
+description: Our comprehensive guide covers the tax rules and implications surrounding Special Economic Zones (SEZs) in India for businesses selling to them. Learn about SEZ benefits, regulations, tax exemptions, and compliance requirements to ensure your business stays in line with Indian tax laws.
 tags:
   - SEZ
   - Special Economic Zones
