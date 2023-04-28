@@ -1,7 +1,8 @@
 ---
 id: country-wise-requirements-for-peppol
 title: Country wise requirements for Peppol
-keywords: [Peppol]
+keywords: [Peppol, Electronic invoicing, E-invoicing, Cross-border transactions, Procurement, Country-specific requirements, Digitalization, VAT compliance, Tax regulations, Invoice requirements, E-procurement, European Union, Public sector, Business-to-government (B2G), Business-to-business (B2B), Invoice validation, Invoice processing, Supply chain management, Standards-based interoperability]
+description: Discover the country-specific requirements for Peppol and stay compliant with our expert-written guide. From invoicing to procurement, we cover everything you need to know to successfully implement Peppol in your business.Stay ahead of the curve with our expert guidance on country-specific Peppol requirements, and streamline your cross-border transactions today.
 sidebar_label: Country requirements for peppol
 position: 2
 tags:
