@@ -1,8 +1,9 @@
 ---
 id: India
 title: India GST guidelines 
-keywords: [India GST,GSTIN]
+keywords: [India GST,GSTIN,GST rules, GST guidelines, GST registration, GST filing, Indian tax laws, GST compliance, GST for businesses, GST in India]
 sidebar_label: India
+description: Learn about the GST rules and guidelines in India for businesses with our comprehensive country guide. From registration to filing returns, our article covers everything you need to know to stay compliant with Indian tax laws.
 tags:
   - India
   - GST
