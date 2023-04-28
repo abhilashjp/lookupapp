@@ -2,7 +2,8 @@
 id: country-vat-name
 title: Countries and Vat Names
 hide_table_of_contents: true
-keywords: [EU VAT name,VAT number, VAT format, VAT Regex, Tax Identification number local name]
+keywords: [EU VAT name,VAT number, VAT format, VAT Regex, Tax Identification number local name, Countries VAT names, Tax ID names, Value Added Tax names, VAT rates, tax systems, international tax, global taxation, tax codes, business taxes, country tax codes, tax rates by country, VAT regulations, VAT compliance, tax laws, tax guidelines.]
+description: This comprehensive list provides the names of countries and their corresponding VAT (Value Added Tax) names or Tax ID names. Whether you're a business owner, accountant, or traveler, this resource will be helpful for understanding VAT and tax systems around the world. From Europe to Asia, the Americas to Africa, this list covers countries from every continent.
 tags:
   - VAT ID
   - EU VAT
