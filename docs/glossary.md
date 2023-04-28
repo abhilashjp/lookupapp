@@ -1,10 +1,10 @@
 ---
 id: tax-glossary
 title: Glossary 
-description: Glossary of sales or indirect tax related terms
+description: Glossary of sales or indirect tax related terms. This glossary is a valuable resource for anyone looking to understand tax regulations and E-invoicing. It provides clear and concise definitions for key terms and concepts related to taxes and electronic invoicing, making it an essential tool for business owners, accountants, and financial professionals. From VAT to invoice automation, this glossary covers all the important terms you need to know.
 <!---image: -->
 sidebar_label: Glossary
-keywords: [Tax Glossary, Tax definition, Tax Terminology]
+keywords: [Tax Glossary, Tax definition, Tax Terminology, tax terms, E-invoicing glossary, electronic invoicing, paperless transactions, VAT, tax regulations, tax codes, invoice automation, invoice processing, invoice management, invoice validation, invoice reconciliation, invoice data capture, electronic billing, digital invoicing, tax compliance.]
 tags:
   - Explainer
 ---
