@@ -1,8 +1,9 @@
 ---
 id: reverse-charge
 title: What is Reverse charge ?
-keywords: [Reverse charge]
+keywords: [Reverse charge,     Reverse charges, Tax regulations, VAT, GST, Compliance, Tax obligations, Cross-border transactions, Accounting, Invoice, Tax liability, Input tax credit, Indirect tax, Domestic reverse charge, Non-resident businesses, Place of supply, Import VAT, Export VAT Taxable transactions, Tax-exempt supplies, VAT rates]
 sidebar_label: Reverse Charge
+description: Learn all about reverse charges and the rules governing them around the world with our comprehensive explainer guide. From VAT to GST, we cover everything you need to know to stay on top of your tax obligations. Get expert insights and stay compliant with our must-read article
 tags:
   - Reverse Charge
   - RCM
@@ -62,7 +63,7 @@ The supplier is supposed to issue an invoice without vat and the invoices should
 
 ## Invoice format 
 
-The invoice format remains same as the tax invoice. Except that you will need to add the taxes as 0% similar to the way you indicate zero rated items. You will also be required to add a note to indicated that reverse charge is applied on the invoice 
+The invoice format remains same as the tax invoice. Except that you will need to add the taxes as 0% similar to the way you indicate zero rated items. You will also be required to add a note to indicated that reverse charge is applied on the invoice.
 
 
 
