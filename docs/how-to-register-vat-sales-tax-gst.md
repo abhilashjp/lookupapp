@@ -11,3 +11,6 @@ tags:
   - GST Regsitration
 
 ---
+|Country| Registration Guide|
+|--|--|
+|Belgium|[VAT registration guide](https://business.belgium.be/en/setting_up_your_business/registration_with_the_vat_authorities)|
