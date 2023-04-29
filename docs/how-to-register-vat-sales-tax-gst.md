@@ -11,6 +11,7 @@ tags:
   - GST Regsitration
 
 ---
-|Country| Registration Guide|
-|--|--|
-|Belgium|[VAT registration guide](https://business.belgium.be/en/setting_up_your_business/registration_with_the_vat_authorities)|
+|Country| Registration Guide|Registration website|
+|--|--|--|
+|Belgium|[VAT registration guide](https://business.belgium.be/en/setting_up_your_business/registration_with_the_vat_authorities)| |
+|India|[GST guide](https://cbic-gst.gov.in/faqs-user-manual-new-gst-registration.html)|[GST registration website](https://reg.gst.gov.in/registration/)|
