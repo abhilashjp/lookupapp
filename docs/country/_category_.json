@@ -6,12 +6,12 @@
   "className": "red",
   "link": {
     "type": "generated-index",
-    "title": "Tutorial overview"
+    "title": "Country guides",
     "keywords": "tax regulations, sales tax, VAT, GST, indirect taxes, country guides, AMER, EMEA, US, EU, India, Australia.",
-    "description": "Learn about the invoicing regulations across the world. Our Country Guides section is the ultimate destination for businesses operating globally. Featuring detailed guides on indirect taxes such as sales tax in the US, VAT in the EU, and GST in India and Australia, as well as invoice guidelines, registrations, tax rates, returns filing, penalty, and more for every country across the world. Our expert insights and analysis will help you navigate the complex tax landscape, stay compliant, and grow your business.Looking for up-to-date information on tax regulations? Look no further than our site, your ultimate guide to all things tax-related."
+    "description": "Learn about the invoicing regulations across the world.",
   },
    "customProps": {
-    "description": "This description can be used in the swizzled DocCard"
+    "description": "Our Country Guides section is the ultimate destination for businesses operating globally. Featuring detailed guides on indirect taxes such as sales tax in the US, VAT in the EU, and GST in India and Australia, as well as invoice guidelines, registrations, tax rates, returns filing, penalty, and more for every country across the world. Our expert insights and analysis will help you navigate the complex tax landscape, stay compliant, and grow your business.Looking for up-to-date information on tax regulations? Look no further than our site, your ultimate guide to all things tax-related."
   }
 }
 
