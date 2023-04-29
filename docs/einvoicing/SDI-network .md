@@ -20,7 +20,10 @@ tags:
 
 ## How to Sign Up and Send E-Invoices on Peppol
 
+## Integration with Peppol 
+
 ## Things to Note When Using Peppol
+
 
 
 ## Reference Links
