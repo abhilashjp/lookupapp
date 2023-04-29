@@ -12,7 +12,7 @@ tags:
 |Country|Status|Network Used|Formats|Upcoming Deadlines|Useful Links|
 |--|--|--|--|--|--|
 |Finland||Finvoice| | | |
-|Italy||SDI| |2024 January - The scope of e-invoicing will be expanded to include small companies with revenues up to €25,000.| |
+|Italy||SDI(Sistema Di Interscambi)|FatturaPA|2024 January - The scope of e-invoicing will be expanded to include small companies with revenues up to €25,000.| |
 |Sweden| | | | | |
 |India|Mandatory for busineses with a turnover of 5crs|IRP| | | |
 |Brazil||SEFAZ (Secretaria da Fazenda Estadual)|NFC-e for goods, NFS-e for services CT-e for  transport services , MDF-e, SPED, REINF for freight, NF3e for electricity supply | |[Offical portal](http://www.nfe.fazenda.gov.br/portal/principal.aspx)  <br /> [Guide](http://www.cte.fazenda.gov.br/portal/)|
