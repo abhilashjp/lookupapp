@@ -87,6 +87,8 @@ const config = {
             label: "Country guide",
           },*/
           { to: "/category/country-guides", label: "Country guide", position: "right" },
+          { to: "/category/explainers", label: "Explainers", position: "right" },
+          { to: "/category/einvoicing-guides", label: "Einvoicing", position: "right" },
 
           { to: "/blog", label: "Blog", position: "right" },
           {
