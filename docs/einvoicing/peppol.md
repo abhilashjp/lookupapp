@@ -6,6 +6,7 @@ description: Boost your business efficiency and streamline cross-border transact
 sidebar_label: Peppol explained
 tags:
   - Peppol
+  - Einvoiving Network
 ---
 
 ## What it is, How to Use it, and Things to Note for e-Invoicing in Europe
