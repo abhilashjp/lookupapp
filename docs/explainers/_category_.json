@@ -1,8 +1,19 @@
 {
   "label": "Explainers",
   "position": 2,
+  "collapsible": true,
+  "collapsed": true,
+  "className": "red",
   "link": {
     "type": "generated-index",
+    "keywords" :"tax regulations, sales tax, VAT, GST, indirect taxes, explainers, invoice guidelines, registrations, tax rates, returns filing, penalty, e-invoicing, compliance, simplification, Global sales tax",
+    "title": "Country guides",
     "description": "Concepts in Taxation simplified for you"
+  },
+  
+   "customProps": {
+    "description": "Our Explainers section is dedicated to simplifying complex topics in indirect taxes, including sales tax, VAT, and GST, as well as invoice guidelines, registrations, tax rates, returns filing, penalty, and e-invoicing, across the world. We provide easy-to-understand explanations and expert analysis to help you navigate the intricacies of tax regulations and stay compliant with ease."
   }
 }
+{
+  
