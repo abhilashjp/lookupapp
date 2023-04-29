@@ -24,11 +24,14 @@ Peppol Authority: [Koordinierungsstelle für IT-Standards (KoSIT)](https://www.x
 
 ## Italy
 
+The following codes are used for PEPPOL Participant IDs in Italy
 
+* 0211:ITpartitaIVA (for economic operators)
+* 0210:CodiceFiscale (for economic operators)
+* 0201:CodiceIPA (for Public Administrations)
 
-Peppol Authority: [Agenzia per l'Italia Digitale ](https://peppol.agid.gov.it/en/)
- 
- 
+Peppol Authority: [Agenzia per l'Italia Digitale ](https://peppol.agid.gov.it/en/) 
+List of PEPPOL Access Point Providers recognized by the Italian PEPPOL Authority: [List of access Points](https://peppol.agid.gov.it/en/qualification-ap-smp/ap-smp-list/)
  
  ## Reference links
  * [Differences between XRechnung and  Peppol BIS Billing Invoice](https://xeinkauf.de/app/uploads/2022/11/CIUSse_im_Peppol_Kontext.pdf)
