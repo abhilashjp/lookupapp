@@ -12,6 +12,9 @@ tags:
 
 <!--
 
+## FatturaPA
+FatturaPA isis the only type of electronic invoice that is accepted by Public Administrations. This Decree provided for by Italian Law number 633, 1972, article 21, subsection 1. 
+
 ## What it is, How to Use it, and Things to Note for e-Invoicing in Europe
 
 ## What is Peppol?
@@ -24,7 +27,9 @@ tags:
 
 ## Things to Note When Using Peppol
 
-
+-->
 
 ## Reference Links
--->
+* [Format of FatturaPA](https://www.fatturapa.gov.it/en/lafatturapa/formatofatturapa/)
+* [FatturaPA Documentation](https://www.fatturapa.gov.it/en/norme-e-regole/documentazione-fattura-elettronica/formato-fatturapa/)
+
