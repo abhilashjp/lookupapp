@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/explainer.svg').default,
     description: (
       <>
-       Confused with different terminologies. Dont worry we have simplified various concepts in Taxation for you. 
+       Confused with different terminologies. Dont worry we have simplified various concepts in Taxation for you. <a href="https://lookuptax.com/docs/category/explainers">Explore now</a>
       </>
     ),
   },
