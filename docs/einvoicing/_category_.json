@@ -1,8 +1,17 @@
 {
   "label": "Einvoicing guides",
   "position": 3,
+  "collapsible": true,
+  "collapsed": false,
+  "className": "red",
   "link": {
     "type": "generated-index",
+    "keywords" :" e-invoicing regulations,e-invoicing updates, e-invoicing compliance,e-invoicing status,,country-specific e-invoicing guidelines, electronic invoicing rules, global e-invoicing standards, digital invoicing requirements, tax regulations, invoicing laws",
+    "title": "Einvoicing guides",
     "description": "Learn about the einvoicing regulations across the world"
-  }
+  },
+  
+   "customProps": {
+    "description": "Stay on top of the latest einvoicing regulations and updates with our comprehensive einvoicing guides. Our website's einvoicing section features expert analysis and simplified explanations of einvoicing status and regulations for countries across the world. Keep your business compliant and streamline your invoicing process with our easy-to-understand guides."
+   }
 }
