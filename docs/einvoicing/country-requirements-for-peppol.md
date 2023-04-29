@@ -19,6 +19,14 @@ The following aspects are defined for Germany:
 * If a biller addresses the public administration outside of Germany, he has the option of using the Peppol BIS Billing 3.0 format, which is acceptable for all Peppol recipients. Public administration in Germany is obliged to adopt this format. 
 * The specification document for the CIUS XRechnung is currently only available in German. The standard XRechnung is provided in the UBL and CII syntaxes and can be sent accordingly via Peppol.
 * The public administration has undertaken to use the routing ID scheme for the Peppol ID. The scheme has therefore been entered accordingly in ISO 6523 ICD. The associated prefix is 0204. A separator (:) is added between the prefix and ID.  
+
+Peppol Authority: [Koordinierungsstelle für IT-Standards (KoSIT)](https://www.xoev.de/)
+
+## Italy
+
+
+
+Peppol Authority: [Agenzia per l'Italia Digitale ](https://peppol.agid.gov.it/en/)
  
  
  
