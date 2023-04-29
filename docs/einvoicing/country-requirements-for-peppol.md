@@ -24,14 +24,24 @@ Peppol Authority: [Koordinierungsstelle für IT-Standards (KoSIT)](https://www.x
 
 ## Italy
 
+PEPPOL SMP(Service Metadata Publisher) is integrated to iPA (“Indice delle pubbliche amministrazioni”, the national register of public bodies in Italy) in Italy and all Public Administrations can select their own Access Point on iPA itself. The Access Points act as an intermediary for the invoices received over the PEPPOL network. 
+
+In order send and receive einvoices compliant with the European format via the PEPPOL network, they need to do the following
+* The Public Administration needs to use a service provider that is both a Certified PEPPOL Access Point and a qualified intermediary towards the Revenue Agency’s SdI
+* The Public Administration sets up the PEPPOL reception channel for the electronic billing offices on the iPA register.
+
+
 The following codes are used for PEPPOL Participant IDs in Italy
 
-* 0211:ITpartitaIVA (for economic operators)
-* 0210:CodiceFiscale (for economic operators)
-* 0201:CodiceIPA (for Public Administrations)
+* ITpartitaIVA - For economic operators
+* CodiceFiscale - For economic operators
+* CodiceIPA - For Public Administrations
 
-Peppol Authority: [Agenzia per l'Italia Digitale ](https://peppol.agid.gov.it/en/) 
-List of PEPPOL Access Point Providers recognized by the Italian PEPPOL Authority: [List of access Points](https://peppol.agid.gov.it/en/qualification-ap-smp/ap-smp-list/)
+Peppol Authority: [Agenzia per l'Italia Digitale - AgID ](https://peppol.agid.gov.it/en/) 
+
+List of PEPPOL Access Point Providers recognized by the Italian PEPPOL Authority(AgID): [List of Access Points](https://peppol.agid.gov.it/en/qualification-ap-smp/ap-smp-list/)
+ 
+ Techincal specifications for Italy : [Peppol BIS 3 valid for italy](https://peppol-docs.agid.gov.it/docs/my_index-ENG.jsp)
  
  ## Reference links
  * [Differences between XRechnung and  Peppol BIS Billing Invoice](https://xeinkauf.de/app/uploads/2022/11/CIUSse_im_Peppol_Kontext.pdf)
