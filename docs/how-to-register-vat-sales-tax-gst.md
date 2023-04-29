@@ -16,4 +16,5 @@ tags:
 |Australia|[How GST works](https://www.ato.gov.au/business/gst/),[GST for Non-resident businesses](https://www.ato.gov.au/Business/International-tax-for-business/Non-resident-businesses-and-GST/)|[GST online registration](https://www.ato.gov.au/general/online-services/businesses/), [Register via tax Agent](https://www.tpb.gov.au/public-register)|
 |Belgium|[VAT registration guide](https://business.belgium.be/en/setting_up_your_business/registration_with_the_vat_authorities)| |
 |India|[GST registration guide](https://cbic-gst.gov.in/faqs-user-manual-new-gst-registration.html)|[GST registration website](https://reg.gst.gov.in/registration/)|
+|Spain|[Registration guide](https://administracion.gob.es/pag_Home/en/Tu-espacio-europeo/derechos-obligaciones/empresas/impuestos/IVA/registro-pago.html)|[Registration form](https://sede.agenciatributaria.gob.es/Sede/en_gb/iva/iva-operaciones-comercio-exterior/identificacion-realizar-operaciones-otros-empresarios-ue/gestiones.html)|
 |United Kingdom (UK)|[UK HMRC VAT registraion guide](https://www.gov.uk/register-for-vat/how-register-for-vat)|[Register for VAT online.](https://www.tax.service.gov.uk/register-for-vat)|
