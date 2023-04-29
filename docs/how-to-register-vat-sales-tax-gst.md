@@ -15,3 +15,4 @@ tags:
 |--|--|--|
 |Belgium|[VAT registration guide](https://business.belgium.be/en/setting_up_your_business/registration_with_the_vat_authorities)| |
 |India|[GST registration guide](https://cbic-gst.gov.in/faqs-user-manual-new-gst-registration.html)|[GST registration website](https://reg.gst.gov.in/registration/)|
+|United Kingdom (UK)|[UK HMRC VAT registraion guide](https://www.gov.uk/register-for-vat/how-register-for-vat)|[Register for VAT online.](https://www.tax.service.gov.uk/register-for-vat)|
