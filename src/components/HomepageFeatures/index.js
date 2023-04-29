@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/guides.svg').default,
     description: (
       <>
-        Learn about the taxation guidlines in the countries you operate in. <a href="https://lookuptax.com/docs/category/country-guides">Explore more</a>
+        Learn about the taxation guidelines and upcoming regulations in the countries you operate in. <a href="https://lookuptax.com/docs/category/country-guides">Explore more</a>
       </>
     ),
   },
