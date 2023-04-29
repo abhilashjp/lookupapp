@@ -10,10 +10,36 @@ tags:
   - Italy
 ---
 
+<table align="center">
+    <tr>
+      <td align="center"><b>Country</b></td>
+        <td align="center">Italy</td>
+    </tr>
+    <tr>
+        <td align="center">Status</td>
+        <td align="center">Mandatory</td>
+    </tr>
+  <tr>
+        <td align="center">Formats</td>
+        <td align="center">FatturaPA</td>
+    </tr>
+</table>
+
 <!--
 
+
 ## FatturaPA
-FatturaPA isis the only type of electronic invoice that is accepted by Public Administrations. This Decree provided for by Italian Law number 633, 1972, article 21, subsection 1. 
+FatturaPA isis the only type of electronic invoice that is accepted by Public Administrations. This is as per the Italian Law number 633, 1972, article 21, subsection 1. 
+
+## Esterometro
+
+Esterometro was a tax reporting scheme that was originally put into place in 2019 in Italy. As per this scheme the VAT registered businesses in Italy were required to report sales and purchase invoices to or from foreign businesses and non-established businesses to the Agenzia Entrate quarterly. 
+Typical transactions on these invoices include intracommunity acquisitions, and imports and exports. This scheme was to cover those invoices that originally did not fall into the scope of the Sistema di Interscambio
+
+The Esterometro tax reporting scheme in Italy was abloshed in July 2022. It was replaced entirely by SDI(Sistema di Interscambio) reporting. 
+
+
+
 
 ## What it is, How to Use it, and Things to Note for e-Invoicing in Europe
 
