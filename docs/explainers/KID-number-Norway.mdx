@@ -15,7 +15,7 @@ The KID number (kundeidentifikasjon) in Norway is an abbreviation for "Customer 
 
 If a merchant wants to reconcile payments made via card they can get the information directly using their billing tools as all the payments are associated automatically with the invoices and their customers using the Transaction IDs.
 
-If a merchant wants to reconcile payments made via bank transfer or check they are dependent on the bank statement as he will not get this information from Chargebee. This is because in Chargebee, unlike card payments, offline payments are not automatically associated with the invoices. The bank statement has information about the payments and associated customers. However it has no information about the invoice towards which the payment was made.  To link these payments with invoices results in a lot of manual effort for the merchant. This process is time consuming and can be error prone. In Norway, the KID number helps solve this problem.
+If a merchant wants to reconcile payments made via bank transfer or check they are dependent on the bank statement as they will not get this information from their billing tool. This is because in billing tools, unlike card payments, offline payments are not automatically associated with the invoices. Instead, the bank statement has information about the payments and associated customers. However it has no information about the invoice towards which the payment was made.  Linking these payments with invoices results in a lot of manual effort for the merchant. This process is time consuming and can be error prone. In Norway, the KID number helps solve this problem.
 
 The purpose of KID number is to simplify bank reconciliations when offline payment methods are used. 
 Additionally it also ensures that customers are making payments towards the right invoice.
@@ -26,7 +26,7 @@ Other countries have their own version of KID. For example, in Sweden it is call
 #### Understanding further with an example
 
 
-1. Assume a customer in Norway has 2 unpaid invoices worth kr100 and kr200 ( You can even have a simpler case with just one invoice but for now let's use this example)
+1. Assume a customer in Norway has 2 unpaid invoices worth kr100 and kr200 ( You can even have a simpler case with just one invoice but for now let's use this example).
 2. The customer chooses to clear these unpaid invoices via Bank Transfer.
 3. He makes multiple payments — kr50, kr30, kr70, kr50, kr100, respectively to pay off these invoices.
 4. During reconciliation, the merchant struggles to associate these payments with the right invoices because he does not know which payment relates to which invoice.
@@ -72,14 +72,15 @@ The format to be followed is *<font color="orange">Leading 0’s (if any) + Next
 
 :memo: **NOTE:** *It is often recommended that the KID has to contain the customer number or ID and the invoice number. It is after all a customer identification number. But this is not mandatory. It can have any random number as long as it follows the agreement with the bank regarding the number of digits and the check digit algorithm. The reason for this recommendation is that it makes reconciliation easier this way. Because you can easily look at the bank statement to know which customer and invoice the payment should be mapped to. However, modern day billing and accounting tools make it easy for you to map the payment with the invoice even without the customer ID or the invoice number. The KID number is part of the invoice information and is also available when you export the invoices data in bulk to do the reconciliation. KID is also present on every payment recorded in the bank statement. So it acts as a common identifier to help you map the payment with the invoice and thereby making reconciliation easier.*
 
-Let’s take an example to see how it will work
+####Let’s take some examples to see how the final generated number will look like####
 
 1. Total Number of digits in KID - 10
 2. Next number in KID sequence - 567
 4. Check digit algorithm - Mod 10
 
-Final KID number generated = 0000005678. 
-8 is the check digit created as per the Mod 10 algorithm.
+Final KID number generated = <font color="green">000000</font><font color="orange">567</font><font color="red">8</font> 
+
+
 
 
 
