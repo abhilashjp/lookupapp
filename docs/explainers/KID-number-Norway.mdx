@@ -26,9 +26,9 @@ Other countries have their own version of KID. For example, in Sweden it is call
 #### Understanding further with an example
 
 
-1. Assume a customer in Norway has 2 unpaid invoices worth $100 and $200
+1. Assume a customer in Norway has 2 unpaid invoices worth kr100 and kr200 ( You can even have a simpler case with just one invoice but for now let's use this example)
 2. The customer chooses to clear these unpaid invoices via Bank Transfer.
-3. He makes multiple payments — $50, $30,$70, $50, $100, respectively to pay off these invoices.
+3. He makes multiple payments — kr50, kr30, kr70, kr50, kr100, respectively to pay off these invoices.
 4. During reconciliation, the merchant struggles to associate these payments with the right invoices because he does not know which payment relates to which invoice.
 
 This could have been solved if there was a way to link the payments made by the customer to the right invoice. KID number does exactly this. While making payments, the customer enters the KID number and the payment is accepted only if a KID number is in the right format. ( the format of the KID number is agreed upon between the bank and the merchant ).
@@ -55,16 +55,14 @@ This could have been solved if there was a way to link the payments made by the 
 
 ## Format of the KID number
 
-**Number of digits** — 3 to 25 digits where the last digit is the check digit. The KID number must contain only digits ( use numbers from 0-9) and should not be alphanumeric (Agreed upon with the bank)
+**Number of digits** — 3 to 25 digits including the check digit. The last digit in KID is the check digit. The KID number must contain only digits ( use numbers from 0-9) and should not be alphanumeric. Merchant enters into an agreement with the bank to decide the number of digits in the reference number. 
 
 **Check Digit calculation** — Based on recursive MOD 10 or MOD 11 algorithm ( Can be agreed upon between merchant and the bank ).
 
 **Rules to build the KID number** — KID numbers can contain customer ID and/or invoice number to identify customer and invoice but this is not mandatory.
 
-Number of digits allowed in the reference number: Merchant enters into an agreement with the bank to decide the number of digits in the reference number. Chargebee validates if the number (including the check digit) lies between 3 and 25 and if it does not then we throw an error.
 
-
-Check digit calculation algorithm: Two options — Mod 10 algorithm or Mod 11 algorithm (Mod 10 calculator).
+Check digit calculation algorithm: Two options — <a href="https://en.wikipedia.org/wiki/Luhn_algorithm" target="_blank">Mod 10 algorithm</a> Mod 10 algorithm or <a href="https://no.wikipedia.org/wiki/MOD11" target="_blank">Mod 11 algorithm</a> Mod 11 algorithm. Use the <a href="https://simplycalc.com/luhn-calculate.php" target="_blank">Mod 10 calculator</a> to validate the KID number that you generate.
 
 Next number: A random input number that will be used as the starting number to generate the reference number. ( This is obvious because how would you create KID if you don't have something to begin with.
 
