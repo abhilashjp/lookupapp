@@ -11,7 +11,7 @@ tags:
   - Italy
 ---
 
-<table align="center">
+<table  >
     <tr>
       <td align="left"><b>Country</b></td>
         <td align="left">Italy</td>
@@ -24,6 +24,11 @@ tags:
         <td align="left">Formats</td>
         <td align="left">FatturaPA</td>
     </tr>
+  <tr>
+        <td align="left">Authority</td>
+        <td align="left">Agenzia delle Entrate</td>
+    </tr>
+  
 </table>
 
 
