@@ -1,7 +1,7 @@
 ---
 slug: KID-number-Norway-kundeidentifikasjon
 title: KID number in Norway explained
-description: How can KID numbers help with reconciliation and how you can generate them.Learn what KID numbers are, why they're important, and how to generate them for your business transactions in Norway.
+description: How can KID numbers help with reconciliation and how you can generate them. Learn what KID numbers are, why they're important, and how to generate them for your business transactions in Norway.
 keywords: [KID number, KID number Norway, what is KID number, KID number for businesses, KID number explained, KID number generation, KID number importance, KID number for transactions, Norway payment system, Norwegian banking system]
 authors: [Aakash Nair]
 tags: [KID number]
@@ -43,7 +43,35 @@ This could have been solved if there was a way to link the payments made by the 
 
 2. In Norway, Einvoicing can be of 2 types —
 
-  E-invoicing with manual bank transfer: All E-invoices can be seen in the customer's bank account. Customer chooses to make a bank transfer manually by entering the KID number each time. In the bank statement, both the KID number and the invoice number will be available. This can help with reconciliations.
+E-invoicing with manual bank transfer: All E-invoices can be seen in the customer's bank account. Customer chooses to make a bank transfer manually by entering the KID number each time. In the bank statement, both the KID number and the invoice number will be available. This can help with reconciliations.
 
 
-  E-invoicing with Direct Debit (bank mandate or AvtaleGiro): In this case the amount is automatically deducted from the customer’s bank account. Here the customer does not have to enter the KID number again and the bank automatically transfers the amount. Since the payments are automatically associated with the invoices, reconciliation is simplified even without the KID number.
+E-invoicing with Direct Debit (bank mandate or AvtaleGiro): In this case the amount is automatically deducted from the customer’s bank account. Here the customer does not have to enter the KID number again and the bank automatically transfers the amount. Since the payments are automatically associated with the invoices, reconciliation is simplified even without the KID number.
+
+## Format of the KID number
+
+Number of digits — 3 to 25 digits where the last digit is the check digit. The KID number must contain only digits ( use numbers from 0-9) and should not be alphanumeric. Agreed upon with the bank.
+Check Digit calculation — Based on recursive MOD 10 or MOD 11 algorithm ( Can be agreed upon between merchant and the bank ).
+Rules to build the KID number — KID numbers can contain customer ID and/or invoice number to identify customer and invoice but this is not mandatory.
+
+
+
+Number of digits allowed in the reference number: Merchant enters into an agreement with the bank to decide the number of digits in the reference number. Chargebee validates if the number (including the check digit) lies between 3 and 25 and if it does not then we throw an error.
+
+
+Check digit calculation algorithm: Two options — Mod 10 algorithm or Mod 11 algorithm (Mod 10 calculator).
+
+Next number: A random input number that will be used as the starting number on the next created invoice to generate the reference number. All counters will work on this random number.
+
+Leading 0’s: If the final number of digits in the Variable part is less than the ‘Number of digits allowed in the reference number’ then we will add 0’s at the front to match. 
+
+
+Let’s take an example to see how it will work
+
+1. Total Number of digits in KID - 10
+2. Next number in KID sequence - 567
+4. Check digit algorithm - Mod 10
+
+Final KID number generated = 0000005678. 
+8 is the check digit created as per the Mod 10 algorithm.
+
