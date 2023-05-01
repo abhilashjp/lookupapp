@@ -55,6 +55,8 @@ This could have been solved if there was a way to link the payments made by the 
 
 ## Format of the KID number
 
+The format to be followed is <p style="color:blue"> *Leading 0’s (if any) + Next Number in sequence + Check digit* </p>
+
 **Number of digits** — 3 to 25 digits including the check digit. The last digit in KID is the check digit. The KID number must contain only digits ( use numbers from 0-9) and should not be alphanumeric. Merchant enters into an agreement with the bank to decide the number of digits in the reference number. 
 
 **Check Digit calculation** — Based on recursive MOD 10 or MOD 11 algorithm ( Can be agreed upon between merchant and the bank ).
@@ -62,11 +64,11 @@ This could have been solved if there was a way to link the payments made by the 
 **Rules to build the KID number** — KID numbers can contain customer ID and/or invoice number to identify customer and invoice but this is not mandatory.
 
 
-Check digit calculation algorithm: Two options — <a href="https://en.wikipedia.org/wiki/Luhn_algorithm" target="_blank">Mod 10 algorithm</a> or <a href="https://no.wikipedia.org/wiki/MOD11" target="_blank">Mod 11 algorithm</a>. Use the <a href="https://simplycalc.com/luhn-calculate.php" target="_blank">Mod 10 calculator</a> to validate the KID number that you generate.
+**Check digit calculation algorithm** - Two options — <a href="https://en.wikipedia.org/wiki/Luhn_algorithm" target="_blank">Mod 10 algorithm</a> or <a href="https://no.wikipedia.org/wiki/MOD11" target="_blank">Mod 11 algorithm</a>. Use the <a href="https://simplycalc.com/luhn-calculate.php" target="_blank">Mod 10 calculator</a> to validate the KID number that you generate.
 
-Next number: A random input number that will be used as the starting number to generate the reference number. ( This is obvious because how would you create KID if you don't have something to begin with.
+**Next number in sequence** - A random input number that will be used as the starting number to generate the reference number. ( This is obvious because how would you generate KID if you don't have something to begin with. This can be the invoice number too if you don't want to use a new number. Just make sure that you are only using digits and the invoice number is not alphanumeric.)
 
-Leading 0’s: If the final number of digits in the Variable part is less than the ‘Number of digits allowed in the reference number’ then we will add 0’s at the front to match. 
+**Leading 0’s** - If the final number of digits in the Variable part is less than the ‘Number of digits allowed in the reference number’ then we will add 0’s at the front to match. 
 
 :memo: **NOTE:** It is often recommended that the KID has to contain the customer number or ID and the invoice number. It is after all a customer identification number. But this is not mandatory. It can have any random number as long as it follows the agreement with the bank regarding the number of digits and the check digit algorithm. The reason for this recommendation is that it makes reconciliation easier this way. Because you can easily look at the bank statement to know which customer and invoice the payment should be mapped to. However, modern day billing and accounting tools make it easy for you to map the payment with the invoice even without the customer ID or the invoice number. The KID number is part of the invoice information and is also available when you export the invoices data in bulk to do the reconciliation. KID is also present on every payment recorded in the bank statement. So it acts as a common identifier to help you map the payment with the invoice and thereby making reconciliation easier. 
 
