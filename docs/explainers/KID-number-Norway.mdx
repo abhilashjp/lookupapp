@@ -55,16 +55,16 @@ Check Digit calculation — Based on recursive MOD 10 or MOD 11 algorithm ( Can 
 Rules to build the KID number — KID numbers can contain customer ID and/or invoice number to identify customer and invoice but this is not mandatory.
 
 
-
 Number of digits allowed in the reference number: Merchant enters into an agreement with the bank to decide the number of digits in the reference number. Chargebee validates if the number (including the check digit) lies between 3 and 25 and if it does not then we throw an error.
 
 
 Check digit calculation algorithm: Two options — Mod 10 algorithm or Mod 11 algorithm (Mod 10 calculator).
 
-Next number: A random input number that will be used as the starting number on the next created invoice to generate the reference number. All counters will work on this random number.
+Next number: A random input number that will be used as the starting number to generate the reference number. ( This is obvious because how would you create KID if you don't have something to begin with.
 
 Leading 0’s: If the final number of digits in the Variable part is less than the ‘Number of digits allowed in the reference number’ then we will add 0’s at the front to match. 
 
+NOTE: It is often recommended that the KID has to contain the customer number or ID and the invoice number. It is after all a customer identification number. But this is not mandatory. It can have any random number as long as it follows the agreement with the bank regarding the number of digits and the check digit algorithm. The reason for this recommendation is that it makes reconciliation easier this way. Because you can easily look at the bank statement to know which customer and invoice the payment should be mapped to. However, modern day billing and accounting tools make it easy for you to map the payment with the invoice even without the customer ID or the invoice number. The KID number is part of the invoice information and is also available when you export the invoices data in bulk to do the reconciliation. KID is also present on every payment recorded in the bank statement. So it acts as a common identifier to help you map the payment with the invoice and thereby making reconciliation easier. 
 
 Let’s take an example to see how it will work
 
@@ -74,4 +74,6 @@ Let’s take an example to see how it will work
 
 Final KID number generated = 0000005678. 
 8 is the check digit created as per the Mod 10 algorithm.
+
+
 
