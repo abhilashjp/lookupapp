@@ -68,12 +68,6 @@ Typical transactions on these invoices include intracommunity acquisitions, and 
 
 The Esterometro tax reporting scheme in Italy was abloshed in July 2022. It was replaced entirely by SDI(Sistema di Interscambio) reporting. 
 
-<!--
-
-## Things to Note When Using SDI
-
--->
-
 ## How to Sign Up and Send E-Invoices on SDI
 
 Businesses can either use SDI directly or make use of a service provider to send einvoices. The SDI then forwards the invoice to the recipient, who can view and download it through a secure web portal. The system also allows the Revenue Agency to verify the authenticity of the invoice and detect any irregularities or fraud. Sellers can look for the correct electorinic addresses(Codice) of the public administrations on the Indicepa website mentioned below. 
@@ -94,6 +88,10 @@ No prior registration is necessary if the elctronic invoices are send through a 
 
 In order send einvoices via the PEPPOL network to SDI and vice verce versa, the businesses needs to use a service provider that is both a Certified PEPPOL Access Point and a qualified intermediary towards the Revenue Agency’s SdI
 
+## Things to Note When Using SDI
+
+### Simiplied flow
+There is a simplified flow which can be adopted by those who interact with the Exchange System in their roles as both transmitter and receiver through the same transmission channel; in this case the flow of messages undergoes changes to enable greater efficiency in the process of transmitting electronic invoices and the related notices
 
 ## Important websites
 
