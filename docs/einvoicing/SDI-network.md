@@ -86,6 +86,8 @@ No prior registration is necessary if the elctronic invoices are send through a 
 
 The messages relating to the issued or transmitted file can be viewed directly by the transmitter or by the issuer (or his/her delegate/person in charge) using their Entratel or Fisconline credentials on SDI via _Monitoraggio delle ricevute dei file trasmessi tool_ [here](https://ivaservizi.agenziaentrate.gov.it/portale/)
 
+For those using SDI the invoices are stored and can be accessed in the authenticated area of the portal called "Fatture e Corrispettivi"
+
 ## Integration with Peppol 
 
 In order send einvoices via the PEPPOL network to SDI and vice verce versa, the businesses needs to use a service provider that is both a Certified PEPPOL Access Point and a qualified intermediary towards the Revenue Agency’s SdI
