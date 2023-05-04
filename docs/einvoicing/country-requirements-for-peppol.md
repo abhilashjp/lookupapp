@@ -50,4 +50,4 @@ List of PEPPOL Access Point Providers recognized by the Italian PEPPOL Authority
  ## Reference links
  * [Differences between XRechnung and  Peppol BIS Billing Invoice](https://xeinkauf.de/app/uploads/2022/11/CIUSse_im_Peppol_Kontext.pdf)
  * [Italy Peppol Authority requirements](https://peppol.org/wp-content/uploads/2022/08/Italy-Peppol-Authority-Specific-Requirements.pdf)
- * 
+
