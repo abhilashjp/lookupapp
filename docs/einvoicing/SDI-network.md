@@ -95,6 +95,9 @@ In order send einvoices via the PEPPOL network to SDI and vice verce versa, the 
 ### Simiplied flow
 There is a simplified flow which can be adopted by those who interact with the Exchange System in their roles as both transmitter and receiver through the same transmission channel; in this case the flow of messages undergoes changes to enable greater efficiency in the process of transmitting electronic invoices and the related notices
 
+### Digital ID
+To use these services it is necessary to have an identity defined within the public Digital Identity System (SPID, CIE or CNS) or credentials issued by the Agency
+
 ## Important websites
 
 |Website| Link|
@@ -103,6 +106,7 @@ There is a simplified flow which can be adopted by those who interact with the E
 |Registry of Italian Public Administrations|[Indicepa](https://indicepa.gov.it/ipa-portale/)|
 |Fiscal Code validation|[Telematici](https://telematici.agenziaentrate.gov.it/VerificaCF/Scegli.do?parameter=verificaCf)|
 |Channel registration|[Registration](https://www.fatturapa.gov.it/en/servizionline/accreditare-il-canale/accreditare-il-canale/)|
+|Portale Fatture & Corrispettivi|[Signin](https://www.agenziaentrate.gov.it/portale/web/guest/schede/comunicazioni/fatture-e-corrispettivi/acc-servizio-fatture-e-corrispettivi)|
 
 ## Reference Links
 * [Format of FatturaPA](https://www.fatturapa.gov.it/en/norme-e-regole/documentazione-fattura-elettronica/formato-fatturapa/)
