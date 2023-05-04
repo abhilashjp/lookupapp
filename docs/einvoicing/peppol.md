@@ -39,9 +39,14 @@ While Peppol offers many benefits, there are some important things to note when 
 
 Peppol is not a single system, but a collection of interconnected Access Points and Service Metadata Publishers that offer various e-invoicing services to their clients. Access Points are responsible for handling the transmission of electronic documents, while Service Metadata Publishers store information about the location of registered Access Points and other service providers.
 
+## Important Websites
+|Website| URL|
+|--|--|
+|Directory of businesses on peppol|[Peppol Directory](https://directory.peppol.eu/public)|
+|Official list of peppol access points|[Peppol access points](https://peppol.eu/who-is-who/peppol-certified-aps/)|
 
 ## Reference Links
-* [List of Peppol access points](https://peppol.eu/who-is-who/peppol-certified-aps/)
-* [Peppol Directory](https://directory.peppol.eu/public)
+* [About Peppol](https://peppol.org/about/)
+* [What is Openpeppol](https://peppol.eu/about-openpeppol/what-is-openpeppol/)
 * [List of countries accepting Peppol invoices](https://peppol.eu/what-is-peppol/peppol-country-profiles/)
 * [Germany requirements for peppol](https://xeinkauf.de/peppol/nationale-anforderungen-im-peppol-netzwerk/)
