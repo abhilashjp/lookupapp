@@ -24,6 +24,10 @@ tags:
       <td>Tax name</td>
       <td>Goods and Services Tax(GST)</td>
     </tr>
+    <tr>
+      <td>Tax Authority</td>
+      <td>Central Board Of Indirect Taxes & Customs</td>
+    </tr>
   </tbody>
 </table>
 
@@ -194,8 +198,13 @@ E-Invoice or IRN can’t be partially cancelled. It has to be fully cancelled.
 |Help Desk Number|1800-103-4786|
 |GSTIN Lookup|[Search](https://services.gst.gov.in/services/searchtp)|
 |GST Login|[Visit Website](https://services.gst.gov.in/services/login)|
+|Notifications|[GST Notifications](https://taxinformation.cbic.gov.in/content-page/explore-notification)|
 
-
+:::Latest updates 
+* `13-Apr-2023` **Time limit for Reporting Invoices on the IRP Portal** 
+** The invoices should be reported to IRP within 7 days of generation. This is applicable to businesses with annual turnover of 100Cr and above.[Learn More](https://einvoice.gst.gov.in/einvoice/newsandupdates/timeLimit)
+** Example, if an invoice has a date of April 1, 2023, it cannot be reported after April 8, 2023
+:::
 
 ## Reference links
 * [GST core concepts](https://cbic-gst.gov.in/pdf/01062019-GST-Concept-Status.pdf)
