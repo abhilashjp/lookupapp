@@ -9,6 +9,7 @@ tags:
   - SDI
   - Einvoicing Network
   - Italy
+  - Clearance model
 ---
 
 <table  >
@@ -17,7 +18,15 @@ tags:
         <td align="left">Italy</td>
     </tr>
     <tr>
-        <td align="Left">Status</td>
+        <td align="Left">Status - B2G</td>
+        <td align="left">Mandatory</td>
+    </tr>
+  <tr>
+        <td align="Left">Status - B2B</td>
+        <td align="left">Mandatory</td>
+    </tr>
+  <tr>
+        <td align="Left">Status - B2C</td>
         <td align="left">Mandatory</td>
     </tr>
   <tr>
@@ -32,15 +41,27 @@ tags:
         <td align="left">Network name</td>
         <td align="left">Sistema di Interscambio</td>
  </tr>
+  <tr>
+        <td align="left">Legislation</td>
+        <td align="left">Regole tecniche relative alla gestione delle fatture di cui all’art. 3, comma 1, d.lgs. 148/2018</td>
+ </tr>
 </table>
 
+## Overview
+Einvoicing in Italy is governed by Agenzia delle Entrate(The Revenue Agency). The einvoicing network in itally called Sistema di Interscambio.
+Businesses that are based or established in Italy must use electronic invoicing and digital signatures when issuing invoices to government departments in Italy. Businesses outside of italy can issue invoices in paper or electronic form. Italy einvoicing is one of the examples of a clearance model which means validation of the invoice by tax administration before sending it to the buyer.
+
+## What is SDI?
+Sistema di Interscambio (SDI) is the einvoicing system in Italy. The Exchange System has no administrative role and does not perform any task relating to archiving nor storing invoices.
 
 
 
-## FatturaPA
-FatturaPA isis the only type of electronic invoice that is accepted by Public Administrations.[^1] 
+## Formats
 
-## Esterometro
+### FatturaPA
+Electronic invoices are in xml format and Italy's national format is called FatturaPA. FatturaPA is the only type of electronic invoice that is accepted by Public Administrations.[^1] . The authenticity of origin and the integrity of the content are guaranteed by the person who issues the invoice by affixing a certified electronic signature or a digital signature. 
+
+### Esterometro
 
 Esterometro was a tax reporting scheme that was originally put into place in 2019 in Italy. As per this scheme the VAT registered businesses in Italy were required to report sales and purchase invoices to or from foreign businesses and non-established businesses to the Agenzia Entrate quarterly. 
 Typical transactions on these invoices include intracommunity acquisitions, and imports and exports. This scheme was to cover those invoices that originally did not fall into the scope of the Sistema di Interscambio
@@ -49,23 +70,44 @@ The Esterometro tax reporting scheme in Italy was abloshed in July 2022. It was 
 
 <!--
 
-
-## What it is, How to Use it, and Things to Note for e-Invoicing in Europe
-
-## What is Peppol?
-
-## Uses of Peppol
-
-## How to Sign Up and Send E-Invoices on Peppol
-
-## Integration with Peppol 
-
-## Things to Note When Using Peppol
+## Things to Note When Using SDI
 
 -->
 
+## How to Sign Up and Send E-Invoices on SDI
+
+Businesses can either use SDI directly or make use of a service provider to send einvoices. The SDI then forwards the invoice to the recipient, who can view and download it through a secure web portal. The system also allows the Revenue Agency to verify the authenticity of the invoice and detect any irregularities or fraud. Sellers can look for the correct electorinic addresses(Codice) of the public administrations on the Indicepa website mentioned below. 
+
+
+Businesses can make use of any of the following channels to send einvoices. 
+
+* Certified Electronic Mail (PEC)(Posta elettronica certificata)
+* Send via web
+* SDICoop Service - Transmission (Portale Fatture & Corrispettivi)
+* SDIFTP service
+
+For using broadcast services other than the portal busineses need to use authentication certificates. The accepted signature formats for invoice files are CAdES-BES and XAdES-BES.
+
+No prior registration is necessary if the elctronic invoices are send through a Certified Electronic Mail (PEC). For the rest of the channels a registration is required. 
+
+## Integration with Peppol 
+
+In order send einvoices via the PEPPOL network to SDI and vice verce versa, the businesses needs to use a service provider that is both a Certified PEPPOL Access Point and a qualified intermediary towards the Revenue Agency’s SdI
+
+
+## Important websites
+
+|Website| Link|
+|--|--|
+| SDI Network| [Fatturapa](https://www.fatturapa.gov.it)|
+|Registry of Italian Public Administrations|[Indicepa](https://indicepa.gov.it/ipa-portale/)|
+|Fiscal Code validation|[Telematici](https://telematici.agenziaentrate.gov.it/VerificaCF/Scegli.do?parameter=verificaCf)|
+|Channel registration|[Registration](https://www.fatturapa.gov.it/en/servizionline/accreditare-il-canale/accreditare-il-canale/)|
+
 ## Reference Links
-* [Format of FatturaPA](https://www.fatturapa.gov.it/en/lafatturapa/formatofatturapa/)
+* [Format of FatturaPA](https://www.fatturapa.gov.it/en/norme-e-regole/documentazione-fattura-elettronica/formato-fatturapa/)
 * [FatturaPA Documentation](https://www.fatturapa.gov.it/en/norme-e-regole/documentazione-fattura-elettronica/formato-fatturapa/)
+* [FatturaPA Examples](https://www.fatturapa.gov.it/en/lafatturapa/esempi/)
+* [How to Sign FatturaPA](https://www.fatturapa.gov.it/en/comefare/operatori-economici/firmare-la-fatturapa/)
 
 [^1]: Decree provided for by the Italian Law number 633, 1972, article 21, subsection 1. 
