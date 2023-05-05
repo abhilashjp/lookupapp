@@ -94,7 +94,7 @@ In order send einvoices via the PEPPOL network to SDI and vice verce versa, the 
 
 
 ### Invoice transmission flow
-![Invoice Transmission Flow](/static/img/SDI-peppol-invoice-transmission-flow.png)
+![Invoice Transmission Flow](/img/SDI-peppol-invoice-transmission-flow.png)
 
 1. The Economic Operator (Corner 1) sends the document to its own Access Point Provider (Corner 2), specifying the receiver as the Public Administration's UFE endpoint from iPA.
 2. The Access Point Provider (Corner 2) uses PEPPOL's dynamic discovery to identify the Access Point (Corner 3) to which it must deliver the document for the PA.
@@ -104,7 +104,7 @@ In order send einvoices via the PEPPOL network to SDI and vice verce versa, the 
 
 ### Notification Flow
 
-![Invoice Transmission Flow](/static/img/Notification-flow.png)
+![Notification Flow](/img/Notification-flow.png)
 
 1. The Public Administration (Corner 4) sends a notification of receipt to SdI in FatturaPA format, using the traditional SdI channels.
 2. SdI receives the notification and sends it, in FatturaPA format, to the PA's Access Point Provider (Corner 3) through SdI's traditional channel.
