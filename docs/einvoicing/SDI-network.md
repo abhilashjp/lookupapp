@@ -90,7 +90,10 @@ For those using SDI the invoices are stored and can be accessed in the authentic
 
 ## Integration with Peppol 
 
-In order send einvoices via the PEPPOL network to SDI and vice verce versa, the businesses needs to use a service provider that is both a Certified PEPPOL Access Point and a qualified intermediary towards the Revenue Agency’s SdI
+In order send einvoices via the PEPPOL network to SDI and vice verce versa, the businesses needs to use a service provider that is both a Certified PEPPOL Access Point and a qualified intermediary towards the Revenue Agency’s SdI.
+
+![Invoice Transmission Flow](/static/img/SDI-peppol-invoice-transmission-flow.png)
+
 
 ## Things to Note When Using SDI
 
