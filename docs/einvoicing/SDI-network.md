@@ -92,12 +92,30 @@ For those using SDI the invoices are stored and can be accessed in the authentic
 
 In order send einvoices via the PEPPOL network to SDI and vice verce versa, the businesses needs to use a service provider that is both a Certified PEPPOL Access Point and a qualified intermediary towards the Revenue Agency’s SdI.
 
+
+### Invoice transmission flow
 ![Invoice Transmission Flow](/static/img/SDI-peppol-invoice-transmission-flow.png)
 
+1. The Economic Operator (Corner 1) sends the document to its own Access Point Provider (Corner 2), specifying the receiver as the Public Administration's UFE endpoint from iPA.
+2. The Access Point Provider (Corner 2) uses PEPPOL's dynamic discovery to identify the Access Point (Corner 3) to which it must deliver the document for the PA.
+3. The Access Point Provider of the Economic Operator (Corner 2) sends the document to the Access Point Provider of the Public Administration (Corner 3).
+4. The Access Point of the Public Administration (Corner 3) sends the document to the Electronic Exchange System (SdI) using the traditional channels provided by SdI.
+5. SdI verifies the compliance of the document with the Italian rules, translates it into the FatturaPA national format, and delivers it to the PA by attaching the original Peppol BIS 3 file, using the reception channels registered on SdI itself.
+
+### Notification Flow
+
+![Invoice Transmission Flow](/static/img/Notification-flow.png)
+
+1. The Public Administration (Corner 4) sends a notification of receipt to SdI in FatturaPA format, using the traditional SdI channels.
+2. SdI receives the notification and sends it, in FatturaPA format, to the PA's Access Point Provider (Corner 3) through SdI's traditional channel.
+3. The Access Point Provider of the Public Administration (Corner 3) converts the notification from FatturaPA format to UBL format, creating the Invoice Response.
+4. The Access Point Provider of the Public Administration (Corner 3) uses PEPPOL's dynamic discovery to identify the Access Point (Corner 2) to which the Invoice Response should be delivered.
+5. The Access Point Provider (Corner 3) sends the Invoice Response notice to the Access Point Provider of the Economic Operator (Corner 2) on the PEPPOL network.
+6. The Access Point Provider of the Economic Operator (Corner 2) uses a notification method agreed upon between the parties to inform the original sender of the invoice (Corner 1) of the transmission outcome.
 
 ## Things to Note When Using SDI
 
-### Simiplied flow
+### Simiplified flow
 There is a simplified flow which can be adopted by those who interact with the Exchange System in their roles as both transmitter and receiver through the same transmission channel; in this case the flow of messages undergoes changes to enable greater efficiency in the process of transmitting electronic invoices and the related notices
 
 ### Digital ID
