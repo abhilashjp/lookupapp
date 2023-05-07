@@ -136,5 +136,6 @@ To use these services it is necessary to have an identity defined within the pub
 * [FatturaPA Documentation](https://www.fatturapa.gov.it/en/norme-e-regole/documentazione-fattura-elettronica/formato-fatturapa/)
 * [FatturaPA Examples](https://www.fatturapa.gov.it/en/lafatturapa/esempi/)
 * [How to Sign FatturaPA](https://www.fatturapa.gov.it/en/comefare/operatori-economici/firmare-la-fatturapa/)
+* [Electrnic invoices and free services of the Revenue Agency](https://www.agenziaentrate.gov.it/portale/documents/20143/233439/guida+fattura+elettronica+pa_Guida_La%2Bfattura_elettroniva_e_i_servizi_gratuiti_dell'Agenzia_delle_Entrate.pdf/6ed33b70-2716-4754-9000-f8d3c0d6b6b0?version=1.0)
 
 [^1]: Decree provided for by the Italian Law number 633, 1972, article 21, subsection 1. 
