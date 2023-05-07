@@ -280,3 +280,6 @@ CIUS defines a common set of data elements and attributes that must be included 
 
 ### EN 16931
 EN 16931 is the European standard on e-invoicing that was developed and published by the European Committee for Standardization (CEN), at the request of the European Commission. There are two main parts to the standard, a semantic data model and the two mandatory syntaxes that comply with the standard i.e. UBL and CII.
+
+### Nodo Smistamento Ordini
+Nodo Smistamento Ordini(NSO) is a sytem used for the exchange of digital documents between the public bodies of the National Health Service and their supplier companies in Italy. 
