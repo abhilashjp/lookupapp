@@ -49,7 +49,7 @@ tags:
 
 ## Overview
 Einvoicing in Italy is governed by Agenzia delle Entrate(The Revenue Agency). The einvoicing network in itally called Sistema di Interscambio.
-Businesses that are based or established in Italy must use electronic invoicing and digital signatures when issuing invoices to government departments in Italy. Businesses outside of italy can issue invoices in paper or electronic form. Beginning on January 1st, 2019, Italian regulations have made it mandatory for businesses registered in Italy to exchange invoices through the use of the Sistema di Interscambio (SdI). This requirement applies to all invoices issued between domestic businesses.Starting 2022, this regulation also encompass cross-border invoicing, meaning that invoices exchanged between Italian businesses and businesses located in other countries must also be processed through the SdI system. Italy einvoicing is one of the examples of a clearance model which means validation of the invoice by tax administration before sending it to the buyer.
+Businesses that are based or established in Italy must use electronic invoicing and digital signatures when issuing invoices to government departments in Italy. Businesses outside of italy can issue invoices in paper or electronic form. Beginning on January 1st, 2019, Italian regulations have made it mandatory for businesses registered in Italy to exchange invoices through the use of the Sistema di Interscambio (SdI). This requirement applies to all invoices issued between domestic businesses.Starting 2022, this regulation also encompass cross-border invoicing, meaning that invoices exchanged between Italian businesses and businesses located in other countries must also be processed through the SDI system. Italy einvoicing is one of the examples of a clearance model which means validation of the invoice by tax administration before sending it to the buyer.
 
 ## What is SDI?
 Sistema di Interscambio (SDI) is the einvoicing system in Italy. The Exchange System has no administrative role and does not perform any task relating to archiving nor storing invoices.
@@ -137,5 +137,5 @@ To use these services it is necessary to have an identity defined within the pub
 * [FatturaPA Examples](https://www.fatturapa.gov.it/en/lafatturapa/esempi/)
 * [How to Sign FatturaPA](https://www.fatturapa.gov.it/en/comefare/operatori-economici/firmare-la-fatturapa/)
 * [Electrnic invoices and free services of the Revenue Agency](https://www.agenziaentrate.gov.it/portale/documents/20143/233439/guida+fattura+elettronica+pa_Guida_La%2Bfattura_elettroniva_e_i_servizi_gratuiti_dell'Agenzia_delle_Entrate.pdf/6ed33b70-2716-4754-9000-f8d3c0d6b6b0?version=1.0)
-
+* [Budget Law no. 178/2020](https://www.gazzettaufficiale.it/eli/id/2020/12/30/20G00202/sg)
 [^1]: Decree provided for by the Italian Law number 633, 1972, article 21, subsection 1. 
