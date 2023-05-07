@@ -21,7 +21,11 @@ tags:
     </tr>
      <tr>
       <td>Tax name</td>
-      <td>Value Added Services Tax(VAT), impuesto sobre el valor añadido (IVA)</td>
+      <td>Impuesto sobre el Valor Añadido(IVA) aka VAT</td>
+    </tr>
+    <tr>
+      <td>Tax Authority</td>
+      <td>Agencia Estatal de Administración Trubutaria (AEAT)</td>
     </tr>
   </tbody>
 </table>
