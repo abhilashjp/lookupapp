@@ -60,7 +60,6 @@ Once GST regsitration is complete a supplier is issued a 15 digit GST identifica
 ### Regex Format
 ``` 
 \d{2}[A-Z]{5}\d{4}[A-Z]{1}[A-Z\d]{1}[Z]{1}[A-Z\d]{1}
-
  ```
  Following are the details of the **GSTIN** format 
 
