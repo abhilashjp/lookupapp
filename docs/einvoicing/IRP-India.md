@@ -46,9 +46,11 @@ tags:
  </tr>
 </table>
 
-
+<!--
 
 
 ##  Entities/Persons exempted:
 
-SEZ Units, Insurance, Banking [including NBFCs], Goods Transport Agency [transporting goods by road in goods carriage], Passenger Transport Services, Multiplex Cinema Admissions
+SEZ Units, Insurance, Banking (including NBFCs), Goods Transport Agency (transporting goods by road in goods carriage), Passenger Transport Services, Multiplex Cinema Admissions
+
+-->
