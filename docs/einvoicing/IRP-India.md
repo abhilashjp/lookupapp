@@ -10,3 +10,45 @@ tags:
   - India
   - Clearance model
 ---
+
+<table  >
+    <tr>
+      <td align="left"><b>Country</b></td>
+        <td align="left">India</td>
+    </tr>
+    <tr>
+        <td align="Left">Status - B2G</td>
+        <td align="left">Mandatory</td>
+    </tr>
+  <tr>
+        <td align="Left">Status - B2B</td>
+        <td align="left">Mandatory for taxpayers with aggregate turnover >Rs.10Cr</td>
+    </tr>
+  <tr>
+        <td align="Left">Status - B2C</td>
+        <td align="left">Mandatory for taxpayers with aggregate turnover >Rs.500Cr</td>
+    </tr>
+  <tr>
+        <td align="left">Formats</td>
+        <td align="left">QR on Invoice, PDF</td>
+    </tr>
+  <tr>
+        <td align="left">Authority</td>
+        <td align="left">GST Council</td>
+    </tr>
+  <tr>
+        <td align="left">Network name</td>
+        <td align="left">Invoice Registration Portal (IRP)</td>
+ </tr>
+  <tr>
+        <td align="left">Legislation</td>
+        <td align="left">Rule 48(4) of CGST Rules 2017</td>
+ </tr>
+</table>
+
+
+
+
+##  Entities/Persons exempted:
+
+SEZ Units, Insurance, Banking [including NBFCs], Goods Transport Agency [transporting goods by road in goods carriage], Passenger Transport Services, Multiplex Cinema Admissions
