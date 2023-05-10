@@ -200,8 +200,8 @@ E-Invoice or IRN can’t be partially cancelled. It has to be fully cancelled.
 |Notifications|[GST Notifications](https://taxinformation.cbic.gov.in/content-page/explore-notification)|
 
 ## Latest updates 
-:::note Latest updates on GST 
-*`06-May-2023` **Deferment of Implementation of Time Limit on Reporting Old e-Invoices**
+:::note Latest updates on GST
+* `06-May-2023` **Deferment of Implementation of Time Limit on Reporting Old e-Invoices**
   *  The imposition of time limit of 7 days on reporting old e-invoices on the e-invoice IRP portals for taxpayers with aggregate turnover greater than or equal to 100 crores has been deferred by three months [Learn More](https://www.gst.gov.in/newsandupdates/read/582)
 * `13-Apr-2023` **Time limit for Reporting Invoices on the IRP Portal** 
   * The invoices should be reported to IRP within 7 days of generation. This is applicable to businesses with annual turnover of 100Cr and above. [Learn More](https://einvoice.gst.gov.in/einvoice/newsandupdates/timeLimit) 
