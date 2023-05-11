@@ -120,7 +120,7 @@ The invoices successfully registered on the IRP will be automatically popluated 
 ### State code
 It is noticed that the state codes defined by the GST council doesnot match with the [ISO code](https://www.iso.org/obp/ui/#iso:code:3166:IN). 
 
-* [Numneric State code](https://docs.ewaybillgst.gov.in/apidocs/state-code.html)
+* [Numeric State code](https://docs.ewaybillgst.gov.in/apidocs/state-code.html)
 * [Official Pdf](https://ddvat.gov.in/docs/List%20of%20State%20Code.pdf)
 
 ### [Exemptions](https://cbic-gst.gov.in/pdf/igst-exemption-concession-list-03.06.2017.pdf)
