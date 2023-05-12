@@ -155,12 +155,12 @@ const config = {
           toExtensions: ['exe', 'zip'],
           redirects: [
             {
-              to: '/blog/',
-              from: '/docs/blog',
+              to: '/docs/',
+              from: '/docs/country/intro/',
             },
             {
               to: '/docs/country/India',
-              from: ['/docs/countries/india/', 'docs/country/intro/'],
+              from: ['/docs/countries/india/', '/docs/countries/India/'],
             },
           ],
           createRedirects(existingPath) {
