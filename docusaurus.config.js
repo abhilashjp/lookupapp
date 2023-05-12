@@ -145,6 +145,38 @@ const config = {
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Lookup, Inc. Built with Docusaurus.`,
       },
+      
+      // Add the plugin export code here
+    plugins: [
+      [
+        '@docusaurus/plugin-client-redirects',
+        {
+          fromExtensions: ['html', 'htm'],
+          toExtensions: ['exe', 'zip'],
+          redirects: [
+            {
+              to: '/blog/',
+              from: '/docs/blog',
+            },
+            {
+              to: '/docs/country/India',
+              from: ['/docs/countries/india/', 'docs/country/intro/'],
+            },
+          ],
+          createRedirects(existingPath) {
+            if (existingPath.includes('/community')) {
+              return [
+                existingPath.replace('/community', '/docs/team'),
+                existingPath.replace('/community', '/docs/support'),
+              ];
+            }
+            return undefined;
+          },
+        },
+      ],
+    ],
+    // End of plugin export code
+      
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
