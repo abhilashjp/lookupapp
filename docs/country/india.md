@@ -63,9 +63,6 @@ Once GST regsitration is complete a supplier is issued a 15 digit GST identifica
 
 ![GSTIN format regular registration](/img/GSTIN-format-regular-registration.png)
 
-``` 
-\d{2}[A-Z]{5}\d{4}[A-Z]{1}[A-Z\d]{1}[Z]{1}[A-Z\d]{1}
- ```
  Following are the details of the **GSTIN** format 
 
  1. 1st 2 digits: This is the state code as per the Indian Census 2011
@@ -74,9 +71,16 @@ Once GST regsitration is complete a supplier is issued a 15 digit GST identifica
  4. 14th digit:This will be ‘Z’ by default.
  5. 15th digit: This digit denotes a ‘checksum’. It may be an alphabet or a number.
 
+#### Regular Expression(Regex)
+``` 
+\d{2}[A-Z]{5}\d{4}[A-Z]{1}[A-Z\d]{1}[Z]{1}[A-Z\d]{1}
+ ```
 
 #### Non Resident TaxPayers (NRTP) for OIDAR Sevices (Online Information Data Base Access and Retrieval)
 ![GSTIN format OIDAR](/img/GSTIN-format-OIDAR.png)
+
+* Special Code 99 for 'Other Country'
+* Special Code 97 for 'Other Terrritory'
 
 ## Tax rates
 On Intra state transactions [CGST](https://www.cbic.gov.in/resources//htdocs-cbec/gst/CGST%20Act%20Updated%20as%20on%2031.08.2021.pdf) and SGST/UTGST are applied. In case of intersate transction [IGST](https://www.cbic.gov.in/resources//htdocs-cbec/gst/IGST-Act-Updated.pdf) is appiled . Following are the currently allowed tax rates. Along with these 'cess' might be levied by the state governments on some items
