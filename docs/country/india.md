@@ -76,7 +76,7 @@ Once GST regsitration is complete a supplier is issued a 15 digit GST identifica
 \d{2}[A-Z]{5}\d{4}[A-Z]{1}[A-Z\d]{1}[Z]{1}[A-Z\d]{1}
  ```
 
-#### Non Resident TaxPayers (NRTP) for OIDAR Sevices (Online Information Data Base Access and Retrieval)
+#### Non Resident Taxable Persons (NRTP) for OIDAR Sevices (Online Information Data Base Access and Retrieval)
 ![GSTIN format OIDAR](/img/GSTIN-format-OIDAR.png)
 
 * Special Code 99 for 'Other Country'
