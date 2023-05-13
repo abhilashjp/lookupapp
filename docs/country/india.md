@@ -57,7 +57,12 @@ Visit [GST portal](https://www.gst.gov.in/). Go to  Services > Registration > [N
 ## Tax Registration number - GSTIN 
 Once GST regsitration is complete a supplier is issued a 15 digit GST identification number(GSTIN). The first 2 digits of the GSTIN is the State code, next 10 digits are the PAN of the legal entity, the next two digits are for entity code, and the last digit is check sum number. Registration under GST is not tax specific which means that there is a single registration for all the taxes i.e. CGST, SGST/UTGST, IGST and cesses
 
-### Regex Format
+### GSTIN Format
+
+#### Regular Registration
+
+![GSTIN format regular registration](/img/GSTIN-format-regular-registration.png)
+
 ``` 
 \d{2}[A-Z]{5}\d{4}[A-Z]{1}[A-Z\d]{1}[Z]{1}[A-Z\d]{1}
  ```
@@ -69,6 +74,9 @@ Once GST regsitration is complete a supplier is issued a 15 digit GST identifica
  4. 14th digit:This will be ‘Z’ by default.
  5. 15th digit: This digit denotes a ‘checksum’. It may be an alphabet or a number.
 
+
+#### Non Resident TaxPayers (NRTP) for OIDAR Sevices (Online Information Data Base Access and Retrieval)
+![GSTIN format OIDAR](/img/GSTIN-format-OIDAR.png)
 
 ## Tax rates
 On Intra state transactions [CGST](https://www.cbic.gov.in/resources//htdocs-cbec/gst/CGST%20Act%20Updated%20as%20on%2031.08.2021.pdf) and SGST/UTGST are applied. In case of intersate transction [IGST](https://www.cbic.gov.in/resources//htdocs-cbec/gst/IGST-Act-Updated.pdf) is appiled . Following are the currently allowed tax rates. Along with these 'cess' might be levied by the state governments on some items
@@ -223,6 +231,8 @@ Compounding, Page 438](https://www.cbic.gov.in/resources//htdocs-cbec/gst/Final-
 * [Einvoice Cancellation](https://einvoice1.gst.gov.in/Others/Faqs)
 * [India einvoice user manual](https://einvoice1.gst.gov.in/Documents/EINVOICE_UserManual_Web.pdf)
 * [Invoice Format](https://cbic-gst.gov.in/hindi/pdf/e-version-gst-fliers/tax-invoice-efliers.pdf)
+* [GSTIN Format](http://idtc-icai.s3.amazonaws.com/download/knowledgeShare18-19/Structure-of-GSTIN.pdf)
+* [OIDAR Services in GST](https://old.cbic.gov.in/resources//htdocs-cbec/gst/51_GST_Flyer_Chapter42.pdf)
 
 
 
