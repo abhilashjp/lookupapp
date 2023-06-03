@@ -43,7 +43,7 @@ tags:
     </tr>
   <tr>
         <td align="left">Network name</td>
-        <td align="left">Digital Zakat</td>
+        <td align="left">Digital Zakat(FATOORA)</td>
  </tr>
   <tr>
         <td align="left">Legislation</td>
@@ -51,9 +51,14 @@ tags:
  </tr>
 </table>
 
+## Overview
+The Zakat, Tax and Customs Authority is responsible for the implementation of Einvoicing in the Kingdom of Saudi Arabia. The regulations governing E-Invoicing in KSA were issued by the Board of Directors of the Zakat on December 4, 2020. The implementation included 2 phases
+Phase 1 known as 'Generation Phase', started from 4th December 2021 and phase 2 known as 'Integration Phase' started from 1st January 2023.
 
 
-
+<!--
+## Formats
+-->
 * [Roll out Phases](https://zatca.gov.sa/en/E-Invoicing/Introduction/Pages/Roll-out-phases.aspx)
 * [E-invoicing regulations- Arabic](https://zatca.gov.sa/ar/E-Invoicing/Introduction/LawsAndRegulations/Documents/E-invoicing_Reg_AR.pdf)
 * [E-invoicing regulations- EN](https://zatca.gov.sa/en/E-Invoicing/Introduction/LawsAndRegulations/Documents/E-invoicing%20Regulation%20EN.pdf)
