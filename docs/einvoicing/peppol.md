@@ -20,6 +20,8 @@ Peppol is an e-invoicing network that allows businesses to exchange electronic i
 
 Peppol is designed to be an open and interoperable network, which means that businesses can connect to it using a variety of e-invoicing solutions. This makes it easy for businesses to send and receive e-invoices regardless of the e-invoicing software they use. Peppol also supports a range of document types beyond e-invoices, such as purchase orders, order responses, and shipping notifications.  These documents include e-Orders, e-Advance Shipping Notes, eInvoices, eCatalogues, Message Level Responses, etc.
 
+![Peppol 4 Corner Model](/img/einvoicing-peppol-four-corner-model.png)
+
 ## Uses of Peppol
 Peppol can be used for a variety of purposes, including B2B (business-to-business) and B2G (business-to-government) invoicing. In particular, Peppol is commonly used in the public sector, where e-invoicing is mandatory in many countries. Most of the public entities in European Union can reecive invoices via peppol. Peppol is widely gaining poplularity internationally and is accepted in countries outside EU such as Australia and Singapore. 
 
