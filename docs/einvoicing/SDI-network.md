@@ -54,7 +54,7 @@ Businesses that are based or established in Italy must use electronic invoicing 
 ## What is SDI?
 Sistema di Interscambio (SDI) is the einvoicing system in Italy. The Exchange System has no administrative role and does not perform any task relating to archiving nor storing invoices.
 
-## Who needs to generate einvoice
+## Who need to generate einvoice?
 All Italian businesses need to generate einvoices for all of their domestic and crossborder transactions. 
 
 ## Formats
