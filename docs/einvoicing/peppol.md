@@ -23,6 +23,7 @@ Peppol is designed to be an open and interoperable network, which means that bus
 ## How Peppol works?
 
 ![Peppol 4 Corner Model](/img/einvoicing-peppol-four-corner-model.png)
+*Peppol 4 Corner Model*
 
 ## Uses of Peppol
 Peppol can be used for a variety of purposes, including B2B (business-to-business) and B2G (business-to-government) invoicing. In particular, Peppol is commonly used in the public sector, where e-invoicing is mandatory in many countries. Most of the public entities in European Union can reecive invoices via peppol. Peppol is widely gaining poplularity internationally and is accepted in countries outside EU such as Australia and Singapore. 
