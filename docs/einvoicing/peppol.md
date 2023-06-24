@@ -23,6 +23,8 @@ Peppol is designed to be an open and interoperable network, which means that bus
 ## How Peppol works?
 
 ![Peppol 4 Corner Model](/img/einvoicing-peppol-four-corner-model.png)
+
+{:.image-caption}
 *Peppol 4 Corner Model*
 
 ## Uses of Peppol
