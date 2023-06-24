@@ -278,5 +278,8 @@ div[class^='announcementBar_'] {
   color: #fff;
 }
 
-
+.image-caption {
+  text-align: center;
+  font-size: .8rem;
+  color: lightgrey;
 
