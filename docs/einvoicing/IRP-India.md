@@ -75,9 +75,11 @@ B2C einvoices in India are nothing by invoices with a dynamic QR code.
 Dynamic QR code needs to be captured in all the B2C (business to consumers) invoices. In simple words, on all the supplies made by a registered business to unregistered persons, a dynamic QR code needs to be captured.
 
 **Type of businesses who need to display dynamic QR code for B2C invoices**
+
 All the businesses whose annual turnover exceed 500 crores in any preceding financial year (starting from 2017-18) are mandated to display QR code on their B2C invoices from 1st December 2020.
 
 **Parameters/ details to be captured in the Quick Response (QR) Code**
+
 Dynamic QR Code should be such that it can be scanned to make a digital payment. The following are the details that need to be captured in dynamic QR code -
 
 * Supplier GSTIN number
@@ -88,6 +90,7 @@ Dynamic QR Code should be such that it can be scanned to make a digital payment.
 * GST amount along with breakup i.e. CGST, SGST, IGST, CESS, etc. 
 
 **Generating dynamic QR code B2C invoices**
+
 Businesses should generate dynamic QR code for B2C invoices using their own QR code generating machines and algorithms. Here, IRN generation is not required and you need not upload B2C invoices to IRP. If uploaded, IRP will reject such invoices.
 
 
