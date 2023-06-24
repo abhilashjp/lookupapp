@@ -67,15 +67,21 @@ Phase 2 implementation is in groups. The first group is same as the first group 
 To comply with regulations, you are obligated to generate e-invoices for domestic sales, exports originating from KSA to other nations, and transactions involving prepayments for goods and services. However, e-invoices are not mandatory for transactions exempt from VAT and their associated payments, imports entering KSA, or supplies subject to the reverse charge mechanism.
 
 ## Formats
-XML or PDF/A-3 format with embedded XML
-Note that a paper invoice that is scanned or its photo is not considered an e-invoice.
-
-## Types of Einvoices
 
 ### Standard e-invoice
 ![Tax Invoice](/img/KSA-tax-invoice-example-fatoora-saudi-arabia.png)
 ### Simplified e-invoice
-![Simplified Tax invoice](KSA-simplified-tax-invoice-fatoora-saudi-arabia.png)
+![Simplified Tax invoice](/img/KSA-simplified-tax-invoice-fatoora-saudi-arabia.png)
+
+Format is XML or PDF/A-3 format with embedded XML. Note that a paper invoice that is scanned or its photo is not considered an e-invoice.
+
+## Types of Einvoices
+
+### Standard e-invoice process
+![Standard e-invoice process](/img/standard-tax-einvoices-process.png)
+
+### Simplified e-invoice process
+![Simplified einvoice](/img/simplified-einvoice-process.png)
 
 ## Editing Einvoices
 Eivoices generated cannot be edited. Nonetheless, it is possible to generate electronic invoices for VAT-compliant debit and credit notes, using on ZATCA's platform. These notes should be linked to the initial invoice that was originally issued. Suppose, for example, that a buyer returns a product and you are unable to modify the original invoice. In such cases, you can generate a credit note on the e-invoicing system . It is important to note that all invoicing and note issuance activities must be conducted through the same e-invoicing system and adhere to ZATCA's regulations. This approach establishes a standardized process for transactions, ensuring uniformity and secure storage of information.
