@@ -1,5 +1,5 @@
 ---
-id: Zatca-Saudi-Arabia-einvoicing-zakat-tax-and-customs-authority
+id: Zatca-fatoora-Saudi-Arabia-einvoicing-zakat-tax-and-customs-authority
 title: ZATCA in Saudi Arabia - A Complete Guide
 keywords: [ZATCA in Saudi Arabia, Einvoicing regulations in Saudi Arabia, ZATCA updates in Saudi Arabia, Tax compliance in Saudi Arabia, ZATCA status in Saudi Arabia,Einvoicing implications in Saudi Arabia, Saudi Arabian tax regulations, ZATCA compliance requirements, Saudi Arabian e-invoicing landscape,ZATCA implementation in Saudi Arabia]
 sidebar_label: Zatca - Saudi Arabia
@@ -82,6 +82,14 @@ Format is XML or PDF/A-3 format with embedded XML. Note that a paper invoice tha
 
 ### Simplified e-invoice process
 ![Simplified einvoice](/img/simplified-einvoice-process.png)
+
+## QR code components
+The following information should be present in the QR code
+* Seller’s name
+* VAT registration number of the seller
+* Date and time of invoice/note
+* VAT amount
+* Total amount (with VAT) of invoice/note
 
 ## Editing Einvoices
 Eivoices generated cannot be edited. Nonetheless, it is possible to generate electronic invoices for VAT-compliant debit and credit notes, using on ZATCA's platform. These notes should be linked to the initial invoice that was originally issued. Suppose, for example, that a buyer returns a product and you are unable to modify the original invoice. In such cases, you can generate a credit note on the e-invoicing system . It is important to note that all invoicing and note issuance activities must be conducted through the same e-invoicing system and adhere to ZATCA's regulations. This approach establishes a standardized process for transactions, ensuring uniformity and secure storage of information.
