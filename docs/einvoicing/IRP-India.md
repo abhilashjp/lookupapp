@@ -22,7 +22,7 @@ tags:
     </tr>
   <tr>
         <td align="Left">Status - B2B</td>
-        <td align="left">Mandatory for taxpayers with aggregate turnover >Rs.10Cr</td>
+        <td align="left">Mandatory for taxpayers with aggregate turnover >Rs.5Cr</td>
     </tr>
   <tr>
         <td align="Left">Status - B2C</td>
