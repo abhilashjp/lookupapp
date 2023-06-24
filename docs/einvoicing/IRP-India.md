@@ -58,6 +58,10 @@ The following list of entities are exempted from issuing einvoices in India
 * Passenger Transport Services
 * Multiplex Cinema Admissions
 
+## Editing an einvoice
+You can't delete or modify an IRN or invoice once it is generated. However, it can only be cancelled and you can report a new document a with new invoice number and generate a fresh IRN (ideally issue credit note and then generate a new invoice).
+Cancellation of an IRN is allowed only within 24 hours of its generetion. An IRN cannot be cancelled, if a valid or active ewaybill exists for the same.
+
 <!--
 
 
