@@ -66,6 +66,7 @@ Phase 2 implementation is in groups. The first group is same as the first group 
 To comply with regulations, you are obligated to generate e-invoices for domestic sales, exports originating from KSA to other nations, and transactions involving prepayments for goods and services. However, e-invoices are not mandatory for transactions exempt from VAT and their associated payments, imports entering KSA, or supplies subject to the reverse charge mechanism.
 
 ## Formats
+XML or PDF/A-3 format with embedded XML
 Note that a paper invoice that is scanned or its photo is not considered an e-invoice.
 
 ## Editing Einvoices
@@ -81,6 +82,13 @@ Eivoices generated cannot be edited. Nonetheless, it is possible to generate ele
 <!--
 
 -->
+## Latest updates 
+:::note Latest updates on GST
+* `28-Apr-2023` **Criteria for selecting the taxpayers in Wave 4 for implementing phase 2** 
+  *  Fourth wave include all taxpayers whose revenues subject to VAT exceeded 150 Million Saudi Riyals during 2021 or 2022. VAT registered taxpayers meeting the criteria should integrate their e-invoicing solutions with (FATOORA) Platform starting from November 1, 2023.. [Learn More](https://zatca.gov.sa/en/MediaCenter/News/Pages/news_1039.aspx) 
+
+:::
+
 ## Important Links
 * [Roll out Phases](https://zatca.gov.sa/en/E-Invoicing/Introduction/Pages/Roll-out-phases.aspx)
 * [E-invoicing regulations- Arabic](https://zatca.gov.sa/ar/E-Invoicing/Introduction/LawsAndRegulations/Documents/E-invoicing_Reg_AR.pdf)
