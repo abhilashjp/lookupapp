@@ -70,7 +70,7 @@ XML or PDF/A-3 format with embedded XML
 Note that a paper invoice that is scanned or its photo is not considered an e-invoice.
 
 ## Editing Einvoices
-Eivoices generated cannot be edited. Nonetheless, it is possible to generate electronic invoices for VAT-compliant debit and credit notes, using on ZATCA. These notes should be linked to the initial invoice that was originally issued. Suppose, for example, that a buyer returns a product and you are unable to modify the original invoice. In such cases, you can generate a credit note on the e-invoicing system . It is important to note that all invoicing and note issuance activities must be conducted through the same e-invoicing system and adhere to ZATCA's regulations. This approach establishes a standardized process for transactions, ensuring uniformity and secure storage of information.
+Eivoices generated cannot be edited. Nonetheless, it is possible to generate electronic invoices for VAT-compliant debit and credit notes, using on ZATCA's platform. These notes should be linked to the initial invoice that was originally issued. Suppose, for example, that a buyer returns a product and you are unable to modify the original invoice. In such cases, you can generate a credit note on the e-invoicing system . It is important to note that all invoicing and note issuance activities must be conducted through the same e-invoicing system and adhere to ZATCA's regulations. This approach establishes a standardized process for transactions, ensuring uniformity and secure storage of information.
 
 ## Things to Note
 
@@ -83,9 +83,18 @@ Eivoices generated cannot be edited. Nonetheless, it is possible to generate ele
 
 -->
 ## Latest updates 
-:::note Latest updates on GST
+:::note Latest updates on FATOORA)
 * `28-Apr-2023` **Criteria for selecting the taxpayers in Wave 4 for implementing phase 2** 
-  *  Fourth wave include all taxpayers whose revenues subject to VAT exceeded 150 Million Saudi Riyals during 2021 or 2022. VAT registered taxpayers meeting the criteria should integrate their e-invoicing solutions with (FATOORA) Platform starting from November 1, 2023.. [Learn More](https://zatca.gov.sa/en/MediaCenter/News/Pages/news_1039.aspx) 
+  *  The Fourth wave include all taxpayers whose revenues subject to VAT exceeded 150 Million Saudi Riyals during 2021 or 2022. VAT registered taxpayers meeting the criteria should integrate their e-invoicing solutions with (FATOORA) Platform starting from November 1, 2023.
+[Learn More](https://zatca.gov.sa/en/MediaCenter/News/Pages/news_1039.aspx)
+
+* `24-Mar-2023` **Criteria for selecting the taxpayers in Wave 3 for implementing phase 2** 
+  * The Third wave include all taxpayers whose revenues subject to VAT exceeded 250 Million Saudi Riyals during 2021 or 2022. VAT registered taxpayers meeting the criteria should integrate their e-invoicing solutions with (FATOORA) Platform starting from October 1, 2023.
+[Learn More](https://zatca.gov.sa/en/MediaCenter/News/Pages/news_1023.aspx)
+
+* `23-Dec-2023` **Criteria for selecting the taxpayers in Wave 2 for implementing phase 2** 
+  * The second wave include all taxpayers whose revenues subject to VAT exceeded (half a billion Saudi riyals) during 2021. VAT registered taxpayers meeting the criteria should integrated their E-invoicing solutions with (FATOORA) Platform starting from July 1, 2023.
+[Learn More](https://zatca.gov.sa/en/MediaCenter/News/Pages/News_987.aspx) 
 
 :::
 
