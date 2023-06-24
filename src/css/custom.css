@@ -263,6 +263,13 @@ html[data-theme="light"] .navbar__link--active {
   justify-content: space-between;
 }
 
+.image-caption {
+  text-align: center;
+  font-size: .8rem;
+  color: lightgrey;
+
+}
+
 @media screen and (max-width: 997px) {
   .doc-page--footer--edit {
     flex-direction: column;
@@ -277,9 +284,4 @@ div[class^='announcementBar_'] {
   background-color: var(--ifm-color-primary);
   color: #fff;
 }
-
-.image-caption {
-  text-align: center;
-  font-size: .8rem;
-  color: lightgrey;
 
