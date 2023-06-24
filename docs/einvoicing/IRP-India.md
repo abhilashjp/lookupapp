@@ -46,12 +46,20 @@ tags:
  </tr>
 </table>
 
+
+##  Entities/Persons exempted
+
+The following list of entities are exempted from issuing einvoices in India
+
+* SEZ Units
+* Insurance
+* Banking (including NBFCs)
+* Goods Transport Agency (transporting goods by road in goods carriage)
+* Passenger Transport Services
+* Multiplex Cinema Admissions
+
 <!--
 
-
-##  Entities/Persons exempted:
-
-SEZ Units, Insurance, Banking (including NBFCs), Goods Transport Agency (transporting goods by road in goods carriage), Passenger Transport Services, Multiplex Cinema Admissions
 
 I. Introduction to e-Invoicing in India
 A. Definition and significance of e-Invoicing
@@ -124,5 +132,14 @@ A. Recap of the benefits and advantages of e-Invoicing
 B. Encouragement to adopt e-Invoicing through the IRP
 C. Closing thoughts on the future of digital transformation in India's invoicing processes
 
-
+ Overview
+    What is IRP?
+    Formats
+    How to Sign Up and Send E-Invoices on IRP
+    Invoice transmission flow
+    Notification Flow
+    Things to Note When Using IRP
+    Important websites
+    Reference Links
 -->
+
