@@ -70,8 +70,13 @@ To comply with regulations, you are obligated to generate e-invoices for domesti
 
 ### Standard e-invoice
 ![Tax Invoice](/img/KSA-tax-invoice-example-fatoora-saudi-arabia.png)
+
+Standard E-Invoices are generally issued in Business to Business (B2B) transaction
+
 ### Simplified e-invoice
 ![Simplified Tax invoice](/img/KSA-simplified-tax-invoice-fatoora-saudi-arabia.png)
+
+A Simplified Tax Invoice as per Article 53(7) of VAT Implementing Regulations that is generated and stored in a structured electronic format generally issued for a B2C (business to consumer) transaction and does not generally include the buyer’s details1. Optionally, Simplified Tax Invoices may also be issued for business-to-business transactions in case the value of supply is below SAR1000
 
 Format is XML or PDF/A-3 format with embedded XML. Note that a paper invoice that is scanned or its photo is not considered an e-invoice.
 
