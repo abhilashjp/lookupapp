@@ -188,7 +188,7 @@ Though there are several documents available online saying that digital signatur
 
 <details>
   <summary>Can I cancel an IRN ? </summary>
-  Yes can cancel an IRN within 24 hours of its generetion. IRN cannot be cancelled, if a valid or active ewaybill exists for the same. Note that you can't delete or modify an IRN or invoice. It can only be cancelled and report a new document a with new invoice number and generate a fresh IRN (ideally issue credit note and then generate a new invoice)
+  Yes, you can cancel an IRN within 24 hours of its generetion. IRN cannot be cancelled, if a valid or active ewaybill exists for the same. Note that you can't delete or modify an IRN or invoice. It can only be cancelled and report a new document a with new invoice number and generate a fresh IRN (ideally issue credit note and then generate a new invoice)
 </details>
 
 <details>
