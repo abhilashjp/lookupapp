@@ -10,6 +10,7 @@ tags:
   - Einvoicing Network
   - Saudi Arabia
   - KSA
+  - Fatoora
 ---
 
 <table  >
@@ -54,7 +55,7 @@ tags:
 ## Overview
 The Zakat, Tax and Customs Authority is responsible for the implementation of Einvoicing in the Kingdom of Saudi Arabia. The regulations governing E-Invoicing in KSA were issued by the Board of Directors of the Zakat on December 4, 2020. The implementation included 2 phases
 Phase 1 known as 'Generation Phase', started from 4th December 2021 and phase 2 known as 'Integration Phase' started from 1st January 2023.
-
+Einvoicing is usually referred to as FATOORA in KSA. 
 
 In phase 2, the relevant businesses must integrate their systems with the Tax Authority's system in order to obtain a clearance for Tax Invoices (including the corresponding debit and credit notes) and report the transactions for which Simplified Tax Invoices (including the corresponding debit and credit notes) have been issued.
 
@@ -68,6 +69,10 @@ To comply with regulations, you are obligated to generate e-invoices for domesti
 ## Formats
 XML or PDF/A-3 format with embedded XML
 Note that a paper invoice that is scanned or its photo is not considered an e-invoice.
+
+## Types of Einvoices
+### Standard e-invoice
+### Simplified e-invoice
 
 ## Editing Einvoices
 Eivoices generated cannot be edited. Nonetheless, it is possible to generate electronic invoices for VAT-compliant debit and credit notes, using on ZATCA's platform. These notes should be linked to the initial invoice that was originally issued. Suppose, for example, that a buyer returns a product and you are unable to modify the original invoice. In such cases, you can generate a credit note on the e-invoicing system . It is important to note that all invoicing and note issuance activities must be conducted through the same e-invoicing system and adhere to ZATCA's regulations. This approach establishes a standardized process for transactions, ensuring uniformity and secure storage of information.
