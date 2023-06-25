@@ -178,6 +178,7 @@ Issuing Credit Note without reference to Original Invoice will be violating requ
 <summary>We have some customers that issue invoices to companies with VAT in Saudi Arabia, but that are non-residents as they have no physical address in KSA territory. Is it possible to indicate a foreign address although the VAT is registered in Saudi Arabia?</summary>
 Yes. It is possible to indicate a foreign address although the buyer is VAT is registered in KSA
 </details>
+
   
 ## Latest updates 
 
