@@ -98,6 +98,8 @@ Debit notes are issued by the sellers in order to issue a correction in value to
 ### Credit Note
 Credit notes are issued by the sellers in order to refund buyers and are used to correct invoices information if generated with an error. Credit notes follow the same format as the invoice they have been issued upon.
 
+Each stored invoice must follow a naming convention for naming of the file: VAT Registration(tax registration number) + Timestamp (date and time at the point of invoice generation) + Invoice Reference Number
+
 ## QR code components
 The following information should be present in the QR code
 * Seller’s name
