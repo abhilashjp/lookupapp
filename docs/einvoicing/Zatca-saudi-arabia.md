@@ -32,7 +32,7 @@ tags:
     </tr>
   <tr>
         <td align="Left">Status - Non residents</td>
-        <td align="left">NA</td>
+        <td align="left">Not Applicable</td>
     </tr>
   <tr>
         <td align="left">Formats</td>
@@ -59,6 +59,10 @@ Einvoicing is usually referred to as FATOORA in KSA.
 
 In phase 2, the relevant businesses must integrate their systems with the Tax Authority's system in order to obtain a clearance for Tax Invoices (including the corresponding debit and credit notes) and report the transactions for which Simplified Tax Invoices (including the corresponding debit and credit notes) have been issued.
 
+Tax Invoices must be submitted in XML format (not PDF/A-3) to FATOORA Platform for“ Clearance ”using APIs. FATOORA Platform will validate whether the Tax Invoice is compliant with XML Implementation Standard and run additional referential checks. Once the Tax Invoice pass validation checks, FATOORA Platform will “Clear ”the Tax Invoice by including a Cryptographic Stamp and a QR Code to the XML. The “Cleared ”XML will be sent back to the taxpayer using API.
+
+The taxpayers have an option to generate Simplified Tax Invoices for the B2B transactions if the value of Taxable Supplies is less than 1,000 SAR. It must be noted that for Simplified Invoices for B2C transaction can be generated for any value (even for transactions where
+value of Taxable Supplies exceed 1,000 SAR). This limit of 1,000 SAR is only applicable when the supplier chooses to issue Simplified Tax Invoice for B2B transactions.
 
 ## Who need to generate einvoice in KSA ?
 Phase 2 implementation is in groups. The first group is same as the first group selected for phase 1. All resident businesses who are registered for VAT in Saudi Arabia whose revenues exceed 3 billion riyals for the calendar year 2021 forms this group and are required to implement Phase 2 of e-invoicing between 1 January 2023 to 30 June 2023. The details of the subsequent groups will be announces 6 months in advance before the specific date of linkage with the Tax Authority's system. 
@@ -68,17 +72,17 @@ To comply with regulations, you are obligated to generate e-invoices for domesti
 
 ## Formats
 
-### Standard e-invoice
+### Standard e-invoice Or Tax Invoice
 ![Tax Invoice](/img/KSA-tax-invoice-example-fatoora-saudi-arabia.png)
 
-Standard E-Invoices are generally issued in Business to Business (B2B) transactions.A Tax Invoice as per Article 53(1) of VAT Implementing Regulations that is generated and stored in a structured electronic format through electronic means.
+Standard E-Invoices are generally issued in Business to Business (B2B) transactions.A Tax Invoice as per Article 53(1) of VAT Implementing Regulations that is generated and stored in a structured electronic format through electronic means. The format is XML or PDF/A-3 format with embedded XML. Note that a paper invoice that is scanned or its photo is not considered an e-invoice.
 
 ### Simplified e-invoice
 ![Simplified Tax invoice](/img/KSA-simplified-tax-invoice-fatoora-saudi-arabia.png)
 
-A Simplified Tax Invoice as per Article 53(7) of VAT Implementing Regulations that is generated and stored in a structured electronic format generally issued for a B2C (business to consumer) transaction and does not generally include the buyer’s details1. Optionally, Simplified Tax Invoices may also be issued for business-to-business transactions in case the value of supply is below SAR1000. Persons subject to the E-Invoicing Regulation will be required to transmit all Simplified Tax Invoices to the FATOORA Portal within (24) hours from its issuance.
+A Simplified Tax Invoice as per Article 53(7) of VAT Implementing Regulations that is generated and stored in a structured electronic format generally issued for a B2C (business to consumer) transaction and does not generally include the buyer’s details1. Optionally, Simplified Tax Invoices may also be issued for business-to-business transactions in case the value of supply is below SAR1000. Persons subject to the E-Invoicing Regulation will be required to transmit all Simplified Tax Invoices to the FATOORA Portal within (24) hours from its issuance. Once the Simplified Tax Invoice passvalidation checks, FATOORA Platform will provide an API response.
 
-The format is XML or PDF/A-3 format with embedded XML. Note that a paper invoice that is scanned or its photo is not considered an e-invoice.
+Simplified Tax Invoices must be generated in XML format or a PDF/A-3 (with embedded XML). Taxpayer’s einvoice generation solution must stamp the XML using CSID issued by ZATCA and also include a QR Code which is compliant with Phase 2 requirements (9 tags in TLV base64 format).
 
 ## Types of Einvoices
 
