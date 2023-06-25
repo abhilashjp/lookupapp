@@ -71,14 +71,14 @@ To comply with regulations, you are obligated to generate e-invoices for domesti
 ### Standard e-invoice
 ![Tax Invoice](/img/KSA-tax-invoice-example-fatoora-saudi-arabia.png)
 
-Standard E-Invoices are generally issued in Business to Business (B2B) transaction
+Standard E-Invoices are generally issued in Business to Business (B2B) transactions.A Tax Invoice as per Article 53(1) of VAT Implementing Regulations that is generated and stored in a structured electronic format through electronic means.
 
 ### Simplified e-invoice
 ![Simplified Tax invoice](/img/KSA-simplified-tax-invoice-fatoora-saudi-arabia.png)
 
-A Simplified Tax Invoice as per Article 53(7) of VAT Implementing Regulations that is generated and stored in a structured electronic format generally issued for a B2C (business to consumer) transaction and does not generally include the buyer’s details1. Optionally, Simplified Tax Invoices may also be issued for business-to-business transactions in case the value of supply is below SAR1000
+A Simplified Tax Invoice as per Article 53(7) of VAT Implementing Regulations that is generated and stored in a structured electronic format generally issued for a B2C (business to consumer) transaction and does not generally include the buyer’s details1. Optionally, Simplified Tax Invoices may also be issued for business-to-business transactions in case the value of supply is below SAR1000. Persons subject to the E-Invoicing Regulation will be required to transmit all Simplified Tax Invoices to the FATOORA Portal within (24) hours from its issuance.
 
-Format is XML or PDF/A-3 format with embedded XML. Note that a paper invoice that is scanned or its photo is not considered an e-invoice.
+The format is XML or PDF/A-3 format with embedded XML. Note that a paper invoice that is scanned or its photo is not considered an e-invoice.
 
 ## Types of Einvoices
 
@@ -87,6 +87,12 @@ Format is XML or PDF/A-3 format with embedded XML. Note that a paper invoice tha
 
 ### Simplified e-invoice process
 ![Simplified einvoice](/img/simplified-einvoice-process.png)
+
+### Debit Note
+Debit notes are issued by the sellers in order to issue a correction in value to buyers. Debit notes are used for increasing the value of the original invoice or the VAT amount. Debit notes follow the same format as the invoice for which they have been issued.
+
+### Credit Note
+Credit notes are issued by the sellers in order to refund buyers and are used to correct invoices information if generated with an error. Credit notes follow the same format as the invoice they have been issued upon.
 
 ## QR code components
 The following information should be present in the QR code
@@ -124,6 +130,26 @@ Eivoices generated cannot be edited. Nonetheless, it is possible to generate ele
 [Learn More](https://zatca.gov.sa/en/MediaCenter/News/Pages/News_987.aspx) 
 
 :::
+
+## Glossary
+
+### Clearance
+Clearance involves the Authority verifying that the Electronic Tax Invoices and their associated Electronic Notes, submitted by individuals or entities, meet the specified controls and requirements. The Authority will apply a Cryptographic Stamp only to the Invoices and Notes that satisfy these controls and requirements. It's important to note that the Clearance process does not apply to Simplified Tax Invoices.
+
+### Invoice Reference Number
+The E-Invoice Solution assigns a distinct and consecutive number to each issued invoice, as mandated by article 53 of the VAT Implementing Regulations. The regulations, however, do not prescribe a particular format for the Invoice Reference Number. As a result, the reference numbers can vary, such as having a separate sequential reference number for each branch, as long as the Tax Invoice is clearly defined and follows a logical sequence.
+
+### Cryptographic Stamp
+A cryptographic electronic stamp is generated using algorithms to guarantee the authenticity of the source and the integrity of the content of data for Electronic Invoices and their associated Electronic Notes. It also verifies the identity of the issuer for the Invoices and Notes, ensuring adherence to the provisions and controls outlined in the VAT Law and its Implementing Regulation concerning the generation of Electronic Invoices and Notes.
+
+### Cryptographic Stamp Identifier(CSID)
+The Cryptographic Stamp Identifier (CSID) serves as a distinct identifier that establishes a connection between the E-Invoice Solution Unit and a reliable third party capable of verifying the identity of the individual or entity subject to the E-Invoicing Regulation.
+
+### UUID
+A 128-bit identifier, produced through an algorithm specifically designed to minimize the chances of generating the same identifier by any other entity in the known universe using the same algorithm. The UUID (Universally Unique Identifier) is created by an E-Invoice Solution that complies with the required standards, and it is embedded within the XML invoice. It is worth noting that in Windows operating systems, UUIDs are commonly referred to as GUIDs (Globally Unique Identifiers).
+
+### Hash
+A hash function is a type of function that can be utilized to convert data of any size into fixed-size values known as hashes, which occupy minimal space. The process of hashing is deterministic, which implies that it consistently generates the same hash value for a specific input value. It is impossible to reverse-engineer the original data from a hash, highlighting that the purpose of hashing is to ensure the integrity of a file or data by verifying that it has not been modified
 
 ## Important Links
 * [Roll out Phases](https://zatca.gov.sa/en/E-Invoicing/Introduction/Pages/Roll-out-phases.aspx)
