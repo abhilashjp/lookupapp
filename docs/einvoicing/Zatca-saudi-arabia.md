@@ -129,6 +129,13 @@ The following information should be present in the QR code
 * VAT amount
 * Total amount (with VAT) of invoice/note
 
+## How to Sign Up for einvoicing? 
+Entities need to singup with a compliant E-Invoice Solutions. The Taxpayers will be able to connect to the API of the FATOORA Portal by following the below steps:
+1. Taxpayer accesses FATOORA portal website (FATOORA.zatca.gov.sa) and logs in using ERAD credentials
+2. Taxpayer requests OTP code for the solution to integrate
+3. Taxpayer populates OTP code in E-Invoice Solution
+4. Taxpayer reviews if solution was successfully on-boarded
+
 ## Editing Einvoices
 Eivoices generated cannot be edited. Nonetheless, it is possible to generate electronic invoices for VAT-compliant debit and credit notes, using on ZATCA's platform. These notes should be linked to the initial invoice that was originally issued. Suppose, for example, that a buyer returns a product and you are unable to modify the original invoice. In such cases, you can generate a credit note on the e-invoicing system . It is important to note that all invoicing and note issuance activities must be conducted through the same e-invoicing system and adhere to ZATCA's regulations. This approach establishes a standardized process for transactions, ensuring uniformity and secure storage of information.
 
@@ -142,6 +149,39 @@ Eivoices generated cannot be edited. Nonetheless, it is possible to generate ele
 <!--
 
 -->
+
+## Frequently Asked Questions
+
+<details>
+  <summary>How can a taxpayer verify that their E-Invoice Solution has been successfully integrated?</summary>
+  The Taxpayers can use the FATOORA Portal (https://FATOORA.zatca.gov.sa/) in order to view a summary list of all their integrated E-Invoice Solutions This list is availble under the section View List of Solutions and Devices. 
+</details>
+<details>
+  <summary>If one VAT Registration Number has multiple devices, should each device be registered?</summary>
+  Yes, every device issuing invoices with the same VAT number should be registered. 
+</details>
+<details>
+<summary>Can I submit the same invoice twice?</summary>
+No, ZATCA does not allow the same document to be submitted twice. However, this will not be rejected at the time of submission.
+</details>
+<details>
+<summary>For Tax Invoices, what should be done if the clearance fails before issuing the invoice to the buyer?</summary>
+In case of Tax Invoices, if clearing fails (Response is 400 Error), then the taxpayer must submit another invoice for clearance after rectifying the errors. Please note that every document shall have its own hash and counter value. Rejected document’s hash and counter
+value should not be changed or updated.
+</details>
+<details>
+<summary>Is it possible to issue a credit note without a reference to an invoice?</summary>
+Issuing Credit Note without reference to Original Invoice will be violating requirements of Article 54 of KSA VAT Regulations
+</details>
+<details>
+<summary>Do we need to send to ZATCA the Invoices where all sold items and services are “Services outside scope of tax / Not subject to VAT”?</summary>
+“The Tax Category Code O is for those transactions where invoice may contain a line item with Standard Rate supply and other with” “Not Subject to VAT”. There is no need to issue a Tax Invoice (or E Invoice) where the transaction solely covers supplies which are “Not Subject to VAT”.
+</details>
+<details>
+<summary>We have some customers that issue invoices to companies with VAT in Saudi Arabia, but that are non-residents as they have no physical address in KSA territory. Is it possible to indicate a foreign address although the VAT is registered in Saudi Arabia?</summary>
+Yes. It is possible to indicate a foreign address although the buyer is VAT is registered in KSA
+</details>
+  
 ## Latest updates 
 :::note Latest updates on FATOORA)
 * `28-Apr-2023` **Criteria for selecting the taxpayers in Wave 4 for implementing phase 2** 
