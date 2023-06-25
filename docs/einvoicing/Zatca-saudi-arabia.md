@@ -130,7 +130,7 @@ The following information should be present in the QR code
 * Total amount (with VAT) of invoice/note
 
 ## How to Sign Up for einvoicing? 
-Entities need to singup with a compliant E-Invoice Solutions. The Taxpayers will be able to connect to the API of the FATOORA Portal by following the below steps:
+Entities need to singup with compliant E-Invoice Solutions. The Taxpayers will be able to connect to the API of the FATOORA Portal by following the below steps:
 1. Taxpayer accesses FATOORA portal website (FATOORA.zatca.gov.sa) and logs in using ERAD credentials
 2. Taxpayer requests OTP code for the solution to integrate
 3. Taxpayer populates OTP code in E-Invoice Solution
@@ -146,9 +146,6 @@ Eivoices generated cannot be edited. Nonetheless, it is possible to generate ele
 * The invoices must be in Arabic. While it is possible to translate or include additional languages, issuing the e-invoice in Arabic is a mandatory requirement.
 * All business owners registered for VAT within KSA, with the exception of non-resident taxable individuals, are required to adopt the e-invoicing process for both domestic and international sales. Additionally, if you act as a third party in KSA and issue tax invoices on behalf of a taxable person, you must also comply with the e-invoicing regulations.
 
-<!--
-
--->
 
 ## Frequently Asked Questions
 
@@ -183,7 +180,9 @@ Yes. It is possible to indicate a foreign address although the buyer is VAT is r
 </details>
   
 ## Latest updates 
-:::note Latest updates on FATOORA)
+
+:::note Latest updates on FATOORA
+
 * `28-Apr-2023` **Criteria for selecting the taxpayers in Wave 4 for implementing phase 2** 
   *  The Fourth wave include all taxpayers whose revenues subject to VAT exceeded 150 Million Saudi Riyals during 2021 or 2022. VAT registered taxpayers meeting the criteria should integrate their e-invoicing solutions with (FATOORA) Platform starting from November 1, 2023.
 [Learn More](https://zatca.gov.sa/en/MediaCenter/News/Pages/news_1039.aspx)
@@ -222,9 +221,12 @@ A hash function is a type of function that can be utilized to convert data of an
 * [Roll out Phases](https://zatca.gov.sa/en/E-Invoicing/Introduction/Pages/Roll-out-phases.aspx)
 * [E-invoicing regulations- Arabic](https://zatca.gov.sa/ar/E-Invoicing/Introduction/LawsAndRegulations/Documents/E-invoicing_Reg_AR.pdf)
 * [E-invoicing regulations- EN](https://zatca.gov.sa/en/E-Invoicing/Introduction/LawsAndRegulations/Documents/E-invoicing%20Regulation%20EN.pdf)
+* [Sandbox for testing](https://sandbox.zatca.gov.sa/)
 
 ## Reference Links
 * [Phase 2 Groups](https://zatca.gov.sa/ar/MediaCenter/News/Pages/News_912.aspx)
 * [Phase 2 summary](https://www.ey.com/en_gl/tax-alerts/saudi-arabia-releases-final-e-invoicing-regulations-for-phase-2)
 * [Official implementation guideline](https://zatca.gov.sa/en/E-Invoicing/Introduction/Guidelines/Documents/E-Invoicing_Detailed__Guideline.pdf)
 * [Fatoora Portal User Guide](https://zatca.gov.sa/en/E-Invoicing/Introduction/Guidelines/Documents/Fatoora_Portal_User_Manual_English.pdf)
+* [XML Standards](https://zatca.gov.sa/ar/E-Invoicing/SystemsDevelopers/Documents/20220624_ZATCA_Electronic_Invoice_XML_Implementation_Standard_vF.pdf)
+* [Data Dictionary](https://zatca.gov.sa/ar/E-Invoicing/SystemsDevelopers/Documents/EInvoice_Data_Dictionary.xlsx)
