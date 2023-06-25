@@ -89,8 +89,29 @@ Simplified Tax Invoices must be generated in XML format or a PDF/A-3 (with embed
 ### Standard e-invoice process
 ![Standard e-invoice process](/img/standard-tax-einvoices-process.png)
 
+#### Clearance Model of Tax Invoices for B2B and B2G
+Clearance is a real-time transaction integration model of Tax Invoices, where after integration, the taxpayer directly sends the electronic invoice prior to sharing with the buyer. Tax Invoices are then validated across several categories of varying level, and if approved, are stamped by the Authority and returned to the taxpayer to be shared with the buyer. Clearance applies to all Tax Invoices and
+their associated credit/debit notes.
+
+1. Supplier generates invoice file and sends it to ZATCA platform
+2. ZATCA (Fatoora) Platform validates invoice information
+3. File is digitally signed by ZATCA
+4. Supplier receives cleared and signed invoice
+5. Supplier shares invoice with the buyer
+6. Buyer can verify invoice clearance status on the platfrom and / or check digital signature
+
+
 ### Simplified e-invoice process
 ![Simplified einvoice](/img/simplified-einvoice-process.png)
+
+#### Near-real time reporting of Simplified Tax Invoices for B2C
+Reporting is a near-real time transaction model, where Simplified Tax Invoices and their associated Credit/Debit notes are uploaded to the FATOORA Portal within 24 hours from issuance. Once uploaded, Simplified Tax Invoices are then validated, and an acknowledgement through the
+API is reported back to the taxpayer.
+
+1. Supplier generates invoice with QRcode including digital map
+2. Customer can verify invoice authenticity by scanning QR code. Request is also shared with the ZATCA e-invoicing platform to asynchronously verify invoice upload and notify the user once the invoice is uploadedby the taxpayer
+3. Invoice data is stored by the supplier under required structure and format in the Supplier's invoicing software
+4. Invoice data is shared with ZATCA e-invoicing platform whenever connectivity is available(i.e. as closeto real time as possible)
 
 ### Debit Note
 Debit notes are issued by the sellers in order to issue a correction in value to buyers. Debit notes are used for increasing the value of the original invoice or the VAT amount. Debit notes follow the same format as the invoice for which they have been issued.
