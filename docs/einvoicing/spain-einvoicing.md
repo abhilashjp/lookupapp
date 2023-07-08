@@ -1,5 +1,5 @@
 ---
-id: SDI-Einvoicing-Sistema-di-Interscambio
+id: FACe-FacturaE-e-invoicing-spain
 title: B2G e-invoicing in Spain - Mandatory Requirement for Entities since 2015
 keywords: [B2G e-invoicing, Mandatory e-invoicing, Law 25/2013, Spain e-invoicing regulation, Spanish Tax Authority, Ministerio de Hacienda y Función Pública, B2B e-invoicing, FACeB2B platform, General Entry Point, GEP, Electronic invoicing, Draft law Ley Crea y Crece, Mandatory B2B e-invoicing]
 sidebar_label: FACe - Spain
