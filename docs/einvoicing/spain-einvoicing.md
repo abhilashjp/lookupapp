@@ -44,7 +44,7 @@ tags:
  </tr>
 </table>
 
-
+## Overview 
 Since 2015, certain entities in Spain have been required to comply with Law 25/2013, making B2G e-invoicing mandatory. This regulation applies to all transactions between suppliers and recipients, where the transaction value exceeds EUR 5,000.
 
 The Spanish Tax Authority, known as the Ministerio de Hacienda y Función Pública, oversees this e-invoicing mandate. Currently, B2B e-invoicing is voluntary, and to facilitate this process, the FACeB2B platform, functioning as a General Entry Point (GEP), has been launched. It aims to encourage entrepreneurs to adopt electronic invoicing.
@@ -57,3 +57,13 @@ To finalize the changes, social consultations will be conducted until March 2023
 * All other entrepreneurs: Beginning of 2025 i.e. two years after regulatory development approval
 
 These upcoming changes emphasize the increasing importance of e-invoicing in Spain and the need for businesses to prepare for the mandatory requirements in the coming years.
+
+## ## Important websites
+
+|Website| Link|
+|--|--|
+|FACe Portal |[face](https://face.gob.es/en)|
+
+## Reference links 
+* [SII](https://sede.agenciatributaria.gob.es/Sede/iva/suministro-inmediato-informacion/informacion-general.html)
+
