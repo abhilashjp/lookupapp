@@ -26,6 +26,8 @@ Standard	- 20%
 Reduced	 - 5%
 
 ---
+> Standard	- 20%	
+> Reduced	 - 5%
 
 [Learn more](https://www.gov.uk/topic/business-tax/vat)
 ## United Kingdom
