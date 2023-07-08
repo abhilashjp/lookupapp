@@ -7,6 +7,7 @@ description: Learn how Poland is revolutionizing e-invoicing in Europe with its 
 tags:
   - Poland
   - Einvoicing
+  - Clearance model
 ---
 
 <table  >
