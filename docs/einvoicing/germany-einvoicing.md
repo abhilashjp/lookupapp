@@ -60,3 +60,26 @@ If an individual needs to invoice a public sector entity, they must determine wh
 
 Both the ZRE and OZG-RE platforms facilitate the creation of an XRechnung. Alternatively, an XRechnung can be generated in other systems, such as an ERP system, and then uploaded to the respective platform. Another option is to utilize an EDI service provider for connection.
 
+
+## Federal States and einvoicing channels
+
+|Federal State|Channels|
+|--|--|
+|Berlin|web capture, web upload, e-mail, DeMail, and PEPPOL|
+|Brandenburg|web capture, web upload, e-mail, DeMail, and PEPPOL|
+|Mecklenburg- Vorpommern|web capture, web upload, e-mail, and PEPPOL|
+|Saxony|web capture, web upload, e-mail, DeMail, and PEPPOL|
+|Thuringia|web capture, web upload, e-mail, DeMail, and PEPPOL|
+|Baden-Württemberg|Zentraler Rechnungseingang des Landes; web upload, e-mail, and PEPPOL|
+|Bavaria|e-mail|
+|Bremen|zERIKA portal; web capture, web upload,e-mail, DeMail, and PEPPOL|
+|Hamburg|E-Rechnungsportal; web upload, e-mail, and DeMail and PEPPOL|
+|Hesse|e-mail or PEPPOL|
+|Lower Saxony|Zentrale ePoststelle; web upload, e-mail, and PEPPOL|
+|Schleswig-Holstei|E-Rechnungsportal; e-mail, DeMail, and PEPPOL|
+|Saxony-Anhalt|E-Rechnungsportal; web capture, e-mail, and PEPPOL|
+|Saarland|Zentraler E-Rechnungseingang RLP; web upload, e-mail, and PEPPOL|
+|Rhineland-Palatinate|Zentraler E-Rechnungseingang RLP; web upload, e-mail, and PEPPOL|
+|North Rhine-Westphalia|Zentraler E-Rechnungseingang RLP; web capture, e-mail, DeMail, and PEPPOL|
+
+
