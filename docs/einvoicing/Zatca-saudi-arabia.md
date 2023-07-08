@@ -11,6 +11,7 @@ tags:
   - Saudi Arabia
   - KSA
   - Fatoora
+  - Clearance model
 ---
 
 <table  >
