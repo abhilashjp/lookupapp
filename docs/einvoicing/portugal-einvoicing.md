@@ -3,9 +3,9 @@ id: eSPap-einvoicing-portugal
 title: E-invoicing in France 
 keywords: [E-invoicing reform Portugal, QR code on invoices Portugal, ATCUD requirement in Portugal, SAF-T reporting Portugal, B2B e-invoicing Portugal, E-invoicing obligation Portugal, B2G e-invoicing Portugal, eSPap platform for B2G e-invoicing, UBL 2.1 CIUS-PT standard, Digital signature requirement for electronic invoices Portugal]
 sidebar_label: Portugal - eSPap
-description: Stay up-to-date with the latest developments in France's mandatory B2B e-invoicing landscape, facilitated by the Chorus Pro platform. Explore the phased implementation, diverse invoice formats (UBL, CII, Factur-X), and the expanded functionalities of the B2B2G portal. Discover the obligations for taxpayers, including electronic reporting, and learn about the government's efforts to enhance transaction data transparency. Stay ahead in the realm of e-invoicing as France embraces a more streamlined and efficient invoicing system. 
+description: Despite delays caused by the COVID-19 pandemic, Portugal is implementing crucial e-invoicing reforms. Companies must prepare for the changing landscape, including requirements such as the QR code on invoices since January 1, 2022, and the mandatory inclusion of the ATCUD unique ID from January 1, 2023. Discover the SAF-T reporting specification for trade, agricultural, and industrial sectors, simplifying the electronic transmission of business data and tax returns. While B2B e-invoicing remains optional, stay informed about potential future obligations. Explore the classification of companies based on size and understand the dedicated eSPap platform for B2G e-invoicing, adhering to UBL 2.1 CIUS-PT or CEFACT CIUS-PT standards. Finally, learn about the transition from PDF invoices to digitally signed electronic invoices, effective from January 1, 2023, to ensure compliance with tax purposes in Portugal.
 tags:
-  - France
+  - Portugal
   - Einvoicing
 ---
 
