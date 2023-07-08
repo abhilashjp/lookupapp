@@ -7,6 +7,7 @@ description: Explore the status of e-invoicing in the Netherlands, one of the pi
 tags:
   - Netherlands
   - Einvoicing
+  - Peppol
 ---
 
 <table  >
