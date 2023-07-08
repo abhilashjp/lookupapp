@@ -3,7 +3,7 @@ id: FACe-FacturaE-e-invoicing-spain
 title: B2G e-invoicing in Spain - Mandatory Requirement for Entities since 2015
 keywords: [B2G e-invoicing, Mandatory e-invoicing, Law 25/2013, Spain e-invoicing regulation, Spanish Tax Authority, Ministerio de Hacienda y Función Pública, B2B e-invoicing, FACeB2B platform, General Entry Point, GEP, Electronic invoicing, Draft law Ley Crea y Crece, Mandatory B2B e-invoicing]
 sidebar_label: FACe - Spain
-description:
+description:Discover the latest updates on B2G and B2B e-invoicing regulations in Spain. Learn about the mandatory requirements under Law 25/2013 and the upcoming changes proposed by the draft law Ley Crea y Crece. Explore the role of the Spanish Tax Authority and the FACeB2B platform in facilitating electronic invoicing. Get insights into the planned implementation timeline and find out how these developments will impact businesses, including detailed requirements and technical specifications. Stay ahead of the curve and prepare your organization for the mandatory adoption of e-invoicing in Spain.
 tags:
   - Spain
   - Einvoicing
