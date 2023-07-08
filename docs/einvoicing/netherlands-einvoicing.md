@@ -36,7 +36,7 @@ tags:
     </tr>
   <tr>
         <td align="left">Network name</td>
-        <td align="left">Chorus Pro</td>
+        <td align="left">Peppol</td>
  </tr>
   <tr>
         <td align="left">Legislation</td>
