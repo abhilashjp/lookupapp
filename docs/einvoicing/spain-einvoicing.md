@@ -9,6 +9,41 @@ tags:
   - Einvoicing
 ---
 
+<table  >
+    <tr>
+      <td align="left"><b>Country</b></td>
+        <td align="left">Spain</td>
+    </tr>
+    <tr>
+        <td align="Left">Status - B2G</td>
+        <td align="left">Mandatory</td>
+    </tr>
+  <tr>
+        <td align="Left">Status - B2B</td>
+        <td align="left">Mandatory<sup>*</sup></td>
+    </tr>
+  <tr>
+        <td align="Left">Status - B2C</td>
+        <td align="left">NA</td>
+    </tr>
+  <tr>
+        <td align="left">Formats</td>
+        <td align="left">FacturaE</td>
+    </tr>
+  <tr>
+        <td align="left">Authority</td>
+        <td align="left">Ministerio de Hacienda y Función Pública</td>
+    </tr>
+  <tr>
+        <td align="left">Network name</td>
+        <td align="left">FACe</td>
+ </tr>
+  <tr>
+        <td align="left">Legislation</td>
+        <td align="left">Ley Crea y Crece</td>
+ </tr>
+</table>
+
 
 Since 2015, certain entities in Spain have been required to comply with Law 25/2013, making B2G e-invoicing mandatory. This regulation applies to all transactions between suppliers and recipients, where the transaction value exceeds EUR 5,000.
 
