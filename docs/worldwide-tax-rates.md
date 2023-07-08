@@ -238,6 +238,7 @@ Reduced - 5%
 ```
 Standard - 15%
 [Learn More](http://www.mfem.gov.ck/rmd-tax/rmd-tax-types/rmd-value-added-tax)
+```
 ## Costa Rica
 ```
 Standard - 9%
@@ -407,6 +408,7 @@ Standard - 10%
 ```
 Highest - 18%
 Standard - 15%
+```
 [Learn More](https://home.kpmg/xx/en/home/insights/2018/10/honduras-indirect-tax-guide.html)
 ## Hungary
 ```
@@ -719,6 +721,7 @@ Standard - 18%
 ```
 Highest - 18%
 Standard - 12%
+```
 [Learn More](https://www.dof.gov.ph/)
 ## Poland
 ```
@@ -814,6 +817,7 @@ Reduced - 9.50%
 ## South Africa
 ```
 Standard - 15%
+```
 [Learn More](http://www.sars.gov.za/)
 ## South Korea
 ```
@@ -905,6 +909,7 @@ Reduced - 7%
 ## United Arab Emirates
 ```
 Standard - 5%
+```
 [Learn More](https://u.ae/en/information-and-services/finance-and-investment/taxation/valueaddedtaxvat)
 ## Uruguay
 ```
