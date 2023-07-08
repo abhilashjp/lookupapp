@@ -28,7 +28,7 @@ tags:
     </tr>
   <tr>
         <td align="left">Formats</td>
-        <td align="left">Peppol BIS</td>
+        <td align="left">Peppol BIS or UBL-OHNL</td>
     </tr>
   <tr>
         <td align="left">Authority</td>
@@ -50,4 +50,24 @@ Netherlands played a pioneering role in e-invoicing within Europe. As of 2011, o
 
 Similar to Germany, e-invoicing in the B2B sector is entirely optional in the Netherlands. No obligations have been implemented, and there are no plans to introduce them. Consequently, businesses have the flexibility to choose whether or not to engage in e-invoicing. The potential adoption of the clearance model and any associated dates have not been confirmed yet.In contrast, specific rules govern e-invoicing in the B2G domain in the Netherlands. To comply with the EU directive 2014/55/EU, invoices in B2G transactions must be electronically issued, forwarded, received, and processed.
 
-Starting from January 1, 2011, public authorities in the Netherlands became obligated to receive and process electronic invoices. Subsequently, as of January 1, 2017, suppliers to these public authorities were required to issue and transmit their invoices in electronic format. Furthermore, local authorities were mandated to receive and process electronic invoices from January 1, 2019 onwards
+Starting from January 1, 2011, public authorities in the Netherlands became obligated to receive and process electronic invoices. Subsequently, as of January 1, 2017, suppliers to these public authorities were required to issue and transmit their invoices in electronic format. Furthermore, local authorities were mandated to receive and process electronic invoices from January 1, 2019 onwards.
+
+## Sending einvoices
+In the Netherlands, suppliers of local authorities and central public authorities have different options for transmitting their invoices electronically.
+
+Suppliers of central public authorities have three transmission channel choices as well:
+* PEPPOL via a PEPPOL Access Point.
+* Online portal.
+* Digipoort, which is recommended for technologically proficient companies dealing with a large volume of invoices.
+
+On the other hand, Suppliers of local authorities can select from three transmission channels:
+* PEPPOL via a PEPPOL Access Point.
+* Email, provided that the supplier can generate an XML invoice attached to the email.
+* Online portal.
+
+## Formats
+
+When it comes to e-invoicing standards in the Netherlands, various options are available:
+* UBL-OHNL, which is based on UBL and designed for invoices related to goods and services.
+* PEPPOL BIS, which is applicable for international transactions involving PEPPOL users.
+
