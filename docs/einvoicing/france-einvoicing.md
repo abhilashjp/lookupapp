@@ -2,8 +2,8 @@
 id: Chorus-Pro-einvoicing-france
 title: E-invoicing in France 
 keywords: [B2G e-invoicing]
-sidebar_label: Chorus Pro - France
-description: , 
+sidebar_label: France - Chorus Pro
+description: Chorus Pro - France, 
 tags:
   - France
   - Einvoicing
@@ -28,7 +28,7 @@ tags:
     </tr>
   <tr>
         <td align="left">Formats</td>
-        <td align="left"></td>
+        <td align="left">UBL, CII, or Factur-X</td>
     </tr>
   <tr>
         <td align="left">Authority</td>
