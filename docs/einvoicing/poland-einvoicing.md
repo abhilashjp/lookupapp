@@ -1,6 +1,6 @@
 ---
 id: KSeF-einvoicing-poland
-title: E-invoicing in France 
+title: E-invoicing in Poland 
 keywords: [Poland e-invoicing, Krajowy System e-Faktur, SAF-T system, JPK file, e-invoicing obligations, VAT payers in Poland, XML invoice format, invoice recipient consent, KSeF ID, Urzędowe Poświadczenie Odbioru, technical requirements, EDI providers, authorization token, B2G e-invoicing, PEF portal, EU directive 2014/55/EU, PEPPOL BIS Billing 3.0, UBL 2.1, UN/CEFACT CII]
 sidebar_label: Poland - KSeF
 description: Learn how Poland is revolutionizing e-invoicing in Europe with its Krajowy System e-Faktur (KSeF). Learn about the country's phased approach to implementing e-invoicing obligations, the required invoice format, and the significance of obtaining the recipient's consent. Explore the technical validation process, the role of authorization tokens for high-volume invoice submissions, and the successful adoption of e-invoicing for B2G transactions. Uncover the benefits of the PEF portal and the standards utilized to streamline invoicing processes in compliance with EU directives. Stay informed about Poland's e-invoicing advancements and its impact on business transactions
