@@ -2,7 +2,7 @@
 id: XRechnung-ZUGFeRD-e-invoicing-germany
 title: E-Invoicing in Germany - Navigating Complexities and Obligations for B2B and B2G Transactions
 keywords: [B2G e-invoicing, Mandatory e-invoicing, E-invoicing Germany, German e-invoicing regulations, Federal states e-invoicing laws, B2B e-invoicing Germany, B2G e-invoicing obligations, E-invoicing complexities, German e-invoicing landscape, Obligatory e-invoicing in Germany, Voluntary B2B e-invoicing, XRechnung format]
-sidebar_label: FACe - Spain
+sidebar_label: XRechnung - Germany
 description: Navigate the complexities of e-invoicing in Germany, where diverse laws and regulations across federal states make it a unique landscape. Explore the obligations for B2B and B2G transactions, with B2G e-invoicing being mandatory. Stay informed about the latest German e-invoicing regulations, understand the nuances of the various federal states' laws, and discover the possibilities of voluntary B2B e-invoicing. Get insights into the XRechnung format, the designated standard for B2G invoices. Stay compliant and streamline your invoicing processes in the German market.
 tags:
   - Germany
