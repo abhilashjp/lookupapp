@@ -237,8 +237,9 @@ Reduced - 5%
 ## Cook Islands
 ```
 Standard - 15%
-[Learn More](http://www.mfem.gov.ck/rmd-tax/rmd-tax-types/rmd-value-added-tax)
 ```
+[Learn More](http://www.mfem.gov.ck/rmd-tax/rmd-tax-types/rmd-value-added-tax)
+
 ## Costa Rica
 ```
 Standard - 9%
