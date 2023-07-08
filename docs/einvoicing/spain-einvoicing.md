@@ -58,12 +58,33 @@ To finalize the changes, social consultations will be conducted until March 2023
 
 These upcoming changes emphasize the increasing importance of e-invoicing in Spain and the need for businesses to prepare for the mandatory requirements in the coming years.
 
-## ## Important websites
+## About FACe 
+FACe serves as the primary gateway for submitting electronic invoices to General Administration bodies. This efficient system allows users to seamlessly send invoices to registered public administration entities capable of receiving such documents.
+
+The FACE platform facilitates the seamless referral of electronic invoices to administration bodies. By leveraging this system, invoices are promptly dispatched to the intended recipients. This streamlined process benefits providers by standardizing the electronic invoice format and consolidating all General Government Administration agencies, along with numerous other public administrations (including 18 out of 19 autonomous regions, over 8,000 local entities, and 40 universities), into a single, centralized location.
+
+Suppliers can effortlessly submit electronic invoices in the facturae 3.2 format through the user-friendly web portal (face.gob.es). Additionally, a web services interface is available for automated invoice submission directly from their financial management systems.
+
+It also provides public administrations with:
+* a management portal accessible through the Portal of Local Authorities , Autonomous Regions Portal and Administrative Management Portal , where recipients can manage, download and report the processing status of the invoices to the supplier; and
+* web services interfaces enabling automatic receipt of invoices in their financial management systems.
+
+
+## Mandatory Compliance and Legal Framework
+
+According to Law 25/2013 of 27 December, which promotes electronic invoicing and mandates invoice accounting in the public sector, electronic invoicing became mandatory for Spanish public administrations starting from January 15, 2015.
+
+## Important websites
 
 |Website| Link|
 |--|--|
 |FACe Portal |[face](https://face.gob.es/en)|
+|Portal of Local Authorities |[Site](https://ssweb.seap.minhap.es/portalEELL/)|
+|Autonomous Regions Portal |[Site](https://ssweb.seap.minhap.es/portalCCAA/)|
+|Administrative Management Portal|[Site](https://portalage.seap.minhap.es/)|
+
+
 
 ## Reference links 
 * [SII](https://sede.agenciatributaria.gob.es/Sede/iva/suministro-inmediato-informacion/informacion-general.html)
-
+* [About FACe](https://joinup.ec.europa.eu/collection/spain-center-technology-transfer/solution/general-entry-point-general-administration-e-invoices-face/about)
