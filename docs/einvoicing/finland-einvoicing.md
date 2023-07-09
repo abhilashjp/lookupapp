@@ -40,7 +40,7 @@ tags:
  </tr>
   <tr>
         <td align="left">Legislation</td>
-        <td align="left">[Finnish e-Invoicing Act 241/2019](https://www.finlex.fi/fi/laki/alkup/2019/20190241)</td>
+        <td align="left"><a href="https://www.finlex.fi/fi/laki/alkup/2019/20190241">Finnish Einvoicing Act 241/2019</td>
  </tr>
 </table>
 
