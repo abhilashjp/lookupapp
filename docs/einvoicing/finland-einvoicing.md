@@ -40,7 +40,7 @@ tags:
  </tr>
   <tr>
         <td align="left">Legislation</td>
-        <td align="left"></td>
+        <td align="left">[Finnish e-Invoicing Act 241/2019](https://www.finlex.fi/fi/laki/alkup/2019/20190241)</td>
  </tr>
 </table>
 
@@ -55,6 +55,7 @@ Finvoice is a publicly available invoicing standard published by Finnish banks. 
 
 ## Important websites
 * [Official Finvoice website ](https://www.finanssiala.fi/en/topics/finvoice-standard/)
+* [Finnish EInvoicing Act 241/2019 ](https://www.finlex.fi/fi/laki/alkup/2019/20190241)
 
 ## Reference Links
 * [Finvoice implementation guide](https://file.finanssiala.fi/finvoice/Finvoice_3_0_implementation_guidelines.pdf)
