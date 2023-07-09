@@ -1,5 +1,5 @@
 ---
-id: SDI-Einvoicing-Sistema-di-Interscambio
+id: SDI-Einvoicing-Sistema-di-Interscambio-italy
 title: What is SDI (Sistema di Interscambio) - A Complete Guide
 keywords: [Sistema di Interscambio,SDI Italy, SDI compliance, SDI electronic invoicing, SDI software, SDI invoice format, SDI benefits, SDI vs SdI, SDI invoice management, SDI solutions, SDI digital transformation, SDI requirements, SDI tax compliance, SDI invoice approval process, SDI digital signature, SDI for small businesses, SDI for freelancers, SDI API, SDI invoicing process, SDI data interchange, SDI VAT, SDI XML, SDI document management, SDI automated invoice processing, SDI interoperability, SDI security, SDI invoice transmission, SDI electronic billing, SDI regulatory compliance, SDI invoice archiving, SDI document exchange, SDI document flow, SDI invoicing software, SDI B2B, SDI invoice validation, SDI e-commerce, SDI accounting software, SDI invoicing system, SDI digital invoicing]
 sidebar_label: Italy - SDI Network 
