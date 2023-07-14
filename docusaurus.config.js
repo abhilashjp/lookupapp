@@ -36,18 +36,18 @@ const config = {
           routeBasePath: "/",
           sidebarPath: require.resolve("./sidebars.js"),
           breadcrumbs: true,
-          showLastUpdateAuthor: true,
+          showLastUpdateAuthor: false,
           showLastUpdateTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/abhilashjp/lookupapp/blob/main/",
+          // editUrl: "https://github.com/abhilashjp/lookupapp/blob/main/",
         },
         blog: {
           showReadingTime: true,
 
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/abhilashjp/lookupapp/blob/main/",
+         // editUrl: "https://github.com/abhilashjp/lookupapp/blob/main/",
         },
       /**  googleAnalytics: {
           trackingID: "G-D5YNWHF9Q3",
