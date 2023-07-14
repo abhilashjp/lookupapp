@@ -136,10 +136,10 @@ const config = {
                 label: "Blog",
                 to: "/blog",
               },
-              {
+             /** {
                 label: "GitHub",
                 href: "https://github.com/abhilashjp/lookupapp/",
-              },
+              },*/
             ],
           },
         ],
