@@ -45,7 +45,11 @@ List of PEPPOL Access Point Providers recognized by the Italian PEPPOL Authority
  
  Techincal specifications for Italy : [Peppol BIS 3 valid for italy](https://peppol-docs.agid.gov.it/docs/my_index-ENG.jsp)
  
+## New Zealand
+[Peppol BIS 3 valid for New Zealand](https://peppol.org/wp-content/uploads/2022/08/New-Zealand-Peppol-Authority-Specific-Requirements.pdf)
 
+## Singapore
+[Peppol BIS 3 valid for Singapore](https://peppol.org/wp-content/uploads/2022/08/Singapore-Peppol-Authority-Specific-Requirement.pdf)
  
  ## Reference links
  * [Differences between XRechnung and  Peppol BIS Billing Invoice](https://xeinkauf.de/app/uploads/2022/11/CIUSse_im_Peppol_Kontext.pdf)
