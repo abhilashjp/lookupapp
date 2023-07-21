@@ -47,6 +47,18 @@ QST stands for "Quebec Sales Tax," which is a consumption tax in the province of
 ## Participating province
 Participating province refers to a province in Canada that has harmonized its provincial sales tax with the GST to implement the harmonized sales tax (HST). Participating provinces include New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, and Prince Edward Island.
 
+## Non-participating province
+Non-participating province refers to a province or territory in Canada that has not harmonized its provincial sales tax with the GST. 
+
+## Tax Rates
+
+The rates for taxable supplies depends on the province or territory. The current rates of GST/ HST are as follows. The Non-participating provinces might have PST in addition to the GST
+* A zero-rated supply has a 0% GST/HST rate throughout all of Canada. For example, basic groceries are taxable at the rate of zero (0% GST/HST) in every province and territory
+* 5% (GST) in Alberta, British Columbia, Manitoba, Northwest Territories, Nunavut, Quebec, Saskatchewan, and Yukon
+* 13% (HST) in Ontario
+* 15% (HST) in New Brunswick, Newfoundland and Labrador, Nova Scotia, and Prince Edward Island
+
+
 ## Reference links
 * [Revenue Agency - Tax rates](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate.html)
 * [Notes on canada GST](https://taxbackinternational.com/country-vat-guides/canada-vat-gst-guide/)
