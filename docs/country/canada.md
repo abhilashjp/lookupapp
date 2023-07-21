@@ -62,7 +62,7 @@ The rates for taxable supplies depends on the province or territory. The current
 ## Reference links
 * [Revenue Agency - Tax rates](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate.html)
 * [Notes on canada GST](https://taxbackinternational.com/country-vat-guides/canada-vat-gst-guide/)
-* [Québec sales tax]https://www.revenuquebec.ca/en/businesses/consumption-taxes/gsthst-and-qst/
+* [Québec sales tax](https://www.revenuquebec.ca/en/businesses/consumption-taxes/gsthst-and-qst/)
 * [Fedex guide](https://www.fedex.com/en-ca/news/canadian-sales-taxes.html)
 * [GST/HST for non resisdents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4027/doing-business-canada-gst-hst-information-non-residents.html#definition)
 
