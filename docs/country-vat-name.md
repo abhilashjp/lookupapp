@@ -27,7 +27,7 @@ Even though we generally term the Tax Identification Numbers as VAT numbers, it 
 |Germany|DE|Umsatzsteuer – Identifikationsnummer(MwSt., Ust.)|123456789|9 characters.|`([1-9]\d{8}$)/i)`|Except Büsingen and the Isle of Heligoland|
 |Greece|EL|Αριθμός Φορολογικού Μητρώου ΦΠΑ; Arithmos Forologikou Mitroou FPA|123456789|9 characters.|`(\d{9}$)/i)`| |
 |Hungary|HU|közösségi adószįm(ÁFA)|12345678|8 characters.|`(\d{8}$)/i)`| |
-|[India](/docs/country/india-gst-guidelines-inderect-tax-sales-tax-india/)|IN|GST identification number(GSTIN)| 24AAACC1206D1ZM |15 characters. The first 2 digits of the GSTIN is the State code, next 10 digits are the PAN of the legal entity, the next two digits are for entity code, and the last digit is check sum number. |`\d{2}[A-Z]{5}\d{4}[A-Z]{1}[A-Z\d]{1}[Z]{1}[A-Z\d]{1} `|  |
+|[India](/docs/country/india-gst-guidelines-indirect-tax-sales-tax-india/)|IN|GST identification number(GSTIN)| 24AAACC1206D1ZM |15 characters. The first 2 digits of the GSTIN is the State code, next 10 digits are the PAN of the legal entity, the next two digits are for entity code, and the last digit is check sum number. |`\d{2}[A-Z]{5}\d{4}[A-Z]{1}[A-Z\d]{1}[Z]{1}[A-Z\d]{1} `|  |
 |Ireland|IE|value added tax identification no.(CBL, VAT)|1234567X, 1X23456X, 1234567XX|8 or 9 characters. Includes one or two alphabetical characters (last, or second and last, or last 2).|`([0-9A-Z\*\+]{7}[A-Z]{1,2}$)/i)`| |"
 |Italy|IT|il numero di registrazione IVA|12345678901|11 characters.|`(\d{11}$)/i)`|Except the communes of Livigno and Campione d’Italia and the Italian waters of Lake Lugano|
 |Latvia|LV|pievienotas vertibas nodokla (PVN) registracijas numurs|12345678901|11 characters.|`(\d{11}$)/i)`| |
