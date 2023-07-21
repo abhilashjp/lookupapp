@@ -1,5 +1,5 @@
 ---
-id: India
+id: india-gst-guidelines-inderect-tax-sales-tax-india
 title: India GST guidelines 
 keywords: [India GST,GSTIN,GST rules, GST guidelines, GST registration, GST filing, Indian tax laws, GST compliance, GST for businesses, GST in India]
 sidebar_label: India
