@@ -31,3 +31,27 @@ tags:
     </tr>
   </tbody>
 </table>
+
+## Overview 
+GST or Goods and Sevices Tax is applicable for most of the supplies of goods and services in Canada. The taxes to be charged depends on the type of supply and the place of supply. 
+
+## PST
+PST stands for "Provincial Sales Tax," which is a type of sales tax levied by some provinces in Canada on the purchase of goods and services. Each province in Canada has its own tax laws and may impose its own PST rate, if applicable.
+
+## HST
+HST stands for "Harmonized Sales Tax," which is a consumption tax in Canada. It combines the federal Goods and Services Tax (GST) with the Provincial Sales Tax (PST) of certain provinces. The HST simplifies the tax system by creating a single, harmonized tax rate instead of separate federal and provincial taxes.
+
+## QST
+QST stands for "Quebec Sales Tax," which is a consumption tax in the province of Quebec, Canada. It is a provincial tax that is separate from the federal Goods and Services Tax (GST).
+
+## Participating province
+Participating province refers to a province in Canada that has harmonized its provincial sales tax with the GST to implement the harmonized sales tax (HST). Participating provinces include New Brunswick, Newfoundland and Labrador, Nova Scotia, Ontario, and Prince Edward Island.
+
+## Reference links
+* [Revenue Agency - Tax rates](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate.html)
+* [Notes on canada GST](https://taxbackinternational.com/country-vat-guides/canada-vat-gst-guide/)
+* [Québec sales tax]https://www.revenuquebec.ca/en/businesses/consumption-taxes/gsthst-and-qst/
+* [Fedex guide](https://www.fedex.com/en-ca/news/canadian-sales-taxes.html)
+* [GST/HST for non resisdents](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4027/doing-business-canada-gst-hst-information-non-residents.html#definition)
+
+
