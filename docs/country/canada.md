@@ -58,6 +58,22 @@ The rates for taxable supplies depends on the province or territory. The current
 * 13% (HST) in Ontario
 * 15% (HST) in New Brunswick, Newfoundland and Labrador, Nova Scotia, and Prince Edward Island
 
+### Total Sales tax in Provinces 
+|Province|Type|PST|GST|HST|Total Tax Rate|
+|--|--|--|--|--|--|
+|Alberta|GST| |5%| |5%|
+|British Columbia|GST + PST|7%|5%| |12%|
+|Manitoba|GST + PST|7%|5%| |12%|
+|New Brunswick|HST| | |15%|15%|
+|Newfoundland and Labrador|HST| | |15%|15%|
+|Northwest Territories|GST| |5%| |5%|
+|Nova Scotia|HST| | |15%|15%|
+|Nunavut|GST| |5%| |5%|
+|Ontario|HST| | |13%|13%|
+|Prince Edward Island|HST| | |15%|15%|
+|Quebec|GST + *QST|*9.975%|5%| |14.98%|
+|Saskatchewan|GST + PST|6%|5%| |11%|
+|Yukon|GST| |5%| |5%|
 
 ## Reference links
 * [Revenue Agency - Tax rates](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate.html)
