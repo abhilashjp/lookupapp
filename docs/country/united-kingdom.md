@@ -71,3 +71,7 @@ A non-established taxable person (NETP) is any person who is not normally reside
 
 ### Regsitration for NETPs
 Registration is required if you’re an NETP and you make any taxable supplies in the UK, regardless of their value and including supplies of digital services
+
+## VAT number format
+Format - 9 or 12 numbers, sometimes with ‘GB’ at the start, like 123456789 or GB123456789.
+
