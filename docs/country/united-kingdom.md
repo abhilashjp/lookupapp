@@ -36,14 +36,14 @@ tags:
 United Kingdom follows Value Added Tax (VAT) scheme as the consumption tax. VAT is applied to the value added at each stage of the production and distribution chain. It's ultimately paid by the end consumer.
 
 ## Tax Rates 
-* Standard Rate: 20%
+* **Standard Rate: 20%**
   * Applicable to the majority of taxable supplies, with specific exemptions.
 
-* Reduced Rate: 5%
+* **Reduced Rate: 5%**
   * Applies to certain goods and services, such as children's car seats and household energy.
 
-* Zero Rate: 0%
+* **Zero Rate: 0%**
   * Covering items like books, newspapers, periodicals (including digital versions), and specific types of food products.
 
-* Flat Rate Scheme
+* **Flat Rate Scheme**
   * In this arrangement, you remit a consistent VAT amount to HMRC. The variation between the charges you invoice to your clients and the payment made to HMRC becomes your retained sum. Reclaiming VAT on purchases is limited, except for specific capital assets valued at over £2,000. To be eligible for participation, your VAT turnover must not exceed £150,000 (excluding VAT), and an application to HMRC is necessary.
