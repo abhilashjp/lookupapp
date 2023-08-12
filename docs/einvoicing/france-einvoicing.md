@@ -57,6 +57,8 @@ Since January 1, 2020, e-invoicing through Chorus Pro has been mandatory for B2G
 
 In addition to mandatory e-invoicing, France also requires e-reporting, which involves submitting digital tax reports. These reports should include payment details, B2C transaction details, and details of international B2B transactions. These measures aim to provide the French government with transaction data insight.
 
+
+## Latest updates
 :::note Latest updates on Einvoicing
  
 * `28-July-2023` **Postponement of the mandatory einvoicing schduled for july 2024**
