@@ -62,7 +62,7 @@ In addition to mandatory e-invoicing, France also requires e-reporting, which in
 :::note Latest updates on Einvoicing
  
 * `28-July-2023` **Postponement of the mandatory einvoicing schduled for july 2024**
-  * French [General Directorate of Public Finance](https://www.impots.gouv.fr/actualite/facturation-electronique-report-de-lentree-en-vigueur-prevue-en-2024) announced the postponement of the the planned einvoicing implementation from 1sy july 2024. Revised implemtation date is yet to be announced. [Learn More](https://presse.economie.gouv.fr/28072023-generalisation-de-la-facturation-electronique-report-de-lentree-en-vigueur-prevue-en-2024/)
+  * French [General Directorate of Public Finance](https://www.impots.gouv.fr/actualite/facturation-electronique-report-de-lentree-en-vigueur-prevue-en-2024) announced the postponement of the the planned einvoicing implementation from 1sy july 2024. Revised implementation date is yet to be announced. [Learn More](https://presse.economie.gouv.fr/28072023-generalisation-de-la-facturation-electronique-report-de-lentree-en-vigueur-prevue-en-2024/)
     
 :::
 
