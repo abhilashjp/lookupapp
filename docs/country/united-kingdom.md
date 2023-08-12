@@ -47,3 +47,27 @@ United Kingdom follows Value Added Tax (VAT) scheme as the consumption tax. VAT 
 
 * **Flat Rate Scheme**
   * In this arrangement, you remit a consistent VAT amount to HMRC. The variation between the charges you invoice to your clients and the payment made to HMRC becomes your retained sum. Reclaiming VAT on purchases is limited, except for specific capital assets valued at over £2,000. To be eligible for participation, your VAT turnover must not exceed £150,000 (excluding VAT), and an application to HMRC is necessary.
+ 
+## Registration Threshold
+**£85,000**
+
+## Who should register ? 
+Registration to HMRC is required under following circumstances
+
+* The cumulative VAT taxable turnover within the preceding 12-month period exceeded £85,000 (the VAT threshold).
+* Forecasts indicate that your turnover will surpass £85,000 in the upcoming 30 days.
+* Non-established taxable persons (NETPs) are subject to these conditions regardless of the VAT threshold.
+* While being situated in Northern Ireland and dealing in VAT-exempt goods or services, you procure goods valued at over £85,000 from EU VAT-registered suppliers for business purposes.
+
+## How to enroll for VAT in the UK?
+VAT registration can be done in two ways 
+* Online registeration by utilizing your Government Gateway user ID and password.
+* Opt for registration through an agent.
+
+## Non residents (NETPs)
+
+### Who is a NEPT ?
+A non-established taxable person (NETP) is any person who is not normally resident in the UK, does not have a UK establishment and, in the case of a company, is not incorporated in the UK.
+
+### Regsitration for NETPs
+Registration is required if you’re an NETP and you make any taxable supplies in the UK, regardless of their value and including supplies of digital services
