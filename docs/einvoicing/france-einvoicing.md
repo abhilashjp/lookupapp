@@ -56,3 +56,11 @@ Chorus Pro, originally introduced for B2G invoicing, will be expanded to include
 Since January 1, 2020, e-invoicing through Chorus Pro has been mandatory for B2G transactions, following the implementation of EU directive 2014/55/EU. This portal enables suppliers to submit their invoices electronically to the public sector.
 
 In addition to mandatory e-invoicing, France also requires e-reporting, which involves submitting digital tax reports. These reports should include payment details, B2C transaction details, and details of international B2B transactions. These measures aim to provide the French government with transaction data insight.
+
+:::note Latest updates on Einvoicing
+ 
+* `28-July-2023` **Postponement of the mandatory einvoicing schduled for july 2024**
+  * French [General Directorate of Public Finance](https://www.impots.gouv.fr/actualite/facturation-electronique-report-de-lentree-en-vigueur-prevue-en-2024) announced the postponement of the the planned einvoicing implementation from 1sy july 2024. Revised implemtation date is yet to be announced. [Learn More](https://presse.economie.gouv.fr/28072023-generalisation-de-la-facturation-electronique-report-de-lentree-en-vigueur-prevue-en-2024/)
+    
+:::
+
