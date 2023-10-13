@@ -70,15 +70,14 @@ his is the specific date that is considered for tax purposes when a transaction 
 
 Different Scenarios and Their Corresponding Tax Points:
 
-    When no invoice is required → The date of supply
-    When a VAT invoice is issued → The date of the invoice
-    When a VAT invoice is issued 15 days or more after the date of supply → The date when the supply actually occurred
-    When payment or an invoice is issued in advance of the supply → The earlier of the date of payment or the date of the invoice
+* When no invoice is required → The date of supply
+* When a VAT invoice is issued → The date of the invoice
+* When a VAT invoice is issued 15 days or more after the date of supply → The date when the supply actually occurred
+* When payment or an invoice is issued in advance of the supply → The earlier of the date of payment or the date of the invoice
 
 The date of supply is defined as follows:
-
-    For goods: It is the date when they are dispatched, collected, or made available, such as when they are installed in the customer's residence.
-    For services: It is the date when the service work is completed.
+* **For goods:** It is the date when they are dispatched, collected, or made available, such as when they are installed in the customer's residence.
+* **For services:** It is the date when the service work is completed.
 
 
 ## Non residents (NETPs)
