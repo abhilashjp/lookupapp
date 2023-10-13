@@ -46,8 +46,8 @@ United Kingdom follows Value Added Tax (VAT) scheme as the consumption tax. VAT 
   * Covering items like books, newspapers, periodicals (including digital versions), and specific types of food products.
 
 * **Flat Rate Scheme**
-  * In this arrangement, you remit a consistent VAT amount to HMRC. The variation between the charges you invoice to your clients and the payment made to HMRC becomes your retained sum. Reclaiming VAT on purchases is limited, except for specific capital assets valued at over £2,000. To be eligible for participation, your VAT turnover must not exceed £150,000 (excluding VAT), and an application to HMRC is necessary.
- 
+  *Under this scheme, you remit a predetermined VAT rate to HMRC. You retain the surplus between your customer charges and the VAT payment to HMRC. With the exception of specific capital assets valued at over £2,000, you are not permitted to recover VAT on your purchases. To be eligible for participation in this scheme, your VAT turnover must not exceed £150,000 (exclusive of VAT), and you are required to make an application to HMRC.
+  
 ## Registration Threshold
 **£85,000**
 
@@ -64,10 +64,29 @@ VAT registration can be done in two ways
 * Online registeration by utilizing your Government Gateway user ID and password.
 * Opt for registration through an agent.
 
+
+## Time of supply aka tax point
+his is the specific date that is considered for tax purposes when a transaction occurs.
+
+Different Scenarios and Their Corresponding Tax Points:
+
+    When no invoice is required → The date of supply
+    When a VAT invoice is issued → The date of the invoice
+    When a VAT invoice is issued 15 days or more after the date of supply → The date when the supply actually occurred
+    When payment or an invoice is issued in advance of the supply → The earlier of the date of payment or the date of the invoice
+
+The date of supply is defined as follows:
+
+    For goods: It is the date when they are dispatched, collected, or made available, such as when they are installed in the customer's residence.
+    For services: It is the date when the service work is completed.
+
+
 ## Non residents (NETPs)
 
 ### Who is a NEPT ?
-A non-established taxable person (NETP) is any person who is not normally resident in the UK, does not have a UK establishment and, in the case of a company, is not incorporated in the UK.
+A non-established taxable person (NETP) refers to an individual or entity that lacks regular residence in the UK, does not maintain a physical presence or establishment in the UK, and, in the case of a company, is not legally incorporated in the UK.
+
+If you qualify as an NETP and engage in any taxable transactions in the UK, irrespective of their monetary value, including the provision of digital services, you are obligated to register for VAT.
 
 ### Regsitration for NETPs
 Registration is required if you’re an NETP and you make any taxable supplies in the UK, regardless of their value and including supplies of digital services
