@@ -1,7 +1,7 @@
 ---
 id: uk-vat-guidelines-sales-tax-indirect-tax-united-kingdom
 title: United Kingdom VAT guidelines 
-keywords: [UK VAT,VAT rules, VAT guidelines, VAT registration, VAT filing, UK tax laws, VAT compliance, VAT for businesses, VAT in Canada]
+keywords: [UK VAT,VAT rules, VAT guidelines, VAT registration, VAT filing, UK tax laws, VAT compliance, VAT for businesses, VAT in UK, HMRC]
 sidebar_label: United Kingdom
 description: Learn about the VAT rules and guidelines in United Kingdom for businesses with our comprehensive country guide. From registration to filing returns, our article covers everything you need to know to stay compliant with UK tax laws.
 tags:
@@ -92,4 +92,26 @@ Registration is required if you’re an NETP and you make any taxable supplies i
 
 ## VAT number format
 Format - 9 or 12 numbers, sometimes with ‘GB’ at the start, like 123456789 or GB123456789.
+
+## Invoice format
+|                                | Full Invoice | Simplified Invoice | Modified Invoice |
+| ------------------------------ | ------------ | ------------------ | ----------------- |
+| Unique invoice number that follows on from the last invoice | Yes | Yes | Yes |
+| Your business name and address | Yes | Yes | Yes |
+| Your VAT number | Yes | Yes | Yes |
+| Date | Yes | No | Yes |
+| The tax point (or 'time of supply') if this is different from the invoice date | Yes | Yes | Yes |
+| Customer's name or trading name, and address | Yes | No | Yes |
+| Description of the goods or services | Yes | Yes | Yes |
+| Total amount excluding VAT | Yes | No | Yes |
+| Total amount of VAT | Yes | No | Yes |
+| Price per item, excluding VAT | Yes | No | Yes |
+| Quantity of each type of item | Yes | No | Yes |
+| Rate of any discount per item | Yes | No | Yes |
+| Rate of VAT charged per item - if an item is exempt or zero-rated, make clear no VAT on these items | Yes | Yes (1) | Yes |
+| Total amount including VAT | No | Yes (1) | Yes |
+
+Note:
+(1) - In the case of a Simplified or Modified invoice, the total amount including VAT is required.
+
 
