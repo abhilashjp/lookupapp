@@ -151,3 +151,37 @@ Suggested phrasing for credit notes related to reverse charges includes:
 - "reverse charge: customer to account for the output tax adjustment of – £[enter the amount] to HMRC"
 - "reverse charge: UK customer to account for the output tax adjustment of – £[enter the amount] to HMRC"
 - "customer to account to HMRC for the adjustment to reverse charge output tax on the VAT-exclusive price of items marked reverse charge"
+
+## Cross-Border Reverse Charges
+
+The reverse charge mechanism is employed in cases where:
+
+1. The place of supply is the United Kingdom.
+2. The supplier is situated outside the United Kingdom.
+3. You, as the recipient, are located within the United Kingdom.
+4. The supply is not exempt, which includes supplies that are subject to an option to tax.
+5. For supplies falling outside the general rule, you are registered for VAT in the United Kingdom.
+
+The reverse charge applies to nearly all business-to-business (B2B) service supplies, except for those that are exempt, unless specific 'use and enjoyment' provisions are in effect.
+
+This mechanism comes into play when you, as the customer, receive services. In such cases, you are required to assume the roles of both the supplier and the recipient of the services. It is applicable even if your supplier, despite having a UK VAT registration number, is based outside the United Kingdom. 
+
+For instance, if you receive telecommunication services from a supplier in the USA and utilize those services within the USA, although they would typically be taxable in the UK under the B2B general rule, specific use and enjoyment rules are applicable (refer to section 13 for further details).
+
+## Digital Products
+
+If your business provides digital services to consumers in the UK, these services are subject to UK VAT.
+
+However, if you offer digital services to consumers outside the UK, they are exempt from UK VAT.
+
+When you distribute digital services to consumers through a third-party platform or marketplace, it is the responsibility of the digital platform to account for VAT on the supply, relieving your business of this obligation.
+
+## Selling Digital Products to the EU
+
+If you're a UK-based business offering digital services to consumers in the EU, the place of supply is determined by the consumer's location.
+
+You have two options:
+
+1. Register for the Non-Union VAT MOSS scheme in an EU member state.
+2. Register for VAT in every EU member state where you provide digital services to consumers.
+
