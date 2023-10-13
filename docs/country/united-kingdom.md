@@ -114,4 +114,40 @@ Format - 9 or 12 numbers, sometimes with ‘GB’ at the start, like 123456789 o
 Note:
 (1) - In the case of a Simplified or Modified invoice, the total amount including VAT is required.
 
+## Domestic Reverse Charge
 
+The reverse charge mechanism is applicable exclusively to supplies that meet the following criteria:
+* The supplies must be specified supplies of goods or services.
+* The recipient (your customer) is either registered for UK VAT or is obligated to register.
+* Your customer acquires the goods or services for business purposes.
+* In the case of specified goods, such as mobile phones or computer chips, the VAT-exclusive value exceeds the de minimis limit.
+
+- Specified goods encompass mobile phones, computer chips, wholesale gas, and wholesale electricity. Specified services comprise emission allowances, wholesale telecommunications, renewable energy certificates, and construction services.
+
+- Supplies subject to the reverse charge are not eligible for the Flat Rate Scheme.
+
+- Businesses that employ the cash accounting scheme must exclude sales and purchases subject to the reverse charge from the scheme. These supplies should be reported under the reverse charge regulations when submitting returns.
+
+For a detailed understanding of the Domestic Reverse Charge procedure, you can refer to VAT Notice 735.
+
+### Invoice Notes for Reverse Charges
+
+When your customer is responsible for remitting the VAT, the invoice must bear the specific reference 'reverse charge.' Several examples comply with this legal requirement, including:
+* "reverse charge: VAT Act 1994 Section 55A applies"
+* "reverse charge: S55A VATA 94 applies"
+* "reverse charge: Customer to pay the VAT to HMRC"
+
+The invoice should clearly indicate the amount of VAT subject to the reverse charge, but this amount should not be included in the total VAT charged.
+
+If your billing system cannot display the reverse charge amount, the wording should convey that VAT is to be accounted for by your customer at the standard VAT rate, based on the VAT-exclusive selling price for the reverse charge goods or services.
+**Sample Invoice**
+
+For reference, you can view a sample invoice that illustrates the application of the reverse charge mechanism at the following link: [Sample Invoice](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1117111/Invoice_example_1_-_reverse_charge_applies.odt).
+
+### Credit Notes for Reverse Charges
+
+Suggested phrasing for credit notes related to reverse charges includes:
+
+- "reverse charge: customer to account for the output tax adjustment of – £[enter the amount] to HMRC"
+- "reverse charge: UK customer to account for the output tax adjustment of – £[enter the amount] to HMRC"
+- "customer to account to HMRC for the adjustment to reverse charge output tax on the VAT-exclusive price of items marked reverse charge"
