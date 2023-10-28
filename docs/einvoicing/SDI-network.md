@@ -1,5 +1,5 @@
 ---
-id: SDI-Einvoicing-Sistema-di-Interscambio-italy
+id: sdi-einvoicing-sistema-di-interscambio-italy
 title: What is SDI (Sistema di Interscambio) - A Complete Guide
 keywords: [Sistema di Interscambio,SDI Italy, SDI compliance, SDI electronic invoicing, SDI software, SDI invoice format, SDI benefits, SDI vs SdI, SDI invoice management, SDI solutions, SDI digital transformation, SDI requirements, SDI tax compliance, SDI invoice approval process, SDI digital signature, SDI for small businesses, SDI for freelancers, SDI API, SDI invoicing process, SDI data interchange, SDI VAT, SDI XML, SDI document management, SDI automated invoice processing, SDI interoperability, SDI security, SDI invoice transmission, SDI electronic billing, SDI regulatory compliance, SDI invoice archiving, SDI document exchange, SDI document flow, SDI invoicing software, SDI B2B, SDI invoice validation, SDI e-commerce, SDI accounting software, SDI invoicing system, SDI digital invoicing]
 sidebar_label: Italy - SDI Network 
@@ -48,7 +48,7 @@ tags:
 </table>
 
 ## Overview
-Einvoicing in Italy is governed by Agenzia delle Entrate(The Revenue Agency). The einvoicing network in itally called Sistema di Interscambio.
+Einvoicing in Italy is governed by Agenzia delle Entrate(The Revenue Agency). The einvoicing network in italy is called Sistema di Interscambio.
 Businesses that are based or established in Italy must use electronic invoicing and digital signatures when issuing invoices to government departments in Italy. Businesses outside of italy can issue invoices in paper or electronic form. Beginning on January 1st, 2019, Italian regulations have made it mandatory for businesses registered in Italy to exchange invoices through the use of the Sistema di Interscambio (SdI). This requirement applies to all invoices issued between domestic businesses.Starting 2022, this regulation also encompass cross-border invoicing, meaning that invoices exchanged between Italian businesses and businesses located in other countries must also be processed through the SDI system. Italy einvoicing is one of the examples of a clearance model which means validation of the invoice by tax administration before sending it to the buyer.
 
 ## What is SDI?
