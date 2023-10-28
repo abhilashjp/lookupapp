@@ -48,9 +48,11 @@ tags:
 </table>
 
 ## Overview
-Einvoicing in Italy is governed by Agenzia delle Entrate(The Revenue Agency). The einvoicing network in italy is called Sistema di Interscambio.
+Einvoicing in Italy is governed by Agenzia delle Entrate(The Revenue Agency). The einvoicing network in italy is called **Sistema di Interscambio**.
 
-Businesses that are based or established in Italy must use electronic invoicing and digital signatures when issuing invoices to government departments in Italy. Businesses outside of italy can issue invoices in paper or electronic form. Beginning on January 1st, 2019, Italian regulations have made it mandatory for businesses registered in Italy to exchange invoices through the use of the Sistema di Interscambio (SdI). This requirement applies to all invoices issued between domestic businesses.Starting 2022, this regulation also encompass cross-border invoicing, meaning that invoices exchanged between Italian businesses and businesses located in other countries must also be processed through the SDI system. Italy einvoicing is one of the examples of a clearance model which means validation of the invoice by tax administration before sending it to the buyer.
+Businesses that are based or established in Italy must use electronic invoicing and digital signatures when issuing invoices to government departments in Italy. Businesses outside of italy can issue invoices in paper or electronic form. Beginning on January 1st, 2019, Italian regulations have made it mandatory for businesses registered in Italy to exchange invoices through the use of the Sistema di Interscambio (SdI). This requirement applies to all invoices issued between domestic businesses.Starting 2022, this regulation also encompass cross-border invoicing, meaning that invoices exchanged between Italian businesses and businesses located in other countries must also be processed through the SDI system. 
+
+Italy einvoicing is one of the examples of a _clearance model_ which means validation of the invoice by tax administration before sending it to the buyer.
 
 ## What is SDI?
 Sistema di Interscambio (SDI) is the einvoicing system in Italy. The Exchange System has no administrative role and does not perform any task relating to archiving nor storing invoices.
