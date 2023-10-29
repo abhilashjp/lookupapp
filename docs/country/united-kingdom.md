@@ -116,6 +116,13 @@ The tax identification number in UK is called VAT number. The format is as follo
 (1) - In the case of a Simplified or Modified invoice, the total amount including VAT is required.
 :::
 
+## Credit Note Format
+The credit or debit note you generate must include the following
+* same information as the VAT invoice
+* reason why it was issued
+* total amount credited, excluding VAT
+* number and date of the original VAT invoice
+
 ## Domestic Reverse Charge
 
 The reverse charge mechanism is applicable exclusively to supplies that meet the following criteria:
@@ -167,7 +174,7 @@ The reverse charge mechanism is employed in cases where:
 4. The supply is not exempt, which includes supplies that are subject to an option to tax.
 5. For supplies falling outside the general rule, you are registered for VAT in the United Kingdom.
 
-The reverse charge applies to nearly all business-to-business (B2B) service supplies, except for those that are exempt, unless specific 'use and enjoyment' provisions are in effect.
+The **reverse charge applies to nearly all business-to-business (B2B) service supplies**, except for those that are exempt, unless specific 'use and enjoyment' provisions are in effect.
 
 This mechanism comes into play when you, as the customer, receive services. In such cases, you are required to assume the roles of both the supplier and the recipient of the services. It is applicable even if your supplier, despite having a UK VAT registration number, is based outside the United Kingdom. 
 
@@ -177,7 +184,6 @@ For instance, if you receive telecommunication services from a supplier in the U
 ## Digital Products
 
 If your business provides digital services to consumers in the UK, these services are subject to UK VAT.
-
 However, if you offer digital services to consumers outside the UK, they are exempt from UK VAT.
 
 When you distribute digital services to consumers through a third-party platform or marketplace, it is the responsibility of the digital platform to account for VAT on the supply, relieving your business of this obligation.
@@ -187,11 +193,51 @@ When you distribute digital services to consumers through a third-party platform
 If you're a UK-based business offering digital services to consumers in the EU, the place of supply is determined by the consumer's location.
 
 You have two options:
-
 1. Register for the Non-Union VAT MOSS scheme in an EU member state.
 2. Register for VAT in every EU member state where you provide digital services to consumers.
+
+## Validating if the customer is a business 
+
+Apart from validating VAT number using services like [Lookuptax](https://lookuptax.com), merchants can also accept alternative evidence such as website detail that the customer is in business incase they cant provide the vat number. Its the merchant's discretion and  customer cannot ask you to treat a supply as business-to-business if they have not given a valid VAT registration number
+
+## Location determination
+Merchants are expected to gather evidence of the location of the customer while seliing digital goods and services. 
+Here are the requisite pieces of evidence that the seller must gather for digital services:
+* The residential billing address of the consumer.
+* The Internet Protocol (IP) address of the device utilized by the consumer.
+* The consumer's banking information.
+* The country code of the SIM card used by the consumer.
+* The location of the consumer's fixed landline through which the service is provided.
+* Any other commercially pertinent information, such as product coding data that electronically links the transaction to a specific jurisdiction.
+
+For businesses engaged in **cross-border digital service** provision, it is necessary to obtain and maintain **two pieces of information as proof** of the consumer's habitual residence.
+
+* During the point of sale, request the consumer to provide either of the following:
+  * billing address, including the country
+  * telephone number, including the country dialling code
+* When the consumer makes a payment for the digital service, it is essential to obtain a notification from the payment service provider, which contains the two-digit country code of the consumer's residential country, as recorded in their information.
+
+If these two pieces of information match, it will suffice to establish the consumer's location, and you can document these details in your accounting records.
+
+## Digital portals, platforms, gateways and marketplaces
+If the platform operator recognizes you as the seller, establishes the general terms and conditions, authorizes payments, or manages the delivery or download of the digital service, then it becomes the platform operator's responsibility to account for the VAT payment imposed on the consumer.
+
+## Foreingn currency invoice
+This is applicable only if you are selling to your customers in UK in a foreign currency other than sterling. For VAT-related purposes, it is imperative to convert all purchases or sales into British Pounds (sterling). This conversion should be performed when you document the transaction in your VAT records to represent the transaction in sterling.
+
+If the transaction is subject to UK VAT, your invoices must additionally display the following details in sterling:
+* The total net value of goods and services at each VAT rate.
+* The applicable VAT amount, if any, at each rate.
+
+There is no requirement to display sterling figures for each line item on the invoice.
+### Exchange rates
+You can use the following methods to get the FX rates for printing on your foreign currency invoices
+* UK market selling rate at the time of the supply. The rates published in national newspapers are acceptable.
+* [Exchange rates published by HM Revenue and Customs (HMRC)](https://www.gov.uk/government/collections/exchange-rates-for-customs-and-vat). This is known as the ‘period rate of exchange’
 
 ## Reference links
 * [How to register for VAT](https://www.gov.uk/register-for-vat/how-register-for-vat)
 * [Appointing a tax agent on your behalf](https://www.gov.uk/appoint-tax-agent)
+* [Location evidence](https://www.gov.uk/guidance/the-vat-rules-if-you-supply-digital-services-to-private-consumers#location)
+* [Transactions in foreign currencies and VAT ](https://www.gov.uk/guidance/foreign-currency-transactions-vat-and-tour-operators#how-you-convert-foreign-currency-transactions-into-sterling)
 
