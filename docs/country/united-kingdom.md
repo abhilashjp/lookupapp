@@ -222,7 +222,7 @@ If these two pieces of information match, it will suffice to establish the consu
 ## Digital portals, platforms, gateways and marketplaces
 If the platform operator recognizes you as the seller, establishes the general terms and conditions, authorizes payments, or manages the delivery or download of the digital service, then it becomes the platform operator's responsibility to account for the VAT payment imposed on the consumer.
 
-## Foreingn currency invoice
+## Foreign currency invoice
 This is applicable only if you are selling to your customers in UK in a foreign currency other than sterling. For VAT-related purposes, it is imperative to convert all purchases or sales into British Pounds (sterling). This conversion should be performed when you document the transaction in your VAT records to represent the transaction in sterling.
 
 If the transaction is subject to UK VAT, your invoices must additionally display the following details in sterling:
