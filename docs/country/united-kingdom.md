@@ -46,10 +46,10 @@ United Kingdom follows Value Added Tax (VAT) scheme as the consumption tax. VAT 
   * Covering items like books, newspapers, periodicals (including digital versions), and specific types of food products.
 
 * **Flat Rate Scheme**
-  *Under this scheme, you remit a predetermined VAT rate to HMRC. You retain the surplus between your customer charges and the VAT payment to HMRC. With the exception of specific capital assets valued at over £2,000, you are not permitted to recover VAT on your purchases. To be eligible for participation in this scheme, your VAT turnover must not exceed £150,000 (exclusive of VAT), and you are required to make an application to HMRC.
+  * Under this scheme, you remit a predetermined VAT rate to HMRC. You retain the surplus between your customer charges and the VAT payment to HMRC. With the exception of specific capital assets valued at over £2,000, you are not permitted to recover VAT on your purchases. To be eligible for participation in this scheme, your VAT turnover must not exceed £150,000 (exclusive of VAT), and you are required to make an application to HMRC.
   
 ## Registration Threshold
-**£85,000**
+**£85,000** - Businesses based in Uk are requried to register for VAT if the total VAT taxable turnover for the last 12 months was over £85,000.  
 
 ## Who should register ? 
 Registration to HMRC is required under following circumstances
@@ -61,14 +61,14 @@ Registration to HMRC is required under following circumstances
 
 ## How to enroll for VAT in the UK?
 VAT registration can be done in two ways 
-* Online registeration by utilizing your Government Gateway user ID and password.
+* [Online registration](https://www.tax.service.gov.uk/register-for-vat) by utilizing the Government Gateway user ID and password.
 * Opt for registration through an agent.
 
 
-## Time of supply aka tax point
-his is the specific date that is considered for tax purposes when a transaction occurs.
+## Time of supply a.k.a tax point
+This is the specific date that is considered for tax purposes when a transaction occurs.
 
-Different Scenarios and Their Corresponding Tax Points:
+There are different scenarios where the corresponding Tax Points can vary. Following are some examples
 
 * When no invoice is required → The date of supply
 * When a VAT invoice is issued → The date of the invoice
@@ -83,15 +83,16 @@ The date of supply is defined as follows:
 ## Non residents (NETPs)
 
 ### Who is a NEPT ?
-A non-established taxable person (NETP) refers to an individual or entity that lacks regular residence in the UK, does not maintain a physical presence or establishment in the UK, and, in the case of a company, is not legally incorporated in the UK.
+
+A **Non-Established Taxable Person (NETP)** refers to an individual or entity that lacks regular residence in the UK, does not maintain a physical presence or establishment in the UK, and, in the case of a company, is not legally incorporated in the UK.
 
 If you qualify as an NETP and engage in any taxable transactions in the UK, irrespective of their monetary value, including the provision of digital services, you are obligated to register for VAT.
 
 ### Regsitration for NETPs
 Registration is required if you’re an NETP and you make any taxable supplies in the UK, regardless of their value and including supplies of digital services
 
-## VAT number format
-Format - 9 or 12 numbers, sometimes with ‘GB’ at the start, like 123456789 or GB123456789.
+## [VAT number format](docs/country-vat-name)
+The tax identification number in UK is called VAT number. The format is as follows. VAT number has either 9 or 12 numbers, sometimes with ‘GB’ at the start, like 123456789 or GB123456789. You can check the validity of UK VAT number from the official [HMRC site](https://www.gov.uk/check-uk-vat-number) or a Vat validation provider like _[Lookuptax](https://lookuptax.com/)_.
 
 ## Invoice format
 |                                | Full Invoice | Simplified Invoice | Modified Invoice |
@@ -184,4 +185,8 @@ You have two options:
 
 1. Register for the Non-Union VAT MOSS scheme in an EU member state.
 2. Register for VAT in every EU member state where you provide digital services to consumers.
+
+## Reference links
+* [How to register for VAT](https://www.gov.uk/register-for-vat/how-register-for-vat)
+* [Appointing a tax agent on your behalf](https://www.gov.uk/appoint-tax-agent)
 
