@@ -35,7 +35,7 @@ tags:
 ## Overview 
 United Kingdom follows Value Added Tax (VAT) scheme as the consumption tax. VAT is applied to the value added at each stage of the production and distribution chain. It's ultimately paid by the end consumer.
 
-## Tax Rates 
+## [Tax Rates](/docs/worldwide-tax-rates#united-kingdom) 
 * **Standard Rate: 20%**
   * Applicable to the majority of taxable supplies, with specific exemptions.
 
@@ -151,7 +151,7 @@ The invoice should clearly indicate the amount of VAT subject to the reverse cha
 
 If your billing system cannot display the reverse charge amount, the wording should convey that VAT is to be accounted for by your customer at the standard VAT rate, based on the VAT-exclusive selling price for the reverse charge goods or services.
 
-**Sample Invoice**
+**Sample invoice with reverse charge**
 ![Example of a reverse charge invoice](/img/invoice-example-reverse-charge.png)
 
 For reference, you can view a sample invoice that illustrates the application of the reverse charge mechanism at the following link: [Sample Invoice](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1117111/Invoice_example_1_-_reverse_charge_applies.odt).
@@ -230,14 +230,78 @@ If the transaction is subject to UK VAT, your invoices must additionally display
 * The applicable VAT amount, if any, at each rate.
 
 There is no requirement to display sterling figures for each line item on the invoice.
+
 ### Exchange rates
 You can use the following methods to get the FX rates for printing on your foreign currency invoices
 * UK market selling rate at the time of the supply. The rates published in national newspapers are acceptable.
 * [Exchange rates published by HM Revenue and Customs (HMRC)](https://www.gov.uk/government/collections/exchange-rates-for-customs-and-vat). This is known as the ‘period rate of exchange’
+
+## VAT returns
+A VAT Return is a document that you complete to inform HM Revenue and Customs (HMRC) about the amount of VAT you've invoiced to your customers and the amount you've paid to other businesses.
+ ### VAT Returns filling frequency
+
+Typically, you are required to send a VAT Return to HMRC every quarter, which is referred to as your 'accounting period.'
+
+If you are VAT-registered, it's mandatory to submit a VAT Return even if you don't owe any VAT or have any VAT to reclaim.
+
+Another method for reporting VAT is referred to as "payments on accounts," which involves making an advance payment of VAT. The deadline for this is usually one calendar month and seven days after the conclusion of your accounting period, and this deadline also coincides with the date for settling your VAT liability to HMRC. It's important to factor in the time needed for your payment to be received by HMRC.
+### VAT Return format
+You should ensure that your VAT Return contains the following details:
+
+1. The total sum of your sales and purchases.
+2. The amount of VAT that you are liable to pay.
+3. The amount of VAT that you are eligible to reclaim.
+4. The amount of VAT owed to you by HM Revenue and Customs (HMRC), provided you are seeking reimbursement for VAT associated with business expenses.
+
+It's essential to account for the VAT based on the entire value of your sales, even in situations where:
+
+- You receive goods or services as payment, such as in a part-exchange scenario.
+- You have not levied any VAT on the customer; in such cases, the total price you charge is considered to include VAT.
+
+If you are VAT-registered in Northern Ireland, it is necessary to incorporate EU sales in your VAT Return and also complete an EC Sales List.
+
+Sending an inaccurate return can result in a penalty of up to 100% of any erroneously stated or over-claimed tax.
+
+To manage import VAT on your VAT Return, you can utilize 'postponed VAT accounting.' This system enables you to report import VAT and subsequently reclaim it as a business expense within the same VAT Return.
+
+### VAT payments
+Both online and offline payment methods are available for payments
+The VAT you pay is usually the difference between any VAT you’ve paid to other businesses, and the VAT you’ve charged your customers.
+
+## Record Keeping
+**Retention of VAT Records:**
+
+You are required to retain VAT records for a minimum of 6 years. This duration extends to 10 years if you are utilizing the VAT One Stop Shop (OSS) scheme or have previously used the VAT Mini One Stop Shop (MOSS) scheme.
+
+**Digital Record-Keeping:**
+
+Your digital records should encompass the following:
+
+- VAT associated with the goods and services you provide (supplies made).
+- VAT linked to the goods and services you receive (supplies received).
+- Details regarding the 'time of supply' and the 'value of supply' (value excluding VAT) for all your purchases and sales.
+- Any adjustments you make to a return.
+- Records related to reverse charge transactions, where you document VAT for both the sale price and the purchase price of goods and services you acquire.
+- Information pertaining to any VAT accounting schemes you participate in.
+- If you operate under a retail scheme, your overall daily gross takings.
+- If you use the Flat Rate Scheme, the items for which you can claim VAT.
+- For those involved in gold trading and utilizing the Gold Accounting Scheme, your total sales and the associated VAT.
+
+**Digital Linking of Records:**
+
+If you use multiple software packages or products for record-keeping and return submission, you must establish digital links between them. Manual data transfer or 'copy and paste' methods are not permitted. Digital linking can be achieved through various means, such as:
+
+- Employing formulas to link cells in spreadsheets.
+- Transmitting records via email.
+- Storing records on a portable device to provide to your agent.
+- Importing and exporting XML and CSV files.
+- Downloading and uploading files as required.
+
 
 ## Reference links
 * [How to register for VAT](https://www.gov.uk/register-for-vat/how-register-for-vat)
 * [Appointing a tax agent on your behalf](https://www.gov.uk/appoint-tax-agent)
 * [Location evidence](https://www.gov.uk/guidance/the-vat-rules-if-you-supply-digital-services-to-private-consumers#location)
 * [Transactions in foreign currencies and VAT ](https://www.gov.uk/guidance/foreign-currency-transactions-vat-and-tour-operators#how-you-convert-foreign-currency-transactions-into-sterling)
+* [A guide to record keeping in UK](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/377656/rk-bk1.pdf)
 
