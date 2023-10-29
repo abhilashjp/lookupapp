@@ -91,7 +91,7 @@ If you qualify as an NETP and engage in any taxable transactions in the UK, irre
 ### Regsitration for NETPs
 Registration is required if you’re an NETP and you make any taxable supplies in the UK, regardless of their value and including supplies of digital services
 
-## [VAT number format](docs/country-vat-name)
+## [VAT number format](/docs/country-vat-name/)
 The tax identification number in UK is called VAT number. The format is as follows. VAT number has either 9 or 12 numbers, sometimes with ‘GB’ at the start, like 123456789 or GB123456789. You can check the validity of UK VAT number from the official [HMRC site](https://www.gov.uk/check-uk-vat-number) or a Vat validation provider like _[Lookuptax](https://lookuptax.com/)_.
 
 ## Invoice format
@@ -112,8 +112,9 @@ The tax identification number in UK is called VAT number. The format is as follo
 | Rate of VAT charged per item - if an item is exempt or zero-rated, make clear no VAT on these items | Yes | Yes (1) | Yes |
 | Total amount including VAT | No | Yes (1) | Yes |
 
-Note:
+:::note
 (1) - In the case of a Simplified or Modified invoice, the total amount including VAT is required.
+:::
 
 ## Domestic Reverse Charge
 
@@ -123,11 +124,12 @@ The reverse charge mechanism is applicable exclusively to supplies that meet the
 * Your customer acquires the goods or services for business purposes.
 * In the case of specified goods, such as mobile phones or computer chips, the VAT-exclusive value exceeds the de minimis limit.
 
-- Specified goods encompass mobile phones, computer chips, wholesale gas, and wholesale electricity. Specified services comprise emission allowances, wholesale telecommunications, renewable energy certificates, and construction services.
 
-- Supplies subject to the reverse charge are not eligible for the Flat Rate Scheme.
+Specified goods encompass mobile phones, computer chips, wholesale gas, and wholesale electricity. Specified services comprise emission allowances, wholesale telecommunications, renewable energy certificates, and construction services.
 
-- Businesses that employ the cash accounting scheme must exclude sales and purchases subject to the reverse charge from the scheme. These supplies should be reported under the reverse charge regulations when submitting returns.
+Supplies subject to the reverse charge are not eligible for the Flat Rate Scheme.
+
+Businesses that employ the cash accounting scheme must exclude sales and purchases subject to the reverse charge from the scheme. These supplies should be reported under the reverse charge regulations when submitting returns.
 
 For a detailed understanding of the Domestic Reverse Charge procedure, you can refer to VAT Notice 735.
 
@@ -141,7 +143,9 @@ When your customer is responsible for remitting the VAT, the invoice must bear t
 The invoice should clearly indicate the amount of VAT subject to the reverse charge, but this amount should not be included in the total VAT charged.
 
 If your billing system cannot display the reverse charge amount, the wording should convey that VAT is to be accounted for by your customer at the standard VAT rate, based on the VAT-exclusive selling price for the reverse charge goods or services.
+
 **Sample Invoice**
+![Example of a reverse charge invoice](/img/invoice-example-reverse-charge.png)
 
 For reference, you can view a sample invoice that illustrates the application of the reverse charge mechanism at the following link: [Sample Invoice](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1117111/Invoice_example_1_-_reverse_charge_applies.odt).
 
@@ -167,7 +171,8 @@ The reverse charge applies to nearly all business-to-business (B2B) service supp
 
 This mechanism comes into play when you, as the customer, receive services. In such cases, you are required to assume the roles of both the supplier and the recipient of the services. It is applicable even if your supplier, despite having a UK VAT registration number, is based outside the United Kingdom. 
 
-For instance, if you receive telecommunication services from a supplier in the USA and utilize those services within the USA, although they would typically be taxable in the UK under the B2B general rule, specific use and enjoyment rules are applicable (refer to section 13 for further details).
+For instance, if you receive telecommunication services from a supplier in the USA and utilize those services within the USA, although they would typically be taxable in the UK under the B2B general rule, specific use and enjoyment rules are applicable.
+
 
 ## Digital Products
 
