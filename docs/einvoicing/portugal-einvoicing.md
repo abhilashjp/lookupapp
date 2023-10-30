@@ -1,5 +1,5 @@
 ---
-id: eSPap-einvoicing-portugal
+id: espap-einvoicing-portugal
 title: E-invoicing in France 
 keywords: [E-invoicing reform Portugal, QR code on invoices Portugal, ATCUD requirement in Portugal, SAF-T reporting Portugal, B2B e-invoicing Portugal, E-invoicing obligation Portugal, B2G e-invoicing Portugal, eSPap platform for B2G e-invoicing, UBL 2.1 CIUS-PT standard, Digital signature requirement for electronic invoices Portugal]
 sidebar_label: Portugal - eSPap
