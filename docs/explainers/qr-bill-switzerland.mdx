@@ -16,7 +16,7 @@ The new QR-bills are set to completely replace the existing orange and red slips
 
 To understand why the QR-bills are replacing the orange and red slips, it is important for us to have a little context about orange and red slips. As a reader, if you already know everything there is to know about orange and red slips, please feel free to skip to the next section.
 
-#### Orange inpayment slip (ISR)
+### Orange inpayment slip (ISR)
 
 As the name indicates these are orange coloured slips. ISR is an abbreviation for inpayment slips with reference. ‘Reference refers to a reference number that can be very helpful to simplify bank reconciliations with automated processing. 
 
@@ -24,12 +24,14 @@ Assume that 3 different payments are made on a single invoice to pay off the ent
 
 These reference numbers are generally a combination of the Invoice number, the bank account number, the customer number and a check digit. The check digit is used to ensure that the entered reference number is not wrong during manual input by the payer. The check digit is calculated using the other digits of the reference number using an algorithm ( like the recursive MOD10 method ). So in case the payer makes a mistake while entering the reference number, the check digit will help give a warning.
 
-**NOTE**: This concept of using a reference number can be seen in other countries too like the KID number in Norway, the Finnish reference number in Finland, the OCR number in Denmark and Sweden.
+:::NOTE
+This concept of using a reference number can be seen in other countries too like the KID number in Norway, the Finnish reference number in Finland, the OCR number in Denmark and Sweden.
+:::
 
 These orange slips can either be bank deposit slips for bank transfer payments or they can be postal deposit slips for payments into a postal account. Orange slips are only available to businesses.
 
 
-#### Red inpayment slip (IS)
+### Red inpayment slip (IS)
 
 These are red coloured slips. You must have noticed that the abbreviation is just IS instead of ISR in case of orange slips. The reason it is just IS is because there are no reference numbers in a red slip. Instead, the payer can add a note to capture the purpose of payment. This note is completely optional. In an orange slip this note is not necessary because the reference number clearly captures the purpose of the payment already. Red slips can be issued by anyone and are not restricted to businesses like orange slips.
 
@@ -58,25 +60,22 @@ The invoice contains information about the description of the items or service p
 The Payment part consists of 5 different sections ( see image for reference )
 
 1. Title Section — The text “Payment part” must be printed in the title section.
-
 2. Swiss QR Code section — The QR code must be printed here.
-
 3. Amount section — The amount section includes the currency and the amount, which are used as headings. Swiss francs and euros are the supported currencies.
-
 4. Information section — All values relevant for a payment from the Swiss QR Code must be printed in the information section.
+  - Account / Payable to: IBAN/QR-IBAN from the Swiss QR Code
+  - Reference: QR reference or Creditor Reference
+  - Additional information: Up to 140 characters allowed and can be used to fill anything that the merchant wants. The purpose generally is to indicate the payment purpose or to fill additional information about the payment.
+  - Payable by or Payable by (name/address)
 
-
-- Account / Payable to: IBAN/QR-IBAN from the Swiss QR Code
-- Reference: QR reference or Creditor Reference
-- Additional information: Up to 140 characters allowed and can be used to fill anything that the merchant wants. The purpose generally is to indicate the payment purpose or to fill additional information about the payment.
-Payable by or Payable by (name/address)
-
-**NOTE** : If Amount has already been paid ( for example, automatically paid via credit card then the Additional Information section should read ‘DO NOT USE FOR PAYMENT’ and Amount should read 0.00. )
+::: NOTE
+If Amount has already been paid ( for example, automatically paid via credit card then the Additional Information section should read ‘DO NOT USE FOR PAYMENT’ and Amount should read 0.00. )
+:::
 
 5. Further Information Section — This area contains the two data elements “Ultimate Creditor” and “Alternative procedures“. The Ultimate Creditor is the final payee (the person to whom money is paid). Alternative procedures refers to Alternative payment procedures like for example the E-bill details. Upto 90 characters allowed.
 
 
-Receipt:
+#### Receipt
 
 Receipt has pretty much the same information as the Payment part. The main difference is the QR code. Also ‘Additional Information’ and 'Further Information Section’ are missing here.
 
@@ -84,17 +83,14 @@ Receipt has pretty much the same information as the Payment part. The main diffe
 
 Both the merchant and the end customer have unique advantages with the introduction of the QR bill.
 
-#### For the merchant ( bill issuer )
+#### For the merchant (bill issuer)
 
-– Invoices can be printed on white, perforated paper. There is no longer a need to order preprinted Orange or Red payment slips.
-
-– Automated payment processing and reduced potential for error because the end customer does not have to manually enter bank account numbers and reference numbers.
-
-– If you are planning to convert existing Orange slips to QR-bills then the ISR reference numbers can be reused. The reason this is allowed is because the format of the QR reference is the same as the ISR reference ( 27 digits with the check digit calculated using recursive modulo 10 method). Note that the QR reference can only be used for payments in Switzerland and Liechtenstein. If international payments are being made then SCOR reference ( also called the Creditor Reference) can be used. The difference between the Creditor reference and the QR reference is that the Creditor reference can be up to 25 digits long, is alphanumeric and its structure is based on [ISO 11649](https://en.wikipedia.org/wiki/Creditor_Reference). 
-
-– The combination of reference and message is possible (free text or use of Swico syntax recommendation). This allows the merchant to include any additional information required about the payment.
-
-– The fields for the amount or debtor can be left blank instead of being printed ( However, corresponding fields have to be provided in the Payment Part and Receipt for entry by hand later. )
+* Invoices can be printed on white, perforated paper. There is no longer a need to order preprinted Orange or Red payment slips.
+* Automated payment processing and reduced potential for error because the end customer does not have to manually enter bank account numbers and reference numbers.
+* If you are planning to convert existing Orange slips to QR-bills then the ISR reference numbers can be reused. The reason this is allowed is because the format of the QR reference is the same as the ISR reference ( 27 digits with the check digit calculated using recursive modulo 10 method).
+Note that the QR reference can only be used for payments in Switzerland and Liechtenstein. If international payments are being made then SCOR reference ( also called the Creditor Reference) can be used. The difference between the Creditor reference and the QR reference is that the Creditor reference can be up to 25 digits long, is alphanumeric and its structure is based on [ISO 11649](https://en.wikipedia.org/wiki/Creditor_Reference). 
+* The combination of reference and message is possible (free text or use of Swico syntax recommendation). This allows the merchant to include any additional information required about the payment.
+* The fields for the amount or debtor can be left blank instead of being printed ( However, corresponding fields have to be provided in the Payment Part and Receipt for entry by hand later. )
 
 #### For the customer ( bill receiver )
 
@@ -112,8 +108,8 @@ Any QR-Bills generated can be validated against the [QR-Bill validator](https://
 
 ## Reference docs
 
-1. #### [SIX group newsroom](https://www.six-group.com/en/newsroom/media-releases/2020/20200609-qr-bill-launch.html)
-2. #### [Swiss Implementation guidelines for QR bill](https://www.paymentstandards.ch/dam/downloads/ig-qr-bill-en.pdf)
-3. #### [FAQs](https://www.paymentstandards.ch/en/shared/know-how/faq/qr.html)
+1. [SIX group newsroom](https://www.six-group.com/en/newsroom/media-releases/2020/20200609-qr-bill-launch.html)
+2. [Swiss Implementation guidelines for QR bill](https://www.paymentstandards.ch/dam/downloads/ig-qr-bill-en.pdf)
+3. [FAQs](https://www.paymentstandards.ch/en/shared/know-how/faq/qr.html)
 
 
