@@ -101,6 +101,11 @@ Dynamic QR Code should be such that it can be scanned to make a digital payment.
 
 Businesses should generate dynamic QR code for B2C invoices using their own QR code generating machines and algorithms. Here, IRN generation is not required and you need not upload B2C invoices to IRP. If uploaded, IRP will reject such invoices.
 
+ <table align="center" border="1px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/sample-einvoice.jpg" alt="Sample einvoice"/>
+  </td></tr>
+  <tr><td align="center">Sample einvoice</td></tr>
+</table>
 
 <!--
 
