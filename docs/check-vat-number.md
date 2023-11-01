@@ -21,14 +21,14 @@ Below is the list of National Databases for seachring Tax IDs. You can check VAT
 |Brasil|[CNPJ Search](https://servicos.receita.fazenda.gov.br/servicos/cnpjreva/cnpjreva_solicitacao.asp)|
 |Burundi|[BRA](https://www.obr.bi/index.php/en/component/odvc/?option=com_odvc&view=odvc&id=1&type_doc=4)|
 |European Union(EU)| [Vat VIES website](https://ec.europa.eu/taxation_customs/vies/#/vat-validation) |
-|United Kingdom(UK)|[HMRC VAT Search](https://www.gov.uk/check-uk-vat-number)|
+|[United Kingdom(UK)](/docs/country/uk-vat-guidelines-sales-tax-indirect-tax-united-kingdom)|[HMRC VAT Search](https://www.gov.uk/check-uk-vat-number)|
 |Canada|[GST/HST Search](https://www.businessregistration-inscriptionentreprise.gc.ca/ebci/brom/registry/pub/reg_01_Ld.action)|
 |Czechia|[adisspr](https://adisspr.mfcr.cz/adis/jepo/epo/dpr/apl_ramce.htm?R=/cgi-bin/adis/idph/int_dp_prij.cgi?ZPRAC=FDPHI2&poc_dic=2&OK=Zobraz)|
 |Chile|[RUT](https://zeus.sii.cl/cvc/stc/stc.html)|
 |Germany|[USt-IdNr ](https://evatr.bff-online.de/eVatR/index_html)|
 |Denmark|[CVR Search](https://datacvr.virk.dk/)|
 |Iceland|[Virðisaukaskattsnúmer](https://www.skatturinn.is/fyrirtaekjaskra/)|
-|India|[GSTIN Search](https://services.gst.gov.in/services/searchtp), [icegate web](https://www.icegate.gov.in/Webappl/GSTN)|
+|[India](/docs/country/india-gst-guidelines-indirect-tax-sales-tax-india)|[GSTIN Search](https://services.gst.gov.in/services/searchtp), [icegate web](https://www.icegate.gov.in/Webappl/GSTN)|
 |Netherland|[SBI Code search tool](https://www.rvo.nl/subsidies-financiering/togs/vastgestelde-sbi-codes#block-agnl-kvk-api-kvk-block)|
 |North Macedonia|[Едниствен Даночен Број](http://ujp.gov.mk/en)|
 |Norway|[Enhetsregisteret](https://w2.brreg.no/enhet/sok/index.jsp)|
