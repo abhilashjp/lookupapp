@@ -31,3 +31,16 @@ description: Learn about the VAT rules and guidelines in France
     </tr>
   </tbody>
 </table>
+
+
+## Overview
+France follows VAT system for indirect taxes. It is known as Taxe sur la valeur ajoutée (TVA). 
+
+## [Tax Rates](/docs/worldwide-tax-rates#united-kingdom) 
+
+* Standard rates - 20%
+* Pricinpal reduced rates - 10 % 5.5%
+* Special Reduced rates  & 2.1%
+* Taxes applicable might be different in Corsica, Guadeloupe, Martinique and Reunion
+
+
