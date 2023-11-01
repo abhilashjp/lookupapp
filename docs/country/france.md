@@ -49,17 +49,17 @@ France follows VAT system for indirect taxes. It is known as Taxe sur la valeur 
 Professionals involved in the purchase and resale of goods, sales for immediate consumption on-site, and the provision of accommodation (including activities like renting rural lodges, furnished tourist accommodations, and bed and breakfast establishments) when their turnover does not exceed €91,900.
 To qualify for this VAT exemption, you must meet one of the following criteria:
 
-a. Your turnover for the previous calendar year (N-1) should not exceed €91,900.
-b. Your turnover for the penultimate calendar year (N-2) should not exceed €91,900, and your turnover for the previous calendar year (N-1) should not exceed €101,000.
-c. For the current calendar year (N), your turnover must not exceed €101,000. If you surpass this threshold, you will be required to remit VAT, commencing from the first day of the month in which the threshold is exceeded.
+1. Your turnover for the previous calendar year (N-1) should not exceed €91,900.
+2. Your turnover for the penultimate calendar year (N-2) should not exceed €91,900, and your turnover for the previous calendar year (N-1) should not exceed €101,000.
+3. For the current calendar year (N), your turnover must not exceed €101,000. If you surpass this threshold, you will be required to remit VAT, commencing from the first day of the month in which the threshold is exceeded.
 
 ### Services - €36,800
 Service providers and furnished rental companies (excluding the rental categories mentioned above) can benefit from a VAT exemption when their turnover does not exceed €36,800.
 In order to qualify for the VAT exemption, you need to meet one of the following conditions:
 
-a. Your sales in the previous calendar year (N-1) should not exceed €36,800.
-b. Your sales for the penultimate calendar year (N-2) must not surpass €36,800, and the sales for the preceding calendar year (N-1) should not exceed €39,100.
-c. Your sales for the current calendar year (N) must stay below €39,100. If you surpass this threshold, you will be required to remit VAT starting from the first day of the month in which the threshold is exceeded.
+1. Your sales in the previous calendar year (N-1) should not exceed €36,800.
+2. Your sales for the penultimate calendar year (N-2) must not surpass €36,800, and the sales for the preceding calendar year (N-1) should not exceed €39,100.
+3. Your sales for the current calendar year (N) must stay below €39,100. If you surpass this threshold, you will be required to remit VAT starting from the first day of the month in which the threshold is exceeded.
 
 
 ### Domestic purchases
@@ -71,14 +71,14 @@ To be able to deduct VAT on your professional purchases, you must opt ​​out 
 
 ### Intra community 
 
-When you make purchases of goods , they are not subject to VAT as long as the total amount of your acquisitions does not exceed  €10,000 per year. As soon as this threshold is exceeded, you are subject to payment of VAT.
+When you make purchases of goods, they are not subject to VAT as long as the total amount of your acquisitions does not exceed  €10,000 per year. As soon as this threshold is exceeded, you are subject to payment of VAT.
 
-On the other hand, when you purchase services , you must pay VAT regardless of the amount.
+On the other hand, when you purchase services, you must pay VAT regardless of the amount.
 
-As you are subject to the VAT-based exemption regime, you will not be able to deduct VAT on your purchases . To be able to deduct VAT on your professional purchases, you must opt ​​out of the VAT-based exemption regime
+As you are subject to the VAT-based exemption regime, you will not be able to deduct VAT on your purchases . To be able to deduct VAT on your professional purchases, you must opt ​​out of the VAT-based exemption regime.
 
 ### Exports & Imports
 
-For exports , whether you are under the VAT-based exemption regime or not, you do not charge VAT .
+For exports, whether you are under the VAT-based exemption regime or not, you do not charge VAT.
 
-When you carry out imports , whether you are under the VAT-based exemption regime or not, you must pay VAT . On the other hand, with a VAT exemption, you will not be able to deduct the VAT you paid on your imports. To be able to deduct VAT on your professional purchases, you must waive the VAT exemption.
+When you carry out imports, whether you are under the VAT-based exemption regime or not, you must pay VAT. On the other hand, with a VAT exemption, you will not be able to deduct the VAT you paid on your imports. To be able to deduct VAT on your professional purchases, you must waive the VAT exemption.
