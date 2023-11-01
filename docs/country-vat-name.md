@@ -23,7 +23,7 @@ Even though we generally term the Tax Identification Numbers as VAT numbers, it 
 |Denmark[^1]|DK|momsregistreringsnummer(moms)|12345678|8 characters.|`(\d{8}$)/i)`|Except the Faroe Islands and Greenland |
 |Estionia|EE|käibemaksukohustuslasena registreerimise number(km)|123456789|9 characters.|`(10\d{7}$)/i)`| |
 |Finland|FI|arvonlisćverorekisterõintinumero; Mervärdesskatteregistreringsnummer (momsregistreringsnummer)(ALV, Moms)|12345678|8 characters.|`(\d{8}$)/i)`|Excluding the Åland Islands|
-|France|FR|le numéro d’identification ą la taxe sur la valeur ajoutée(TVA)|12345678901, X1234567890, 1X123456789, XX123456789|11 characters. May include alphabetical characters (any except O or I) as first or second or first and second characters.|`([0-9A-Z]{2}[0-9]{9}$)/i)`|Including Monaco but excluding Guadeloupe, Martinique, Réunion, St Pierre and Miquelon, and French Guiana|"
+|[France](/docs/country/france-vat-guidelines-taxe-sur-la-valeur-ajoutée-TVA)|FR|le numéro d’identification ą la taxe sur la valeur ajoutée(TVA)|12345678901, X1234567890, 1X123456789, XX123456789|11 characters. May include alphabetical characters (any except O or I) as first or second or first and second characters.|`([0-9A-Z]{2}[0-9]{9}$)/i)`|Including Monaco but excluding Guadeloupe, Martinique, Réunion, St Pierre and Miquelon, and French Guiana|"
 |Germany|DE|Umsatzsteuer – Identifikationsnummer(MwSt., Ust.)|123456789|9 characters.|`([1-9]\d{8}$)/i)`|Except Büsingen and the Isle of Heligoland|
 |Greece|EL|Αριθμός Φορολογικού Μητρώου ΦΠΑ; Arithmos Forologikou Mitroou FPA|123456789|9 characters.|`(\d{9}$)/i)`| |
 |Hungary|HU|közösségi adószįm(ÁFA)|12345678|8 characters.|`(\d{8}$)/i)`| |
@@ -43,7 +43,7 @@ Even though we generally term the Tax Identification Numbers as VAT numbers, it 
 |Slovenia|SI|identifikacijska številka za (DDV)|12345678|8 characters|`([1-9]\d{7}$)/i)`| |
 |Spain|ES|el nśmero de identificación a efectos del Impuesto sobre el Valor Añadido(IVA)(NIF or CIF)|X12345678, 12345678X, X1234567X|9 characters. Includes one or two alphabetical characters (first or last or first and last).|`([0-9A-Z][0-9]{7}[0-9A-Z]$)/i)`|Including the Balearic Islands but excluding Ceuta, Melilla and the Canary Islands|
 |Sweden|SE|Mervärdesskatteregistreringsnummer (momsregistreringsnummer)(Moms)|123456789012|12 characters|`(\d{10}01$)/i)`| |
-|UK|GB|value added tax (VAT) registration no.| | |`(?:[0-9]{12}\|[0-9]{9}\|(?:GD\|HA)[0-9]{3})$)/i)"`| |
+|[United Kingdom](/docs/country/uk-vat-guidelines-sales-tax-indirect-tax-united-kingdom)|GB|value added tax (VAT) registration no.| | |`(?:[0-9]{12}\|[0-9]{9}\|(?:GD\|HA)[0-9]{3})$)/i)"`| |
 |Northern Ireland|XI| |999999999, 999999999999, GD999, HA999| | | |
 |EU||non union VAT moss number|EUxxxyyyyyz| | | 
 
