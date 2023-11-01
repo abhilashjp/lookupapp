@@ -82,3 +82,24 @@ As you are subject to the VAT-based exemption regime, you will not be able to de
 For exports, whether you are under the VAT-based exemption regime or not, you do not charge VAT.
 
 When you carry out imports, whether you are under the VAT-based exemption regime or not, you must pay VAT. On the other hand, with a VAT exemption, you will not be able to deduct the VAT you paid on your imports. To be able to deduct VAT on your professional purchases, you must waive the VAT exemption.
+
+## [VAT number format](/docs/country-vat-name/)
+ * FR (country code) + 2 digits + SIREN
+ * Country code + 11 characters. May include alphabetical characters (any except O or I) as first or second or first and second characters.
+ * Example - 12345678901, X1234567890, 1X123456789, XX123456789
+
+## Types of identification numbers issued to a company
+|Number|Utility|Shape|
+|---|---|--|
+|SIREN|Unique identification of your company, its identity card. Must be provided during all steps|9 digits|
+|SIRET|Identification of each establishment of the same company in which the activity is carried out With geographical indication of activity/building. Must appear on pay slips|14 digits = 9 SIREN digits + 5 institution-specific digits|
+|EPA code (or NAF code )|Identification of the industry of your main activity for each establishment.Determine the collective agreement that applies to your employees. Must appear on pay slips|4 digits + 1 letter|
+|RCS (Trade and businesses Register)|Proof of your registration if you are a merchant as IS: IS: Sole traderor as a commercial business|SCR + city of registration + SIREN number|
+|LEI ( Legal Entity Identifier or Legal Entity Identifier)|Identification of financial businesses|20-character string of letters and numbers|
+|Intra-Community VAT|Tax registration if you pay VAT. Must appear on invoices and VAT returns|FR (country code) + 2 digits + SIREN|
+
+
+## VAT validation
+It is advisable to verify the VAT number on invoices before conducting any transaction.
+
+In the case of an EU partner whose intra-EU VAT number is deemed "invalid," they should furnish a tax certificate issued by their tax authority. Failure to provide this certificate will result in invoicing under the French VAT system.
