@@ -50,10 +50,20 @@ There are 4 levels of checks to see if the OCR number is correct.See [Section 5.
 
 #### Let’s take some examples to see how the final generated number will look like
 
+**Case 1: OCR controls without variable length**
+
 1. Total Number of digits in OCR - 10
 2. Next number in OCR sequence - 567
 3. Check digit algorithm - Mod 10
 
-
-
 > Final OCR number generated = <font color="green">000000</font><font color="orange">567</font><font color="red">8</font> 
+
+
+**Case 2: OCR controls with variable length**
+
+1. Total Number of digits in OCR - 10
+2. Next number in OCR sequence - 567
+3. Check digit algorithm - Mod 10
+4. Length digit - 0
+
+> Final OCR number generated = <font color="green">00000</font><font color="orange">5670</font><font color="red">5</font> 
