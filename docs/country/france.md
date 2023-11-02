@@ -116,6 +116,34 @@ It is advisable to verify the VAT number on invoices before conducting any trans
 
 In the case of an EU partner whose intra-EU VAT number is deemed "invalid," they should furnish a tax certificate issued by their tax authority. Failure to provide this certificate will result in invoicing under the French VAT system.
 
+## Invoice Information
+|Items|Description|
+|--|--|
+|Date of invoice issue|The date on which the invoice is created.|
+|Invoice Numbering|Each invoice should bear a unique number in a continuous chronological sequence (e.g., invoice 01, 02, 03). In specific cases, separate numbering series may be employed, such as using a prefix per year (e.g., 2018-XX) or per year and month (e.g., 2018-01-XX). For instance, if your invoice concludes in January with invoice number 25: </br> * January: Invoice No. 2018-01-025 </br> * February: Invoice No. 2018-02-026 </br> * This number must appear on all pages of the invoice.|
+|Date of sale or service provision|Current day of delivery or completion of the service|
+|Buyer Identity|Name (or corporate name)</br>Address of the registered office of a company</br>Billing address (if different from the registered office)|
+|Identity of the seller or supplier| - The full name of an individual contractor, either before or after specifying "Sole trader" or "IS."<br>- The name of the business.<br>- SCR number (Trade and businesses Register) for a trader.<br>- Siren Number.<br>- Address of the registered office, including the name of the establishment.<br>- In the case of a business, mention of the legal form (e.g., EURL, SARL, SA, SNC, SAS) and the declared share capital.<br><br>Attention: If the company is in the process of registration, the invoice must be prepared in the name of the business, with the Siret number assigned to it, and not in the name of the creator. Failure to do so may result in the deduction of VAT being rejected. |
+|Purchase Order Number|When it has been previously established by the buyer|
+|VAT identification number of the seller and the professional customer, only if the latter is linked to the VAT: VAT: Value added tax(reverse charge)|Except for invoices for a total amount excluding tax: Excl. VAT: Duty-freeless than or equal to €150|
+|Description of the product or service|Nature, brand, product reference </br> Supply: materials supplied and labor|
+|Detailed breakdown of each service and product provided|Quantity and price detail (optional if the service has been the subject of a prior, descriptive and detailed quote, accepted by the customer and in conformity with the service performed)|
+|List Price|Unit price not included VAT,  VAT: Value added taxof products sold or hourly rate excluding VAT of services supplied|
+|Possible price increase|Transport or packaging costs, for example|
+|VAT rate legally applicable </br> Total corresponding VAT amount|If transactions are subject to different VAT rates, the corresponding rate must be shown on each line|
+|Price reduction|Discounts, rebates or rebates earned on the date of sale or service and directly related to this transaction, excluding discounts not provided on the invoice|
+|Total sum payable excluding tax (excluding VAT) and all taxes included (including VAT)||
+|Date or time of payment|Date on which settlement is to take place </br> Discount terms in case of early payment </br> In the case of no discount, indicate on the invoice: </br> Prepayment Discount: None|
+|Rate of late penalties|Due for non-payment on the settlement date (late penalties are due without a reminder)|
+|Mention of the lump sum payment of €40|For recovery costs, in case of late payment|
+|Additional info||
+|Member of an approved association , payment by check and credit card is accepted|If the seller or supplier is a member of a management center or an approved association|
+|VAT not applicable, art. 293 B of the CGI|If the seller or supplier benefits from the VAT exemption (eg self-employed), the invoice is tax-free|
+|Reverse charge</br>Make it clear that this is a duty-free amount|If work is carried out by a subcontractor of the building on behalf of a contractor subject to VAT, the subcontractor no longer declares VAT and the main company declares it ( reverse charge of VAT )|
+|WEEE Eco-participation|Purchase of electronic products or equipment or furniture.|
+|Remuneration for private copying (RCP)|Acquisition of a recording medium|
+|Self-billing|If the customer produces the invoice himself instead of the seller or supplier|
+
 ## Issuance of invoice 
 An invoice must be generated at the moment when goods are delivered or services are rendered. Nevertheless, there are exceptions where an invoice can be issued at a different time:
 
@@ -178,9 +206,9 @@ INTRASTAT consists of two distinct procedures: a statistical survey and a VAT re
 
 You are obligated to fulfill this reporting requirement if you fall into any of the following categories:
 
-    In the previous calendar year, if your acquisitions amounted to €460,000 or more, or if your acquisitions in the previous calendar year were less than €460,000 but you surpass that threshold during the current year.
+In the previous calendar year, if your acquisitions amounted to €460,000 or more, or if your acquisitions in the previous calendar year were less than €460,000 but you surpass that threshold during the current year.
 
-    If your company engages in intra-Community deliveries, there is no specific threshold; DEB reporting is mandatory from the very first intra-Community delivery, regardless of the transaction amount. It is important to note that the statistical survey response is obligatory even if your company doesn't have a transaction flow. In such cases, you should submit a "month without a statistical response" through the DEB WEB online service.
+If your company engages in intra-Community deliveries, there is no specific threshold; DEB reporting is mandatory from the very first intra-Community delivery, regardless of the transaction amount. It is important to note that the statistical survey response is obligatory even if your company doesn't have a transaction flow. In such cases, you should submit a "month without a statistical response" through the DEB WEB online service.
 
 The VAT recapitulative statement corresponds to the tax-related aspect of the DEB. You are required to retain the data used to complete the VAT Summary Report for a period of 6 years starting from the date of the transaction that generated the VAT Summary Report.
 
@@ -195,6 +223,54 @@ The declaration should encompass the following information:
 * Invoiced Amount
 
 This declaration must be submitted on a monthly basis, no later than the 11th business day of the month that follows the transaction, whether it was conducted on paper or online.
+
+## [Einvoicing](/docs/einvoicing/Chorus-Pro-einvoicing-france)
+Electronic invoicing, which was initially compulsory for public entities, is progressively expanding its reach to encompass professionals:
+
+* Starting from July 1, 2024, all companies must have the capability to receive invoices in electronic format. Furthermore, large companies will be obligated to transmit their invoices electronically.
+* Subsequently, commencing on January 1, 2025, intermediate-sized companies will also be mandated to send their invoices electronically.
+* Finally, as of January 1, 2026, small and medium-sized companies, as well as micro-companies, will be required to exclusively use electronic means for invoicing.
+
+## Record Keeping
+
+Invoices issued by a company must be filed chronologically in a book of accounts. Issuance dates and invoice numbering must follow each other and be consistent.
+
+Invoice numbers should be assigned using a unique, uninterrupted, and chronological sequence, ensuring that no two invoices share the same number.
+
+The company has the flexibility to select different numbering series, for instance, F2023-01-001, 2023-001, etc. This flexibility may be applicable in the following circumstances:
+
+1. When there are multiple billing locations, using one series per site.
+2. When different customer categories necessitate distinct billing rules, assigning a series for each customer category.
+3. When invoice outsourcing is employed for certain invoices.
+
+The invoice number is considered an essential detail and must be visible on all pages of the invoice. In cases where an invoice spans multiple pages, each page should be sequentially numbered as n/N (where n is the page's serial number, and N is the total number of pages comprising the invoice).
+
+Invoices must be retained for a period of 10 years.
+
+### Accounting Entries:
+
+* Ledger and ledger books, including journal books, ledgers, inventory books, etc., must be preserved for 10 years from the year-end.
+* Vouchers, such as purchase orders (PO), shipment or receipt records, customer and supplier invoices, etc., should also be retained for 10 years from the year-end.
+* In cases where these documents are received in electronic form, they must be maintained in that format for 6 years from the date of the last transaction.
+
+### Tax Documents:
+
+* Income and business tax records should be stored for 6 years.
+* Industrial and commercial profits (BIC), non-commercial profits (NTB), and agricultural profits (BA) under the real tax regime should also be retained for 6 years.
+* Taxes on businesses for individual companies, limited liability businesses (including agricultural holdings and liberal practice businesses) should be preserved for 6 years.
+* Records related to direct local taxes (such as property taxes) should be kept for 6 years.
+* Documents pertaining to company property tax (CFE: Companies Formalities Center) and CVAE: Contribution on the added value of companies should be retained for 6 years.
+* Turnover taxes, including Value Added Tax (VAT) and similar taxes, as well as taxes on shows and insurance agreements, should be preserved for 6 years
+
+## Invoice cancellation
+In the case of an error or when a discount needs to be applied after an invoice has been issued, it is not permissible to simply delete the original invoice to maintain the sequential numbering of invoices. Instead, there are two accepted methods for rectifying the situation:
+
+**Generate a New Invoice**
+
+Create a new invoice, and in the reference section, make mention of the canceled invoice. Clearly indicate that this new invoice supersedes the initial one.
+
+**Generate a Credit Note:**
+In situations where a discount is granted after the original invoice has been issued, you should issue a credit note. The credit note should reference the details of the initial invoice, including the invoice number and date, and clearly state the reason for the credit. This effectively adjusts the amount owed or accounts for any discrepancies.
 
 ## Reference links
 * [Intra community VAT number](https://entreprendre.service-public.fr/vosdroits/F23570?lang=en)
