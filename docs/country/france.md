@@ -120,26 +120,26 @@ In the case of an EU partner whose intra-EU VAT number is deemed "invalid," they
 |Items|Description|
 |--|--|
 |Date of invoice issue|The date on which the invoice is created.|
-|Invoice Numbering|Each invoice should bear a unique number in a continuous chronological sequence (e.g., invoice 01, 02, 03). In specific cases, separate numbering series may be employed, such as using a prefix per year (e.g., 2018-XX) or per year and month (e.g., 2018-01-XX). For instance, if your invoice concludes in January with invoice number 25: </br> * January: Invoice No. 2018-01-025 </br> * February: Invoice No. 2018-02-026 </br> * This number must appear on all pages of the invoice.|
+|Invoice Numbering|Each invoice should bear a unique number in a continuous chronological sequence (e.g., invoice 01, 02, 03). In specific cases, separate numbering series may be employed, such as using a prefix per year (e.g., 2018-XX) or per year and month (e.g., 2018-01-XX). For instance, if your invoice concludes in January with invoice number 25: <br/> * January: Invoice No. 2018-01-025 </br> * February: Invoice No. 2018-02-026 <br/> * This number must appear on all pages of the invoice.|
 |Date of sale or service provision|Current day of delivery or completion of the service|
-|Buyer Identity|Name (or corporate name)</br>Address of the registered office of a company</br>Billing address (if different from the registered office)|
-|Identity of the seller or supplier| - The full name of an individual contractor, either before or after specifying "Sole trader" or "IS."<br>- The name of the business.<br>- SCR number (Trade and businesses Register) for a trader.<br>- Siren Number.<br>- Address of the registered office, including the name of the establishment.<br>- In the case of a business, mention of the legal form (e.g., EURL, SARL, SA, SNC, SAS) and the declared share capital.<br><br>Attention: If the company is in the process of registration, the invoice must be prepared in the name of the business, with the Siret number assigned to it, and not in the name of the creator. Failure to do so may result in the deduction of VAT being rejected. |
+|Buyer Identity|Name (or corporate name)<br/>Address of the registered office of a company</br>Billing address (if different from the registered office)|
+|Identity of the seller or supplier| - The full name of an individual contractor, either before or after specifying "Sole trader" or "IS."<br/>- The name of the business.<br/>- SCR number (Trade and businesses Register) for a trader.<br/>- Siren Number.<br/>- Address of the registered office, including the name of the establishment.<br/>- In the case of a business, mention of the legal form (e.g., EURL, SARL, SA, SNC, SAS) and the declared share capital.<br/>>Attention: If the company is in the process of registration, the invoice must be prepared in the name of the business, with the Siret number assigned to it, and not in the name of the creator. Failure to do so may result in the deduction of VAT being rejected. |
 |Purchase Order Number|When it has been previously established by the buyer|
 |VAT identification number of the seller and the professional customer, only if the latter is linked to the VAT: VAT: Value added tax(reverse charge)|Except for invoices for a total amount excluding tax: Excl. VAT: Duty-freeless than or equal to €150|
-|Description of the product or service|Nature, brand, product reference </br> Supply: materials supplied and labor|
+|Description of the product or service|Nature, brand, product reference <br/> Supply: materials supplied and labor|
 |Detailed breakdown of each service and product provided|Quantity and price detail (optional if the service has been the subject of a prior, descriptive and detailed quote, accepted by the customer and in conformity with the service performed)|
 |List Price|Unit price not included VAT,  VAT: Value added taxof products sold or hourly rate excluding VAT of services supplied|
 |Possible price increase|Transport or packaging costs, for example|
-|VAT rate legally applicable </br> Total corresponding VAT amount|If transactions are subject to different VAT rates, the corresponding rate must be shown on each line|
+|VAT rate legally applicable <br/> Total corresponding VAT amount|If transactions are subject to different VAT rates, the corresponding rate must be shown on each line|
 |Price reduction|Discounts, rebates or rebates earned on the date of sale or service and directly related to this transaction, excluding discounts not provided on the invoice|
 |Total sum payable excluding tax (excluding VAT) and all taxes included (including VAT)||
-|Date or time of payment|Date on which settlement is to take place </br> Discount terms in case of early payment </br> In the case of no discount, indicate on the invoice: </br> Prepayment Discount: None|
+|Date or time of payment|Date on which settlement is to take place </br> Discount terms in case of early payment </br> In the case of no discount, indicate on the invoice: <br/> Prepayment Discount: None|
 |Rate of late penalties|Due for non-payment on the settlement date (late penalties are due without a reminder)|
 |Mention of the lump sum payment of €40|For recovery costs, in case of late payment|
 |Additional info||
 |Member of an approved association , payment by check and credit card is accepted|If the seller or supplier is a member of a management center or an approved association|
 |VAT not applicable, art. 293 B of the CGI|If the seller or supplier benefits from the VAT exemption (eg self-employed), the invoice is tax-free|
-|Reverse charge</br>Make it clear that this is a duty-free amount|If work is carried out by a subcontractor of the building on behalf of a contractor subject to VAT, the subcontractor no longer declares VAT and the main company declares it ( reverse charge of VAT )|
+|Reverse charge<br/>Make it clear that this is a duty-free amount|If work is carried out by a subcontractor of the building on behalf of a contractor subject to VAT, the subcontractor no longer declares VAT and the main company declares it ( reverse charge of VAT )|
 |WEEE Eco-participation|Purchase of electronic products or equipment or furniture.|
 |Remuneration for private copying (RCP)|Acquisition of a recording medium|
 |Self-billing|If the customer produces the invoice himself instead of the seller or supplier|
