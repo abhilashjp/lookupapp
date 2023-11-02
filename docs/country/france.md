@@ -91,12 +91,12 @@ When you carry out imports, whether you are under the VAT-based exemption regime
 ## Types of identification numbers issued to a company
 |Number|Utility|Shape|
 |---|---|--|
-|SIREN|Unique identification of your company, its identity card. Must be provided during all steps|9 digits|
-|SIRET|Identification of each establishment of the same company in which the activity is carried out With geographical indication of activity/building. Must appear on pay slips|14 digits = 9 SIREN digits + 5 institution-specific digits|
-|EPA code (or NAF code )|Identification of the industry of your main activity for each establishment.Determine the collective agreement that applies to your employees. Must appear on pay slips|4 digits + 1 letter|
+|[SIREN](https://entreprendre.service-public.fr/vosdroits/F32135?lang=en)|Unique identification of your company, its identity card. Must be provided during all steps|9 digits|
+|[SIRET](https://entreprendre.service-public.fr/vosdroits/F32135?lang=en)|Identification of each establishment of the same company in which the activity is carried out With geographical indication of activity/building. Must appear on pay slips|14 digits = 9 SIREN digits + 5 institution-specific digits|
+|[EPA code (or NAF code)](https://entreprendre.service-public.fr/vosdroits/F33050?lang=en)|Identification of the industry of your main activity for each establishment.Determine the collective agreement that applies to your employees. Must appear on pay slips|4 digits + 1 letter|
 |RCS (Trade and businesses Register)|Proof of your registration if you are a merchant as IS: IS: Sole traderor as a commercial business|SCR + city of registration + SIREN number|
 |LEI ( Legal Entity Identifier or Legal Entity Identifier)|Identification of financial businesses|20-character string of letters and numbers|
-|Intra-Community VAT|Tax registration if you pay VAT. Must appear on invoices and VAT returns|FR (country code) + 2 digits + SIREN|
+|[Intra-Community VAT](https://entreprendre.service-public.fr/vosdroits/F23570?lang=en)|Tax registration if you pay VAT. Must appear on invoices and VAT returns|FR (country code) + 2 digits + SIREN|
 
 
 ## VAT validation
