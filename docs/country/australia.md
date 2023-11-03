@@ -26,7 +26,7 @@ tags:
     </tr>
     <tr>
       <td>Tax Authority</td>
-      <td> <a href"https://www.ato.gov.au/">Australian Taxation Office </a></td>
+      <td> <a href="https://www.ato.gov.au/">Australian Taxation Office </a></td>
     </tr>
   </tbody>
 </table>
@@ -34,8 +34,7 @@ tags:
 
 ## Information on the invoice 
 
-### Under $1000
-
+### Sales Under $1000
 
 Tax invoices for sales under $1,000 that are subject to tax must have enough details to clearly show the following 7 things:
 
@@ -51,5 +50,22 @@ Tax invoices for sales under $1,000 that are subject to tax must have enough det
   <img src="/docs/img/tax-invoice-for-a-sale-under-1000.gif" alt="Tax invoice for a sale under $1,000"/>
   </td></tr>
   <tr><td align="center">Tax invoice for a sale under $1,000</td></tr>
+</table>
+
+
+## Sales of $1,000 or more
+
+Tax invoices for sales of $1,000 or more also need to show the buyer's identity or ABN.
+
+If your tax invoices meet the requirements for sales of $1,000 or more, you can also use them for sales of lesser amounts.
+
+1. GST included in each line item
+2. the sale is clearly identified as being fully taxable by the words 'Total price includes GST'
+3. the buyer's identity for sales of $1,000 or more.
+
+<table align="center" border="1px" border-color="#dedede"><tr><td>
+  <img src="tax-invoice-for-a-sale-of-1000-or-more.gif" alt="Tax invoice for a sale of $1,000 or more"/>
+  </td></tr>
+  <tr><td align="center">Tax invoice for a sale of $1,000 or more</td></tr>
 </table>
 
