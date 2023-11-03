@@ -64,7 +64,7 @@ If your tax invoices meet the requirements for sales of $1,000 or more, you can 
 3. the buyer's identity for sales of $1,000 or more.
 
 <table align="center" border="1px" border-color="#dedede"><tr><td>
-  <img src="tax-invoice-for-a-sale-of-1000-or-more.gif" alt="Tax invoice for a sale of $1,000 or more"/>
+  <img src="/docs/img/tax-invoice-for-a-sale-of-1000-or-more.gif" alt="Tax invoice for a sale of $1,000 or more"/>
   </td></tr>
   <tr><td align="center">Tax invoice for a sale of $1,000 or more</td></tr>
 </table>
