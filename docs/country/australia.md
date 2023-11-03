@@ -46,14 +46,14 @@ Tax invoices for sales under $1,000 that are subject to tax must have enough det
 6. The amount of GST owed (if any) - this can be shown separately or, if the GST amount is exactly one-eleventh of the total price, a statement saying 'Total price includes GST'.
 7. The extent to which each sale on the invoice is subject to tax.
 
-<table border="1px" border-color="#dedede"><tr><td>
+<table  align="center" border="1px" border-color="#dedede"><tr><td align="center">
   <img src="/docs/img/tax-invoice-for-a-sale-under-1000.gif" alt="Tax invoice for a sale under $1,000"/>
   </td></tr>
   <tr><td align="center">Tax invoice for a sale under $1,000</td></tr>
 </table>
 
 
-## Sales of $1,000 or more
+### Sales of $1,000 or more
 
 Tax invoices for sales of $1,000 or more also need to show the buyer's identity or ABN.
 
@@ -63,7 +63,7 @@ If your tax invoices meet the requirements for sales of $1,000 or more, you can 
 2. the sale is clearly identified as being fully taxable by the words 'Total price includes GST'
 3. the buyer's identity for sales of $1,000 or more.
 
-<table align="center" border="1px" border-color="#dedede"><tr><td>
+<table align="center" border="1px" border-color="#dedede"><tr><td align="center" >
   <img src="/docs/img/tax-invoice-for-a-sale-of-1000-or-more.gif" alt="Tax invoice for a sale of $1,000 or more"/>
   </td></tr>
   <tr><td align="center">Tax invoice for a sale of $1,000 or more</td></tr>
