@@ -1,6 +1,6 @@
 ---
-id: gremany-vat-guidelines-Umsatzsteuergesetz
-title: The Value Added Tax Act in Germany: An In-Depth Explanation
+id: germany-vat-guidelines-Umsatzsteuergesetz
+title: The Value Added Tax Act in Germany - An In-Depth Explanation
 keywords: [Germany VAT]
 sidebar_label: Germany
 description: Learn about the VAT rules and guidelines in France
