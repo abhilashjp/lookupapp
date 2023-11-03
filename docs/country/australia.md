@@ -26,7 +26,30 @@ tags:
     </tr>
     <tr>
       <td>Tax Authority</td>
-      <td>[Australian Taxation Office](https://www.ato.gov.au/)</td>
+      <td> <a href"https://www.ato.gov.au/">Australian Taxation Office </a></td>
     </tr>
   </tbody>
 </table>
+
+
+## Information on the invoice 
+
+### Under $1000
+
+
+Tax invoices for sales under $1,000 that are subject to tax must have enough details to clearly show the following 7 things:
+
+1. The document is meant to be a tax invoice.
+2. Who the seller is.
+3. The seller's Australian business number (ABN).
+4. The date the invoice was created.
+5. A short description of the items sold, including the amount sold and the price per item (if applicable).
+6. The amount of GST owed (if any) - this can be shown separately or, if the GST amount is exactly one-eleventh of the total price, a statement saying 'Total price includes GST'.
+7. The extent to which each sale on the invoice is subject to tax.
+
+<table align="center" border="1px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/tax-invoice-for-a-sale-under-1000.gif" alt="Tax invoice for a sale under $1,000"/>
+  </td></tr>
+  <tr><td align="center">Tax invoice for a sale under $1,000</td></tr>
+</table>
+
