@@ -46,7 +46,7 @@ Tax invoices for sales under $1,000 that are subject to tax must have enough det
 6. The amount of GST owed (if any) - this can be shown separately or, if the GST amount is exactly one-eleventh of the total price, a statement saying 'Total price includes GST'.
 7. The extent to which each sale on the invoice is subject to tax.
 
-<table align="center" border="1px" border-color="#dedede"><tr><td>
+<table border="1px" border-color="#dedede"><tr><td>
   <img src="/docs/img/tax-invoice-for-a-sale-under-1000.gif" alt="Tax invoice for a sale under $1,000"/>
   </td></tr>
   <tr><td align="center">Tax invoice for a sale under $1,000</td></tr>
