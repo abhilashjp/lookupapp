@@ -48,5 +48,5 @@ Below is the list of National Databases for seachring Tax IDs. You can check VAT
 |Texas|[Texas Comptroller of Public Accounts](https://mycpa.cpa.state.tx.us/staxpayersearch/)|
 |Nevada|[Nevada Department of Taxation ](https://taxpermitsearch.nv.gov/Search.aspx)|
 |Czechia|[VAT search](https://adisspr.mfcr.cz/adis/jepo/epo/dpr/apl_ramce.htm?R=/cgi-bin/adis/idph/int_dp_prij.cgi?ZPRAC=FDPHI2&poc_dic=2&OK=Zobraz)|
-|Spain|[NIF Search](https://face.gob.es/es/directorio/relaciones)|
+|Spain|[NIF Search](https://face.gob.es/es/directorio/relaciones) [intra-community VAT numbers](https://www2.agenciatributaria.gob.es/wlpl/GROI-JDIT/ConsultaOperadorSedeGroiServlet)|
 
