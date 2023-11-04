@@ -148,10 +148,10 @@ In the case of an EU partner whose intra-EU VAT number is deemed "invalid," they
   
   <tr><td align="center">B2B invoice</td><td align="center">B2C invoice</td></tr>
   <tr><td>
-  <img src="/docs/img/b2b_invoice_french.png" alt="B2B invoice" align="center" width="250"/>
+  <img src="/docs/img/b2b_invoice_french.png" alt="B2B invoice" align="center" />
   </td>
   <td>
-  <img src="/docs/img/b2c_invoice_french.png" alt="B2C invoice" align="center" width="250"/>
+  <img src="/docs/img/b2c_invoice_french.png" alt="B2C invoice" align="center" />
   </td></tr>
 </table>
 
