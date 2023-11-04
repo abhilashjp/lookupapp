@@ -144,6 +144,19 @@ In the case of an EU partner whose intra-EU VAT number is deemed "invalid," they
 |Remuneration for private copying (RCP)|Acquisition of a recording medium|
 |Self-billing|If the customer produces the invoice himself instead of the seller or supplier|
 
+<table align="center" border="1px" border-color="#dedede">
+  
+  <tr><td align="center">B2B invoice</td><td align="center">B2C invoice</td></tr>
+  <tr><td>
+  <img src="/docs/img/b2b_invoice_french.png" alt="B2B invoice" align="center" width="250"/>
+  </td>
+  <td>
+  <img src="/docs/img/b2c_invoice_french.png" alt="B2C invoice" align="center" width="250"/>
+  </td></tr>
+</table>
+
+
+
 ## Issuance of invoice 
 An invoice must be generated at the moment when goods are delivered or services are rendered. Nevertheless, there are exceptions where an invoice can be issued at a different time:
 
