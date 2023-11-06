@@ -8,8 +8,6 @@ tags:
 
 ---
 
-Here is a 2997 word explainer article on SOC 2 compliance:
-
 Introduction
 
 SOC 2 is an auditing standard developed by the American Institute of Certified Public Accountants (AICPA) that evaluates the security, availability, processing integrity, confidentiality, and privacy of a service organization’s information systems. Obtaining a SOC 2 report has become a common requirement for technology companies that handle sensitive customer data to demonstrate trust and transparency. 
