@@ -1,5 +1,5 @@
 ---
-id: FACe-FacturaE-e-invoicing-spain
+id: face-facturae-e-invoicing-spain
 title: B2G e-invoicing in Spain - Mandatory Requirement for Entities since 2015
 keywords: [B2G e-invoicing, Mandatory e-invoicing, Law 25/2013, Spain e-invoicing regulation, Spanish Tax Authority, Ministerio de Hacienda y Función Pública, B2B e-invoicing, FACeB2B platform, General Entry Point, GEP, Electronic invoicing, Draft law Ley Crea y Crece, Mandatory B2B e-invoicing]
 sidebar_label: FACe - Spain
@@ -59,7 +59,13 @@ To finalize the changes, social consultations will be conducted until March 2023
 These upcoming changes emphasize the increasing importance of e-invoicing in Spain and the need for businesses to prepare for the mandatory requirements in the coming years.
 
 ## About FACe 
-FACe serves as the primary gateway for submitting electronic invoices to General Administration bodies. This efficient system allows users to seamlessly send invoices to registered public administration entities capable of receiving such documents.
+
+FACe (Punto General de Entrada de Facturas Electrónicas) is the Spanish centralized system for submitting and processing electronic invoices to public administrations. This system allows suppliers to send electronic invoices to government agencies that are registered with FACe. 
+
+
+## What is FACe?
+
+- FACe is the general entry point for electronic invoices for the General State Administration of Spain. It allows the submission of electronic invoices in standardized formats to government agencies that accept electronic invoices and are registered in the system.
 
 The FACE platform facilitates the seamless referral of electronic invoices to administration bodies. By leveraging this system, invoices are promptly dispatched to the intended recipients. This streamlined process benefits providers by standardizing the electronic invoice format and consolidating all General Government Administration agencies, along with numerous other public administrations (including 18 out of 19 autonomous regions, over 8,000 local entities, and 40 universities), into a single, centralized location.
 
@@ -68,6 +74,59 @@ Suppliers can effortlessly submit electronic invoices in the facturae 3.2 format
 It also provides public administrations with:
 * a management portal accessible through the Portal of Local Authorities , Autonomous Regions Portal and Administrative Management Portal , where recipients can manage, download and report the processing status of the invoices to the supplier; and
 * web services interfaces enabling automatic receipt of invoices in their financial management systems.
+
+
+- The FACe portal for suppliers to submit invoices is available at http://face.gob.es. 
+
+- Use of FACe is free for suppliers. However, if third-party services are used for generating and submitting invoices, fees may be charged by those third parties.
+
+- Government agencies registered with FACe can be found in the FACe Directory, which lists agencies by their DIR3 code or tax ID number (NIF in Spanish).
+
+- A list of electronic invoicing service providers connected to FACe is also available. These are private companies that provide services to suppliers for generating and submitting electronic invoices.
+
+## Electronic Invoices
+
+- Electronic invoices have the same legal validity as paper invoices but are submitted and received electronically. 
+
+- FACe accepts electronic invoices in the Spanish Facturae format (versions 3.2, 3.2.1 and 3.2.2) as well as the European formats UBL 2.1 and CII (Cross Industry Invoice).
+
+- Facturae invoices must be digitally signed with a valid electronic certificate recognized by the @firma platform. European format invoices do not require a signature.
+
+- To indicate the recipient agency, the supplier must include the DIR3 code for the Accounting Office, Managing Agency, and Processing Unit. These codes can be found in the FACe Directory.
+
+- Suppliers have two options to submit invoices:
+
+  1) Through the FACe web portal at http://face.gob.es
+
+  2) Through a web services interface that requires IT integration on the supplier side
+
+- When submitting via the portal, the system provides an electronic receipt from the General Electronic Registry which can be downloaded as proof of submission. 
+
+- Invoice status can be tracked online to see the processing progress.
+
+- Suppliers can request the cancellation of an incorrect invoice through the portal or Facturae desktop application. The final cancellation must be approved by the recipient agency.
+
+- FACe does not reject invoices. Rejection notices come from the recipient accounting office or processing unit after their own validations.
+
+## European Invoices
+
+- FACe also accepts electronic invoices in the European UBL 2.1 and CII formats. These have the same submission and tracking process as Spanish Facturae invoices.
+
+- European invoices do not require a signature. Mandatory fields are the Buyer Reference details. 
+
+- The FACe invoice validator can be used to check European invoices before submission.
+
+- Agencies registered in FACe are able to process European format invoices normally.
+
+## Suppliers
+
+- Suppliers do not need to register with FACe to submit invoices through the portal. They can use digital certificates, Spanish electronic ID systems Cl@ve PIN or Cl@ve Permanente, or electronic signature mechanisms.
+
+- To use the FACe web services interface, the supplier's digital certificate must be registered in the new FACe Integrators Portal at https://integradores.face.gob.es.
+
+- Expired certificates can also be managed through the Integrators Portal. 
+
+- The Integrators Portal provides documentation, manuals, FAQs and technical specifications for integrating supplier systems with FACe.
 
 
 ## Mandatory Compliance and Legal Framework
