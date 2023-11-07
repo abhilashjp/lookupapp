@@ -29,9 +29,7 @@ This reform package comes as VAT fraud contributes significantly to the €93 bi
 ViDA contains proposals across three main pillars:
 
 1. New real-time reporting and e-invoicing requirements for business-to-business (B2B) transactions
-
 2. Updated VAT rules for platform sellers
-
 3. A single EU VAT registration system
 
 In this article, we’ll focus specifically on the major changes proposed for real-time reporting and e-invoicing.
@@ -43,13 +41,9 @@ The centerpiece of ViDA is the plan to require real-time digital reporting of in
 Here are the key elements proposed:
 
 - From 2028, businesses must issue structured e-invoices in a common EU standard format within 2 days of B2B cross-border transactions.
-
 - Sellers and buyers will submit extract data sets to their tax authority within 2 days of invoice issuance or due date.
-
 - Tax authorities will transmit the data to a central EU database.
-
 - EU countries can mandate e-invoicing for domestic transactions but must use the same standard.
-
 - Existing domestic e-invoicing regimes like Italy and Hungary must align with the EU system by 2028. 
 
 This near real-time data access will allow tax authorities to identify and address non-compliance much quicker.
@@ -59,7 +53,6 @@ This near real-time data access will allow tax authorities to identify and addre
 The real-time reporting requirements apply for:
 
 - All VAT registered businesses involved in intra-EU B2B transactions 
-
 - VAT registered customers acquiring goods cross-border
 
 Domestic e-invoicing mandates are optional for EU members but will likely expand over time.
@@ -69,15 +62,10 @@ Domestic e-invoicing mandates are optional for EU members but will likely expand
 The extracted data to be reported digitally for intra-EU transactions includes:
 
 - Seller and buyer VAT ID numbers
-
 - Invoice date and number 
-
 - Product descriptions 
-
 - Quantity and price 
-
 - VAT amounts 
-
 - Payment account and terms
 
 This data will be structured in a common XML schema and submitted via standardized channels determined by each country.
@@ -95,19 +83,12 @@ The mandatory intra-EU e-invoicing and real-time reporting kicks in from 2028 on
 To get ready, businesses involved in intra-EU trade should:
 
 - Evaluate if they are impacted based on the transactions carried out
-
 - Identify the data that must be reported and map it to information collected
-
 - Assess ERPs, accounting software, invoicing methods to determine changes needed 
-
 - Research when their country will mandate B2B e-invoicing and real-time reporting
-
 - Analyze gaps to expected EU-wide e-invoicing standard and reporting schema
-
 - Plan for modifications to invoice content, timing and digital transmission 
-
 - Test extracting and submitting required data to tax authorities
-
 - Update contracts to inform customers of new data sharing with tax authorities
 
 Although adapting will take time and investment, proactive preparation will ensure a smooth transition to real-time VAT reporting.
@@ -117,25 +98,17 @@ Although adapting will take time and investment, proactive preparation will ensu
 The ViDA proposals promise several potential benefits:
 
 - Greater visibility of cross-border transactions for tax authorities
-
 - Increased VAT compliance across the EU
-
 - Less need for separate VAT registrations in each member state
-
 - Standardization of invoice formats and reporting approaches
 
 However, significant challenges and concerns will need addressing:
 
 - Tight timeframes for reporting may require major invoice process changes
-
 - Adding data not normally included on invoices like payment details 
-
 - Disproportionate compliance burden for small and micro businesses
-
 - Need for tax authorities to provide EU-standard reporting channels
-
 - Data security and confidentiality questions with central repository  
-
 - Upfront transition costs for businesses to adapt their systems
 
 Striking the right balance will be key as policies are finalized and implemented.
