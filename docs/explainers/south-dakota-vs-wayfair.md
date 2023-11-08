@@ -2,7 +2,7 @@
 id: south-dakota-vs-wayfair-nexus-explained
 title: The Wayfair Decision - A Landmark Case Transforming Sales Tax Nexus
 keywords: [Wayfair, South Dakota v. Wayfair ]
-sidebar_label: SOC 2 compliance
+sidebar_label: South Dakota v. Wayfair 
 tags:
   - Nexus
   - Sales Tax 
