@@ -1,6 +1,6 @@
 ---
 id: vies-intrastat-detailed-guide-for-traders
-title: Demystifying VIES and INTRASTAT - A Comprehensive Guide for EU Traders
+title: VIES and INTRASTAT - A Comprehensive Guide for EU Traders
 keywords: [VIES, INTRASTAT]
 sidebar_label: VIES and INTRASTAT
 tags:
