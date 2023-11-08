@@ -7,9 +7,6 @@ tags:
   - HIPAA
 
 ---
-## Overview 
-
-
 
 The Health Insurance Portability and Accountability Act (HIPAA) is a federal law passed in 1996 that includes provisions to protect the privacy and security of individuals' health information. Entities like health plans, healthcare providers, and healthcare clearinghouses that handle protected health information (PHI) are required to comply with HIPAA regulations. 
 
