@@ -130,3 +130,8 @@ The ViDA proposals are currently in public consultation. Extensive debate is exp
 If approved, the focus will shift to consistent adoption into national laws across EU members and gathering feedback as implementation progresses.
 
 Businesses must monitor developments closely and become active stakeholders in the process. While the road ahead will have twists and turns, the destination is clear - modernized digital VAT reporting is coming!
+
+
+## Reference links
+* [ViDA Facsheet](https://taxation-customs.ec.europa.eu/system/files/2022-12/vida-factsheet-2022.pdf)
+  
