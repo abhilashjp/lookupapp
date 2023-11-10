@@ -400,3 +400,4 @@ Despite some teething issues, OSS is already proving to be a game changer in red
 
 ## Reference links
 * [VAT OSS guide](https://vat-one-stop-shop.ec.europa.eu/index_en)
+* [Explanatory notes on VAT e-commerce rules](https://vat-one-stop-shop.ec.europa.eu/system/files/2021-07/vatecommerceexplanatory_notes_28102020_en.pdf)
