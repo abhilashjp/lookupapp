@@ -22,6 +22,7 @@ SAF-T is intended to be suitable for organizations of all sizes, from multinatio
 SAF-T is primarily aimed at facilitating tax audits. Auditors can still verify original records as needed. SAF-T does not eliminate the need for proper record keeping and retention as required by law.
 
 ## Architecture
+
 <table align="center" border="1px" border-color="#dedede"><tr><td>
   <img src="/docs/img/saft-architecture.PNG" alt="SAF-T Architecture"/>
   </td></tr>
@@ -124,6 +125,7 @@ Software providers should:
 - Participate in industry outreach and testing initiatives
 
 ## SAF-T implemententation across the world  
+
 <table align="center" border="1px" border-color="#dedede"><tr><td>
   <img src="/docs/img/saf-t-adoption.png" alt="SAF-T adoption"/>
   </td></tr>
