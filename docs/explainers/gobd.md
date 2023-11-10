@@ -26,6 +26,11 @@ While GoBD compliance entails many specific rules, the core principles are:
 - Records must be unalterable. No manipulation or changes to stored documents.
 - Records must be accessible. Tax authorities can request data and organizations must provide access.
 
+<table align="center" border="1px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/gobd.png" alt="GoBD requirements"/>
+  </td></tr>
+  <tr><td align="center">GoBD requirements</td></tr>
+</table>
 
 ## Scope of GoBD
 
