@@ -8,7 +8,7 @@ tags:
 
 ---
 
-The **Standard Audit File for Tax (SAF-T) is an international standard for electronic exchange of reliable accounting data from organizations to a tax authority or external auditors. It was developed by the Organization for Economic Co-operation and Development (OECD) to facilitate tax compliance, audit, and cooperative compliance activities. 
+The **Standard Audit File for Tax (SAF-T)** is an international standard for electronic exchange of reliable accounting data from organizations to a tax authority or external auditors. It was developed by the Organization for Economic Co-operation and Development (OECD) to facilitate tax compliance, audit, and cooperative compliance activities. 
 
 
 ## Purpose of SAF-T
