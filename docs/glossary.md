@@ -283,3 +283,6 @@ EN 16931 is the European standard on e-invoicing that was developed and publishe
 
 ### Nodo Smistamento Ordini
 Nodo Smistamento Ordini(NSO) is a sytem used for the exchange of digital documents between the public bodies of the National Health Service and their supplier companies in Italy. 
+
+### Digital sovereignty
+A nation's control over its digital assets and data, vital for regulating information flows, securing infrastructure, and shaping policies in the digital age, especially relevant in taxation.
