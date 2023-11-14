@@ -26,7 +26,7 @@ SAF-T is primarily aimed at facilitating tax audits. Auditors can still verify o
 <table align="center" border="1px" border-color="#dedede"><tr><td>
   <img src="/docs/img/saft-architecture.PNG" alt="SAF-T Architecture"/>
   </td></tr>
-  <tr><td align="center"> SAF-T Architecture</td></tr>
+  <tr><td align="center">SAF-T Architecture</td></tr>
 </table>
 
 ## Uses in Tax Audit
@@ -79,6 +79,12 @@ Specifically, SAF-T includes data on master files, journals, invoices, orders, p
 
 The focus is on data relevant for tax compliance. Other areas like payroll are out of scope for the base SAF-T schema, but can be covered in country-specific extensions.
 
+<table align="center" border="1px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/saft-format-structure.png" alt="General SAF-T structure"/>
+  </td></tr>
+  <tr><td align="center">General SAF-T structure</td></tr>
+</table>
+
 ## Format of SAF-T
 The OECD recommends SAF-T be provided in a structured data format suitable for automated processing, such as XML or XBRL. These are open standards that support data exchange and analysis. 
 
@@ -129,7 +135,7 @@ Software providers should:
 <table align="center" border="1px" border-color="#dedede"><tr><td>
   <img src="/docs/img/saf-t-adoption.png" alt="SAF-T adoption"/>
   </td></tr>
-  <tr><td align="center"> SAF-T Adoption</td></tr>
+  <tr><td align="center">SAF-T Adoption</td></tr>
 </table>
 
 ## Summary
