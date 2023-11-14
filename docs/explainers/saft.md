@@ -136,3 +136,8 @@ Software providers should:
 The SAF-T standard enables more effective and efficient tax compliance and auditing in an increasingly digital business environment. Tax authorities and software providers have key roles to play in successfully implementing the standard at a country level. 
 
 Following OECD guidance on the design, application, and localization of SAF-T will allow countries to realize the benefits of greater tax transparency while managing the costs and risks of transition for all stakeholders.
+
+
+## Reference Doccuments
+* [Guidance for the Standard Audit File – Tax by OECD](https://web-archive.oecd.org/2016-05-10/107470-45045602.pdf)
+* [SAF-T Schema version 2.00](https://web-archive.oecd.org/2012-06-14/106283-45167181.pdf)
