@@ -17,6 +17,13 @@ DAC7 refers to the 7th Directive on Administrative Cooperation adopted by the EU
 
 Now, DAC7 expands these reporting obligations to cover digital platforms facilitating certain business activities. The goal is to give EU tax authorities visibility into the earnings of platform sellers in order to properly tax their income.
 
+<table align="center" border="1px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/Dac7-guide.png" alt="DAC7 Explained"/>
+  </td></tr>
+  <tr><td align="center">DAC7 Explained</td></tr>
+</table>
+
+
 ## Which Platform Activities are Impacted?
 
 DAC7 applies to platforms that enable the following relevant activities:
