@@ -99,6 +99,12 @@ Member State of Identification:
 
 Registration is done electronically through the VAT OSS portal for the Member State of Identification.
 
+<table align="center" border="1px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/transactions-that-require-VAT-registration-by-nonestablished-businesses.PNG" alt="Summary of transactions that require VAT registration by nonestablished businesses and their degree of magnitude"/>
+  </td></tr>
+  <tr><td align="center">Summary of transactions that require VAT registration by nonestablished businesses and their degree of magnitude</td></tr>
+</table>
+
 ## The Role of Intermediaries
 
 Suppliers based outside the EU, except those in Norway, must appoint an EU established intermediary to fulfill IOSS obligations on their behalf. 
