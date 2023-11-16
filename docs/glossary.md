@@ -286,3 +286,12 @@ Nodo Smistamento Ordini(NSO) is a sytem used for the exchange of digital documen
 
 ### Digital sovereignty
 A nation's control over its digital assets and data, vital for regulating information flows, securing infrastructure, and shaping policies in the digital age, especially relevant in taxation.
+
+### Triangulation
+An example of triangulation would be where a trader established in Member State A sells goods to a trader established in Member State B who in turn sells the goods to a trader established in Member State C. However, the goods are sent direct from member State A to Member State C
+
+<table align="center" border="1px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/Triangulation.PNG" alt="Triangulation"/>
+  </td></tr>
+  <tr><td align="center">Triangulation</td></tr>
+</table>
