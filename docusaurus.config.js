@@ -158,10 +158,7 @@ const config = {
               to: '/docs/',
               from: '/docs/country/intro/',
             },
-            {
-              to: '/docs/country/India',
-              from: ['/docs/countries/india/', '/docs/countries/India/'],
-            },
+           
           ],
           createRedirects(existingPath) {
             if (existingPath.includes('/community')) {
