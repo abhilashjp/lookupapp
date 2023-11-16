@@ -9,7 +9,7 @@ const config = {
   title: "Lookup Tax",
   tagline: "Global API for VAT validation",
   url: "https://lookuptax.com/",
-  baseUrl: "/docs",
+  baseUrl: "docs/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
