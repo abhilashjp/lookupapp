@@ -295,3 +295,13 @@ An example of triangulation would be where a trader established in Member State 
   </td></tr>
   <tr><td align="center">Triangulation</td></tr>
 </table>
+
+### Call-off stock
+Call-off stock arrangements is a term used to describe a supply of goods which takes place in the following circumstances:
+
+1. Goods are transported from one Member State to another, but the ownership of the goods does not transfer until a later date after the arrival of the goods in
+the second Member State.
+2. At the time the goods are transported to the second Member State, the identity of the customer is known to the supplier.
+3. When the goods arrive in the second Member State, they are held in stock and are drawn down from stock by that customer, at his/ her own discretion at
+a later stage.
+
