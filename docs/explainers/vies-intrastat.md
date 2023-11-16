@@ -157,6 +157,12 @@ Here, Company A reports the supply on its French VIES return showing Germany as 
 
 Company B does not report this supply on its Irish VIES return since the goods never entered or left Ireland. But any other intra-EU supplies that B makes get reported normally.
 
+<table align="center" border="1px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/Triangulation.PNG" alt="Triangulation"/>
+  </td></tr>
+  <tr><td align="center">Triangulation</td></tr>
+</table>
+
 ### Reporting Call-Off Stock Arrangements Under VIES
 
 Call-off stock refers to goods shipped by the supplier to the customer's location but held in stock. The customer subsequently takes ownership only when calling off those goods from the stock as needed.
