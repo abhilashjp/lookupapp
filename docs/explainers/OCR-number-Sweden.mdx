@@ -19,12 +19,10 @@ The format to be followed is *<font color="orange">Leading 0’s (if any) + Next
 
 **Number of digits** — 3 to 25 digits including the check digit. The last digit in OCR is the check digit. The OCR number must contain only digits ( use numbers from 0-9) and should not be alphanumeric. Merchant enters into an agreement with the bank to decide the number of digits in the reference number. 
 
-**Check Digit calculation** — Based on recursive MOD 10 algorithm.
-
 **Rules to build the OCR number** — OCR numbers can contain customer ID and/or invoice number to identify customer and invoice but this is not mandatory. It is however recommended to use these to make the reconciliation of payments with invoices easier.
 
 
-**Check digit calculation algorithm** - Two options — <a href="https://en.wikipedia.org/wiki/Luhn_algorithm" target="_blank">Mod 10 algorithm</a>. Use the <a href="https://simplycalc.com/luhn-calculate.php" target="_blank">Mod 10 calculator</a> to validate the OCR number that you generate.
+**Check digit calculation algorithm** - <a href="https://en.wikipedia.org/wiki/Luhn_algorithm" target="_blank">Mod 10 algorithm</a>. Use the <a href="https://simplycalc.com/luhn-calculate.php" target="_blank">Mod 10 calculator</a> to validate the OCR number that you generate.
 
 **Next number in sequence** - A random input number that will be used as the starting number to generate the reference number. ( This is obvious because how would you generate OCR if you don't have something to begin with. This can be the invoice number too if you don't want to use a new number. Just make sure that you are only using digits and the invoice number is not alphanumeric.)
 
