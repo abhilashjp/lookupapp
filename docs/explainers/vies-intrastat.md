@@ -479,3 +479,6 @@ Ensure previous GB transactions are removed from declarations and customs proced
 ## Final Thoughts
 
 VIES and INTRASTAT reporting are mandatory for all VAT registered EU businesses engaged in intra-EU trade of goods and services. With strong compliance processes, your business can avoid penalties and reap the benefits of smooth intra-EU trade!
+
+## Reference 
+* [Traders manual issued by Ireland](https://www.revenue.ie/en/customs/documents/vies/vies-intrastat-traders-manual.pdf)
