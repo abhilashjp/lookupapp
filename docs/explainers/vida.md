@@ -48,6 +48,13 @@ Here are the key elements proposed:
 
 This near real-time data access will allow tax authorities to identify and address non-compliance much quicker.
 
+<table align="center" border="1px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/digital-reporting-requirements-in-EU.PNG" alt="Digital Reporting Requirements in the EU"/>
+  </td></tr>
+  <tr><td align="center">Digital Reporting Requirements in the EU</td></tr>
+</table>
+
+
 ## Who is Impacted by the New Rules?
 
 The real-time reporting requirements apply for:
