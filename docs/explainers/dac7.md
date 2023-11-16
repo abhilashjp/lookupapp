@@ -49,6 +49,15 @@ Specifically, reporting platforms include those:
 
 Non-EU platforms still need to report on EU sellers meeting the threshold criteria. However, they may be exempted if their home country already exchanges similar platform data with the EU.
 
+
+<table align="center" border="1px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/DAC7-checklist-sellers.png" alt="DAC7 checklist for sellers"/>
+  </td></tr>
+  <tr><td align="center">DAC7 checklist for sellers</td></tr>
+</table>
+
+
+
 ## What Data is Reported Under DAC7?
 
 Platforms subject to DAC7 must gather and accurately report various identification and financial details on in-scope sellers such as:
