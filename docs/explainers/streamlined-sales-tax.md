@@ -147,6 +147,14 @@ With these steps completed, the state can become a full member of the Streamline
 
 ## SST Membership and Compliance
 
+<table align="center" border="1px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/sst-member-states.jpeg" alt="SST Member Sates"/>
+  </td></tr>
+  <tr><td align="center">SST Member Sates</td></tr>
+</table>
+
+
+
 There are different tiers of SST state membership reflecting varying levels of compliance with the agreement. Let's examine the requirements and privileges under each:
 
 ### Full Member
