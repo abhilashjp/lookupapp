@@ -49,6 +49,12 @@ Specifically, reporting platforms include those:
 
 Non-EU platforms still need to report on EU sellers meeting the threshold criteria. However, they may be exempted if their home country already exchanges similar platform data with the EU.
 
+<table align="center" border="1px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/DAC7-checklist-platforms.PNG" alt="DAC7 checklist for Platforms"/>
+  </td></tr>
+  <tr><td align="center">DAC7 checklist for Platforms</td></tr>
+</table>
+
 
 <table align="center" border="1px" border-color="#dedede"><tr><td>
   <img src="/docs/img/DAC7-checklist-sellers.png" alt="DAC7 checklist for sellers"/>
