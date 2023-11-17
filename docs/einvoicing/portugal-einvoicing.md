@@ -1,6 +1,6 @@
 ---
 id: espap-einvoicing-portugal
-title: E-invoicing in France 
+title: E-invoicing in Portugal -eSPap
 keywords: [E-invoicing reform Portugal, QR code on invoices Portugal, ATCUD requirement in Portugal, SAF-T reporting Portugal, B2B e-invoicing Portugal, E-invoicing obligation Portugal, B2G e-invoicing Portugal, eSPap platform for B2G e-invoicing, UBL 2.1 CIUS-PT standard, Digital signature requirement for electronic invoices Portugal]
 sidebar_label: Portugal - eSPap
 description: Despite delays caused by the COVID-19 pandemic, Portugal is implementing crucial e-invoicing reforms. Companies must prepare for the changing landscape, including requirements such as the QR code on invoices since January 1, 2022, and the mandatory inclusion of the ATCUD unique ID from January 1, 2023. Discover the SAF-T reporting specification for trade, agricultural, and industrial sectors, simplifying the electronic transmission of business data and tax returns. While B2B e-invoicing remains optional, stay informed about potential future obligations. Explore the classification of companies based on size and understand the dedicated eSPap platform for B2G e-invoicing, adhering to UBL 2.1 CIUS-PT or CEFACT CIUS-PT standards. Finally, learn about the transition from PDF invoices to digitally signed electronic invoices, effective from January 1, 2023, to ensure compliance with tax purposes in Portugal.
@@ -59,7 +59,7 @@ Suppliers must issue structured e-invoices in XML format aligned with the Europe
 
 The aim is to automate and streamline the entire invoice-to-pay process for public procurement. Electronic invoices registered on the portal will interface seamlessly with the government’s financial management systems. This is expected to reduce processing costs, improve transparency, and speed up payment cycles.
 
-Private Sector E-Invoicing
+## Private Sector E-Invoicing
 
 For transactions between private companies (B2B) and from businesses to consumers (B2C), e-invoicing in Portugal is still voluntary. The government has signaled intent to eventually mandate e-invoicing across the economy using a phased approach, but no definite timeline has been set yet.
 
@@ -67,7 +67,7 @@ The adoption of e-invoicing for private transactions so far has been driven by l
 
 Portugal is closely monitoring the experience of nearby countries like Spain and Italy which have embarked on mandated B2B e-invoicing to inform their own timeline. The rollout is expected to focus first on large taxpayers and then gradually extend to medium and small-sized enterprises.
 
-E-Invoicing Formats and Platforms
+## E-Invoicing Formats and Platforms
 
 For public procurement, e-invoices must be submitted to the National Public Procurement Portal in the XML format defined by the European standard EN 16931. The portal offers several options for suppliers to generate and transmit compliant invoices including:
 
@@ -78,7 +78,7 @@ For public procurement, e-invoices must be submitted to the National Public Proc
 
 For private sector e-invoicing, any format like PDF can currently be used as long as the invoice data is transmitted electronically. The government has not yet designated any centralized platforms for transmission of structured e-invoices between companies. Adoption so far has utilized various private networks and service providers.
 
-Issuing and Receiving E-Invoices
+## Issuing and Receiving E-Invoices
 
 Suppliers issuing e-invoices to government entities must electronically sign and submit structured invoices in XML format to the National Public Procurement Portal. These undergo automatic validation checks on the format and issuer credentials before accepting. 
 
@@ -88,7 +88,7 @@ Suppliers can track status and retrieve both invoices and issuance receipts from
 
 For B2B and B2C invoices, issuers and receivers exchange invoices in formats and methods mutually agreed upon, such as EDI, email, web uploads etc. However, businesses are likely to transition to structured e-invoicing over time, especially if it gets mandated.
 
-E-Invoice Processing and Integration
+## E-Invoice Processing and Integration
 
 The National Public Procurement Portal automates much of the invoice receipt, registration and routing process for government entities. Invoice data can be fed into the entity’s financial system, avoiding manual re-entry.
 
@@ -96,60 +96,42 @@ However, proper integration still needs to be implemented by each public entity 
 
 Private companies face similar integration challenges to incorporate inbound e-invoices into their financial systems and ERPs seamlessly. Adoption of automated workflows for handling and approval of e-invoices can significantly optimize the order-to-pay cycle.
 
-Benefits and Challenges of E-Invoicing
+## Benefits and Challenges of E-Invoicing
 
 The transition to e-invoicing brings significant benefits but also some change management challenges:
 
 Key Benefits:
 
 - Cost reduction from eliminating paper and manual processing
-
 - Faster settlement of invoices and improved cash flow
-
 - Increased accuracy of data for accounting and tax reporting
-
 - Enhanced visibility into invoice processing status
-
 - Better archival and analytics on invoice data
-
 - Seamless integration with national reporting systems
 
 Key Challenges:
 
 - Change management and user training on new processes
-
 - Upgrading existing finance systems and integration work needed
-
 - Dependency on reliability of central e-invoicing platform
-
 - Adapting workflows to handle exceptions like rejections
-
 - Getting buy-in and transitioning suppliers currently issuing paper invoices
-
 - Cybersecurity risks from increasing digital attack surfaces
 
 Overall, the gains for government, private entities, and the national economy from transitioning to automated e-invoicing at scale justify the temporary disruptions and costs involved.
 
-Recommendations for Smooth Transition
+## Recommendations for Smooth Transition
 
 Both private and public sector organizations in Portugal should take the following steps for a successful transition to e-invoicing:
 
 1. Do a comprehensive review of existing invoice workflows and data needs – identify changes required to extract and provide all information required for structured e-invoicing.
-
 2. Assess software systems and determine upgrades, integrations, and new solutions needed – including accounting software, ERPs, procurement systems, etc.
-
 3. Consult with major existing suppliers and key customers on their e-invoicing readiness and capabilities.
-
 4. Provide technical specifications and testing facilities early on to involve suppliers in the transition.
-
 5. Validate that all electronic invoice formats and transmission methods comply with legal requirements. 
-
 6. Train accounts payable and procurement teams on new e-invoicing procedures and exception management.
-
 7. Implement robust cybersecurity controls to prevent unauthorized access to invoice data during transmission or storage.
-
 8. Start transition by onboarding larger suppliers first followed by smaller suppliers – conduct pilot tests before full-scale rollout.
-
 9. Plan for contingencies and business continuity procedures in case of disruptions to availability of e-invoicing platforms.
 
 Portugal’s e-invoicing mandate for the public sector aims to increase efficiency, improve financial controls, close revenue gaps, and integrate with national reporting systems. The cost savings for government alone are estimated at €195 million annually. The digital invoicing transformation will deliver significant productivity gains and economic benefits nationally in the long term.
@@ -223,4 +205,8 @@ This error indicates that a user is trying to enter the system with credentials 
   <summary> What is the EN 16931 standard for e-invoices? </summary>
   EN 16931 defines the semantic data model and syntax for the core elements of an electronic invoice in the EU. All e-invoices issued through the portal must comply with this standard.
 </details>
+
+## Reference Link
+* [e-Invoice Format](https://www.espap.gov.pt/Imagens/Documento.ashx?id=269)
+* [Fatura Eletrónica – FE-AP einvoicing portal](https://www.feap.gov.pt/Paginas/Default.aspx)
 
