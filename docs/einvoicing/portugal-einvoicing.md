@@ -103,6 +103,11 @@ Private companies face similar integration challenges to incorporate inbound e-i
   <tr><td align="center">Asynchronous document exchange flow</td></tr>
 </table>
 
+1. Emitter system (ERP) sends a legal document (invoice, credit note, or debit note) and immediately receives (synchronously) a RequestId.
+2. If the document is processed successfully (quality control with no reported errors),eSPap sends the document to the receiving system through the established communication channel.
+3. At any time, the emitter system can inquire with eSPap systems using the RequestId, sent in the document submission response (1), to obtain the result of the document processing.
+4. As soon as the emitter system obtains the processing result, it can inquire about the document's status at any time, using either the RequestId or the Business Key.
+5. The receiving system sends N status messages according to the processing and validation of the document in its systems.
 
 ## Benefits and Challenges of E-Invoicing
 
