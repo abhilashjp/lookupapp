@@ -211,3 +211,5 @@ Companies that prepare thoroughly and test KSeF integrations well before the dea
 
 ## Reference links
 * [About KSeF](https://www.podatki.gov.pl/ksef/informacje-o-ksef/)
+* [e-Invoice XML format](https://www.podatki.gov.pl/media/9512/broszura-informacyjna-struktury-logicznej-fa-2.pdf)
+* [Free KSeF tools provided by Ministry of Finance](https://www.podatki.gov.pl/ksef/aplikacja-podatnika-ksef-i-inne-narzedzia/)
