@@ -96,6 +96,14 @@ However, proper integration still needs to be implemented by each public entity 
 
 Private companies face similar integration challenges to incorporate inbound e-invoices into their financial systems and ERPs seamlessly. Adoption of automated workflows for handling and approval of e-invoices can significantly optimize the order-to-pay cycle.
 
+## Asynchronous document exchange flow
+<table  align="center" border="1px" border-color="#dedede"><tr><td align="center">
+  <img src="/docs/img/asynchronous-document-exchange-flow.PNG" alt="Asynchronous document exchange flow"/>
+  </td></tr>
+  <tr><td align="center">Asynchronous document exchange flow</td></tr>
+</table>
+
+
 ## Benefits and Challenges of E-Invoicing
 
 The transition to e-invoicing brings significant benefits but also some change management challenges:
