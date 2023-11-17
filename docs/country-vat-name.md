@@ -36,7 +36,7 @@ Even though we generally term the Tax Identification Numbers as VAT numbers, it 
 |Malta|MT|numru ta’ l-identifikazzjoni tat-taxxa fuq il-valur miśjud; value added tax identification number(VAT)|12345678|8 characters.|`([1-9]\d{7}$)/i)`||
 |Netherlands|NL|BTW – identificatienummer|123456789B01|12 characters. The tenth character is always B.|`(\d{9}B\d{2}$)/i)`| |"
 |Norway|NO|VAT| | |`(\d{9}$)/i)`| |
-|Poland|PL|Numer identyfikacyjny VAT(PTU)|1234567890|10 characters|`(\d{10}$)/i)`| |
+|Poland|PL|Numer identyfikacyjny VAT(NIP)|1234567890|10 characters|`(\d{10}$)/i)`| |
 |Portugal|PT|o nśmero de identificaēćo para efeitos do imposto sobre o valor acrescentado(IVA)|123456789|9 characters.|`(\d{9}$)/i)`|Including the Azores and Madeira|
 |Romania|RO|cod de īnregistrare īn scopuri de TVA|12, 123, 1234, 12345, 123456, 1234567, 12345678, 123456789, 1234567890|From 2 to 10 characters.|`([1-9]\d{1,9}$)/i)`| |
 |Slovakia|SK|identifikacné cķslo pre dan (IC DPH)|1234567890|10 characters|`([1-9]\d[(2-4)\|(6-9)]\d{7}$)/i)`| |
