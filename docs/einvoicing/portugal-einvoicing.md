@@ -32,7 +32,7 @@ tags:
     </tr>
   <tr>
         <td align="left">Authority</td>
-        <td align="left"></td>
+        <td align="left">Entidade de Serviços Partilhados da Administração Pública</td>
     </tr>
   <tr>
         <td align="left">Network name</td>
@@ -40,20 +40,187 @@ tags:
  </tr>
   <tr>
         <td align="left">Legislation</td>
-        <td align="left"></td>
+        <td align="left"><a href="https://diariodarepublica.pt/dr/en/detail/decree-law/123-2018-117514514">DECREE LAW No. 123/2018</a></td>
  </tr>
 </table>
 
-## Overview
 
-Despite the COVID-19 pandemic causing delays in its implementation, e-invoicing reform in Portugal is underway, and businesses must prepare accordingly. Various e-invoicing and SAF-T reporting requirements are set to come into force this year.
+Portugal is embarking on an ambitious initiative to modernize and digitize invoicing processes, both in public administration and in business transactions. This major transformation aims to increase efficiency, improve control, and enhance integration with national accounting systems. 
 
-Starting from January 1, 2022, an important change is the mandatory inclusion of a QR code on all invoices in Portugal. Additionally, from January 1, 2023, a unique identification code called ATCUD will be required for invoices and tax documents. This identification code includes a validation component that businesses need to obtain from the tax authority, and it remains valid for at least one fiscal year.
+The government has mandated e-invoicing for all suppliers to public entities starting November 2020 based on contract thresholds. There are also plans to eventually require e-invoicing for business-to-business (B2B) and business-to-consumer (B2C) transactions. This article examines how e-invoicing is being implemented in Portugal and key considerations for suppliers, service providers, and taxpayers.
 
-Furthermore, private and public companies operating in the trade, agricultural, or industry sectors in Portugal must adopt the SAF-T (PT) specification. This implementation requires companies to provide specific information, such as item, customer, and supplier master data, VAT rates, accounts structure, and business transaction lists. The SAF-T file, which needs to be submitted monthly or annually, simplifies the transmission of business data and tax returns electronically to the tax authority.
+## Public Sector E-Invoicing Mandate
 
-While electronic invoicing in the Business-to-Business (B2B) sector is currently optional in Portugal, plans are underway to introduce an e-invoicing obligation. However, the Portuguese government has not yet made an official statement regarding this mandate.
+Portugal’s mandate for e-invoicing in public procurement comes from Directive 2014/55/EU on electronic invoicing in public contracts. Domestic legislation was enacted in 2017 to make e-invoicing mandatory for suppliers to government bodies under certain contract values. 
 
-On the other hand, in the Business-to-Government (B2G) sector, e-invoicing became mandatory for large enterprises in 2021. As of January 2023, this obligation will extend to medium-sized, small, and micro-companies as well. The classification of companies is based on factors such as the number of employees, annual sales, and balance sheet totals.
+The National Public Procurement Portal (Portal Nacional de Compras Públicas) run by the Central Purchasing Body (Entidade de Serviços Partilhados da Administração Pública or ESPAP) serves as the central platform and single entry point for intake, processing, and management of all e-invoices issued to public entities.
 
-To facilitate the receipt of electronic invoices in the B2G sector, a dedicated platform called eSPap (Entidade de Serviços Partilhados da Administração Públicad) has been developed by the relevant public authority. Businesses are required to comply with the UBL 2.1 CIUS-PT or CEFACT CIUS-PT standards when using this platform.starting from January 1, 2023, electronic invoices must contain a digital signature to be considered valid.
+Suppliers must issue structured e-invoices in XML format aligned with the European standard (EN 16931) and submit them via the portal. Public contractors above specified annual thresholds are required to join the portal to receive e-invoices starting November 2020. Remaining public entities must onboard by end of 2022.
+
+The aim is to automate and streamline the entire invoice-to-pay process for public procurement. Electronic invoices registered on the portal will interface seamlessly with the government’s financial management systems. This is expected to reduce processing costs, improve transparency, and speed up payment cycles.
+
+Private Sector E-Invoicing
+
+For transactions between private companies (B2B) and from businesses to consumers (B2C), e-invoicing in Portugal is still voluntary. The government has signaled intent to eventually mandate e-invoicing across the economy using a phased approach, but no definite timeline has been set yet.
+
+The adoption of e-invoicing for private transactions so far has been driven by large companies implementing it independently to achieve efficiencies and lower costs. Most smaller businesses continue using paper invoices or PDF invoices sent by email.
+
+Portugal is closely monitoring the experience of nearby countries like Spain and Italy which have embarked on mandated B2B e-invoicing to inform their own timeline. The rollout is expected to focus first on large taxpayers and then gradually extend to medium and small-sized enterprises.
+
+E-Invoicing Formats and Platforms
+
+For public procurement, e-invoices must be submitted to the National Public Procurement Portal in the XML format defined by the European standard EN 16931. The portal offers several options for suppliers to generate and transmit compliant invoices including:
+
+- Procure-to-pay software integrated via the portal's API
+- Free browser-based invoice creation tool 
+- Uploading XML files generated from other systems
+- Third-party e-invoicing platforms connected to the portal
+
+For private sector e-invoicing, any format like PDF can currently be used as long as the invoice data is transmitted electronically. The government has not yet designated any centralized platforms for transmission of structured e-invoices between companies. Adoption so far has utilized various private networks and service providers.
+
+Issuing and Receiving E-Invoices
+
+Suppliers issuing e-invoices to government entities must electronically sign and submit structured invoices in XML format to the National Public Procurement Portal. These undergo automatic validation checks on the format and issuer credentials before accepting. 
+
+The portal returns a unique registry number upon receipt that identifies the invoice in the national e-invoicing system. It then makes the e-invoice and issuance data available to the buying entity, automatically triggering the start of the payment process. 
+
+Suppliers can track status and retrieve both invoices and issuance receipts from the portal. Buyers can look up invoice details based on search parameters like supplier tax ID, invoice number, date, value etc.
+
+For B2B and B2C invoices, issuers and receivers exchange invoices in formats and methods mutually agreed upon, such as EDI, email, web uploads etc. However, businesses are likely to transition to structured e-invoicing over time, especially if it gets mandated.
+
+E-Invoice Processing and Integration
+
+The National Public Procurement Portal automates much of the invoice receipt, registration and routing process for government entities. Invoice data can be fed into the entity’s financial system, avoiding manual re-entry.
+
+However, proper integration still needs to be implemented by each public entity to update payables in accounting, post against appropriate cost centers, reconcile invoices and perform three-way matching with purchase orders. 
+
+Private companies face similar integration challenges to incorporate inbound e-invoices into their financial systems and ERPs seamlessly. Adoption of automated workflows for handling and approval of e-invoices can significantly optimize the order-to-pay cycle.
+
+Benefits and Challenges of E-Invoicing
+
+The transition to e-invoicing brings significant benefits but also some change management challenges:
+
+Key Benefits:
+
+- Cost reduction from eliminating paper and manual processing
+
+- Faster settlement of invoices and improved cash flow
+
+- Increased accuracy of data for accounting and tax reporting
+
+- Enhanced visibility into invoice processing status
+
+- Better archival and analytics on invoice data
+
+- Seamless integration with national reporting systems
+
+Key Challenges:
+
+- Change management and user training on new processes
+
+- Upgrading existing finance systems and integration work needed
+
+- Dependency on reliability of central e-invoicing platform
+
+- Adapting workflows to handle exceptions like rejections
+
+- Getting buy-in and transitioning suppliers currently issuing paper invoices
+
+- Cybersecurity risks from increasing digital attack surfaces
+
+Overall, the gains for government, private entities, and the national economy from transitioning to automated e-invoicing at scale justify the temporary disruptions and costs involved.
+
+Recommendations for Smooth Transition
+
+Both private and public sector organizations in Portugal should take the following steps for a successful transition to e-invoicing:
+
+1. Do a comprehensive review of existing invoice workflows and data needs – identify changes required to extract and provide all information required for structured e-invoicing.
+
+2. Assess software systems and determine upgrades, integrations, and new solutions needed – including accounting software, ERPs, procurement systems, etc.
+
+3. Consult with major existing suppliers and key customers on their e-invoicing readiness and capabilities.
+
+4. Provide technical specifications and testing facilities early on to involve suppliers in the transition.
+
+5. Validate that all electronic invoice formats and transmission methods comply with legal requirements. 
+
+6. Train accounts payable and procurement teams on new e-invoicing procedures and exception management.
+
+7. Implement robust cybersecurity controls to prevent unauthorized access to invoice data during transmission or storage.
+
+8. Start transition by onboarding larger suppliers first followed by smaller suppliers – conduct pilot tests before full-scale rollout.
+
+9. Plan for contingencies and business continuity procedures in case of disruptions to availability of e-invoicing platforms.
+
+Portugal’s e-invoicing mandate for the public sector aims to increase efficiency, improve financial controls, close revenue gaps, and integrate with national reporting systems. The cost savings for government alone are estimated at €195 million annually. The digital invoicing transformation will deliver significant productivity gains and economic benefits nationally in the long term.
+
+## Frequently Asked Questions
+Here are answers to some common questions about e-invoicing in Portugal:
+
+<details>
+  <summary>What is considered an electronic invoice?</summary>
+ To comply with the EU standard, an electronic invoice must be in a structured digital format (XML or EDI) that allows for automatic and electronic processing. PDFs attached to emails or other formats do not qualify. 
+</details>
+<details>
+  <summary>Who is required to issue electronic invoices? </summary>
+  For public procurement, all suppliers to government entities above specified contract values must issue e-invoices since Nov 2020. Private companies can adopt e-invoicing voluntarily for now.
+</details>
+<details>
+  <summary>Does the e-invoicing mandate apply to all public contracts?</summary>
+No, only contracts above the annual thresholds must follow e-invoicing – see question below for details. Contracts below threshold can continue paper or PDF invoices.
+</details>
+<details>
+  <summary>What are the invoice value thresholds for public contracts?</summary>
+Suppliers must issue e-invoices for contracts over €10,000 for entities above €3 million threshold and over €30,000 for others. See Regulation 289/2020, Article 4.
+</details>
+<details>
+  <summary>How do suppliers issue electronic invoices to public entities?</summary>
+All e-invoices must be submitted in XML format to the National Public Procurement Portal (Portal Nacional de Compras Públicas) run by ESPAP.
+</details>
+<details>
+  <summary>What is the Micro Portal for SMEs?</summary>
+  The e-Micro Company Portal (Portal e-Micro Empresa) allows small businesses to join the e-invoicing system and easily issue and retrieve e-invoices via this free online tool.
+</details>
+<details>
+  <summary>Can the public entity invoice receiver share access to electronic invoices with others?</summary>
+Yes, the authorized entity user with access can grant permissions to view or manage e-invoices to other users under their control, following the entity's access policies.
+</details>
+<details>
+  <summary>How does a supplier initiate e-invoicing if the public entity receiver is not yet ready?</summary>
+In case the public entity is not yet exchanging e-invoices with suppliers, the supplier should contact the project support team at ESPAP via the support request form available on their website.
+</details>
+<details>
+  <summary>If a supplier faces issues sending e-invoices, what should they do?</summary>
+The supplier should contact the ESPAP support team through the support request form describing the issue faced. The team will provide troubleshooting and resolution.
+</details>
+<details>
+  <summary>How can a supplier check the onboarding status of public entities?</summary>
+The list of entities already exchanging electronic invoices with suppliers through the National Public Procurement Portal is published and updated on the ESPAP website.
+</details>
+<details>
+  <summary>What is the EN 16931 standard for e-invoices?</summary>
+  EN 16931 defines the semantic data model and syntax for the core elements of an electronic invoice in the EU. All e-invoices issued through the portal must comply with this standard.
+</details>
+<details>
+  <summary>How are PDF invoices sent via email considered? </summary>
+While submission of scans or PDF invoices attached to emails can suffice for contracts below threshold, these are not considered full electronic invoices under the EU standard.
+</details>
+<details>
+  <summary>Can buyers retrieve electronic invoices without logging into the system?
+  </summary>
+  Yes, the National Public Procurement Portal allows buyers to look up an invoice by providing key details like seller tax ID, invoice number, date and value without having to log in. This facilitates occasional access.
+</details>
+<details>
+  <summary>If a user sees the error "Invalid Login" in the e-invoices portal, what should be done?</summary>
+This error indicates that a user is trying to enter the system with credentials that either do not exist in the system or are incorrect. The password and user ID should be checked and tried again.
+</details>
+<details>
+  <summary>How can someone without access get information or request access to the e-Invoicing system? 
+</summary>
+  To request information or access to the National Public Procurement Portal, prospective users should fill out the supplier registration questionnaire form available on the ESPAP website. Access requests will be evaluated per entity onboarding rules.
+</details>
+<details>
+  <summary> What is the EN 16931 standard for e-invoices? </summary>
+  EN 16931 defines the semantic data model and syntax for the core elements of an electronic invoice in the EU. All e-invoices issued through the portal must comply with this standard.
+</details>
+
