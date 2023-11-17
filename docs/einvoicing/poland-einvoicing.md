@@ -37,7 +37,7 @@ tags:
     </tr>
   <tr>
         <td align="left">Network name</td>
-        <td align="left"><a href="https://www.podatki.gov.pl/ksef/">Krajowy System e-Faktur(KSeF)</td>
+        <td align="left"><a href="https://www.podatki.gov.pl/ksef/">Krajowy System e-Faktur(KSeF)</a></td>
  </tr>
  
 </table>
