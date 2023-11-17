@@ -37,7 +37,7 @@ tags:
     </tr>
   <tr>
         <td align="left">Network name</td>
-        <td align="left">[Krajowy System e-Faktur(KSeF)](https://www.podatki.gov.pl/ksef/)</td>
+        <td align="left"><a href="https://www.podatki.gov.pl/ksef/">Krajowy System e-Faktur(KSeF)</td>
  </tr>
  
 </table>
@@ -55,7 +55,7 @@ Poland’s mandatory e-invoicing system is being introduced based on the followi
 - Council Implementing Decision of 17 June 2022 – authorized Poland to introduce mandatory e-invoicing for Jan 2024 – Dec 2026. 
 - Act of 16 June 2023 amending the VAT Act – establishes mandatory e-invoicing via KSeF from 1 July 2024. 
 
-:::Note 
+:::note 
 **Important Deadlines**
 
 The timeline for KSeF rollout is as follows:
