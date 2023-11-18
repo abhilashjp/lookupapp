@@ -6,6 +6,7 @@ description : Demystifying VAT Listings in the EU. Navigate the complexities of 
 sidebar_label: VAT Listings
 tags:
   - VAT Listings
+  - EU
 
 ---
 
