@@ -1,7 +1,7 @@
 ---
 id: import-one-stop-shop-ioss
 title: A Guide to the Import One Stop Shop (IOSS)
-keywords: [IOSS]
+keywords: [IOSS, Import One-Stop Shop, international e-commerce, VAT compliance, cross-border transactions, IOSS updates, expert advice, e-commerce knowledge]
 description : Mastering IOSS. Simplify your understanding of the Import One-Stop Shop with our expert explainer article. Dive into the world of international e-commerce, navigate VAT compliance effortlessly, and stay ahead with the latest IOSS updates. Our comprehensive guide offers accurate insights, practical tips, and expert advice to ensure seamless cross-border transactions. Elevate your e-commerce game with our trusted source for IOSS knowledge.
 sidebar_label: Import One Stop Shop
 tags:
