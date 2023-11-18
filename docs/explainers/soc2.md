@@ -1,7 +1,8 @@
 ---
 id: soc2-compliance
 title: SOC 2 - Everything to know
-keywords: [SOC2 compliance]
+keywords: [SOC2 compliance, SOC 2, Service Organization Control, cybersecurity, data security, compliance, cyber threats, expert advice, cybersecurity strategy]
+description: Decoding SOC 2 Compliance - Dive into the world of cybersecurity with our expert explainer article. Understand the nuances of Service Organization Control (SOC) 2, ensure data security and compliance, and fortify your business against cyber threats. Our comprehensive guide provides accurate insights, practical tips, and expert advice to navigate the complexities of SOC 2. Elevate your cybersecurity strategy with our trusted source for SOC 2 knowledge.
 sidebar_label: SOC 2 compliance
 tags:
   - SOC 2
