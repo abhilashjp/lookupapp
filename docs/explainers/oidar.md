@@ -1,7 +1,7 @@
 ---
 id: explaining-OIDAR-services-and-GST-Compliance-for-Suppliers-in-India
 title: Explaining OIDAR Services and GST Compliance for Suppliers in India
-keywords: [OIDAR]
+keywords: [OIDAR, Online Information and Database Access or Retrieval, Indian tax regulations, digital service transactions, OIDAR compliance, expert advice, Indian tax implications.]
 description: Demystifying OIDAR in India. Navigate the complexities of Online Information and Database Access or Retrieval services with our expert explainer article. Stay compliant with Indian tax regulations, understand the nuances of OIDAR, and ensure seamless digital service transactions. Our comprehensive guide provides accurate insights, compliance tips, and expert advice to empower your business in the digital landscape. Trust our source for OIDAR knowledge and elevate your understanding of Indian tax implications
 sidebar_label: OIDAR - India 
 tags:
