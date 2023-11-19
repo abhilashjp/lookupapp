@@ -1,6 +1,6 @@
 ---
 id: Chorus-Pro-einvoicing-france
-title:E-Invoicing in France - An In-Depth Overview
+title: E-Invoicing in France - An In-Depth Overview
 keywords: [e-invoicing, B2B, France, obligatory, Chorus Pro, clearance model, taxpayer, electronic reporting, invoice formats, UBL, CII, Factur-X, certified provider, digitization platform, B2B2G portal, EU directive, e-reporting, digital tax reports]
 sidebar_label: France - Chorus Pro
 description: Stay up-to-date with the latest developments in France's mandatory B2B e-invoicing landscape, facilitated by the Chorus Pro platform. Explore the phased implementation, diverse invoice formats (UBL, CII, Factur-X), and the expanded functionalities of the B2B2G portal. Discover the obligations for taxpayers, including electronic reporting, and learn about the government's efforts to enhance transaction data transparency. Stay ahead in the realm of e-invoicing as France embraces a more streamlined and efficient invoicing system. 
@@ -99,6 +99,14 @@ Some of the key capabilities provided by Chorus Pro include:
 - API access to integrate Chorus Pro capabilities into partner portals or accounting systems
 - Responsive support team that can be reached via the portal or by email
 - High availability (24 x 7) with extensive monitoring and alerts.
+
+## Functional scope of Chorus Pro
+
+<table align="center" border="1px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/Functional-scope-of-Chorus-Pro.PNG" alt="Functional scope of Chorus Pro"/>
+  </td></tr>
+  <tr><td align="center">Functional scope of Chorus Pro</td></tr>
+</table>
 
 ## Onboarding Process for Suppliers
 
