@@ -3,7 +3,7 @@ id: united-kingdom-tax-id-guide
 title: United Kingdom VAT number guide
 keywords: [VAT number, Tax ID, United kingdom]
 sidebar_label: United Kingdom
-description: Learn about VAT number in United Kingdom. Use Lookuptax for hassle-free tax id validation in over United Kingdom and other 100+ countries
+description: Learn about VAT number in United Kingdom. Use Lookuptax for hassle-free tax id validation in United Kingdom and other 100+ countries
 tags : 
   - United Kingdom
   - VAT number
