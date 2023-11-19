@@ -1,6 +1,6 @@
 {
   "label": "Tax ID Number",
-  "position": 14,
+  "position": 0,
    "collapsible": true,
   "collapsed": true,
   "className": "red",
