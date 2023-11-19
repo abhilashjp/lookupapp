@@ -1,0 +1,17 @@
+{
+  "label": "Tax ID Number",
+  "position": 14,
+   "collapsible": true,
+  "collapsed": true,
+  "className": "red",
+  "link": {
+    "type": "generated-index",
+    "title": "Tax ID Number",
+    "keywords": "tax ID, VAT number",
+    "description": "Learn about the Tax ID numbers across the world.Use Lookuptax for hassle-free tax id validation in over 100+ countries",
+  },
+   "customProps": {
+    "description": "Our Tax ID Guides explains the tax IDs in use in countries across the world.Use Lookuptax for hassle-free tax id validation in over  100+ countries"
+  }
+}
+
