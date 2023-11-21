@@ -32,6 +32,15 @@ name/surname.
 Next four characters i.e. "7190" in the above PAN are sequential number running from 0001 to 9999.
 Last character i.e. "K" in the above PAN is an alphabetic check digit.
 
+**Where to find PAN ?**
+PAN can be found on PAN card or PAN allotment letter
+
+<table align="center" border="1px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/pan.PNG" alt="PAN card"/>
+  </td></tr>
+  <tr><td align="center">PAN card</td></tr>
+</table>
+
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you ?**
 
