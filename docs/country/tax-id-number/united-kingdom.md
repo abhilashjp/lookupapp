@@ -20,7 +20,7 @@ The tax identification number in UK is called VAT number. The format is as follo
 
 The UTR may be found on the front page of the tax return (form SA100 or CT600) as shown in the example below. The UTR may also be found on a “Notice to complete Tax Return” (form SA316 or CT603) or a Statement of Account. Depending on the type of document issued the reference may be printed next to the headings “Tax Reference”, “UTR” or “Official Use”.
 
-<table align="center" border="1px" border-color="#dedede"><tr><td>
+<table align="center" border="0px" border-color="#dedede"><tr><td>
   <img src="/docs/img/taxid/UTR.PNG" alt="UTR on tax return form"/>
   </td></tr>
   <tr><td align="center">UTR on tax return form</td></tr>
@@ -28,7 +28,9 @@ The UTR may be found on the front page of the tax return (form SA100 or CT600) a
 
 ## National Insurance Number (NINO)
 
-A National Insurance Number (NINO) is composed of two letters, six numbers, and a suffix letter (such as A, B, C, or D, for instance, DQ123456C). All individuals residing regularly in the United Kingdom are either assigned or can receive a NINO. Young people living in the UK are automatically granted a NINO as they approach the age of 16. This identifier appears on various official documents, and individuals are informed of their NINO through an official letter from the Department for Work and Pensions or HM Revenue and Customs. It's important to note that this letter explicitly states, "This is not proof of identity," and therefore cannot be utilized for identity verification. While the NINO can be cited as the tax reference number on certain official documents from HM Revenue and Customs, it does not serve as proof of identity.
+A National Insurance Number (NINO) is composed of two letters, six numbers, and a suffix letter (such as A, B, C, or D, for instance, DQ123456C). All individuals residing regularly in the United Kingdom are either assigned or can receive a NINO. Young people living in the UK are automatically granted a NINO as they approach the age of 16. This identifier appears on various official documents, and individuals are informed of their NINO through an official letter from the Department for Work and Pensions or HM Revenue and Customs. 
+
+It's important to note that this letter explicitly states, "This is not proof of identity," and therefore cannot be utilized for identity verification. While the NINO can be cited as the tax reference number on certain official documents from HM Revenue and Customs, it does not serve as proof of identity.
 
 **Where to find NINO ?**
 
