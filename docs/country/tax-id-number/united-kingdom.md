@@ -16,6 +16,12 @@ The tax identification number in UK is called VAT number. The format is as follo
 
 "UTR" stands for Unique Taxpayer Reference. The UTR is a 10-digit code that is unique to each taxpayer or entity registered with His Majesty's Revenue and Customs (HMRC). It is used to identify individuals, partnerships, and companies for tax purposes. The UTR is an essential component when communicating with HMRC, filing tax returns, and managing various tax-related matters. It's important to keep the UTR secure and readily accessible, especially when engaging in activities that involve taxation in the UK
 
+**Where to find UTR**
+The UTR may be found on the front page of the tax return (form SA100 or CT600) as shown in the example below:
+<table align="center" border="1px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/UTR.PNG" alt="UTR on tax return form"/>
+  </td></tr>
+</table>
 
 ## National Insurance Number (NINO)
 
