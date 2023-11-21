@@ -12,8 +12,9 @@ tags :
 ## VAT Number 
 The tax identification number in UK is called VAT number. The format is as follows. VAT number has either 9 or 12 numbers, sometimes with ‘GB’ at the start, like 123456789 or GB123456789. You can check the validity of UK VAT number from the official [HMRC site](https://www.gov.uk/check-uk-vat-number) or a Vat validation provider like _[Lookuptax](https://lookuptax.com/)_.
 
+## Unique Taxpayer Reference (UTR)
 
-
+"UTR" stands for Unique Taxpayer Reference. The UTR is a 10-digit code that is unique to each taxpayer or entity registered with His Majesty's Revenue and Customs (HMRC). It is used to identify individuals, partnerships, and companies for tax purposes. The UTR is an essential component when communicating with HMRC, filing tax returns, and managing various tax-related matters. It's important to keep the UTR secure and readily accessible, especially when engaging in activities that involve taxation in the UK
 
 
 ----
