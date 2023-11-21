@@ -1,12 +1,12 @@
 ---
 id: Austria-tax-id-guide
 title: Austria TIN number guide
-keywords: [TIN, VKN, Tax ID, Austria]
+keywords: [TIN, UID, Tax ID, Austria]
 sidebar_label: Austria
-description: Learn about VKN number in Austria. Use Lookuptax for hassle-free tax id validation in Austria and other 100+ countries
+description: Learn about UID number in Austria. Use Lookuptax for hassle-free tax id validation in Austria and other 100+ countries
 tags : 
   - Austria
-  - VKN
+  - UID
 ---
 
 
@@ -22,8 +22,8 @@ The Abgabenkontonummer is a unique identification number assigned to individuals
 ### Format
 Abgabenkontonummer(The Austrian tax identification number) consists of 2 digits for the issuing tax office (Finanzamtsnummer) and 7 digits for the subject and a check digit (Steuernummer).
 
-## Umsatzsteuer-Identifikationsnummer(USt-IdNr)
-The Umsatzsteuer-Identifikationsnummer (USt-IdNr) in Austria is the Value Added Tax Identification Number (VAT ID) assigned to businesses for transactions involving the exchange of goods and services within the European Union (EU)
+## Umsatzsteuer-Identifikationsnummer(UID)
+The Umsatzsteuer-Identifikationsnummer (UID) in Austria is the Value Added Tax Identification Number (VAT ID) assigned to businesses for transactions involving the exchange of goods and services within the European Union (EU)
 
 ### Format 
 9 characters. The first character is always ‘U’
