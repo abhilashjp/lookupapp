@@ -14,6 +14,9 @@ tags :
 
 Individuals and businesses obtain their CUIT through the Administración Federal de Ingresos Públicos (AFIP), which is the tax authority in Argentina. Upon registration, a CUIT is granted by AFIP; thus, he/she acquires a tax identity vis a vis third parties, and is therefore entitled to develop its activities on a legal basis.
 
+### CUIT Format 
+"11-digit number formatted as NN-NNNNNNNN-N (the first 2 digits indicate the type of person: 20 for men; 27 for women; 23, 24, 25 or 26 for both (in case there is an identical CUIT), and 30 or 33 for legal persons, the next 8 digits are: in the case of individuals, the ID (DNI) number; and in case of legal persons, it is assigned by the AFIP, the last digit is randomly assigned)"
+
 **Where to find CUIT?**
 
 Once the CUIT has been assigned, persons become part of the taxpayers’ register of the Federal Administration.Any person may enter the AFIP’s website and see the Proofs of Registration (General Regime) or Registration of Monotributo (Simplified Tax Regime for Small Taxpayers) of any of the registered taxpayers, thus having access to the information regarding their tax status.
