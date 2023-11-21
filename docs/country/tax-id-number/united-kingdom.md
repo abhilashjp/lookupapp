@@ -36,7 +36,7 @@ It's important to note that this letter explicitly states, "This is not proof of
 
 HMRC issues coding notices to taxpayers. The heading of the notice contains the National Insurance Number as indicated in the example below.The National Insurance Number may also be shown on a National Insurance card and on letters issued by the Department for Work and Pensions (DWP). The number also appears on an employee's pay slip and on a Statement of Account issued by HMRC.
 
-<table align="center" border="1px" border-color="#dedede"><tr><td>
+<table align="center" border="0px" border-color="#dedede"><tr><td>
   <img src="/docs/img/taxid/nino.PNG" alt="NINO on coding notice"/>
   </td></tr>
   <tr><td align="center">NINO on coding notice</td></tr>
