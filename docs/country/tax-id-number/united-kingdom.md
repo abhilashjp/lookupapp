@@ -23,6 +23,7 @@ The UTR may be found on the front page of the tax return (form SA100 or CT600) a
 <table align="center" border="1px" border-color="#dedede"><tr><td>
   <img src="/docs/img/taxid/UTR.PNG" alt="UTR on tax return form"/>
   </td></tr>
+  <tr><td align="center">UTR on tax return form</td></tr>
 </table>
 
 ## National Insurance Number (NINO)
@@ -30,11 +31,13 @@ The UTR may be found on the front page of the tax return (form SA100 or CT600) a
 A National Insurance Number (NINO) is composed of two letters, six numbers, and a suffix letter (such as A, B, C, or D, for instance, DQ123456C). All individuals residing regularly in the United Kingdom are either assigned or can receive a NINO. Young people living in the UK are automatically granted a NINO as they approach the age of 16. This identifier appears on various official documents, and individuals are informed of their NINO through an official letter from the Department for Work and Pensions or HM Revenue and Customs. It's important to note that this letter explicitly states, "This is not proof of identity," and therefore cannot be utilized for identity verification. While the NINO can be cited as the tax reference number on certain official documents from HM Revenue and Customs, it does not serve as proof of identity.
 
 **Where to find NINO ?**
+
 HMRC issues coding notices to taxpayers. The heading of the notice contains the National Insurance Number as indicated in the example below.The National Insurance Number may also be shown on a National Insurance card and on letters issued by the Department for Work and Pensions (DWP). The number also appears on an employee's pay slip and on a Statement of Account issued by HMRC.
 
 <table align="center" border="1px" border-color="#dedede"><tr><td>
   <img src="/docs/img/taxid/nino.PNG" alt="NINO on coding notice"/>
   </td></tr>
+  <tr><td align="center">NINO on coding notice</td></tr>
 </table>
 
 ----
