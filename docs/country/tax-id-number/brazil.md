@@ -25,7 +25,6 @@ The “Cadastro de Pessoas Físicas – CPF” is a number attributed to both na
   </td></tr>
   <tr><td align="center">CPF</td></tr>
 </table>
-
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you ?**
 
