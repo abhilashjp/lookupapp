@@ -19,7 +19,7 @@ tags :
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
   <img src="/docs/img/taxid/Identity-card.PNG" alt="Identity card (Лична Карта)"/>
-  </td></tr>Identity card - Лична Карта </td></tr>
+  </td></tr>Identity card</td></tr>
 </table>
 
 ## VAT Number (VAT)
