@@ -21,10 +21,11 @@ The “Cadastro de Pessoas Físicas – CPF” is a number attributed to both na
 **Format** It consists of 11 digits (the 2 last numbers are the result of an arithmetic operation on the 9 previous ones) 
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/taxid/cpf.PNG" alt="CPF/>
+  <img src="/docs/img/taxid/cpf.PNG" alt="CPF"/>
   </td></tr>
   <tr><td align="center">CPF</td></tr>
 </table>
+
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you ?**
 
