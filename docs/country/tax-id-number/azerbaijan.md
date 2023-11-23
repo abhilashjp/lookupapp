@@ -33,7 +33,7 @@ TIN: 1 3 2 5 6 7 8 8 5 1
 <table align="center" border="0px" border-color="#dedede"><tr><td>
   <img src="/docs/img/taxid/new-national-id.PNG" alt="New national id"/>
   </td><td>
-  <img src="/docs/img/taxid/in-individuals.PNG" alt="TIN Individuals"/>
+  <img src="/docs/img/taxid/tin-individuals.PNG" alt="TIN Individuals"/>
   </td></tr>
   <tr><td align="center">New National ID</td><td align="center">TIN Individuals</td></tr>
 </table>
