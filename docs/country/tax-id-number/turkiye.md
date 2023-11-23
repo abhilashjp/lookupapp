@@ -1,5 +1,5 @@
 ---
-id: Türkiye-tax-id-guide
+id: Turkiye-tax-id-guide
 title: Türkiye TIN number guide
 keywords: [TIN, VKN, Tax ID, Türkiye]
 sidebar_label: Türkiye
