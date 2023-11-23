@@ -8,7 +8,7 @@ tags :
   - Albania
   - TIN
 ---
-## Tax Identification Number (TIN)
+## Tax Identification Number (TIN) (NUIS)
 The Tax Identification Number (TIN) for businesses is granted by the National Business Center (NBC), an Albanian government entity. Every business operating within the Republic of Albania must obtain the Number of Identification as a Taxable Person. The initial registration and any subsequent updates to the registration are processed through applications submitted to the National Business Center (NBC). Initial registration for non-profit organizations, tax representatives, and farmers is conducted at the Regional Tax Directorate of the relevant district.
 
 **Format** 
@@ -20,6 +20,12 @@ The third and fourth characters signify the converted month of TIN issuance, dep
 The fifth and sixth characters represent the day of the month on which the TIN was issued (e.g., 01, 02, 03, etc.). Characters 7 to 9 indicate the sequential order of TIN issuance on the specified day within a specific district (e.g., 009 is the 9th TIN issued in Tirana district, 108 is the 8th TIN issued in another district).
 
 The tenth character is a check digit, a capital letter calculated based on a formula dependent on the first nine characters.
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/nuis.jpeg" alt="NUIS"/>
+  </td></tr>
+  <tr><td align="center">NUIS(TIN)</td></tr>
+</table>
 
 ## National ID number (NID) 
 The individual Tax Identification Number (TIN), also known as the National ID number (NID), is a distinctive ten-character code (e.g., I05101999Q) containing encoded information, structured as follows:
