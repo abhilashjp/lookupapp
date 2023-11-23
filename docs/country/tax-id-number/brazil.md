@@ -1,7 +1,7 @@
 ---
 id: brazil-tax-id-guide
 title: Brazil CNPJ number guide
-keywords: [TIN, CNPJ, Tax ID, Bulgaria]
+keywords: [TIN, CNPJ, Tax ID, Brazil]
 sidebar_label: Brazil
 description: Learn about CNPJ number in Brazil. Use Lookuptax for hassle-free tax id validation in Brazil and other 100+ countries
 tags : 
