@@ -2,7 +2,7 @@
 id: brunei-darussalam-tax-id-guide
 title: Brunei Darussalam TIN number guide
 keywords: [NRIC, Tax ID, Brunei Darussalam]
-sidebar_label: Albania
+sidebar_label: Brunei Darussalam
 description: Learn about NRIC number in Brunei Darussalam. Use Lookuptax for hassle-free tax id validation in Brunei Darussalam and other 100+ countries
 tags : 
   - Brunei Darussalam
