@@ -15,6 +15,7 @@ The Tax Administration allocates a distinctive number to both legal entities and
 For individuals residing in Andorra, the NRT (Tax Identification Number) is referred to as the Número d’Identificació Administrativa (Administrative Identification Number, NIA), prefixed with the letter “F” according to Article 14 of the Regulations. The NIA is governed by Law 8/2007, dated 17 May, which outlines the regulation of the Administrative Identification Number.
 
 **Foreigners**
+
 For individuals not residing in Andorra, the NRT is the Número d’Identificació Administrativa (Administrative Identification Number, NIA), assigned to them and preceded by the letter “E” as per Article 15 of the Regulations.
 
 ### Format
