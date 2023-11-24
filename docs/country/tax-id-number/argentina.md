@@ -24,6 +24,9 @@ Once the CUIT has been assigned, persons become part of the taxpayers’ registe
 ## Clave Única de Identificación Laboral (CUIL)
 "Clave Única de Identificación Laboral" (CUIL) is an identification number used in Argentina for labor and social security purposes. It is assigned to individuals for the purpose of tracking their employment and social security contributions.
 
+## Identification Code (CDI)
+The Identification Code - CDI - represents a numeric code that the AFIP issues to individuals who are not required to have a CUIT or CUIL (see below) due to the fact that there is no tax or social security reason to have one but otherwise is required to be identified for certain procedures.
+
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you ?**
 
