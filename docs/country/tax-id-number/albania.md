@@ -28,6 +28,16 @@ The tenth character is a check digit, a capital letter calculated based on a for
 </table>
 
 ## National ID number (NID) 
+The Tax Identification Number (TIN) for individuals, known as the National ID (NID), is issued to both Albanian citizens and **foreign citizens** with permanent residence in the Republic of Albania. It serves various purposes:
+
+1. Inclusion in the National Registry of Civil Status.
+2. As the identification number on the national identity document.
+3. As a social security number for identification, registration, and claiming benefits from social security, health insurance, and other social protection programs.
+4. Entry in the National Register of Elections.
+5. As a Tax Identification Number.
+6. For the issuance of a driving license.
+7. To meet the requirements of other state institutions, including those related to justice, order, prosecution, education, and the Property Registration Office.
+   
 The individual Tax Identification Number (TIN), also known as the National ID number (NID), is a distinctive ten-character code (e.g., I05101999Q) containing encoded information, structured as follows:
 
 - Characters 1 and 2: Year of birth
