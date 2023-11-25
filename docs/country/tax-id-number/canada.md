@@ -17,6 +17,9 @@ For businesses, the tax identification is a distinctive nine-digit Business Numb
 
 A BN is a unique nine-digit number issued  to identify businesses and partnerships.
 
+**Foreigners** 
+Non-Residents can also obtain a business number in Canada. The registration process is completely online. You can learn about it [here](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/registering-your-business/register.html#NR-BN_AccRegistrtn_Webform) Find out if you need to register for GST [here](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/digital-economy-gsthst/find-out-need-register.html)
+
 Read more about Business number [here](https://www.canada.ca/en/services/taxes/business-number.html)
 
 ## Social Insurance Number (SIN)
