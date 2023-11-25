@@ -55,7 +55,7 @@ Introduced in 2008, the current OASI Number features a structured format. It inc
 </table>
 
 
-## Inter-Community VAT Number
+## Intra-Community VAT Number
 The Swiss company identification number (UID) and the EU VAT identification number share the abbreviation UID, yet they are unrelated.
 
 The VAT identification number is specifically necessary for intra-Community transactions, involving the delivery of goods from one EU country to another or the provision of services to a recipient in a different EU country. To facilitate tax-free services, customers must furnish their VAT identification number to the supplier or service provider.
