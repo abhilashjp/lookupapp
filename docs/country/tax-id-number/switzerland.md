@@ -48,6 +48,11 @@ OASI is also known as AHV-Versichertennummer; numéro d’assuré AVS; numero d�
 
 Introduced in 2008, the current OASI Number features a structured format. It includes an initial 3-digit country code (Switzerland = 756), a 9-digit randomly assigned number providing a lifelong, unique, and anonymous identification for each individual, and a final check digit. The OASI Number is presented in a reader-friendly manner, with each block separated by a dot. The format can be represented as follows: 756.1234.5678.97.
 
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/oasi.PNG" alt="OASI on Insurance Certificate"/>
+  </td></tr>
+  <tr><td align="center">OASI on Insurance Certificate</td></tr>
+</table>
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you ?**
 
