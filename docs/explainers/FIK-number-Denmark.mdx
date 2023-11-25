@@ -1,0 +1,71 @@
+---
+slug: FIK-number-Denmark
+title: FIK number in Denmark explained
+description: How can FIK numbers help with reconciliation in Denmark and how you can generate them. Learn what FIK numbers are, why they're important, and how to generate them for your business transactions in Denmark.
+keywords: [FIK number, FIK number dENMARK, what is FIK number, FIK number for businesses, FIK number explained, FIK number generation, FIK number importance, FIK number for transactions, Denmark payment system, Swedish banking system]
+tags: [FIK number]
+
+---
+
+
+## What is the FIK number?
+
+The FIK number in Denmark is used to associate payments with the right customer and the right invoice. It serves the exact same purpose that the [KID number](https://lookuptax.com/docs/explainers/KID-number-Norway-kundeidentifikasjon) serves in Norway or the [OCR number](https://lookuptax.com/docs/explainers/OCR-number-Sweden) serves in Sweden. 
+
+
+## Format of the FIK number
+
+The format to be followed is *<font color="orange">Payment Reference Type<Payment ID followed by Check digit + Creditor account number<</font>*
+Example : +71<022646321691221+88655702<
+
+Payment Reference Type = 71
+Payment ID = 02264632169122
+Check Digit = 1
+Creditor Account number = 88655702  ( *NOTE: Creditor account number is the Merchant’s bank account number)
+
+**Number of digits** — This depends on the Payment reference type:
+
+Payment reference type 71 : The format of the payment reference number is 15 digits + 8 digits wherein the first 14 digits are the payment ID, the following digit is the control number and the last 8 digits are the creditor number/ID issued by the bank 
+
+Payment reference type 73: No Payment ID
+
+Payment reference type 75: The format of the payment reference number is 16 digits + 8 digits wherein the first 15 digits are the payment ID, the following digit is the control number and the last 8 digits are the creditor number/ID issued by the bank.
+
+
+**Rules to build the Payment ID in the FIK number** — FIK numbers can contain customer ID and/or invoice number as part of the Payment ID to identify customer and invoice but this is not mandatory. It is however recommended to use these to make the reconciliation of payments with invoices easier.
+
+
+**Check digit calculation algorithm** - <a href="https://en.wikipedia.org/wiki/Luhn_algorithm" target="_blank">Mod 10 algorithm</a>
+
+
+Leading 0’s — If the final number of digits in the Payment ID is less than the number of digits allowed (15 or 16 depending on the Payment Reference Type) then we will add 0’s at the front.
+
+
+:::note
+
+* It is often recommended that the FIK number has to contain the customer number or ID and the invoice number. It is after all a customer identification number. But this is not mandatory. It can have any random number as long as it follows the agreement with the bank regarding the number of digits and the check digit algorithm. 
+
+The reason for this recommendation is that it makes reconciliation easier this way. Because you can easily look at the bank statement to know which customer and invoice the payment should be mapped to. However, modern day billing and accounting tools make it easy for you to map the payment with the invoice even without the customer ID or the invoice number. 
+
+The FIK number number is part of the invoice information and is also available when you export the invoices data in bulk to do the reconciliation. FIK number is also present on every payment recorded in the bank statement. So it acts as a common identifier to help you map the payment with the invoice and thereby making reconciliation easier.
+
+:::
+
+#### Let’s take some examples to see how the final generated number will look like
+
+Example 1:
+
+1. Payment Reference Type - 71
+2. Payment ID generated - 123456
+3. Check digit algorithm - Mod 10 algorithm
+
+> Final FIK number generated = <font color="orange">+71<00000000123456</font><font color="red">6</font>+<font color="orange">88655702<</font>
+
+Example 2:
+
+1. Payment Reference Type - 75
+2. Payment ID generated - 123456
+3. Check digit algorithm - Mod 10 algorithm
+
+Final FIK number generated = <font color="orange">+75<000000000123456</font><font color="red">6</font>+<font color="orange">88655702<</font>
+
