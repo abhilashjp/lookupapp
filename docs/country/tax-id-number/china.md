@@ -16,6 +16,11 @@ Typically, an entity's Tax Identification Number (TIN) corresponds to the Unifor
 
 For the old TIN regime, there are 15 numerals. While for the new TIN regime, there are 18 numerals with sometimes letters appearing in the last 10 characters, especially the 9th, 10th, 13rd and 18th
 
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/business-licence.PNG" alt="Business License"/>
+  </td></tr>
+  <tr><td align="center">Business License</td></tr>
+</table>
 
 ## ID Number
 For an individual utilizing a Chinese ID card for identification, the Tax Identification Number (TIN) corresponds to the ID number. In cases where an individual employs a passport or another ID certificate for identification, the TIN is assigned by the local tax office in accordance with the applicable regulations. In certain regions, passport numbers are also acknowledged as TIN for foreign individuals.
