@@ -25,6 +25,12 @@ For the old TIN regime, there are 15 numerals. While for the new TIN regime, the
 ## ID Number
 For an individual utilizing a Chinese ID card for identification, the Tax Identification Number (TIN) corresponds to the ID number. In cases where an individual employs a passport or another ID certificate for identification, the TIN is assigned by the local tax office in accordance with the applicable regulations. In certain regions, passport numbers are also acknowledged as TIN for foreign individuals.
 
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/id-card.PNG" alt="Chinese ID card"/>
+  </td></tr>
+  <tr><td align="center">Chinese ID card</td></tr>
+</table>
+
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you ?**
 
