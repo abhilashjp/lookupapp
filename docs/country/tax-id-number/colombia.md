@@ -13,6 +13,7 @@ tags :
 As per Article 555-1 of the Tax Statute, the tax identification number (NIT) is assigned by the National Directorate of Taxes and Customs to taxpayers, responsible entities, withholding agents, and declarants for tax purposes. It is mandatory when specified by the entity. The NIT assignment occurs through registration in the Unique Tax Registry (RUT), a vital mechanism for identifying, locating, and categorizing subjects of obligations managed by the Special Administrative Unit National Directorate of Taxes and Customs (DIAN). This process aligns with legal and regulatory standards outlined in Article 1.6.1.2.2 of Decree 1625 of 2016.
 
 **Format**
+
 Currently, the Tax Identification Number (NIT) assigned by the DIAN to legal entities, de facto partnerships, and other state or private entities assimilated to these, consists of 9 digits plus a verification digit calculated by the DIAN (Administrative Order 4 of 1989). The NITs assigned to these organizations range from 800,000,000 to 899,999,999 and increase from 900,000,000.
 
 For natural persons, the NIT ranges from 1 to 13 digits plus a verification digit. The configuration of the NIT is as follows:
