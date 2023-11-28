@@ -18,8 +18,11 @@ The Civil Registry supplies the SII with information regarding National Identity
 
 
 **Foreigners** 
+Foreigners engaging in various activities in Chile, such as investments, representation of legal entities, or receiving income, are required to register for the Unique Tax Roll (RUT). This includes individuals without residence in Chile investing in shares, real estate, or participating in companies. The registration process is facilitated for foreigners without residence, allowing them to obtain the RUT through Chilean stock brokers involved in market operations. Presentation of an Identity Card for Foreigners is necessary during the registration process for foreigners residing in Chile. The RUT is a crucial identification for tax-related activities in the country.
 
-Foreigners not under Chilean immigration laws are also required to obtain a TIN number from the SII before certain activities, such as investing in shares. For Chileans and foreigners residing in Chile, the National Identity Number (RUN) from the Civil Registry serves as both the Tax Identification Number (RUT). 
+For Chileans and foreigners residing in Chile, the National Identity Number (RUN) from the Civil Registry serves as both the Tax Identification Number (RUT). 
+
+Read [more](https://www.sii.cl/contribuyentes/contribuyentes_individuales/chilenos_extranjero/rol_unico_tributario.htm)
 
 **Format** 
 The Tax Identification Number (TIN) aka RUT comprises two components: the serial number, a dash (-), and the check digit (xx.xxx.xxx-x), derived through an algorithm generating a digit from 0 to 9 or the letter K. The check digit is pivotal for TIN validation, ensuring a singular check digit per number.
