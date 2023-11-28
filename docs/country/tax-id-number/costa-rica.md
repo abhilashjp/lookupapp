@@ -20,6 +20,15 @@ Physical identification number, in the case of domestic natural persons
   <tr><td align="center">Cedula de Persona Fisica</td></tr>
 </table>
 
+1. Costa Rica flag
+2. Identification number
+3. Decreased photo
+4. Names, surnames and known as
+5. Coat of arms of Costa Rica in gold print
+6. Citizen signature
+7. Decreased flag
+8. Color photo
+
 ## Cedula de Persona Juridica
 Corporate identification number, in case of legal persons
 
@@ -35,6 +44,14 @@ Foreign individuals are registered using the "Immigration Identification Documen
   </td></tr>
   <tr><td align="center">DIMEX</td></tr>
 </table>
+
+1. Offset micro text (watermark)
+2. Ultra violet mark
+3. Optical variable ink mark
+4. Offset Security graphic (watermark)
+5. Offset printed text (watermark)
+6. Document (DIMEX) number: 11 or 12 numerals
+7. Hologram under the surface
 
 ## Número de Identificación Tributario Especial” (NITE)
 For unincorporated entities or foreign individuals without DIMEX, the Tax Administration issues a "Special Tax Identification Number," referred to as NITE.
