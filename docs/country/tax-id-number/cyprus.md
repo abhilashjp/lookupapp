@@ -11,6 +11,7 @@ tags :
 
 ## Tax Identification Code (TIC)
 An 8-digit alphanumeric code is assigned, featuring a letter from the uppercase Latin alphabet. Eg: 99999999L
+
 Starting March 27, 2023, the TIN is issued by the TFA system, beginning from 60000000, including a check character derived from an algorithm.
 
 
