@@ -7,6 +7,7 @@ description: Learn about TIN number in Denmark. Use Lookuptax for hassle-free ta
 tags : 
   - Denmark
   - TIN
+  - CVR
 ---
 
 ## Central Person Registration Number (CPR Number)
