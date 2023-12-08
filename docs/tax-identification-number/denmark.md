@@ -16,7 +16,7 @@ In the Danish Central Person Registration System (CPR), every individual is enro
 2. Covered under ATP, a specific work-related pension scheme.
 3. Mandated by tax authorities to obtain a CPR number for tax-related procedures in Denmark.
 
-The Danish CPR number plays a crucial role in virtually all interactions with public authorities, including tax affairs. It is prominently featured on official identification documents such as passports, driver's licenses, health security cards, etc. Refer to section III, "Where to find TIN," for more details. It is also known as personnummer in Danish
+The Danish CPR number plays a crucial role in virtually all interactions with public authorities, including tax affairs. It is prominently featured on official identification documents such as passports, driver's licenses, health security cards, etc. It is also known as "personnummer" in Danish.
 
 **Format** 
 
