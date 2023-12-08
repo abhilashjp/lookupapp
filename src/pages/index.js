@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/category/tax-identification-number">
-           Read about VAT Number and its formats in different countries. Learn how to verify the vat numbers in countries accross the world
+           Read about VAT Number and its formats in different countries. Learn how to verify the VAT numbers in countries accross the world
           </Link>
         </div>
       </div>
