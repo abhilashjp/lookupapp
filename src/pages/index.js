@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/category/tax-identification-number">
-           Read about sales tax for my billing 
+           Read about Tax Identification numbers formats and its validation 
           </Link>
         </div>
       </div>
