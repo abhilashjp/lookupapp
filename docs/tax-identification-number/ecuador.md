@@ -44,7 +44,7 @@ Additionally, specific exemptions apply:
   </td><td>
   <img src="/docs/img/taxid/ruc-private-companies.PNG" alt="Private Companies"/>
   </td>
-   <img src="/docs/img/taxid/ruc-public-companies.PNG" alt="Public Companies"/>
+  <td> <img src="/docs/img/taxid/ruc-public-companies.PNG" alt="Public Companies"/>
   </td></tr>
   <tr><td align="center">Individuals</td><td align="center">Private Companies</td><td align="center">Public Companies</td></tr>
 </table>
