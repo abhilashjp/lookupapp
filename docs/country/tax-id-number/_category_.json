@@ -5,6 +5,7 @@
   "collapsed": true,
   "className": "red",
   "link": {
+    "id": "tax-identification-number",
     "type": "generated-index",
     "title": "Tax ID Number",
     "keywords": "tax ID, VAT number",
