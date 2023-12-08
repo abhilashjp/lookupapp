@@ -7,6 +7,7 @@ description: Learn about TIN number in Dominica. Use Lookuptax for hassle-free t
 tags : 
   - Dominica
   - TIN
+  - RNC
 ---
 
 ## Registro Nacional del Contribuyente (RNC)
