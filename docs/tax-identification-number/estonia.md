@@ -20,7 +20,7 @@ The registration code for legal persons consists of 8 numbers. For entities like
 
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/taxid/iskukood.PNG" alt="Isikukood"/>
+  <img src="/docs/img/taxid/isikukood.PNG" alt="Isikukood"/>
   </td></tr>
   <tr><td align="center">Isikukood</td></tr>
 </table>
@@ -35,6 +35,9 @@ Format - EE + 9 digits  eg: EE100254507
 ## Registrikood
 
   Format - 8 digits  Eg: 10345833
+
+
+  Official database [KMKR/Registrikood search](https://apps.emta.ee/saqu/public/kmkrnr?lang=et)
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you ?**
