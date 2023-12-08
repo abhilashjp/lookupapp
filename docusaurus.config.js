@@ -86,7 +86,7 @@ const config = {
             position: "right",
             label: "Country guide",
           },*/
-          { to: "/category/country-guides", label: "Country guide", position: "right" },
+          { to: "category/tax-identification-number", label: "Country guides", position: "right" },
           { to: "/category/explainers", label: "Explainers", position: "right" },
           { to: "/category/einvoicing-guides", label: "Einvoicing", position: "right" },
 
@@ -106,7 +106,7 @@ const config = {
             items: [
               {
                 label: "Tutorial",
-                to: "/docs/category/country-guides",
+                to: "/docs/category/tax-identification-number",
               },
             ],
           },
