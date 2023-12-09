@@ -27,7 +27,7 @@ Example:
 
 V — The first character of the RIF number is E,I,J or V
 
-1440905 — The next 8 digits can be any random number from 00000001 to 99999999.
+12345678 — The next 8 digits can be any random number from 00000001 to 99999999.
 
 0 — The 10th digit is the checksum that is calculated on the basis of the previous characters.
 
