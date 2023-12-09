@@ -23,7 +23,7 @@ Example:
 
 13 digit number — <font color="green">03</font><font color="orange">1440905</font><font color="red">8</font>-<font color="blue">002</font>
 
-**Breaking down the MST number**
+#### Breaking down the MST number
 
 03 — The first 2 digits of the MST number represent the province code where the business is established. If the business relocates to a different location in the future, the MST number remains unchanged.
 
