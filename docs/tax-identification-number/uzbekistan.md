@@ -1,6 +1,6 @@
 ---
 id: uzbekistan-tax-id-guide
-title: Uzbekistan RIF number guide
+title: Uzbekistan VAT number guide
 keywords: [TIN, VAT, Tax ID, Uzbekistan]
 sidebar_label: Uzbekistan
 description: Learn about VAT number in Uzbekistan. Use Lookuptax for hassle-free tax id validation in Uzbekistan and other 100+ countries
