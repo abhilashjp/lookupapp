@@ -9,7 +9,7 @@ tags :
   - VAT number
 ---
 
-Uzbekistan VAT registration threshold
+### Uzbekistan VAT registration threshold
 
 VAT number registration is mandatory only when the annual turnover is more than UZS1 billion.
 
