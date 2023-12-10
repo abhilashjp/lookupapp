@@ -37,7 +37,7 @@ Example:
 
 <font color="green">12345678</font><font color="red">X</font> 
 
-#### Breaking down the RUT number
+#### Breaking down the NIE number
 
 12 — The first 8 digits can be any random number from 00000001 to 99999999.
 
