@@ -30,6 +30,16 @@ The SIREN number comprises 9 numerals in the format 999 999 999.
 
 Official database - [SIREN Search](https://avis-situation-sirene.insee.fr/)
 
+
+## Taxe sur la Valeur Ajoutee (TVA)
+
+Format - FR (country code) + 2 digits + SIREN
+
+Country code + 11 characters. May include alphabetical characters (any except O or I) as first or second or first and second characters.
+
+Example - 12345678901, X1234567890, 1X123456789, XX123456789
+
+
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you ?**
 
