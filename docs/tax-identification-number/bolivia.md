@@ -5,7 +5,7 @@ keywords: [TIN, NIT, Tax ID, Bolivia]
 sidebar_label: Bolivia
 description: Learn about NIT number in Bolivia. Use Lookuptax for hassle-free tax id validation in Bolivia and other 100+ countries
 tags : 
-  - Albania
+  - Bolivia
   - NIT
 ---
 
