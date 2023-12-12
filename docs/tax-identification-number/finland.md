@@ -22,7 +22,8 @@ The Business ID, a vital identifier for legal entities like companies, remains c
 
 ## Henkilötunnus (HETU)
 
-The HETU, also known as the Social Security number, is assigned at birth or immigration by the Population Register Centre of Finland. It comprises 11 characters for individuals, including 6 digits, 1 character (+, -, or A), 3 digits, and 1 alphanumeric character. The 7th character denotes the century of birth, with + indicating birth between 1800-1899, - for 1900-1999, and A for 2000-. This character is crucial, mandatorily recorded and reported in all records. Gain insights into HETU details, its format, and significance in records for precise information retrieval.
+The HETU, also known as the Social Security number, is assigned at birth or immigration by the Population Register Centre of Finland. It comprises 11 characters for individuals, including 6 digits, 1 character (+, -, or A), 3 digits, and 1 alphanumeric character. The 7th character denotes the century of birth, with + indicating birth between 1800-1899, - for 1900-1999, and A for 2000-. This character is crucial, mandatorily recorded and reported in all records. 
+
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
   <img src="/docs/img/taxid/finland-id.PNG" alt="Identity card (Henkilökortti)"/>
@@ -30,6 +31,14 @@ The HETU, also known as the Social Security number, is assigned at birth or immi
   <tr><td align="center">Identity card (Henkilökortti)</td></tr>
 </table>
 
+
+## Arvonlisaveronumero
+
+The Finnish value-added tax is abbreviated as "alv." or "ALV" (without a period). The numeric representation is obtained from the LY code by incorporating the country code FI, and the hyphen between the last two digits is omitted.
+
+For Example: FI01234567
+
+When dealing with invoices, orders, cash sales receipts, and more, it's crucial to include the abbreviation "alv. rek." or "ALV rek." (signifying registered value-added tax liability) to indicate the entity's registered status for value-added tax liability.
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you ?**
