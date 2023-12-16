@@ -40,6 +40,14 @@ Country code + 11 characters. May include alphabetical characters (any except O 
 Example - 12345678901, X1234567890, 1X123456789, XX123456789
 
 
+## SIRET
+
+The SIRET (Système d'Identification du Répertoire des Entreprises et de leurs Établissements) is a unique identification number assigned to businesses in France. It consists of 14 digits and serves to identify specific establishments of a business. The SIRET number is crucial for business registration, tracking, and compliance purposes. It is part of the broader French business registration system, including the SIREN (Système d'Identification du Répertoire des Entreprises). 
+
+The SIRET number, a 14-digit identifier, comprises the SIREN number along with an extra five-digit component representing the specific location or establishment of the business. Consequently, the SIRET number offers more granular details about the physical location of the business within France.
+
+
+
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you ?**
 
