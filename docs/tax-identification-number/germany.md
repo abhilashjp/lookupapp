@@ -10,7 +10,13 @@ tags :
 ---
 
 ## Steuerliche Identifikationsnummer
-The Federal Central Tax Office (Bundeszentralamt für Steuern - BZSt) allocates a personal identification number to every registered individual in Germany. This distinct identifier consists of 11 digits and is not generated from personal data (Legal basis: § 139b Abgabenordnung -AO-). It consists of 10 digits plus one check digit
+The Federal Central Tax Office (Bundeszentralamt für Steuern - BZSt) allocates a personal identification number to every registered individual in Germany. This distinct identifier consists of 11 digits and is not generated from personal data (Legal basis: § 139b Abgabenordnung -AO-). It consists of 10 digits plus one check digit.
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/steuerliche-identifikationsnummer.PNG" alt="Steuerliche Identifikationsnummer"/>
+  </td></tr>
+  <tr><td align="center">Steuerliche Identifikationsnummer</td></tr>
+</table>
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you ?**
