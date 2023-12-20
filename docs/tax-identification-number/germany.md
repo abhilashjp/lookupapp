@@ -9,7 +9,7 @@ tags :
   - TIN
 ---
 
-## Steuerliche Identifikationsnummer
+## Steuerliche Identifikationsnummer (IdNr)
 The Federal Central Tax Office (Bundeszentralamt für Steuern - BZSt) allocates a personal identification number to every registered individual in Germany. This distinct identifier consists of 11 digits and is not generated from personal data (Legal basis: § 139b Abgabenordnung -AO-). It consists of 10 digits plus one check digit.
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
@@ -17,6 +17,15 @@ The Federal Central Tax Office (Bundeszentralamt für Steuern - BZSt) allocates 
   </td></tr>
   <tr><td align="center">Steuerliche Identifikationsnummer</td></tr>
 </table>
+
+## Steuernummer
+
+The tax number, known as "Steuernummer," is a unique identifier crucial for businesses and freelancers in Germany. With a format like "12/345/67890" or "3012034567890," it spans 10 or 11 digits, including the Bundesland code. Acquiring this number involves submitting the "Fragebogen zur steuerlichen Erfassung" to the tax office (Finanzamt). It differs from the tax ID (Steueridentifikationsnummer) or VAT number (Umsatzsteuernummer). Your Steuernummer, not private, must be visible on invoices and in your Impressum. It changes if you relocate to a different area, highlighting its dynamic nature in the business landscape. Stay informed for seamless compliance.
+
+
+## Umsatzsteuer Identifikationsnummer (USt-ID)
+
+
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you ?**
