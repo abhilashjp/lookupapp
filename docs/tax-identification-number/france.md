@@ -46,7 +46,11 @@ The SIRET (Système d'Identification du Répertoire des Entreprises et de leurs 
 
 The SIRET number, a 14-digit identifier, comprises the SIREN number along with an extra five-digit component representing the specific location or establishment of the business. Consequently, the SIRET number offers more granular details about the physical location of the business within France.
 
-
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/siret.PNG" alt="SIRET"/>
+  </td></tr>
+  <tr><td align="center">SIRET</td></tr>
+</table>
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you ?**
