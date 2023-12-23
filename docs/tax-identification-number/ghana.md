@@ -20,6 +20,8 @@ The GRA TIN is a distinctive 11-digit alpha-numeric identifier assigned to indiv
 
 For eligible individuals, the NIA Ghanacard PIN now serves as the TIN, featuring a structured 15-digit format with a Country Code, 8 or 9 digit number, and a checksum character, each separated by a hyphen ('-'). This unique identification system incorporates the person's nationality, a system-generated number, and an internally used checksum character for PIN validation. Once assigned, the PIN remains unchanged, even if an individual changes nationality after initial registration. Stay informed about these essential identification elements for seamless compliance and understanding.
 
+Official Database [Search Ghanacard PIN](https://gra.gov.gh/online-tools/verify-tin/)
+
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you ?**
 
