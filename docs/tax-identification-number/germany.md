@@ -7,6 +7,7 @@ description: Learn about TIN number in Germany. Use Lookuptax for hassle-free ta
 tags : 
   - Germany
   - TIN
+  - VAT
 ---
 
 ## Steuerliche Identifikationsnummer (IdNr)
