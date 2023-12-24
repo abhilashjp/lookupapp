@@ -21,6 +21,20 @@ The tax authorities in France assign a tax identification number (TIN) to indivi
 
 The NIF comprises of 13 numerals in the format 99 99 999 999 999. The initial digit of the TIN is consistently 0, 1, 2, or 3.
 
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/nif-tax-return.PNG" alt="Numéro fiscal on tax return"/>
+  </td></tr>
+  <tr><td align="center">Numéro fiscal on tax return</td></tr>
+</table>
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/tin-notice-assessment.PNG" alt="Numéro fiscal on Notice of assessment"/>
+  </td></tr>
+  <tr><td align="center">Numéro fiscal on Notice of assessment</td></tr>
+</table>
+
+
 ## SIREN
 
 Upon establishment, French entities and individuals engaging in business activities are assigned an identification number by a governmental authority. This numéro SIREN serves various purposes, notably for taxation. Financial institutions like Fonds communs de placement (FCP) and Sociétés d’investissement à capital variable (SICAV) fall into this category. Unlike FCP, SICAV does not possess a tax identification number. Notably, the collection of tax identification numbers is not mandatory for entities classified as financial institutions (FIs)
