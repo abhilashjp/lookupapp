@@ -31,6 +31,12 @@ The HETU, also known as the Social Security number, is assigned at birth or immi
   <tr><td align="center">Identity card (Henkilökortti)</td></tr>
 </table>
 
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/driving-finland.PNG" alt="Driving license"/>
+  </td></tr>
+  <tr><td align="center">Driving license</td></tr>
+</table>
+
 
 ## Arvonlisaveronumero
 
