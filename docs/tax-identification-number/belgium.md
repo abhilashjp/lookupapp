@@ -12,6 +12,15 @@ tags :
 ## Numéro National (NN)
  "Numéro National" often refers to the National Number, which is a unique identification number assigned to individuals for various administrative and official purposes.
 
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/nn.PNG" alt="Official identity card (back side) only for Belgians citizens"/>
+  </td><td>
+  <img src="/docs/img/taxid/ssc.PNG" alt="Social Security Card for foreign residents"/>
+  </td></tr>
+  <tr><td align="center">Official identity card (back side) only for Belgians citizens</td><td align="center">Social Security Card for foreign residents</td></tr>
+</table>
+
+
 ## Ondernemingsnummer
 Also known as Numéro d'entreprise, Ondernemingsnummer serves as a unique identifier for businesses and legal entities operating in Belgium. Format is "10-digit number, always beginning with 0 or 1 (the last two digits are the check number).
 

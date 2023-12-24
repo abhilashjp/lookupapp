@@ -22,6 +22,13 @@ The Abgabenkontonummer is a unique identification number assigned to individuals
 ### Format
 Abgabenkontonummer(The Austrian tax identification number) consists of 2 digits for the issuing tax office (Finanzamtsnummer) and 7 digits for the subject and a check digit (Steuernummer).
 
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/stnr.PNG" alt="stnr"/>
+  </td></tr>
+  
+</table>
+
+
 ## Umsatzsteuer-Identifikationsnummer(UID)
 The Umsatzsteuer-Identifikationsnummer (UID) in Austria is the Value Added Tax Identification Number (VAT ID) assigned to businesses for transactions involving the exchange of goods and services within the European Union (EU)
 
