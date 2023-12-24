@@ -17,6 +17,16 @@ For businesses, the tax identification is a distinctive nine-digit Business Numb
 
 A BN is a unique nine-digit number issued  to identify businesses and partnerships.
 
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/bin.PNG" alt="BN on income tax return"/>
+  </td><td>
+  <img src="/docs/img/taxid/bin-1.PNG" alt="BN on notices of tax assessment"/>
+  </td></tr>
+  <tr><td align="center">BN on income tax return</td><td align="center">BN on notices of tax assessment</td></tr>
+</table>
+
+
 **Foreigners** 
 
 Non-Residents can also obtain a business number in Canada. The registration process is completely online. You can learn about it [here](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/registering-your-business/register.html#NR-BN_AccRegistrtn_Webform) Find out if you need to register for GST [here](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/digital-economy-gsthst/find-out-need-register.html)
@@ -33,9 +43,27 @@ A Social Insurance Number (SIN) is a distinct nine-digit identifier .
 
 Read more about Social Insurance Number [here](https://www.canada.ca/en/employment-social-development/services/sin.html)
 
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/SIN.PNG" alt="SIN on income tax return"/>
+  </td><td>
+  <img src="/docs/img/taxid/sin-1.PNG" alt="SIN on notices of tax assessment"/>
+  </td></tr>
+  <tr><td align="center">SIN on income tax return</td><td align="center">SIN on notices of tax assessment</td></tr>
+</table>
+
+
 ## Trust Account Number
 For trusts, the tax identification involves an eight-digit trust account number prefixed by the letter "T," issued by the Canada Revenue Agency. Canadian-resident trusts, with income tax reporting responsibilities, are mandated to possess a trust account number. Ensure compliance with your trust account number for seamless income tax reporting in Canada.
 
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/tan.PNG" alt="Trust Account Number on income tax return"/>
+  </td><td>
+  <img src="/docs/img/taxid/tan-1.PNG" alt="Trust Account Number on notices of tax assessment"/>
+  </td></tr>
+  <tr><td align="center">Trust Account Number on income tax return</td><td align="center">Trust Account Number on notices of tax assessment</td></tr>
+</table>
 
 ## Goods and Services Tax (GST)
 
