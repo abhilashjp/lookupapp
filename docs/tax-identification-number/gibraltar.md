@@ -13,7 +13,7 @@ tags :
 
  The Gibraltar Income Tax Office provides taxpayer reference numbers to individuals and corporate entities subject to taxation in Gibraltar. Functioning as the equivalent of a taxpayer identification number (TIN), these reference numbers are applicable to both income tax and corporation tax. 
 
-Gibraltar's taxpayer reference numbers, also recognized as taxpayer identification numbers (TINs), are comprised solely of numerical digits and are systematically assigned in chronological order. It consists of 6 digits
+Gibraltar's taxpayer reference numbers, also recognized as taxpayer identification numbers (TINs), are comprised solely of numerical digits and are systematically assigned in chronological order. It consists of 6 digits.
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you ?**
