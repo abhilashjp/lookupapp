@@ -20,6 +20,14 @@ Daňové identifikační číslo contains 9 to 10 digits. It also sometimes refe
   <tr><td align="center">TIN on Identification card</td></tr>
 </table>
 
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/tin-czechia.PNG" alt="TIN Individuals"/>
+  </td><td>
+  <img src="/docs/img/taxid/tin-czechia-1.PNG" alt="TIN Individuals"/>
+  </td></tr>
+
+</table>
+
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you ?**
