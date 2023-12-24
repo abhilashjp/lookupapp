@@ -26,6 +26,13 @@ The “Cadastro de Pessoas Físicas – CPF” is a number attributed to both na
   <tr><td align="center">CPF</td></tr>
 </table>
 
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/id.PNG" alt="CIN"/>
+  </td></tr>
+  <tr><td align="center">ID Card(“Carteira de Identidade Nacional” – CIN)</td></tr>
+</table>
+
 ## Foreigners
 Typically, individuals or entities, whether natural or legal persons, who are non-residents and possess specific assets in Brazil, such as real estate, vehicles, stakes in a company or partnership, bank accounts, or investments, are obligated to undergo registration with the CPF or CNPJ.
 
