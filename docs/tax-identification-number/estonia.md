@@ -26,6 +26,14 @@ The registration code for legal persons consists of 8 numbers. For entities like
   <tr><td align="center">Isikukood</td></tr>
 </table>
 
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/estonia-passport.PNG" alt="TIN Individuals"/>
+  </td><td>
+  <img src="/docs/img/taxid/estonia-driving.PNG" alt="TIN Individuals"/>
+  </td></tr>
+
+</table>
+
 
 ## Käibemaksukohustuslase (KMKR) 
 "Käibemaksukohustuslane" is an Estonian term that translates to "Value Added Tax (VAT) taxpayer" in English. The abbreviation "KMKR" stands for "Käibemaksukohustuslase Registrinumber," which is the VAT registration number assigned to businesses or individuals obligated to pay value-added tax in Estonia.
