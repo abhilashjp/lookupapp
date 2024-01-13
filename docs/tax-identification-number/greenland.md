@@ -9,7 +9,7 @@ tags :
   - TIN
 ---
 ## CPR number
-Residents in Greenland or Denmark receive a CPR number, crucial for various communications with public authorities, including tax-related matters. Non-residents in Greenland also receive a CPR number if deemed taxable by the Greenlandic Tax Administration. This unique, non-renewable number is essential for individual identification in tax affairs.
+CPR stands for "Det Centrale Personregister". It is a central, nationwide civil registration system in Denmark. Residents in Greenland or Denmark receive a CPR number, crucial for various communications with public authorities, including tax-related matters. Non-residents in Greenland also receive a CPR number if deemed taxable by the Greenlandic Tax Administration. This unique, non-renewable number is essential for individual identification in tax affairs. 
 
 ### Format
 The CPR, a 10-digit structure, follows a specific pattern:
