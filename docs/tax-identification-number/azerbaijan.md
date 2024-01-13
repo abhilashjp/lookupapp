@@ -47,6 +47,6 @@ TIN: 1 3 2 5 6 7 8 8 5 1
 Official database - [TIN search](https://www.e-taxes.gov.az/ebyn/payerOrVoenChecker.jsp)
 
 ----
-**How [Lookuptax](https://lookuptax.com/) can help you ?**
+**How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
 
 **Lookuptax VAT validation** revolutionizes VAT number validation with its robust platform, empowering businesses to seamlessly verify VAT numbers across over 100 countries. Our cutting-edge technology ensures accurate and efficient validation, reducing errors and enhancing compliance.
