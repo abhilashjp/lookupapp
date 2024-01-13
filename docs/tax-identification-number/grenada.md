@@ -8,6 +8,9 @@ tags :
   - Grenada
   - TIN
 ---
+## Taxpayer Identification Number(TIN)
+TIN number is Grenada is issued by the Inland Revenue Department(IRD).
+TIN consists of a six (6) digit unique number
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
