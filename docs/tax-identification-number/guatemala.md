@@ -14,12 +14,12 @@ tags :
 
 NIT consits of 8 digits eg: 23578467 or 74689819
 
-Official Database [NIT Search](https://portal.sat.gob.gt/portal/consulta-cui-nit/)
+Official Database - [NIT Search](https://portal.sat.gob.gt/portal/consulta-cui-nit/)
 
 
 ## Código Único de Identificación (CUI)
 
-Official Database [CUI Search](https://portal.sat.gob.gt/portal/consulta-cui-nit/)
+Official Database - [CUI Search](https://portal.sat.gob.gt/portal/consulta-cui-nit/)
 
 
 CUI consits of 13 digits eg: 1924118530114
