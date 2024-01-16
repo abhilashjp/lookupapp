@@ -39,7 +39,7 @@ For Individual Taxpayers who are Indonesian Residents:
   </td><td>
   <img src="/docs/img/taxid/nik-back.PNG" alt="National id"/>
   </td></tr>
-  <tr><td align="center">NPWP the National Identity Card</td></tr>
+  <tr><td colspan="2" align="center">NPWP the National Identity Card</td></tr>
 </table>
 
 For Individual Taxpayers not residing in Indonesia, Corporate Taxpayers, and Government Agency Taxpayers:
@@ -53,7 +53,7 @@ For Individual Taxpayers not residing in Indonesia, Corporate Taxpayers, and Gov
   </td><td>
   <img src="/docs/img/taxid/npwp-back.PNG" alt="NPWP"/>
   </td></tr>
-  <tr><td align="center">NPWP card for individuals and enities</td></tr>
+  <tr><td  colspan="2" align="center">NPWP card for individuals and enities</td></tr>
 </table>
 
 
