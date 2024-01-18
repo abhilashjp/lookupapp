@@ -28,11 +28,11 @@ The Codice fiscale consists of 16 characters (format: LLLLLL99L99L999L).
 * 9- Month of birth
 * 10-11- Day of birth 
 * 12 - Sex or gender
-* 13-15 - Italian munciplity of foerign state of birth
+* 13-15 - Italian munciplity of foreign state of birth
 * 16 - Check digit
 
 
-Official Database [Codice fiscale Search](https://telematici.agenziaentrate.gov.it/VerificaCF/Scegli.jsp)
+Official Database - [Codice fiscale Search](https://telematici.agenziaentrate.gov.it/VerificaCF/Scegli.jsp)
 
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
@@ -61,7 +61,7 @@ The TIN consists of 11 digits.
 * The last digit is a check digit.
 
 
-Official Database [Partita Iva Search](https://telematici.agenziaentrate.gov.it/VerificaPIVA/Scegli.jsp)
+Official Database - [Partita Iva Search](https://telematici.agenziaentrate.gov.it/VerificaPIVA/Scegli.jsp)
 
 
 ----
