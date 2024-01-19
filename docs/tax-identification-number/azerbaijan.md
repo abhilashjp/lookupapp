@@ -1,13 +1,14 @@
 ---
 id: azerbaijan-tax-id-guide
 title: Azerbaijan TIN number guide
-keywords: [TIN, Tax ID, Azerbaijan]
+keywords: [TIN, Find TIN, Tax ID, Azerbaijan]
 sidebar_label: Azerbaijan
 description: Learn about TIN number in Azerbaijan. Use Lookuptax for hassle-free tax id validation in Azerbaijan and other 100+ countries
 tags : 
   - Azerbaijan
   - TIN
 ---
+
 ## Tax Identification Number (TIN)
 As stipulated in Article 13.2.4 of the Tax Code of the Republic of Azerbaijan, a taxpayer is defined as any individual who is obliged to pay taxes on the taxable entities specified in accordance with the Tax Code.
 

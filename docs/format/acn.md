@@ -10,7 +10,7 @@ tags :
   - ACN
 ---
 
-Australia Company Number consists of 9 digits
+Australia Company Number consists of 9 digits.
 
 | Regex expressions          | Description                                      |
 | --------------------------- | ------------------------------------------------ |

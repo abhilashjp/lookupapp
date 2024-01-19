@@ -1,7 +1,7 @@
 ---
 id: kenya-tax-id-guide
 title: Kenya TIN number guide
-keywords: [TIN, Tax ID, Kenya]
+keywords: [TIN, Tax ID, Kenya, Find PIN]
 sidebar_label: Kenya
 description: Learn about TIN number in Kenya. Use Lookuptax for hassle-free tax id validation in Kenya and other 100+ countries
 tags : 
@@ -36,7 +36,7 @@ The TIN consist of 11 digits, with the first and last digits being letters and t
 For entities, the TIN initiates with the letter P, and for individuals, it commences with the letter A. For instance, an entity's TIN would appear as P123456789X, while an individual's TIN would manifest as A123456789X. Always use uppercase letters and avoid hyphens when entering the Tax Identification Number (TIN).
 
 
-Official Database[PIN Verification](https://itax.kra.go.ke/KRA-Portal/pinChecker.htm?)
+Official Database - [PIN Verification](https://itax.kra.go.ke/KRA-Portal/pinChecker.htm?)
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
