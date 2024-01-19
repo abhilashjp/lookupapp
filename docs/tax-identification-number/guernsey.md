@@ -1,7 +1,7 @@
 ---
 id: guernsey-tax-id-guide
 title: Guernsey TIN number guide
-keywords: [TIN, Tax ID, Guernsey]
+keywords: [TIN, Tax ID, Guernsey, Find SI]
 sidebar_label: Guernsey
 description: Learn about TIN number in Guernsey. Use Lookuptax for hassle-free tax id validation in Guernsey and other 100+ countries
 tags : 

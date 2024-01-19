@@ -1,7 +1,7 @@
 ---
 id: iceland-tax-id-guide
 title: Iceland TIN number guide
-keywords: [TIN, Tax ID, Iceland, kennitala]
+keywords: [TIN, Tax ID, Iceland, kennitala, find kennitala]
 sidebar_label: Iceland
 description: Learn about TIN number in Iceland. Use Lookuptax for hassle-free tax id validation in Iceland and other 100+ countries
 tags : 

@@ -1,7 +1,7 @@
 ---
 id: faroe-islands-tax-id-guide
 title: Faroe Islands TIN number guide
-keywords: [TIN, Tax ID, Faroe Islands]
+keywords: [TIN, Tax ID, Faroe Islands, Find P tal]
 sidebar_label: Faroe Islands
 description: Learn about TIN number in Faroe Islands. Use Lookuptax for hassle-free tax id validation in Faroe Islands and other 100+ countries
 tags : 

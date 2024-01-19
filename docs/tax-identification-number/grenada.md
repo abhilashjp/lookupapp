@@ -1,7 +1,7 @@
 ---
 id: grenada-tax-id-guide
 title: Grenada TIN number guide
-keywords: [TIN, Tax ID, Grenada]
+keywords: [TIN, Tax ID, Grenada, Find TIN]
 sidebar_label: Grenada
 description: Learn about TIN number in Grenada. Use Lookuptax for hassle-free tax id validation in Grenada and other 100+ countries
 tags : 

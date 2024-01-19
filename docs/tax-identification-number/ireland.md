@@ -1,7 +1,7 @@
 ---
 id: ireland-tax-id-guide
 title: Ireland TIN number guide
-keywords: [TIN, Tax ID, Ireland]
+keywords: [TIN, Tax ID, Ireland, Find PPS]
 sidebar_label: Ireland
 description: Learn about TIN number in Ireland. Use Lookuptax for hassle-free tax id validation in Ireland and other 100+ countries
 tags : 

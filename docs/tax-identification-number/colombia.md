@@ -1,7 +1,7 @@
 ---
 id: colombia-tax-id-guide
 title: Colombia NIT number guide
-keywords: [TIN, NIT, Tax ID, Colombia]
+keywords: [TIN, NIT, Tax ID, Colombia, Find NIT]
 sidebar_label: Colombia
 description: Learn about NIT number in Colombia. Use Lookuptax for hassle-free tax id validation in Colombia and other 100+ countries
 tags : 

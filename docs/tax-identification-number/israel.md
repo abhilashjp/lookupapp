@@ -1,7 +1,7 @@
 ---
 id: israel-tax-id-guide
 title: Israel TIN number guide
-keywords: [TIN, Tax ID, Israel]
+keywords: [TIN, Tax ID, Israel, Find Mispar Zehut]
 sidebar_label: Israel
 description: Learn about TIN number in Israel. Use Lookuptax for hassle-free tax id validation in Israel and other 100+ countries
 tags : 

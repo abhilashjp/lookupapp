@@ -1,7 +1,7 @@
 ---
 id: dominica-tax-id-guide
 title: Dominica TIN number guide
-keywords: [TIN, Tax ID, Dominica]
+keywords: [TIN, Tax ID, Dominica, Find RNC]
 sidebar_label: Dominica
 description: Learn about TIN number in Dominica. Use Lookuptax for hassle-free tax id validation in Dominica and other 100+ countries
 tags : 

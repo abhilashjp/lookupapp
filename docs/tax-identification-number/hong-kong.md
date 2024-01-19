@@ -1,7 +1,7 @@
 ---
 id: hong-kong-tax-id-guide
 title: Hong Kong TIN number guide
-keywords: [TIN, Tax ID, Hong Kong]
+keywords: [TIN, Tax ID, Hong Kong, Find HKID]
 sidebar_label: Hong Kong
 description: Learn about TIN number in Hong Kong. Use Lookuptax for hassle-free tax id validation in Hong Kong and other 100+ countries
 tags : 

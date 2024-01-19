@@ -1,7 +1,7 @@
 ---
 id: france-tax-id-guide
 title: France TIN number guide
-keywords: [TIN, NIF, SIREN, Tax ID, France]
+keywords: [TIN, NIF, SIREN, Tax ID, France, find NIF]
 sidebar_label: France
 description: Learn about TIN number in France. Use Lookuptax for hassle-free tax id validation in France and other 100+ countries
 tags : 

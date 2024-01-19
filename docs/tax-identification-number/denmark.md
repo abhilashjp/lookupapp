@@ -1,7 +1,7 @@
 ---
 id: denmark-tax-id-guide
 title: Denmark TIN number guide
-keywords: [TIN, CVR,  Tax ID, Denmark]
+keywords: [TIN, CVR,  Tax ID, Denmark, Find CPR]
 sidebar_label: Denmark
 description: Learn about TIN number in Denmark. Use Lookuptax for hassle-free tax id validation in Denmark and other 100+ countries
 tags : 

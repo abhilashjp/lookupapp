@@ -1,7 +1,7 @@
 ---
 id: finland-tax-id-guide
 title: Finland TIN number guide
-keywords: [TIN, Tax ID, Finland]
+keywords: [TIN, Tax ID, Finland, find Business ID]
 sidebar_label: Finland
 description: Learn about TIN number in Finland. Use Lookuptax for hassle-free tax id validation in Finland and other 100+ countries
 tags : 

@@ -1,7 +1,7 @@
 ---
 id: India-tax-id-guide
 title: India GSTIN number guide
-keywords: [GSTIN, Tax ID, India]
+keywords: [GSTIN, Tax ID, India, Find GSTIN]
 sidebar_label: India
 description: Learn about GSTIN number in India. Use Lookuptax for hassle-free tax id validation in India and other 100+ countries
 tags : 

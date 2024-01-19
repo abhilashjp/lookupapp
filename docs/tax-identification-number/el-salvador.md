@@ -1,7 +1,7 @@
 ---
 id: el-salvador-tax-id-guide
 title: El Salvador TIN number guide
-keywords: [TIN, NIT, Tax ID, El Salvador]
+keywords: [TIN, NIT, Tax ID, El Salvador, Find NIT]
 sidebar_label: El Salvador
 description: Learn about TIN number in El Salvador. Use Lookuptax for hassle-free tax id validation in El Salvador and other 100+ countries
 tags : 

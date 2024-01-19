@@ -1,7 +1,7 @@
 ---
 id: cook-islands-tax-id-guide
 title: Cook Islands RMD number guide
-keywords: [TIN, Tax ID, Cook Islands]
+keywords: [TIN, Tax ID, Cook Islands, Find RMD]
 sidebar_label: Cook Islands
 description: Learn about RMD number in Cook Islands. Use Lookuptax for hassle-free tax id validation in Cook Islands and other 100+ countries
 tags : 

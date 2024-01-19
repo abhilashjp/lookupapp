@@ -1,7 +1,7 @@
 ---
 id: cyprus-tax-id-guide
 title: Cyprus TIN number guide
-keywords: [TIN, Tax ID, Cyprus]
+keywords: [TIN, Tax ID, Cyprus, Find TIC]
 sidebar_label: Cyprus
 description: Learn about TIN number in Cyprus. Use Lookuptax for hassle-free tax id validation in Cyprus and other 100+ countries
 tags : 

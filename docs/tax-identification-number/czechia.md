@@ -1,7 +1,7 @@
 ---
 id: czechia-tax-id-guide
 title: Czechia TIN number guide
-keywords: [TIN, Tax ID, Czechia]
+keywords: [TIN, Tax ID, Czechia, Find DIC]
 sidebar_label: Czechia
 description: Learn about TIN number in Czechia. Use Lookuptax for hassle-free tax id validation in Czechia and other 100+ countries
 tags : 

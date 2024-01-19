@@ -1,7 +1,7 @@
 ---
 id: indonesia-tax-id-guide
 title: Indonesia TIN number guide
-keywords: [TIN, Tax ID, Indonesia]
+keywords: [TIN, Tax ID, Indonesia, Find NPWP]
 sidebar_label: Indonesia
 description: Learn about TIN number in Indonesia. Use Lookuptax for hassle-free tax id validation in Indonesia and other 100+ countries
 tags : 

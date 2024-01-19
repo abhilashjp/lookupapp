@@ -1,7 +1,7 @@
 ---
 id: ghana-tax-id-guide
 title: Ghana TIN number guide
-keywords: [TIN, Tax ID, Ghana]
+keywords: [TIN, Tax ID, Ghana, Find PIN]
 sidebar_label: Ghana
 description: Learn about TIN number in Ghana. Use Lookuptax for hassle-free tax id validation in Ghana and other 100+ countries
 tags : 

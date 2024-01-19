@@ -1,7 +1,7 @@
 ---
-id: Croatia-tax-id-guide
+id: croatia-tax-id-guide
 title: Croatia TIN number guide
-keywords: [TIN, OIB, Tax ID, Azerbaijan]
+keywords: [TIN, OIB, Tax ID, Croatia, Find OIB]
 sidebar_label: Croatia
 description: Learn about OIB number in Croatia. Use Lookuptax for hassle-free tax id validation in Croatia and other 100+ countries
 tags : 

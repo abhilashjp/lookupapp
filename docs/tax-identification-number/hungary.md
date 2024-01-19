@@ -1,7 +1,7 @@
 ---
 id: hungary-tax-id-guide
 title: Hungary TIN number guide
-keywords: [TIN, Tax ID, Hungary]
+keywords: [TIN, Tax ID, Hungary, Find jel]
 sidebar_label: Hungary
 description: Learn about TIN number in Hungary. Use Lookuptax for hassle-free tax id validation in Hungary and other 100+ countries
 tags : 

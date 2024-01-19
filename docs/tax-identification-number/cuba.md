@@ -1,7 +1,7 @@
 ---
 id: cuba-tax-id-guide
 title: Cuba TIN number guide
-keywords: [TIN, Tax ID, Cuba]
+keywords: [TIN, Tax ID, Cub, Find CI]
 sidebar_label: Cuba
 description: Learn about TIN number in Cuba. Use Lookuptax for hassle-free tax id validation in Cuba and other 100+ countries
 tags : 

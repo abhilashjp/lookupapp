@@ -1,7 +1,7 @@
 ---
 id: curacao-tax-id-guide
 title: Curaçao TIN number guide
-keywords: [TIN, Tax ID, Curaçao]
+keywords: [TIN, Tax ID, Curaça, Find Persoonsnummer]
 sidebar_label: Curaçao
 description: Learn about TIN number in Curaçao. Use Lookuptax for hassle-free tax id validation in Curaçao and other 100+ countries
 tags : 

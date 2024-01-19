@@ -1,7 +1,7 @@
 ---
 id: greece-tax-id-guide
 title: Greece TIN number guide
-keywords: [TIN, Tax ID, Greece]
+keywords: [TIN, Tax ID, Greece, Find CPR]
 sidebar_label: Greece
 description: Learn about TIN number in Greece. Use Lookuptax for hassle-free tax id validation in Greece and other 100+ countries
 tags : 

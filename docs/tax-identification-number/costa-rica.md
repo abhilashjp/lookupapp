@@ -1,7 +1,7 @@
 ---
 id: costa-rica-tax-id-guide
 title: Costa Rica TIN number guide
-keywords: [TIN, Tax ID, Costa Rica]
+keywords: [TIN, Tax ID, Costa Rica, Find CPF]
 sidebar_label: Costa Rica
 description: Learn about TIN number in Costa Rica. Use Lookuptax for hassle-free tax id validation in Costa Rica and other 100+ countries
 tags : 

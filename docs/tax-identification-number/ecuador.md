@@ -1,7 +1,7 @@
 ---
 id: ecuador-tax-id-guide
 title: Ecuador TIN number guide
-keywords: [TIN, Tax ID, Ecuador]
+keywords: [TIN, Tax ID, Ecuador, Find RUC ]
 sidebar_label: Ecuador
 description: Learn about TIN number in Ecuador. Use Lookuptax for hassle-free tax id validation in Ecuador and other 100+ countries
 tags : 

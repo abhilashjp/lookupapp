@@ -1,7 +1,7 @@
 ---
 id: china-tax-id-guide
 title: China TIN number guide
-keywords: [TIN, Tax ID, China]
+keywords: [TIN, Tax ID, China, Find USCC]
 sidebar_label: China
 description: Learn about TIN number in China. Use Lookuptax for hassle-free tax id validation in China and other 100+ countries
 tags : 

@@ -1,7 +1,7 @@
 ---
 id: egypt-tax-id-guide
 title: Egypt TIN number guide
-keywords: [TIN, TRN, Tax ID, Egypt]
+keywords: [TIN, TRN, Tax ID, Egypt, Find TRN]
 sidebar_label: Egypt
 description: Learn about TIN number in Egypt. Use Lookuptax for hassle-free tax id validation in Egypt and other 100+ countries
 tags : 

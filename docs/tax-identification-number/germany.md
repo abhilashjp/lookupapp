@@ -1,7 +1,7 @@
 ---
 id: germany-tax-id-guide
 title: Germany TIN number guide
-keywords: [TIN, Tax ID, Germany]
+keywords: [TIN, Tax ID, Germany, Find Idnr]
 sidebar_label: Germany
 description: Learn about TIN number in Germany. Use Lookuptax for hassle-free tax id validation in Germany and other 100+ countries
 tags : 

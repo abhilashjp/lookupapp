@@ -1,7 +1,7 @@
 ---
 id: guatemala-tax-id-guide
 title: Guatemala TIN number guide
-keywords: [TIN, Tax ID, Guatemala]
+keywords: [TIN, Tax ID, Guatemala, Find NIT]
 sidebar_label: Guatemala
 description: Learn about TIN number in Guatemala. Use Lookuptax for hassle-free tax id validation in Guatemala and other 100+ countries
 tags : 
