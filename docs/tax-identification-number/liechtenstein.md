@@ -16,7 +16,7 @@ In Liechtenstein, the equivalent of the Tax Identification Number (TIN) is known
 
 Example: 999999999999
 
-Official database [PEID search(https://handelsregister.li/cr-portal/suche/suche.xhtml)
+Official database [PEID search](https://handelsregister.li/cr-portal/suche/suche.xhtml)
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
   <img src="/docs/img/taxid/peid1.PNG" alt="Residence permit foreigners"/>
