@@ -1,7 +1,7 @@
 ---
 id: liechtenstein-tax-id-guide
 title: Liechtenstein TIN number guide
-keywords: [TIN, Find TIN, Tax ID, Liechtenstein]
+keywords: [TIN, Find PEID, Tax ID, Liechtenstein]
 sidebar_label: Liechtenstein
 description: Learn about TIN number in Liechtenstein. Use Lookuptax for hassle-free tax id validation in Liechtenstein and other 100+ countries
 tags : 
