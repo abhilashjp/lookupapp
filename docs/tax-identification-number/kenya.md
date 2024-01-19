@@ -9,7 +9,7 @@ tags :
   - TIN
 ---
 
-## Personal Identification Numbers (PINs)
+## Personal Identification Number(PIN)
 
 In Kenya, the core processes of assessment, collection, and accounting revolve around Personal Identification Numbers (PINs), essentially functioning as Tax Identification Numbers (TINs). The Kenya Revenue Authority (KRA) issues TINs to individuals aged 18 and above upon application, and entities complying with registering organization requirements.
 
@@ -34,6 +34,9 @@ TIN applications have far-reaching implications, including:
 The TIN consist of 11 digits, with the first and last digits being letters and the intervening ones being numbers.
 
 For entities, the TIN initiates with the letter P, and for individuals, it commences with the letter A. For instance, an entity's TIN would appear as P123456789X, while an individual's TIN would manifest as A123456789X. Always use uppercase letters and avoid hyphens when entering the Tax Identification Number (TIN).
+
+
+Official Database[PIN Verification](https://itax.kra.go.ke/KRA-Portal/pinChecker.htm?)
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
