@@ -1,17 +1,13 @@
 ---
-id: kyrgyzstan-tax-id-guide
-title: Kyrgyzstan TIN number guide
-keywords: [TIN, Find INN, Tax ID, Kyrgyzstan]
-sidebar_label: Kyrgyzstan
-description: Learn about TIN number in Kyrgyzstan. Use Lookuptax for hassle-free tax id validation in Kyrgyzstan and other 100+ countries
+id: lebanon-tax-id-guide
+title: Lebanon TIN number guide
+keywords: [TIN, Find TIN, Tax ID, Lebanon]
+sidebar_label: Lebanon
+description: Learn about TIN number in Lebanon. Use Lookuptax for hassle-free tax id validation in Lebanon and other 100+ countries
 tags : 
-  - Kyrgyzstan
+  - Lebanon
   - TIN
 ---
-
-##  Tax number (ИНН)(INN)
-
-INN consists of 14 digits eg:00207199610017
 
 
 ----
