@@ -1,7 +1,7 @@
 ---
 id: kuwait-tax-id-guide
 title: Kuwait TIN number guide
-keywords: [TIN, Find TIN, Tax ID, Kuwait]
+keywords: [TIN, Find Civil ID, Tax ID, Kuwait]
 sidebar_label: Kuwait
 description: Learn about TIN number in Kuwait. Use Lookuptax for hassle-free tax id validation in Kuwait and other 100+ countries
 tags : 
