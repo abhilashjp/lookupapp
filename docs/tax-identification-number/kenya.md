@@ -3,7 +3,6 @@ id: kenya-tax-id-guide
 title: Kenya TIN number guide
 keywords: [TIN, Tax ID, Kenya]
 sidebar_label: Kenya
-sidebar_class_name: hidden
 description: Learn about TIN number in Kenya. Use Lookuptax for hassle-free tax id validation in Kenya and other 100+ countries
 tags : 
   - Kenya
