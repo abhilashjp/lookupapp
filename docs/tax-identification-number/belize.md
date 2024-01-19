@@ -1,7 +1,7 @@
 ---
 id: belize-tax-id-guide
 title: Belize TIN number guide
-keywords: [TIN, Tax ID, Belize]
+keywords: [TIN, Tax ID, Belize, Find TIN]
 sidebar_label: Belize
 description: Learn about TIN number in Belize. Use Lookuptax for hassle-free tax id validation in Belize and other 100+ countries
 tags : 

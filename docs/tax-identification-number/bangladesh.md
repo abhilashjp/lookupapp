@@ -1,7 +1,7 @@
 ---
 id: bangladesh-tax-id-guide
 title: Bangladesh BIN number guide
-keywords: [TIN, BIN, Tax ID, Bangladesh]
+keywords: [TIN, BIN, Tax ID, Bangladesh, find BIN]
 sidebar_label: Bangladesh
 description: Learn about BIN number in Bangladesh. Use Lookuptax for hassle-free tax id validation in Bangladesh and other 100+ countries
 tags : 

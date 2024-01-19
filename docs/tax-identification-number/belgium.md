@@ -1,7 +1,7 @@
 ---
 id: Belgium-tax-id-guide
 title: Belgium TIN number guide
-keywords: [TIN, Tax ID, Belgium]
+keywords: [TIN, Tax ID, Belgium, Find NN]
 sidebar_label: Belgium
 description: Learn about TIN number in Belgium. Use Lookuptax for hassle-free tax id validation in Belgium and other 100+ countries
 tags : 

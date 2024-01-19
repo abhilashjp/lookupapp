@@ -1,7 +1,7 @@
 ---
 id: aruba-tax-id-guide
 title: Aruba TIN number guide
-keywords: [TIN, Tax ID, Aruba]
+keywords: [TIN, Tax ID, Aruba, find Persoonsnummer]
 sidebar_label: Aruba
 description: Learn about persoonsnummer number in Aruba. Use Lookuptax for hassle-free tax id validation in Aruba and other 100+ countries
 tags : 

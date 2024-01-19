@@ -1,7 +1,7 @@
 ---
 id: chile-tax-id-guide
 title: Chile TIN number guide
-keywords: [TIN, RUT, Tax ID, Chile]
+keywords: [TIN, RUT, Tax ID, Chile, Find RUT]
 sidebar_label: Chile
 description: Learn about RUT number in Chile. Use Lookuptax for hassle-free tax id validation in Chile and other 100+ countries
 tags : 

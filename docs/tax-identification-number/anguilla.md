@@ -1,7 +1,7 @@
 ---
 id: anguilla-tax-id-guide
 title: Anguilla TIN number guide
-keywords: [TIN, Tax ID, Anguilla]
+keywords: [TIN, Tax ID, Anguilla, find TIN]
 sidebar_label: Anguilla
 description: Learn about TIN number in Anguilla. Use Lookuptax for hassle-free tax id validation in Anguilla and other 100+ countries
 tags : 

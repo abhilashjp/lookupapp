@@ -1,7 +1,7 @@
 ---
 id: bulgaria-tax-id-guide
 title: Bulgaria TIN number guide
-keywords: [TIN, UIC, Tax ID, Bulgaria]
+keywords: [TIN, UIC, Tax ID, Bulgaria, Find UIC]
 sidebar_label: Bulgaria
 description: Learn about UIC number in Bulgaria. Use Lookuptax for hassle-free tax id validation in Bulgaria and other 100+ countries
 tags : 

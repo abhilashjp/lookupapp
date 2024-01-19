@@ -1,7 +1,7 @@
 ---
 id: Austria-tax-id-guide
 title: Austria TIN number guide
-keywords: [TIN, UID, Tax ID, Austria]
+keywords: [TIN, UID, Tax ID, Austri, find Firmenbuchnummer]
 sidebar_label: Austria
 description: Learn about UID number in Austria. Use Lookuptax for hassle-free tax id validation in Austria and other 100+ countries
 tags : 

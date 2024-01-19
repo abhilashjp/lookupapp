@@ -1,7 +1,7 @@
 ---
 id: armenia-tax-id-guide
 title: Armenia TIN number guide
-keywords: [TIN, Tax ID, Armenia]
+keywords: [TIN, Tax ID, Armenia, find TIN]
 sidebar_label: Armenia
 description: Learn about TIN number in Armenia. Use Lookuptax for hassle-free tax id validation in Armenia and other 100+ countries
 tags : 

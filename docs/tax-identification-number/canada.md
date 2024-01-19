@@ -1,7 +1,7 @@
 ---
 id: canada-tax-id-guide
 title: Canada BN number guide
-keywords: [TIN, BN, Tax ID, Canada]
+keywords: [TIN, BN, Tax ID, Canada, Find BN]
 sidebar_label: Canada
 description: Learn about BN number in Canada. Use Lookuptax for hassle-free tax id validation in Canada and other 100+ countries
 tags : 

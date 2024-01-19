@@ -1,7 +1,7 @@
 ---
 id: Argentina-tax-id-guide
 title: Argentina TIN number guide
-keywords: [TIN,CUIT, Tax ID, Argentina]
+keywords: [TIN,CUIT, Tax ID, Argentina, find CUIT]
 sidebar_label: Argentina
 description: Learn about VKN number in Argentina. Use Lookuptax for hassle-free tax id validation in Argentina and other 100+ countries
 tags : 

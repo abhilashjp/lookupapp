@@ -1,7 +1,7 @@
 ---
 id: barbados-tax-id-guide
 title: Barbados TIN number guide
-keywords: [TIN, Tax ID, Barbados]
+keywords: [TIN, Tax ID, Barbados, find TIN]
 sidebar_label: Barbados
 description: Learn about TIN number in Barbados. Use Lookuptax for hassle-free tax id validation in Barbados and other 100+ countries
 tags : 
