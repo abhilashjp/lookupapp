@@ -285,3 +285,6 @@ div[class^='announcementBar_'] {
   color: #fff;
 }
 
+.hidden {
+display: none !important;
+}
