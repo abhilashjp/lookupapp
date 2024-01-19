@@ -29,7 +29,11 @@ TIN applications have far-reaching implications, including:
 - Utilities applications (Water, Electricity) and bank account openings.
 
 
+**Format**
 
+The TIN consist of 11 digits, with the first and last digits being letters and the intervening ones being numbers.
+
+For entities, the TIN initiates with the letter P, and for individuals, it commences with the letter A. For instance, an entity's TIN would appear as P123456789X, while an individual's TIN would manifest as A123456789X. Always use uppercase letters and avoid hyphens when entering the Tax Identification Number (TIN).
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**

@@ -3,7 +3,7 @@
   "position": 1,
    "collapsible": true,
   "collapsed": true,
-  "className": "hidden",
+  "className": "red",
   "link": {
     "type": "generated-index",
     "title": "Country guides",
