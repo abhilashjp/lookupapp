@@ -1,10 +1,10 @@
 ---
 id: australia-business-number-format
 title: Australia Business Number Format
-keywords: [format, ABN, Australia]
+keywords: [format, ABN, Australia, find ABN]
 sidebar_label: Australia Business Number
 sidebar_class_name: hidden
-description: Learn about Australia Business Number format. Use Lookuptax for hassle-free validation of Australia Business Number in Austalia.
+description: Find about Australia Business Number format. Use Lookuptax for hassle-free validation of Australia Business Number in Austalia.
 tags : 
   - Australia
   - ABN
