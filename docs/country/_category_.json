@@ -4,6 +4,7 @@
    "collapsible": true,
   "collapsed": true,
   "className": "red",
+  "sidebar_class_name": "hidden",
   "link": {
     "type": "generated-index",
     "title": "Country guides",
