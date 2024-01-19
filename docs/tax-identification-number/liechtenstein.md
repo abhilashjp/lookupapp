@@ -18,13 +18,6 @@ Example: 999999999999
 
 Official database [PEID search](https://handelsregister.li/cr-portal/suche/suche.xhtml)
 
-<table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/taxid/peid1.PNG" alt="Residence permit foreigners"/>
-  </td><td>
-  <img src="/docs/img/taxid/peid.PNG" alt="Residence permit crossborder workers"/>
-  </td></tr>
-  <tr><td align="center">Residence permit foreigners</td><td align="center">Residence permit crossborder workers</td></tr>
-</table>
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
   <img src="/docs/img/taxid/peid1.PNG" alt="Residence permit for foreigners"/>
