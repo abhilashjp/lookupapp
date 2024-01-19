@@ -1,7 +1,7 @@
 ---
 id: united-arab-emirates-tax-id-guide-uae
 title: United Arab Emirates TIN number guide
-keywords: [TRN, Tax ID, UAE]
+keywords: [TRN, Tax ID, UAE, Find ED license]
 sidebar_label: United Arab Emirates
 description: Learn about TRN number in United Arab Emirates. Use Lookuptax for hassle-free tax id validation in United Arab Emirates and other 100+ countries
 tags : 

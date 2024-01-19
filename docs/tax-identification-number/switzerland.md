@@ -1,7 +1,7 @@
 ---
 id: switzerland-tax-id-guide
 title: Switzerland TIN number guide
-keywords: [TIN, UID, Tax ID, Switzerland]
+keywords: [TIN, UID, Tax ID, Switzerland, Find UID]
 sidebar_label: Switzerland
 description: Learn about UID number in Switzerland. Use Lookuptax for hassle-free tax id validation in Switzerland and other 100+ countries
 tags : 

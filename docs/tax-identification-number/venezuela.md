@@ -1,7 +1,7 @@
 ---
 id: venezuela-tax-id-guide
 title: Venezuela RIF number guide
-keywords: [TIN, RIF, Tax ID, Venezuela]
+keywords: [TIN, RIF, Tax ID, Venezuela, Find RIF]
 sidebar_label: Venezuela
 description: Learn about RIF number in Venezuela. Use Lookuptax for hassle-free tax id validation in Venezuela and other 100+ countries
 tags : 

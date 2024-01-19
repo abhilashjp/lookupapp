@@ -1,7 +1,7 @@
 ---
 id: turkey-tax-id-guide
 title: Turkey TIN number guide
-keywords: [TIN, VKN, Tax ID, Türkiye]
+keywords: [TIN, VKN, Tax ID, Türkiye, Find NIN]
 sidebar_label: Türkiye
 description: Learn about VKN number in Türkiye. Use Lookuptax for hassle-free tax id validation in Türkiye and other 100+ countries
 tags : 

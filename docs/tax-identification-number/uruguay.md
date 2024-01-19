@@ -1,7 +1,7 @@
 ---
 id: Uruguay-tax-id-guide
 title: Uruguay RUT number guide
-keywords: [TIN, RUT, Tax ID, Uruguay]
+keywords: [TIN, RUT, Tax ID, Uruguay, Find RUT]
 sidebar_label: Uruguay
 description: Learn about RUT number in Uruguay. Use Lookuptax for hassle-free tax id validation in Uruguay and other 100+ countries
 tags : 

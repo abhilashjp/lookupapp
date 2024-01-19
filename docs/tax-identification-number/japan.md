@@ -1,7 +1,7 @@
 ---
 id: japan-tax-id-guide
 title: Japan TIN number guide
-keywords: [TIN, Tax ID, Japan]
+keywords: [TIN, Tax ID, Japan, Find My number]
 sidebar_label: Japan
 description: Learn about TIN number in Japan. Use Lookuptax for hassle-free tax id validation in Japan and other 100+ countries
 tags : 

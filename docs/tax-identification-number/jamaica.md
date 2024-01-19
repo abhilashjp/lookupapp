@@ -1,7 +1,7 @@
 ---
 id: jamaica-tax-id-guide
 title: Jamaica TIN number guide
-keywords: [TIN, Tax ID, Jamaica]
+keywords: [TIN, Tax ID, Jamaica, Find TRN]
 sidebar_label: Jamaica
 description: Learn about TIN number in Jamaica. Use Lookuptax for hassle-free tax id validation in Jamaica and other 100+ countries
 tags : 

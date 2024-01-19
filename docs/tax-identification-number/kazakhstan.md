@@ -1,7 +1,7 @@
 ---
 id: kazakhstan-tax-id-guide
 title: Kazakhstan TIN number guide
-keywords: [TIN, Tax ID, Kazakhstan]
+keywords: [TIN, Tax ID, Kazakhstan, Find IIN]
 sidebar_label: Kazakhstan
 description: Learn about TIN number in Kazakhstan. Use Lookuptax for hassle-free tax id validation in Kazakhstan and other 100+ countries
 tags : 

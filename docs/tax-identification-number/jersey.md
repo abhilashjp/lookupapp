@@ -1,7 +1,7 @@
 ---
 id: jersey-tax-id-guide
 title: Jersey TIN number guide
-keywords: [TIN, Tax ID, Jersey]
+keywords: [TIN, Tax ID, Jersey, Find SSN]
 sidebar_label: Jersey
 description: Learn about TIN number in Jersey. Use Lookuptax for hassle-free tax id validation in Jersey and other 100+ countries
 tags : 
