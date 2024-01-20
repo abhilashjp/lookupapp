@@ -24,7 +24,7 @@ Format - 9 digits. Eg : 999999999
 </table>
 
 ## Foros prostithemenis aksias (FPA)
-VAT number in Greece is known as Foros prostithemenis aksias(FPA)
+VAT number in Greece is known as Foros prostithemenis aksias(FPA) (Arithmós Forologikou Mētrṓou Αριθμός Φορολογικού)
 
 Format - Country code "EL" + 9 Digits .  Example:EL999999999
 

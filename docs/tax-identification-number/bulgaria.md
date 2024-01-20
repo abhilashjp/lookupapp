@@ -25,7 +25,10 @@ tags :
 
 ## VAT Number (VAT)
 In Bulgaria, the VAT (Value Added Tax) number is referred to as Идентификационен номер по ДДС" (Identifikatsionen nomer po DDS) which translates to "VAT Identification Number" in English. This is commonly abbreviated as "ИН по ДДС" or "ИН по ДДС номер
-**Format** "BG" + 9-digit number or "BG" + 10-digit number
+
+**Format** 
+
+"BG" + 9-digit number or "BG" + 10-digit number Example: BG999999999, BG9999999999
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you ?**

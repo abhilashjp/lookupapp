@@ -36,6 +36,10 @@ The Revenue Commissioners issue CHY Numbers to qualifying entities eligible for 
 An example of the CHY Number format, exclusive to non-natural persons, is CHY 1234. This format is characterized by the letters "CHY" followed by a numerical sequence ranging between 1 and 5 digits. 
 
 
+## Value added tax identification no(VAT or CBL)
+Cosists of 8-9 characters Eg: IE9S99999L, IE9999999WI
+
+
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
 

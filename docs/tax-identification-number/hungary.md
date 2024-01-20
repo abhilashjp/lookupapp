@@ -30,7 +30,7 @@ For a detailed understanding of the TIN structure and syntax, refer to Act XX of
 </table>
 
 
-## Adószám
+## Adószám(ANUM)
 
 The term "adószám" refers to "tax number" or "tax identification number" in Hungarian.In Hungarian, the TIN for entities is referred to as "adószám. Entities seeking to engage in taxable activities are required to register with the state tax authority to obtain a tax number. This registration process is regulated by Act XCII of 2003 on the Rules of Taxation. Companies have their Tax Identification Number (TIN) recorded in the register of companies. 
 

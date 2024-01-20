@@ -30,6 +30,8 @@ As the enterprise number is  used to identify an entity for taxation purposes, i
 
 The last two digits are the check number. 
 
+Examples:  BE0999999999, BE1999999999
+
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you ?**
 **Lookuptax VAT validation** revolutionizes VAT number validation with its robust platform, empowering businesses to seamlessly verify VAT numbers across over 100 countries. Our cutting-edge technology ensures accurate and efficient validation, reducing errors and enhancing compliance.

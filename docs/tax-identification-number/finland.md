@@ -38,9 +38,9 @@ The HETU, also known as the Social Security number, is assigned at birth or immi
 </table>
 
 
-## Arvonlisaveronumero
+## Arvonlisaveronumero 
 
-The Finnish value-added tax is abbreviated as "alv." or "ALV" (without a period). The numeric representation is obtained from the LY code by incorporating the country code FI, and the hyphen between the last two digits is omitted.
+The Finnish value-added tax is abbreviated as "alv." or "ALV" (without a period). The numeric representation is obtained from the LY code by incorporating the country code FI, and the hyphen between the last two digits is omitted. It is also known as "Mervärdesskattenummer"
 
 For Example: FI01234567
 

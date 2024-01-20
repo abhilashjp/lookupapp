@@ -10,8 +10,8 @@ tags :
 ---
 
 ## Tax Identification Code (TIC)
-An 9-digit alphanumeric code is assigned, featuring a letter from the uppercase Latin alphabet. Eg: 99999999L
-
+An 9-digit alphanumeric code is assigned, featuring a letter from the uppercase Latin alphabet. Eg: 99999999L. 
+Local name: Αριθμός Εγγραφής Φ.Π.Α. Arithmós Engraphḗs phi. pi. a.
 Starting March 27, 2023, the TIN is issued by the TFA system, beginning from 60000000, including a check character derived from an algorithm.
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
@@ -21,6 +21,8 @@ Starting March 27, 2023, the TIN is issued by the TFA system, beginning from 600
   </td></tr>
   <tr><td align="center">TIN Individuals on income tax return</td><td align="center">TIN Entities on tax assessment</td></tr>
 </table>
+
+
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you ?**

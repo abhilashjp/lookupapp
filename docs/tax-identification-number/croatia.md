@@ -10,7 +10,7 @@ tags :
   - OIB
 ---
 
-## Osobni identifikacijski broj (OIB)
+## Osobni identifikacijski broj (OIB)(PDV-ID)
 The Republic of Croatia implemented the Personal Identification Number (OIB) as a unique identifier in the national legal system. The Ministry of Finance - Tax Administration is tasked with assigning OIBs to individuals, making it a mandatory identifier across the entire Croatian public administration system.
 
 OIBs are assigned to 
@@ -19,13 +19,18 @@ OIBs are assigned to
 3. foreign individuals or entities subject to surveillance in the Republic of Croatia (through registration in public records and obtaining taxpayer status).
 
 **Format**
-The Personal Identification Number comprises 11 digits, with 10 digits randomly assigned and the 11th digit serving as the control number calculated using the "Modul 11.10" ISO 7064 algorithm.
+
+The Personal Identification Number comprises 11 digits, with 10 digits randomly assigned and the 11th digit serving as the control number calculated using the "Modul 11.10" ISO 7064 algorithm. example: HR99999999999
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
   <img src="/docs/img/taxid/oib.PNG" alt="OIB"/>
   </td></tr>
   <tr><td align="center">OIB</td></tr>
 </table>
+
+
+## Matični broj subjekta (MBS)
+ TIN in Croatia is called Matični broj subjekta (MBS).
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you ?**
