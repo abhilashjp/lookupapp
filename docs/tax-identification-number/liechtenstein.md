@@ -26,7 +26,7 @@ Official database [PEID search](https://handelsregister.li/cr-portal/suche/suche
 </table>
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/taxid/peid.PNG.PNG" alt="Residence permit for crossborder workers"/>
+  <img src="/docs/img/taxid/peid.PNG" alt="Residence permit for crossborder workers"/>
   </td></tr>
   <tr><td align="center">Residence permit for crossborder workers</td></tr>
 </table>
