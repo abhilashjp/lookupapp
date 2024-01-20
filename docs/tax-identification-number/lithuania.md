@@ -47,7 +47,7 @@ To validate the correctness of the taxpayer's identification number, follow the 
 5. If Z < 10, set K = Z. If Z >= 10, repeat the process of adding digits until Z < 10, and the final Z becomes the control number K of the TIN.
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/taxid/passport-lithuvania.PNG" alt="Passport"/>
+  <img src="/docs/img/taxid/passport-lithuvania.jpg" alt="Passport"/>
   </td></tr>
   <tr><td align="center">Passport</td></tr>
 </table>
