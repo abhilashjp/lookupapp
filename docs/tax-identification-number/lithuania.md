@@ -59,7 +59,7 @@ To validate the correctness of the taxpayer's identification number, follow the 
 </table>
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/taxid/id-card-lithuvania" alt="ID card"/>
+  <img src="/docs/img/taxid/id-card-lithuvania.png" alt="ID card"/>
   </td></tr>
   <tr><td align="center">ID card</td></tr>
 </table>
