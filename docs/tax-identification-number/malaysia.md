@@ -47,6 +47,9 @@ The NRIC Number is a unique 12-digit number issued to Malaysian citizens and per
 </table>
 
 
+## SST Registration Number
+Sales and Service Tax Registration Number consists of 15 digits. Eg: W24-1808-32000049. The middle section  is the year and month of registration
+
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
 
