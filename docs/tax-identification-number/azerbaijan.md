@@ -32,15 +32,15 @@ Example for legal persons:
 TIN: 1 3 2 5 6 7 8 8 5 1
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/taxid/new-national-id.PNG" alt="New national id"/>
+  <img src="/docs/img/taxid/new-national-id.PNG" alt="New national id"  title="New national id"/>
   </td><td>
-  <img src="/docs/img/taxid/tin-individuals.PNG" alt="TIN Individuals"/>
+  <img src="/docs/img/taxid/tin-individuals.PNG" alt="TIN Individuals"  title="TIN Individuals"/>
   </td></tr>
   <tr><td align="center">New National ID</td><td align="center">TIN Individuals</td></tr>
 </table>
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/taxid/tin.PNG" alt="TIN for Entities"/>
+  <img src="/docs/img/taxid/tin.PNG" alt="TIN for Entities" title="TIN for Entities"/>
   </td></tr>
   <tr><td align="center">TIN for Entities</td></tr>
 </table>
