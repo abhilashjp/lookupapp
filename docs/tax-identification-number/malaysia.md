@@ -34,6 +34,8 @@ For non-individuals in Malaysia, various entities are assigned specific Tax Iden
 13. Hindu Joint Families: TIN Code - J
 14. Labuan Entities: TIN Code - LE
 
+Nombor Pengenalan Cukai search is availanble for free at https://mytax.hasil.gov.my under “e-Daftar” menu.
+
 
 ## National Registration Identity Card Number (NRIC Number)
 The NRIC Number is a unique 12-digit number issued to Malaysian citizens and permanent residents and is used by the Inland Revenue Board of Malaysia (IRBM) to identify its taxpayers in the absence of Nombor Pengenalan Cukai. NRIC appears on Malaysian Passport. 
