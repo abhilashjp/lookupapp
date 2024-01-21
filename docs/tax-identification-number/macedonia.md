@@ -18,9 +18,9 @@ For entities outside the One-Stop-Shop system, such as foreign legal entities, f
 Tax Identification Number in Macedonia consists of 13 digits
 
 
-Official database [TIN Search](http://www.ujp.gov.mk/en)
+Official database - [TIN Search](http://www.ujp.gov.mk/en)
 
-Official database [Entity Search](https://www.crm.com.mk/en/open-data/basic-profile-of-a-registered-entity)
+Official database - [Entity Search](https://www.crm.com.mk/en/open-data/basic-profile-of-a-registered-entity)
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
