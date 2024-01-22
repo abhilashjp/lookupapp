@@ -78,6 +78,8 @@ const config = {
         logo: {
           alt: "Global API for VAT Validation",
           src: "img/lookuptax-icon.svg",
+          href: 'https://lookuptax.com',
+          target: '_self',
         },
         items: [
          /** {
