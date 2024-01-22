@@ -95,6 +95,7 @@ const config = {
             href: "https://lookuptax.com",
             label: "Signup",
             position: "right",
+            className: 'button button--secondary button--lg'
           },
          /**  {
             href: "https://github.com/abhilashjp/lookupapp",
