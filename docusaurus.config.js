@@ -91,6 +91,11 @@ const config = {
           { to: "/category/einvoicing-guides", label: "Einvoicing", position: "right" },
 
           { to: "/blog", label: "Blog", position: "right" },
+           {
+            href: "https://lookuptax.com",
+            label: "Signup",
+            position: "right",
+          },
          /**  {
             href: "https://github.com/abhilashjp/lookupapp",
             label: "GitHub",
