@@ -94,7 +94,7 @@ const config = {
 
           { to: "/blog", label: "Blog", position: "right" },
            {
-            href: "https://lookuptax.com",
+            to: "https://lookuptax.com",
             label: "Signup",
             position: "right",
             className: 'button button--secondary button--lg'
