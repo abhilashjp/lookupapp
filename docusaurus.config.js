@@ -95,7 +95,7 @@ const config = {
           { to: "/blog", label: "Blog", position: "right" },
            {
             to: "https://lookuptax.com",
-            label: "Signup",
+            label: "Signup for Free Trial",
             position: "right",
             className: 'button button--secondary button--lg'
           },
