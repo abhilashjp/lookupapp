@@ -13,6 +13,7 @@ tags :
 Individuals in Mauritius receive a Tax Account Number (TAN) from the Mauritius Revenue Authority (MRA) as part of their registration process in the MRA databases. This unique identifier is assigned to all individuals with a tax obligation in Mauritius
 
 **Format**
+
 Individuals in Mauritius are assigned a Tax Account Number (TAN) comprising 8 numerals (format: 99999999), where the first digit is consistently 1, 5, 7, or 8. On the other hand, entities receive a TAN also composed of 8 numerals (format: 99999999), with the first digit exclusively being 2 or 3.
 
 ## Business Registration Number (BRN)
