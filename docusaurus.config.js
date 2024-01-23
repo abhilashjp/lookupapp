@@ -186,18 +186,18 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-    
-algolia: {
+ //   
+// algolia: {
       // The application ID provided by Algolia
-      appId: 'K9ZHSRY4ZV',
+     // appId: 'K9ZHSRY4ZV',
 
       // Public API key: it is safe to commit it
-      apiKey: '779e74fdc3513898e45fe9d1a8b3ac37',
+     // apiKey: '779e74fdc3513898e45fe9d1a8b3ac37',
 
-      indexName: 'Lookuptax',
+/// indexName: 'Lookuptax',
 
       // Optional: see doc section below
-      contextualSearch: true,
+     // contextualSearch: true,
 
       // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
       //externalUrlRegex: 'external\\.com|domain\\.com',
@@ -209,14 +209,14 @@ algolia: {
       //},
 
       // Optional: Algolia search parameters
-      searchParameters: {},
+     // searchParameters: {},
 
       // Optional: path for search page that enabled by default (`false` to disable it)
-      searchPagePath: 'search',
+     // searchPagePath: 'search',
 
       //... other Algolia params
-    },
-
+   // },
+//
 
     }),
 };
