@@ -1,7 +1,7 @@
 ---
 id: mexico-tax-id-guide
 title: Mexico TIN number guide
-keywords: [TIN, Find TIN, Tax ID, Mexico]
+keywords: [TIN, Find RFC, Tax ID, Mexico]
 sidebar_label: Mexico
 description: Learn about TIN number in Mexico. Use Lookuptax for hassle-free tax id validation in Mexico and other 100+ countries
 tags : 
@@ -30,7 +30,7 @@ For entities, the identifier is 12 characters long, consisting of 3 letters foll
   <tr><td align="center">TAX IDENTIFICATION CARD</td></tr>
 </table>
 
-Official Database - [RFC search]()
+
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
