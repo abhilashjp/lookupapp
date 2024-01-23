@@ -19,8 +19,18 @@ Entities further have the responsibility to submit notifications, as specified i
 
 
 **Format**
-Individuals in Mexico are assigned a unique identifier consisting of 13 characters, comprising 4 letters followed by 6 digits and 3 alphanumeric characters. For legal entities and certain legal arrangements, the identifier is 12 characters long, with 3 letters followed by 6 digits and 3 alphanumeric characters. The initial letters (4 or 3, respectively) represent the name, followed by 6 digits indicating the date of birth or date of incorporation. The final 3 (or 2, for legal entities) characters are check digits, also known as homoclave.
 
+Individuals in Mexico are assigned a 13-character identifier, comprising 4 letters followed by 6 digits and 3 alphanumeric characters. The initial 4 letters represent the name, followed by 6 digits indicating the date of birth, and the last 3 characters are check digits.
+
+For entities, the identifier is 12 characters long, consisting of 3 letters followed by 6 digits and 3 alphanumeric characters. The first 3 letters pertain to the name, the subsequent 6 digits indicate the date of incorporation, and the final 3 characters are check digits.
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/rfc.PNG" alt="TAX IDENTIFICATION CARD" title="TAX IDENTIFICATION CARD"/>
+  </td></tr>
+  <tr><td align="center">TAX IDENTIFICATION CARD</td></tr>
+</table>
+
+Official Database - [RFC search]()
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
