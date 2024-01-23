@@ -1,7 +1,7 @@
 ---
 id: malta-tax-id-guide
 title: Malta TIN number guide
-keywords: [TIN, Find TIN, Tax ID, Malta]
+keywords: [TIN, Find VAT, Tax ID, Malta]
 sidebar_label: Malta
 description: Learn about TIN number in Malta. Use Lookuptax for hassle-free tax id validation in Malta and other 100+ countries
 tags : 
