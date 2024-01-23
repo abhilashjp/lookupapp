@@ -97,7 +97,7 @@ const config = {
             to: "https://lookuptax.com",
             label: "Signup for Free Trial",
             position: "right",
-            className: 'button button--secondary button--lg'
+            className: 'button button--primary button--lg'
           },
          /**  {
             href: "https://github.com/abhilashjp/lookupapp",
