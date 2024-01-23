@@ -288,3 +288,10 @@ div[class^='announcementBar_'] {
 .hidden {
 display: none !important;
 }
+
+/* Assuming button--primary is used for the desired color */
+.button--primary {
+  background-color: #3498db; /* Change this to your preferred color */
+  color: #ffffff; /* Change this to your preferred text color */
+  /* Add any other styles as needed */
+}
