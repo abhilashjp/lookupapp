@@ -56,6 +56,8 @@ IDNP: 2ГГГXXXYYYYYK
   <tr><td align="center">Temporary ID card</td></tr>
 </table>
 
+Official database [INDP Search](https://e-services.md/ro/verifica-idnp)
+
 
 ## Identification Number of Organization (IDNO)
 In the Republic of Moldova, the official identification number for legal entities adheres to global standards and is abbreviated as "Identification Number of Organization" or IDNO. Resident legal entities seamlessly acquire their IDNO (TIN) upon completing the registration process with the state registration body, namely the Public Services Agency.
@@ -81,6 +83,11 @@ K: Functions as the check digit in this meticulously organized series.
   <tr><td align="center">Registration Certificate for Entities</td></tr>
 </table>
 
+
+Official Database - [IDNO Search](https://e-services.md/ro/content/verifica-idno)
+
+## VAT number
+Moldovan VAT number consists of 7 digits. Format : 1234567
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
