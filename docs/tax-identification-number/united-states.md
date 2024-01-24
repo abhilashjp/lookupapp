@@ -1,6 +1,6 @@
 ---
 id: united-states-tax-id-guide
-title: United States Tax Identification Number guide
+title: United States Taxpayer Identification Number guide
 keywords: [TIN, SSN, ITIN, EIN, Tax ID, United Stated, Find SSN, Find ITIN, Find EIN]
 sidebar_label: United States
 description: Learn about Tax identification numbers in United States. Use Lookuptax for hassle-free tax id validation in Vietnam and other 100+ countries
