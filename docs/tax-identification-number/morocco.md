@@ -21,7 +21,7 @@ The ICE number comprises 15 digits, with the initial 9 serving as the identifica
 Format : 1111219 or 35792001
 
 ## Registre de Commerce (RC)
-
+Also known as Numéro d'enregistrement de la société auprès du registre du commerce de Casablanca. Format: 223393
 
 ## Numéro de TVA (VAT)
 
