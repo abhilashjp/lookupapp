@@ -73,6 +73,16 @@ The sales tax number, also referred to as the OB number, is exclusively employed
 
 An illustrative example of an OB number is 111234567B01. 
 
+
+## Kamer van Koophandel nummer (KVK)
+
+The Kamer van Koophandel (KVK) is the Chamber of Commerce in the Netherlands.Upon registering your business in the Dutch Business Register (Handelsregister), you are assigned an 8-digit KVK number. This KVK number serves as evidence of your registration with the Netherlands Chamber of Commerce (KVK), affirming your official business status. Merchants are obliged to state the KVK number on: letters, invoices, quotations, websites, business emails.
+
+When you register your company with the Dutch Chamber of Commerce (KVK), you receive your KVK number, an 8-digit identifier that appears on your Business Register extract, serving as proof of your business registration with the KVK. Subsequently, the Tax and Customs Administration (Belastingdienst) is notified by KVK, and within 3 weeks, you are sent your VAT (btw) identification number (btw-id) and VAT number (btw-nummer) by post. The VAT number, consisting of 14 digits, includes the btw-id. Both the KVK number and VAT number are mandatory to be included on your invoices, with the KVK number obtained during the initial registration and the VAT number provided afterward for tax-related transactions.
+
+Official database - [KVK Search](https://www.kvk.nl/zoeken/)
+
+
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
 
