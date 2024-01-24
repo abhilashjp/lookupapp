@@ -28,6 +28,7 @@ Also known as Numéro d'enregistrement de la société auprès du registre du co
 Format: 1115575
 
 ## Caisse Nationale de Sécurité Sociale (CNSS)
+The role of Morocco's Caisse Nationale de Sécurité Sociale (CNSS) is to provide insurance for all private sector employees.
 
 Format : 8063109
 
