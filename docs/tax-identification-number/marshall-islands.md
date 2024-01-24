@@ -16,7 +16,7 @@ The Republic of the Marshall Islands (RMI) relies on Employer Identification Num
 Employee Identification Numbers (EINs) or Personal Social Security Numbers (SSNs) are pervasive, appearing in various documents like social security cards, passport photo pages, driver licenses, medical records, death certificates, and more. Likewise, company EINs can be located on official documents associated with the company, such as bank accounts and loan applications, tax forms and filing processes, MISSA and employee contributions filings, vehicle registrations, land leases, and other relevant records.
 
 
-**Format**
+**EIR Format**
 The Employer Identification Number (EIN) consistently commences with a five-digit code and concludes with "04," separated by a dash, exemplified as 08612-04. Conversely, the Employee Identification Number begins with "04" and culminates with a six-digit code, connected by a dash, illustrated as 04-086123. The inclusion of "04" signifies the Marshall Islands' affiliation with the United States (US), as it is a universal code assigned by the US to all freely associated states. These codes, such as 01, 02, 03, etc., differentiate various islands, serving to uniquely identify them.
 
 ----

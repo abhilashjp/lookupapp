@@ -18,7 +18,7 @@ Furthermore, legal entities and individuals falling under the requirement to ope
 Entities further have the responsibility to submit notifications, as specified in the Federal Fiscal Code, regarding their legal representatives, partners, and shareholders.
 
 
-**Format**
+**RFC Format**
 
 Individuals in Mexico are assigned a 13-character identifier, comprising 4 letters followed by 6 digits and 3 alphanumeric characters. The initial 4 letters represent the name, followed by 6 digits indicating the date of birth, and the last 3 characters are check digits.
 
