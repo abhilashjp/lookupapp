@@ -13,11 +13,11 @@ tags :
 Northern Ireland VAT numbers can have different formats
 
 1. Format: XI999 9999 99
-  This format consists of three blocks: 1 block of 2 characters ("XI"), 1 block of 3 digits, and 1 block of 4 digits.
-2. Format: XI999 9999 99 9995
-  This format consists of three blocks: 1 block of 2 characters ("XI"), 1 block of 3 digits, and 1 block of 4 digits with an additional block of 4 digits (9995).
+  This format consists of 4 blocks: 1 block of 2 characters ("XI"), 1 block of 3 digits, and 1 block of 4 digits and 1 block of 2 digits
+2. Format: XI999 9999 99 999
+  This format consists of three blocks: 1 block of 2 characters ("XI"), 1 block of 3 digits, and 1 block of 4 digits and 1 block of 2 digits with an additional block of 3 digits (999). The additional block identifies branch traders 
 3. Format: XIGD9996 or XIHA9997
-  This format begins with two characters ("XI") followed by 1 block of 5 characters
+  This format begins with two characters ("XI") followed by 1 block of 5 characters. It either indicates Government Departments or Health Authorities 
 
 
 ----
