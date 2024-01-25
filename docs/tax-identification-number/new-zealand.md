@@ -1,12 +1,13 @@
 ---
 id: new-zealand-tax-id-guide
 title: New Zealand TIN number guide
-keywords: [TIN, Find TIN, Tax ID, New Zealand]
+keywords: [TIN, Find IRD, Tax ID, New Zealand]
 sidebar_label: New Zealand
 description: Learn about TIN number in New Zealand. Use Lookuptax for hassle-free tax id validation in New Zealand and other 100+ countries
 tags : 
   - New Zealand
   - TIN
+  - IRD
 ---
 
 ## IRD Number
