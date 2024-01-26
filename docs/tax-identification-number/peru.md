@@ -18,6 +18,13 @@ a) For individuals using DNI for identification: Prefix 10 + DNI + verification 
 b) Individuals using other identity documents: Prefix 15 + random number + verification digit.
 c) Legal entities: Prefix 20 + random number + verification digit.
 
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/cir-peru.PNG" alt="Registered Information Voucher (CIR)" title="Registered Information Voucher (CIR)"/>
+  </td></tr>
+  <tr><td align="center">Registered Information Voucher (CIR)</td></tr>
+</table>
+
+Official Database [RUC Search](https://e-consultaruc.sunat.gob.pe/cl-ti-itmrconsruc/FrameCriterioBusquedaWeb.jsp)
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
