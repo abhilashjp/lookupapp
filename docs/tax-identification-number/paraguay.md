@@ -13,7 +13,7 @@ tags :
 The Registro Único de Contribuyentes (RUC) comprises 8 characters.
 
 **RUC Format**
-Example: 80104114
+Example: 80104114 , 80046708
 
 Official Database - [RUC Search](https://servicios.set.gov.py/eset-publico/perfilPublicoContribIService.do)
 
