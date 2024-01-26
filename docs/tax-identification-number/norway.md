@@ -11,7 +11,7 @@ tags :
 
 ## National Identity Number (NIN)
 
-In Norway, every resident is allocated a distinct national identity number. This encompasses individuals born in Norway, those residing in the country for a minimum of 6 months, or Norwegian citizens born or living abroad requiring a national identity number for obtaining a Norwegian passport or ID-card. The national identity number comprises 11 digits, with the initial six representing the individual's date of birth. Eligible individuals receive their Norwegian national number through an official letter from the Tax Office.
+In Norway, every resident is allocated a distinct national identity number. This encompasses individuals born in Norway, those residing in the country for a minimum of 6 months, or Norwegian citizens born or living abroad requiring a national identity number for obtaining a Norwegian passport or ID-card. The national identity number comprises 11 digits, with the initial six representing the individual's date of birth. Eligible individuals receive their Norwegian national number through an official letter from the Tax Office. It is also known as "Fødselsnummer" in Norwegian
 
 **NIN Format**
 
@@ -69,7 +69,7 @@ Example : 410185 123 45
 
 ## Organisation Number
 
-In Norway, the Central Coordinating Register for Legal Entities is the go-to platform for registering fundamental information about legal entities. Incorporation of any legal entity mandates registration, resulting in the issuance of an organization number. This unique organization number not only serves as the identifier for the legal entity but also functions as the Tax Identification Number (TIN) for legal entities in Norway.
+In Norway, the Central Coordinating Register for Legal Entities is the go-to platform for registering fundamental information about legal entities. Incorporation of any legal entity mandates registration, resulting in the issuance of an organization number. This unique organization number not only serves as the identifier for the legal entity but also functions as the Tax Identification Number (TIN) for legal entities in Norway. It is known as "Organisasjonsnummer" in norwegian.
 
 **Organisation number Format**
 The Tax Identification Number (TIN) or organization number is a crucial nine-digit identifier. Its technical structure mandates that the first digit must be either 8 or 9, and it incorporates a modulus 11 check digit at the end. As per the Central Coordination Register's guidelines, the weighting factors are calculated from the first digit and include values such as 3, 2, 7, 6, 5, 4, 3, and 2. The digits undergo multiplication with these factors, and the product sum is divided by 11. The remainder, subtracted by 11, becomes the check digit.
@@ -86,6 +86,10 @@ Official Database - [Search Organisation number](https://www.brreg.no/)
 
 A DUF number serves as a registration identifier within the UDI's application system. Individuals applying for residence or protection are assigned a unique DUF number during the application process.
 
+
+## MVA-nummer 
+
+mva-nummer is the VAT number in Norway. MVA stand for Merverdiavgift.  VAT number is the same as your organization number. When you have become VAT registered, your VAT number is the organization number followed by the letters MVA. Example: 999999999MVA
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
