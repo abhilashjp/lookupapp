@@ -1,7 +1,7 @@
 ---
 id: pakistan-tax-id-guide
 title: Pakistan TIN number guide
-keywords: [TIN, Find TIN, Tax ID, Pakistan]
+keywords: [TIN, Find NTN, Tax ID, Pakistan]
 sidebar_label: Pakistan
 description: Learn about TIN number in Pakistan. Use Lookuptax for hassle-free tax id validation in Pakistan and other 100+ countries
 tags : 
