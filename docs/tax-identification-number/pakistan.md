@@ -60,6 +60,9 @@ NTN or Registration Number for AOP and Company is the 7 digits NTN received afte
   <tr><td align="center">Registration Certificate</td></tr>
 </table>
 
+
+Official database - [Taxpayer verification](https://e.fbr.gov.pk/esbn/Verification#)
+
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
 
