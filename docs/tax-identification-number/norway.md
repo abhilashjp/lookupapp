@@ -80,6 +80,8 @@ For legal entities registered in the Value Added Tax Register, an additional req
 Examples - Legal entity: 999999999, VAT registered legal entity : 999999999LLL 
 
 
+Official Database - [Search Organisation number](https://www.brreg.no/)
+
 ## DUF number
 
 A DUF number serves as a registration identifier within the UDI's application system. Individuals applying for residence or protection are assigned a unique DUF number during the application process.
