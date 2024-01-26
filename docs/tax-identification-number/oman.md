@@ -15,6 +15,8 @@ The Tax Authority in Oman issues Tax Identification Numbers (TINs) to facilitate
 
 Format: Numeric sequence for TIN in Oman comprises up to a seven-digit number, represented as {xxxxxxx}.
 
+Official database [TIN search](https://tms.taxoman.gov.om/portal/web/taxportal/tax-data-validation)
+
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
 
