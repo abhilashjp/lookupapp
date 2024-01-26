@@ -1,7 +1,7 @@
 ---
 id: norway-tax-id-guide
 title: Norway TIN number guide
-keywords: [TIN, Find TIN, Tax ID, Norway]
+keywords: [TIN, Find NIN, Tax ID, Norway]
 sidebar_label: Norway
 description: Learn about TIN number in Norway. Use Lookuptax for hassle-free tax id validation in Norway and other 100+ countries
 tags : 
