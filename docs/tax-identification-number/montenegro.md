@@ -11,7 +11,7 @@ tags :
 
 ## Poreski Identifikacioni Broj (PIB)
 
-The VAT number in Motenegro is called Poreski Identifikacioni Broj (PIB). It consits of 8 digits.
+The VAT number in Motenegro is called Poreski Identifikacioni Broj (PIB). It consists of 8 digits.
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
   <img src="/docs/img/taxid/registration-certificate-montenegro.PNG" alt="Registration certificate" title="Registration certificate"/>
