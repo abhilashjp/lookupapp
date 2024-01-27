@@ -11,13 +11,13 @@ tags :
   - UK
 ---
 
-## How to validate UK VAT number
+## How to validate UK VAT number ? 
 
  VAT number in UK has either 9 or 12 numbers. It can also be 5 digits in case of Government department or Health department.
 
 | Regex expressions                  | Description                                                |
 | ----------------------------------- | ---------------------------------------------------------- |
-| (GB)?([0-9]{9}([0-9]{3})?|[A-Z]{2}[0-9]{3})  | * (GB)?: This part specifies an optional prefix "GB". The question mark "?" makes the preceding group, in this case, "GB", optional. So, it matches either "GB" or nothing.[0-9]{9}([0-9]{3})?: This part matches a sequence of nine digits [0-9]{9}, optionally followed by another group of three digits ([0-9]{3})?. The question mark "?" after the group makes it optional. So, this part matches either nine digits, or twelve digits in total.|[A-Z]{2}[0-9]{3}: This part matches two uppercase letters [A-Z]{2} followed by three digits [0-9]{3}. This part matches a two-letter country code followed by three digits. |
+| `(GB)?([0-9]{9}([0-9]{3})?|[A-Z]{2}[0-9]{3})`  | * (GB)?: This part specifies an optional prefix "GB". The question mark "?" makes the preceding group, in this case, "GB", optional. So, it matches either "GB" or nothing.[0-9]{9}([0-9]{3})?: This part matches a sequence of nine digits [0-9]{9}, optionally followed by another group of three digits ([0-9]{3})?. The question mark "?" after the group makes it optional. So, this part matches either nine digits, or twelve digits in total.|[A-Z]{2}[0-9]{3}: This part matches two uppercase letters [A-Z]{2} followed by three digits [0-9]{3}. This part matches a two-letter country code followed by three digits. |
 
 ## How to verify VAT number in UK online ?
 
