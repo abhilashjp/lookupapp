@@ -10,6 +10,7 @@ tags :
   - ITIN
   - EIN
 ---
+
 The Taxpayer Identification Number (TIN) contains different type of Tax IDs of which the most important ones are Social Security Number (SSN), Employer Identification Number (EIN) and Individual Taxpayer Identification Number (ITIN). Apart from these three, TIN also contains Taxpayer Identification Number for Pending U.S. Adoptions (ATIN) and Preparer Taxpayer Identification Number (PTIN).
 
 ## Social Security Number  – SSN
