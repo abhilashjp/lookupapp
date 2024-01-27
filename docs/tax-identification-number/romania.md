@@ -9,7 +9,8 @@ tags :
   - TIN
 ---
 
-
+## Personal Identification Number (CNP)
+Natural persons in Romania are assigned a Personal Identification Number (CNP) by the Ministry of Internal Affairs, which also functions as a Tax Identification Number (TIN) utilized by the tax administration.
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
