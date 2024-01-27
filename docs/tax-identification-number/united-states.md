@@ -59,7 +59,7 @@ The 4th and 5th digits can range from 50 to 65, 70 to 88, 90 to 92, and 94 to 99
 The EIN is issued by the IRS to sole proprietors, partnerships, corporations (including limited liability, corporations), and other entities for tax filing and reporting purposes.
 
 ### Format of the EIN
-The ITIN is a 9 digit unique number
+The EIN is a 9 digit unique number
 
 <font color="green">123</font>-<font color="orange">45</font>-<font color="red">6789</font>
 
