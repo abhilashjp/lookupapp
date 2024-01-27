@@ -1,0 +1,49 @@
+---
+id: qatar-tax-id-guide
+title: Qatar TIN number guide
+keywords: [TIN, Find TIN, Tax ID, Qatar]
+sidebar_label: Qatar
+description: Learn about TIN number in Qatar. Use Lookuptax for hassle-free tax id validation in Qatar and other 100+ countries
+tags : 
+  - Qatar
+  - TIN
+---
+
+## Personal Identification Number (PIN)
+Individuals in Qatar who do not engage in industrial, commercial, craft, or professional activities as defined by Article 1 of the Income Tax Law (ITL) are distinguished by their Personal Identification Number (PIN) for Qatari nationals and their residence permit number for foreign residents in Qatar.
+
+## Residence Permit Number
+ Assigned to foriegn residents in Qatar.
+
+## Tax Identification Number (TIN)
+
+Any taxpayer engaging in an activity or earning taxable income must undergo registration with the GTA (General Tax Authority) and file an application for a Tax Identification Number (TIN) with the GTA. Consequently, the following individuals and entities are identified by their TINs:
+
+1. Natural persons involved in industrial, commercial, craft, or professional activities.
+2. Legal entities incorporated in or having their place of effective management in the State of Qatar.
+3. Entities established within the Free Zone of Qatar Science and Technology Park (QSTP).
+
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/tax-card-qatar.PNG" alt="TIN on Qatar Tax Card" title="TIN on Qatar Tax Card"/>
+  </td></tr>
+  <tr><td align="center">TIN on Qatar Tax Card</td></tr>
+</table>
+
+
+
+## special registration number
+
+For the purpose of fulfilling withholding tax (WHT) obligations, specific individuals and entities are distinguished by a unique registration number:
+
+1. Ministries.
+2. Governmental bodies.
+3. Public authorities and institutions.
+4. Tax-exempt associations, professional associations, and private foundations registered with the Ministry of Administrative Development, Labor and Social Affairs (ADLSA).
+5. Tax-exempt private institutions of public benefit registered with the Ministry of Justice (MOJ).
+6. Tax-exempt charitable associations and charitable private foundations registered with the Regulatory Authority for Charitable Activities (RACA).
+
+----
+**How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
+
+**Lookuptax VAT validation** revolutionizes VAT number validation with its robust platform, empowering businesses to seamlessly verify VAT numbers across over 100 countries. Our cutting-edge technology ensures accurate and efficient validation, reducing errors and enhancing compliance.
