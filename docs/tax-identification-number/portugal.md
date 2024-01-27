@@ -1,7 +1,7 @@
 ---
 id: portugal-tax-id-guide
 title: Portugal TIN number guide
-keywords: [TIN, Find TIN, Tax ID, Portugal]
+keywords: [TIN, Find NIF, Tax ID, Portugal]
 sidebar_label: Portugal
 description: Learn about TIN number in Portugal. Use Lookuptax for hassle-free tax id validation in Portugal and other 100+ countries
 tags : 
