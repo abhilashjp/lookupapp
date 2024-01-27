@@ -62,7 +62,13 @@ The numbering system structure comprises 9 consecutive digits along with a contr
   <tr><td align="center">Taxpayer Card</td></tr>
 </table>
 
-
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/dl-portugal.PNG" alt="Driving License"  title="Driving License"/>
+  </td><td>
+  <img src="/docs/img/taxid/dl-portugal-back.PNG" alt="Driving License"  title="Driving License"/>
+  </td></tr>
+  <tr><td align="center" colspan='2'>Driving License</td></tr>
+</table>
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
