@@ -15,13 +15,20 @@ Individuals in Qatar who do not engage in industrial, commercial, craft, or prof
 ## Residence Permit Number
  Assigned to foriegn residents in Qatar.
 
-## Tax Identification Number (TIN)
+## Taxpayer Identification Number (TIN)
 
-Any taxpayer engaging in an activity or earning taxable income must undergo registration with the GTA (General Tax Authority) and file an application for a Tax Identification Number (TIN) with the GTA. Consequently, the following individuals and entities are identified by their TINs:
+Any taxpayer engaging in an activity or earning taxable income must undergo registration with the GTA (General Tax Authority) and file an application for a Tax Identification Number (TIN) with the GTA. This TIN does not expire and remains valid for as long as the firm is licensed and continues to conduct their licensed activities. At present, the QFC only has corporate income tax, thus, the TIN is only for corporate tax purposes. There are no individual QFC taxpayers.
+Consequently, the following individuals and entities are identified by their TINs:
 
 1. Natural persons involved in industrial, commercial, craft, or professional activities.
 2. Legal entities incorporated in or having their place of effective management in the State of Qatar.
 3. Entities established within the Free Zone of Qatar Science and Technology Park (QSTP).
+
+
+**TIN Format**
+For individuals and entities under the jurisdiction of the GTA, the Tax Identification Number (TIN) is comprised of 10 digits, commencing with the digit 5, denoting Qatar's affiliation with the Gulf Cooperation Council (GCC). The subsequent 9 digits are algorithmically generated and include a check digit.
+
+For entities under the jurisdiction of QFCA, the TIN structure follows the format T00000, with the zeroes representing the QFC License Number assigned to firms. Therefore, a QFC firm with License Number 00001 would have T00001 as its TIN.
 
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
@@ -31,8 +38,14 @@ Any taxpayer engaging in an activity or earning taxable income must undergo regi
 </table>
 
 
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/registration-certificate-qatar.PNG" alt="Qatar Registration Certificate" title="Qatar Registration Certificate"/>
+  </td></tr>
+  <tr><td align="center">Registration Certificate</td></tr>
+</table>
 
-## special registration number
+
+## Special Registration Number
 
 For the purpose of fulfilling withholding tax (WHT) obligations, specific individuals and entities are distinguished by a unique registration number:
 
