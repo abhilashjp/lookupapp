@@ -25,9 +25,9 @@ You can check the validity of an VAT number from the VIES Website for free. You 
 </table>
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/taxid/vies-details-nl.PNG" alt="Status of a Netherland VAT"  title="Status of a Netherland VAT"/>
+  <img src="/docs/img/verify/vies-details-nl.PNG" alt="Status of a Netherland VAT"  title="Status of a Netherland VAT"/>
   </td><td>
-  <img src="/docs/img/taxid/vies-details-spain.PNG" alt="Status of a Spain VAT number"  title="Status of a Spain VAT number"/>
+  <img src="/docs/img/verify/vies-details-spain.PNG" alt="Status of a Spain VAT number"  title="Status of a Spain VAT number"/>
   </td></tr>
   <tr><td align="center">Status of a Netherland VAT</td><td align="center">Status of a Spain VAT number</td></tr>
 </table>
