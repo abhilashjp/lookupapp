@@ -1,7 +1,7 @@
 ---
 id: poland-tax-id-guide
 title: Poland TIN number guide
-keywords: [TIN, Find TIN, Tax ID, Poland]
+keywords: [TIN, Find NIP, Tax ID, Poland]
 sidebar_label: Poland
 description: Learn about TIN number in Poland. Use Lookuptax for hassle-free tax id validation in Poland and other 100+ countries
 tags : 
