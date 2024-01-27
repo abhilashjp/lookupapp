@@ -21,7 +21,7 @@ tags :
 
 ## How to verify VAT number in UK online ?
 
-You can check the validity of an VAT number from the HMRC Website for free. You can access the HMRC VAT lookup service [here](https://www.tax.service.gov.uk/check-vat-number/enter-vat-details/). 
+You can check the validity of an VAT number from the HMRC Website for free. You can access the HMRC VAT lookup service [here](https://www.tax.service.gov.uk/check-vat-number/enter-vat-details/). You should submit your VAT number alng with the number you wish to verify in case you wish to get an acknowledgement number 
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
   <img src="/docs/img/verify/uk-hmrc-vat-verification.PNG" alt="UK VAT lookup" title="UK VAT lookup"/>
@@ -33,7 +33,7 @@ You can check the validity of an VAT number from the HMRC Website for free. You 
 A successful vat number verification on the UK HRMC site returns the following details 
 
 * Status of the vat number
-* Acknowledgement number which acts as the proof of the verification
+* Acknowledgement number which acts as the proof of the verification.
 * Details of the business
   * Name of the business
   * Registered address including zipcode
