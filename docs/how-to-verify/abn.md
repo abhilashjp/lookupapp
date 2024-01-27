@@ -28,7 +28,7 @@ Australia Business Number consists of 11 digits
 You can check the validity of an ABN from the Austrailian Business Register Website for free. You can access the ABN lookup service [here](https://abr.business.gov.au/). Using this tool you can search for a company by ABN, ACN or name. Advanced search options are available [here](https://abr.business.gov.au/Search/Advanced)
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/taxid/abn-lookup.PNG" alt="ABN lookup" title="ABN lookup"/>
+  <img src="/docs/img/verify/abn-lookup.PNG" alt="ABN lookup" title="ABN lookup"/>
   </td></tr>
   <tr><td align="center">ABN lookup</td></tr>
 </table>
@@ -43,7 +43,7 @@ The search returns the following details
 
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/taxid/abn-details.PNG" alt="ABN verification status" title="ABN verification status"/>
+  <img src="/docs/img/verify/abn-details.PNG" alt="ABN verification status" title="ABN verification status"/>
   </td></tr>
   <tr><td align="center">ABN verification status</td></tr>
 </table>
