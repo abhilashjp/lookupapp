@@ -24,7 +24,7 @@ The SSN is a 9 digit unique number.
 
 SSN is divided has 3 parts — Area Code, Group Number, Serial Number.
 
-<font color="green">123</font> — The first 3 digits represent the Area Code. The area code is assigned based on the ZIP code in the mailing address provided on the application for the original Social Security card. The applicant's mailing address does not have to be the same as their place of residence. As mentioned on the <a href="https://www.ssa.gov/history/ssn/geocard.html" target="_blank">offcial website of SSA</a>, 'One should not make too much of the "geographical code." It is not meant to be any kind of useable geographical information.' 
+<font color="green">123</font> — The first 3 digits represent the Area Code. The area code is assigned based on the ZIP code in the mailing address provided on the application for the original Social Security card. The applicant's mailing address does not have to be the same as their place of residence. As mentioned on the <a href="https://www.ssa.gov/history/ssn/geocard.html" target="_blank">offcial website of SSA</a>, <em>One should not make too much of the "geographical code." It is not meant to be any kind of useable geographical information.</em><br>
 
 <font color="orange">45</font> — The middle 2 digits represent the Group Number. They range from 01 to 99. The Group numbers for each Area Code are issued in the following order:
 
