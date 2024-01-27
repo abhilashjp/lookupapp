@@ -97,6 +97,33 @@ For example, consider TIN 2234567895:
   <tr><td align="center">NIP for Entities</td></tr>
 </table>
 
+
+Official Database
+
+* [NIP Search](https://www.biznes.gov.pl/en/wyszukiwarka-firm/) 
+* [NIP Search](https://aplikacja.ceidg.gov.pl/CEIDG/CEIDG.Public.UI/Search.aspx)
+* [NIP search on National Court Registry](https://ekrs.ms.gov.pl/web/wyszukiwarka-krs/strona-glowna/index.html)
+ 
+
+ Example : 5272525357
+
+## KRS (Krajowy Rejestr Sądowy) Number
+
+The KRS, known as the National Court Register Number in Poland, is a distinctive identifier allocated to legal entities, including companies, partnerships, and associations, upon registration in the National Court Register. This registry provides comprehensive details about the structure, governance, and financial status of these entities. Managed by the National Court Register (Ministerstwo Sprawiedliwości), the KRS serves as a vital repository of legal and financial data, facilitating easy access to essential information about registered entities.
+
+Example : 0000268708
+
+
+## REGON
+
+The REGON (Rejestr Gospodarki Narodowej) serves as the comprehensive registry for national economic entities within the Republic of Poland. Established for statistical purposes, this registry is overseen by the Main Statistics Office of Poland - GUS.
+
+The identification number for entities within the national economy comprises 9 digits, allocated to legal persons, organizational entities lacking legal personality, or natural persons engaged in economic activities. The initial eight digits form an ordinal, while the ninth digit acts as a validation code.
+
+For local units, the identification number spans 14 digits. The first nine digits correspond to the ID number of the legal person, organizational entity without legal personality, or natural person conducting economic activities that established the local unit. Subsequently, four digits represent the ordinal assigned to the local unit, with the fourteenth digit serving as a validation code for the entire local unit number.
+
+Example : 140762164
+
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
 
