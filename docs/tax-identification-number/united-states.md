@@ -47,7 +47,9 @@ The ITIN is a 9 digit unique number
 
 #### Breaking down the ITIN
 
-ITIN always starts with 9. 9xx-xx-xxxx
+ITIN always starts with 9. 
+
+9xx-xx-xxxx
 
 The 4th and 5th digits can range from 50 to 65, 70 to 88, 90 to 92, and 94 to 99. 
 
