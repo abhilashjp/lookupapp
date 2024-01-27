@@ -56,6 +56,12 @@ The numbering system structure comprises 9 consecutive digits along with a contr
   <tr><td align="center">Citizen card Portugal</td><td align="center">NIF on citizen card</td></tr>
 </table>
 
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/tax-payer-card-portugal.PNG" alt="Taxpayer Card" title="Taxpayer Card"/>
+  </td></tr>
+  <tr><td align="center">Taxpayer Card</td></tr>
+</table>
+
 
 
 ----
