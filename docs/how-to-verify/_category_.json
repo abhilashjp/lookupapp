@@ -1,5 +1,5 @@
 {
-  "label": "Formats of different IDs",
+  "label": "Verify tax IDs",
   "position": 0,
    "collapsible": true,
   "collapsed": false,
@@ -7,11 +7,11 @@
  
   "link": {
     "type": "generated-index",
-    "title": "Formats of different IDs",
-    "keywords": "tax ID, VAT number",
-    "description": "Learn about the Tax ID formats across the world.Use Lookuptax for hassle-free tax id validation in over 100+ countries",
+    "title": "Verify tax IDs",
+    "keywords": "tax ID verification, VAT number verification, Find VAT, Chect VAT",
+    "description": "Learn about how to verify Tax IDs across the world.Use Lookuptax for hassle-free tax id validation in over 100+ countries",
   },
    "customProps": {
-    "description": " Guides explains the formats of IDs in used in countries across the world.Use Lookuptax for hassle-free tax id validation in over  100+ countries"
+    "description": " Guides explains how to verify Tax IDs and the formats used in countries across the world.Use Lookuptax for hassle-free tax id validation in over  100+ countries"
   }
 }
