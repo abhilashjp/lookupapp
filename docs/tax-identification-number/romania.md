@@ -81,6 +81,11 @@ C5 to C12: Each can take a value between 0 to 9.
 Structure: Sample TIN2: 900012345678.
 
 
+## Codul unic de identificare (CUI)
+Until 2007, the term CUI (Unique Registration Code) was employed, after which the term CIF (Fiscal Registration Code) became prevalent. The distinction lies in the purpose for which this code is solicited. The legal entity providing the tax certificate determines whether the code is designated as CUI or CIF.
+
+Official database [CUI Search](https://mfinante.gov.ro/domenii/informatii-contribuabili/persoane-juridice/info-pj-selectie-dupa-cui)
+
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
 
