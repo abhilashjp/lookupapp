@@ -35,8 +35,33 @@ C6, C7: Represent the day of the month (1 to 31, depending on the month and year
 C8, C9: County or district code (ranging from 01 to 47, and 51 to 52).
 Structure: Sample TIN: 8001011234567
 
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/cnp-romania.PNG" alt="CNP on ID card" title="CNP on ID card"/>
+  </td></tr>
+  <tr><td align="center">CNP on ID card</td></tr>
+</table>
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/dl-romania.PNG" alt="Driving license" title="Driving license"/>
+  </td></tr>
+  <tr><td align="center">Driving license</td></tr>
+</table>
+
+
 ## Codul de înregistrare fiscală (CIF)
 Tax Identification Number (TIN) for non-resident taxpayers in Romania is exclusively issued by the Tax Administration for tax-related matters. It is known as Codul de înregistrare fiscală(CIF).
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/cif-romania.PNG" alt="CIF on Certificate for Tax Registration" title="CIF on Certificate for Tax Registration"/>
+  </td></tr>
+  <tr><td align="center">CIF on Certificate for Tax Registration</td></tr>
+</table>
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/residence-permit-romania.PNG" alt="Residence Permit" title="Residence Permit"/>
+  </td></tr>
+  <tr><td align="center">Residence Permit</td></tr>
+</table>
 
 ## Tax Identification Number (TIN)
 
