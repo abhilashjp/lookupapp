@@ -11,7 +11,7 @@ tags :
   - EU
 ---
 
-## How to verify VAT number in EU online ?
+## Verify VAT number in EU using VIES.
 
 VAT valdiation for the whole of EU is made available under a single roof by the European Union via a tool called VAT VIES.
 

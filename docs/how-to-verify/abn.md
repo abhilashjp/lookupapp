@@ -10,17 +10,6 @@ tags :
   - ABN
 ---
 
-## How to verify ABN? 
-
-Australia Business Number consists of 11 digits
-
-| Regex expressions                  | Description                                                |
-| ----------------------------------- | ---------------------------------------------------------- |
-| `\b\d{2}\.\d{3}\.\d{3}\.\d{3}\b`   | Matches a 11-digit number of the format NN.NNN.NNN.NNN delimited by dot. |
-| `\b\d{2}-\d{3}-\d{3}-\d{3}\b`       | Matches a 11-digit number of the format NN-NNN-NNN-NNN delimited by hyphen. |
-| `\b\d{2} \d{3} \d{3} \d{3}\b`      | Matches a 11-digit number of the format NN NNN NNN NNN delimited by space. |
-| `\b\d{11}\b`                        | Matches a 11-digit number without a delimiter.              |
-
 
 
 ## How to check ABN online ?
@@ -47,6 +36,20 @@ The search returns the following details
   </td></tr>
   <tr><td align="center">ABN verification status</td></tr>
 </table>
+
+## How to verify ABN? 
+
+Australia Business Number consists of 11 digits
+
+| Regex expressions                  | Description                                                |
+| ----------------------------------- | ---------------------------------------------------------- |
+| `\b\d{2}\.\d{3}\.\d{3}\.\d{3}\b`   | Matches a 11-digit number of the format NN.NNN.NNN.NNN delimited by dot. |
+| `\b\d{2}-\d{3}-\d{3}-\d{3}\b`       | Matches a 11-digit number of the format NN-NNN-NNN-NNN delimited by hyphen. |
+| `\b\d{2} \d{3} \d{3} \d{3}\b`      | Matches a 11-digit number of the format NN NNN NNN NNN delimited by space. |
+| `\b\d{11}\b`                        | Matches a 11-digit number without a delimiter.              |
+
+
+
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
