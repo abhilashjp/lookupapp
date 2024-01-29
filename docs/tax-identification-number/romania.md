@@ -63,6 +63,8 @@ Tax Identification Number (TIN) for non-resident taxpayers in Romania is exclusi
   <tr><td align="center">Residence Permit</td></tr>
 </table>
 
+Official database [CIF search](https://www.anaf.ro/RegistruTVA/)
+
 ## Tax Identification Number (TIN)
 
 The Tax Administration issues the Tax Identification Number (TIN) for non-natural entities in Romania. Its format comprises a single block of digits, ranging from 2 to 10 numerals.
@@ -83,8 +85,13 @@ Structure: Sample TIN2: 900012345678.
 
 ## Codul unic de identificare (CUI)
 Until 2007, the term CUI (Unique Registration Code) was employed, after which the term CIF (Fiscal Registration Code) became prevalent. The distinction lies in the purpose for which this code is solicited. The legal entity providing the tax certificate determines whether the code is designated as CUI or CIF.
+The Romanian Codul Unic de Înregistrare (CUI) consists of 8 digits in the format NNN NNN NN, optionally preceded by the prefix RO. It is allocated to companies mandated to register with the Romanian Trade Register.
 
 Official database [CUI Search](https://mfinante.gov.ro/domenii/informatii-contribuabili/persoane-juridice/info-pj-selectie-dupa-cui)
+
+
+
+
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
