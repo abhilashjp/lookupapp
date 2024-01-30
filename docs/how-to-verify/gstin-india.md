@@ -1,5 +1,5 @@
 ---
-id: gstin-verification-India
+id: gstin-verification-india
 title: How to verify GSTIN Number in India?
 keywords: [Verify GSTIN India, India, find GSTIN India, Check GSTIN India, GST number]
 sidebar_label: India GSTIN Number
