@@ -19,6 +19,13 @@ The Tax Identification Numbers (TINs) are prominently featured on St. Christophe
 
 List of all vat registrants are published on the SKNIRD site. You can check the list [here](https://www.sknird.com/value-added-tax-vat/#oi-global-tabs-container|3)
 
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/dl-st-kitts.jpeg" alt="Driving License" title="Driving License"/>
+  </td></tr>
+  <tr><td align="center">Driving License</td></tr>
+</table>
+
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
 
