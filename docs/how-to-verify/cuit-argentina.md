@@ -16,7 +16,7 @@ CUIT number search option is available for free on the Argentina AFIP website. A
 
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/verify/cuit-argentina.PNG" alt="CUIT Verification" title="CUIT Verification"/>
+  <img src="/docs/img/verify/cuit_argentina.PNG" alt="CUIT Verification" title="CUIT Verification"/>
   </td></tr>
   <tr><td align="center">CUIT Verification</td></tr>
 </table>
@@ -34,16 +34,16 @@ A successful verifiction of the CUIT on the AFIP lookup tool will return the fol
 
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/verify/cuit-active.PNG" alt="CUIT Verification Status"  title="CUIT Verification Status"/>
+  <img src="/docs/img/verify/cuit_active.PNG" alt="CUIT Verification Status"  title="CUIT Verification Status"/>
   </td><td>
-  <img src="/docs/img/verify/cuit-active-1.PNG" alt="CUIT Verification Status"  title="CUIT Verification Status"/>
+  <img src="/docs/img/verify/cuit_active_1.PNG" alt="CUIT Verification Status"  title="CUIT Verification Status"/>
   </td></tr>
   <tr><td align="center" colspan="2">CUIT Verification Status</td></tr>
 </table>
 
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/verify/cuit-inactive.PNG" alt="CUIT Verification" title="CUIT Verification"/>
+  <img src="/docs/img/verify/cuit_inactive.PNG" alt="CUIT Verification" title="CUIT Verification"/>
   </td></tr>
   <tr><td align="center">Inactive CUIT</td></tr>
 </table>
