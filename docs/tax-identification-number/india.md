@@ -1,5 +1,5 @@
 ---
-id: India-tax-id-guide
+id: india-tax-id-guide
 title: India GSTIN number guide
 keywords: [GSTIN, Tax ID, India, Find GSTIN]
 sidebar_label: India
