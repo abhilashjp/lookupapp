@@ -33,7 +33,7 @@ Below is the list of National Databases for seachring Tax IDs. You can check VAT
 |Greece|[Businessportal registry](https://publicity.businessportal.gr/)|
 |Denmark|[CVR Search](https://datacvr.virk.dk/)|
 |Iceland|[Virðisaukaskattsnúmer](https://www.skatturinn.is/fyrirtaekjaskra/)|
-|[India](/docs/country/india-gst-guidelines-indirect-tax-sales-tax-india)|[GSTIN Search](https://services.gst.gov.in/services/searchtp), [icegate web](https://www.icegate.gov.in/Webappl/GSTN)|
+|[India](/docs/country/india-gst-guidelines-indirect-tax-sales-tax-india)|[GSTIN Search](https://services.gst.gov.in/services/searchtp)|
 |Italy|[Partita Iva validation](https://telematici.agenziaentrate.gov.it/VerificaPIVA/Scegli.do?parameter=verificaPiva), [Codice fiscale](https://telematici.agenziaentrate.gov.it/VerificaCF/Scegli.do?parameter=verificaCfPf)|
 |Netherland|[SBI Code search tool](https://www.rvo.nl/subsidies-financiering/togs/vastgestelde-sbi-codes#block-agnl-kvk-api-kvk-block), [KVK](https://www.kvk.nl/zoeken/)|
 |New Zealand|[NZBM](https://www.nzbn.govt.nz/mynzbn/search/)|
