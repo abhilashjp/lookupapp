@@ -21,7 +21,7 @@ List of all vat registrants are published on the SKNIRD site. You can check the 
 
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/taxid/dl-st-kitts.jpeg" alt="Driving License" title="Driving License"/>
+  <img src="/docs/img/taxid/dl-st-kitts.jpg" alt="Driving License" title="Driving License"/>
   </td></tr>
   <tr><td align="center">Driving License</td></tr>
 </table>
