@@ -19,7 +19,9 @@ Individuals in Mauritius are assigned a Tax Account Number (TAN) comprising 8 nu
 ## Business Registration Number (BRN)
 Upon creation, Mauritian entities and individuals engaging in business activities are assigned a Business Registration Number (BRN) by the Central Business Registration Department, a governmental authority. The BRN serves various purposes, including taxation. Once entities and individuals obtain their BRN, the Mauritius Revenue Authority (MRA) allocates a Tax Account Number (TAN) to facilitate their tax-related processes.Entities and individuals carrying on a business are automatically issued an TAN once they obtain their BRN
 
+Example : C15127871
 
+List of VAT registered entities in mauritius can be found [here](https://www.mra.mu/download/ListofVATRegPersons.pdf)
 
 ## National Identification Number
 
