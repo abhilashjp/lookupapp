@@ -33,8 +33,19 @@ The Tax Identification Number (TIN) can be found on various official documents s
 For individuals without a TIN, official identification documents like the Saudi national ID or residency ID for non-Saudis serve as alternatives. If the physical Saudi national ID is unavailable for verification, a copy of the national ID along with Saudi passport verification becomes necessary.
 
 ## VAT number
+Businesses in Saudi Arabia are assigned a VAT number, a 15-digit identifier provided by ZATCA (Zakat, Tax and Customs Authority). The VAT number's structure comprises various elements:
 
-VAT number consists of 15 digits
+- The first digit denotes the GCC Member State.
+- The following eight digits form a serial number.
+- The subsequent digit serves as a check digit.
+- The next three digits represent the taxpayer's subsidiaries.
+- The final two digits indicate the tax type.
+
+Individuals in Saudi Arabia are issued a 12-digit personal Tax Identification Number (TIN), known locally as the "National ID" or "Iqama" in Arabic. The TIN consists of:
+
+- The first two digits indicating the individual's region of residence.
+- The following 10 digits comprising a unique identification number assigned by ZATCA.
+
 
 Example : 300000432310003
 
