@@ -1,5 +1,5 @@
 ---
-id: business-license-verification-Saudi Arabia
+id: tin-zakat-verification-saudi-arabia
 title: How to verify TIN (zakat) in Saudi Arabia?
 keywords: [Verify TIN Saudi Arabia, Saudi Arabia, find TIN Saudi Arabia, Check TIN Saudi Arabia, TIN number, Business License, Saudi Arabia, Dubai]
 sidebar_label: Saudi Arabia TIN Number
@@ -12,7 +12,7 @@ tags :
 
 ## ZAKAT Certificate Verification (TIN)
 
-TIN number search option is available for free on the Saudi Arabian zatca website. You can access the TIN search [here]https://login.zatca.gov.sa/prt_logon/MenuItems.jsp?menu_id=zcert&menu_grp=eservices&portalapp=x&ume.logon.locale=en).  You can search a business by its company ID, Commercial register (CR No), Taxpayer ID(National Number), License number, TIN or certificate number.  This search requires you to clear a captcha for successful TIN validation.
+TIN number search option is available for free on the Saudi Arabian zatca website. You can access the TIN search [here](https://login.zatca.gov.sa/prt_logon/MenuItems.jsp?menu_id=zcert&menu_grp=eservices&portalapp=x&ume.logon.locale=en).  You can search a business by its company ID, Commercial register (CR No), Taxpayer ID(National Number), License number, TIN or certificate number.  This search requires you to clear a captcha for successful TIN validation.
 
 
 Example: 3002707692
