@@ -24,7 +24,7 @@ Example: 166479, 509406
 </table>
 
 
-A successful verifiction of the BL on the NER lookup tool will return the following details
+A successful verification of the BL on the NER lookup tool will return the following details
 
 * CBLS No
 * Business Name Arabic

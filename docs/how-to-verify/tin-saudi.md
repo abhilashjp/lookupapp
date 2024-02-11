@@ -24,7 +24,7 @@ Example: 3002707692
 </table>
 
 
-A successful verifiction of the TIN number on the zatca lookup tool will return the following details
+A successful verification of the TIN number on the zatca lookup tool will return the following details
 
 * Certificate No.
 * Name

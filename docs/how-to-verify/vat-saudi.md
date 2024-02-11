@@ -24,7 +24,7 @@ Example: 3002707692
 </table>
 
 
-A successful verifiction of the VAT number on the zatka lookup tool will return the following details
+A successful verification of the VAT number on the zatka lookup tool will return the following details
 
 * VAT number
 * Name of the business
@@ -41,4 +41,4 @@ A successful verifiction of the VAT number on the zatka lookup tool will return 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT number validation?**
 
-**Lookuptax VAT number validation** revolutionizes VAT number number validation with its robust platform, empowering businesses to seamlessly verify VAT number numbers across over 100 countries. Our cutVAT numberg-edge technology ensures accurate and efficient validation, reducing errors and enhancing compliance.
+**Lookuptax VAT number validation** revolutionizes VAT number validation with its robust platform, empowering businesses to seamlessly verify VAT number numbers across over 100 countries. Our cutVAT numberg-edge technology ensures accurate and efficient validation, reducing errors and enhancing compliance.
