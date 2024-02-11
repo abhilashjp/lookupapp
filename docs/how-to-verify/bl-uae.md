@@ -12,7 +12,67 @@ tags :
 
 ## BL number check on NER(National Economic Register) website
 
-166479
+Business License number search option is available for free on the UAE NER website. You can access the BL search [here](https://ner.economy.ae/Search_By_BL_No.aspx). You can also search a business by its name or CBLS number in this registry.  
+
+
+Example: 166479, 509406
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/verify/bl-uae.PNG" alt="GSTIN Verification" title="GSTIN Verification"/>
+  </td></tr>
+  <tr><td align="center">BL Verification in UAE</td></tr>
+</table>
+
+
+A successful verifiction of the BL on the NER lookup tool will return the following details
+
+* CBLS No
+* Business Name Arabic
+* Business Name English
+* Is Branch
+* Parent BL No
+* Est. Date
+* Expiry Date
+* Business activity description in Arabic & English
+* Economic Department
+* Registration ED Branch
+* Mobile No
+* Phone No
+* Status
+* PO Box No
+* Email
+* Website URL
+* Full Address
+
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/verify/bl-uae-details.PNG" alt="BL Verification in UAE, successful vaerification" title="BL Verification details"/>
+  </td></tr>
+  <tr><td align="center">BL Verification details</td></tr>
+</table>
+
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/verify/bl-uae-verify.PNG" alt="BL Verification search results, successful vaerification" title="BL search results"/>
+  </td></tr>
+  <tr><td align="center">BL search results</td></tr>
+</table>
+
+
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/verify/bn-search-uae.PNG" alt="Search by business name in UAE" title="Search by Business name"/>
+  </td></tr>
+  <tr><td align="center">Search by Business name</td></tr>
+</table>
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/verify/cbls-search.PNG" alt="Search by CBLS in UAE" title="Search by CBLS"/>
+  </td></tr>
+  <tr><td align="center">Search by CBLS</td></tr>
+</table>
+
+
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in BL validation?**
