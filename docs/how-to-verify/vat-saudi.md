@@ -24,7 +24,7 @@ Example: 3002707692
 </table>
 
 
-A successful verifiction of the BL on the NER lookup tool will return the following details
+A successful verifiction of the VAT number on the zatka lookup tool will return the following details
 
 * VAT number
 * Name of the business
