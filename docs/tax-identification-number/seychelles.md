@@ -16,6 +16,9 @@ In Seychelles, taxation primarily applies to businesses rather than individuals.
 
 The Tax Identification Number (TIN) is a nine-digit identifier generated through an algorithm, ensuring compliance with a checksum requirement.
 
+Example : 742864808
+
+Official database [TIN search](https://eservice.egov.sc/TinRegistration/pages/SBNSearch.aspx)
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
