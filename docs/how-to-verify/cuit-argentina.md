@@ -23,7 +23,7 @@ CUIT number search option is available for free on the Argentina AFIP website. A
 
 Example: 30-71234315-6
 
-A successful verifiction of the CUIT on the AFIP lookup tool will return the following details
+A successful verification of the CUIT on the AFIP lookup tool will return the following details
 
 * Name of the business
 * Legal Form of the business
