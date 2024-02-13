@@ -22,7 +22,7 @@ TIN number search option is available for free on the Seychelles egov website. Y
 </table>
 
 
-A successful verifiction of the TIN on the TIN lookup tool will return the following details
+A successful verification of the TIN on the TIN lookup tool will return the following details
 
 * Tax Identification Number
 * Business Registration Number
