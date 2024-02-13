@@ -46,7 +46,7 @@ A successful verification of the BL on the NER lookup tool will return the follo
 
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/verify/bl-uae-details.PNG" alt="BL Verification in UAE, successful vaerification" title="BL Verification details"/>
+  <img src="/docs/img/verify/bl-uae-details.PNG" alt="BL Verification in UAE, successful verification" title="BL Verification details"/>
   </td></tr>
   <tr><td align="center">BL Verification details</td></tr>
 </table>
