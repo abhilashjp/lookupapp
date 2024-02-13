@@ -10,7 +10,7 @@ tags :
   - Spain
 ---
 
-## NIF check on Central Business Name Index on zefix website
+## NIF check on Agencia Tributaria website
 
 NIF number search option is available for free on the Spain Tax Agency (Agencia Tributaria) website. You can access the nif search [here](https://www2.agenciatributaria.gob.es/wlpl/GROI-JDIT/ConsultaOperadorSedeGroiServlet). Note that this search makes available only those VAT(NIF) numbers which are registered for intra-community (Within EU)trade.
 
