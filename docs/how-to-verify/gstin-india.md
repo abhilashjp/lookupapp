@@ -22,7 +22,7 @@ GST number search option is available for free on the India GST website. You can
 </table>
 
 
-A successful verifiction of the GSTIN on the GST lookup tool will return the following details
+A successful verification of the GSTIN on the GST lookup tool will return the following details
 
 * Name of the business
 * Trade Name
