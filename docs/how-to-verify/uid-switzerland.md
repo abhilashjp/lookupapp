@@ -22,7 +22,7 @@ Example:CHE-110.474.423
   <tr><td align="center">UID Verification on zeflix website</td></tr>
 </table>
 
-A successful verifiction of the UID on the UID lookup tool will return the following details
+A successful verification of the UID on the UID lookup tool will return the following details
 
 * Name of the business 
 * Address 
@@ -57,7 +57,7 @@ UID number search option is available for free on the Switzerland Federal Statis
   <tr><td align="center">UID Verification on FSO website</td></tr>
 </table>
 
-A successful verifiction of the UID on the UID lookup tool will return the following details
+A successful verification of the UID on the UID lookup tool will return the following details
 
 * UID
 * UID status
