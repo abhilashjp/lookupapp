@@ -69,6 +69,38 @@ A successful verification of the CNPJ on the CNPJ lookup tool on REDESIM website
   <tr><td align="center">Inactive CNPJ Verification</td></tr>
 </table>
 
+## Entity search on Transparency Portal
+
+CNPJ number/Entity search option is available for free on the Brazil Transparency Portal(Portal da Transparência). You can access the CNPJ search [here](https://portaldatransparencia.gov.br/pessoa-juridica/busca/lista?pagina=1&tamanhoPagina=10&). You can search an entity by its name or CNPJ
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/verify/entity-search-transparency-portal.png" alt="CNPJ Search on Transparency Portal" title="CNPJ Search on Transparency Portal"/>
+  </td></tr>
+  <tr><td align="center">CNPJ Search on Portal da Transparência</td></tr>
+</table>
+
+A successful search of the CNPJ on the Transparency Portal CNPJ lookup tool will return the following details
+
+* Registration number
+* Opening date
+* E-mail
+* Telephone
+* Business name
+* Legal nature
+* CNAE
+* Address
+* Street number or building number
+* Additional information
+* Zip code
+* Neighborhood / district
+* County
+* UF
+  
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/verify/entity-search-results.png" alt="Successful CNPJ Verification on Transparency Portal" title="Successful CNPJ Verification"/>
+  </td></tr>
+  <tr><td align="center">Successful Entity Verification on Transparency Portal</td></tr>
+</table>
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
