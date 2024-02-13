@@ -22,7 +22,7 @@ Example:CHE-110.474.423
   <tr><td align="center">UID Verification on zeflix website</td></tr>
 </table>
 
-A successful verifiction of the GSTIN on the GST lookup tool will return the following details
+A successful verifiction of the UID on the UID lookup tool will return the following details
 
 * Name of the business 
 * Address 
@@ -44,6 +44,66 @@ A successful verifiction of the GSTIN on the GST lookup tool will return the fol
   <tr><td align="center">Successful UID Verification on zeflix website</td></tr>
 </table>
 
+
+
+## UID check on UID-Register FSO website
+
+UID number search option is available for free on the Switzerland Federal Statistical Office(FSO) website under the UID Register. You can access the UID search [here](https://www.uid.admin.ch/Search.aspx). You can search an entity either by comapny name or UID. 
+
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/verify/uid-search-swtizerland.PNG" alt="UID Verification on FSO website" title="UID Verification on FSO website"/>
+  </td></tr>
+  <tr><td align="center">UID Verification on FSO website</td></tr>
+</table>
+
+A successful verifiction of the UID on the UID lookup tool will return the following details
+
+* UID
+* UID status
+* UID extension
+* Name
+* Additional name
+* Translation
+* c/o
+* Street / No.
+* Complement
+* ZIP / Town
+* Canton
+* Country
+* Municipality
+* Municipality no.
+* EGID
+* Deliverable
+* Last validation
+* PO box number
+* ZIP/Town of PO box
+* Legal form
+* Register of commerce data
+  * RC status
+  * UID headquarter
+  * Reference number
+* VAT data
+  * VAT register status
+  * VAT number -  example : CHE-110.474.423 MWST
+  * Start of obligation
+  * End of obligation
+  * VAT-group member
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/verify/uid-search-results-switzerland.PNG" alt="UID Verification on FSO website"  title="UID Verification on FSO website"/>
+  </td><td>
+  <img src="/docs/img/verify/uid-register-switzerland.PNG" alt="UID Verification on FSO website"  title="UID Verification on FSO website"/>
+  </td></tr>
+  <tr><td align="center" colspan="2">UID Verification on FSO website</td></tr>
+</table>
+
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/verify/uid-details-active.PNG" alt="Successful UID Verification on FSO website" title="UID Verification on FSO website"/>
+  </td></tr>
+  <tr><td align="center">Successful UID Verification on FSO website</td></tr>
+</table>
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in UID validation?**
