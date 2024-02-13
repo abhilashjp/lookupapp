@@ -17,7 +17,7 @@ UID number search option is available for free on the Switzerland zefix website 
 Example:CHE-110.474.423
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/verify/uid-swtizerland.PNG" alt="UID Verification on zeflix website" title="UID Verification on zeflix website"/>
+  <img src="/docs/img/verify/uid-switzerland.PNG" alt="UID Verification on zeflix website" title="UID Verification on zeflix website"/>
   </td></tr>
   <tr><td align="center">UID Verification on zeflix website</td></tr>
 </table>
@@ -39,7 +39,7 @@ A successful verifiction of the UID on the UID lookup tool will return the follo
 
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/verify/uid-details-swtizerland.PNG" alt="Successful UID Verification on zeflix website" title="Successful UID Verification on zeflix website"/>
+  <img src="/docs/img/verify/uid-details-switzerland.PNG" alt="Successful UID Verification on zeflix website" title="Successful UID Verification on zeflix website"/>
   </td></tr>
   <tr><td align="center">Successful UID Verification on zeflix website</td></tr>
 </table>
@@ -52,7 +52,7 @@ UID number search option is available for free on the Switzerland Federal Statis
 
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/verify/uid-search-swtizerland.PNG" alt="UID Verification on FSO website" title="UID Verification on FSO website"/>
+  <img src="/docs/img/verify/uid-search-switzerland.PNG" alt="UID Verification on FSO website" title="UID Verification on FSO website"/>
   </td></tr>
   <tr><td align="center">UID Verification on FSO website</td></tr>
 </table>
