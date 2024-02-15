@@ -1,7 +1,7 @@
 ---
 id: new-york
 title: Sales tax in New York
-keywords: [Sales Tax rates, New York, Sales tax, Sales Tax in Germany]
+keywords: [Sales Tax rates, New York, Sales tax, Sales Tax in New York]
 sidebar_label: New York Sales Tax
 sidebar_class_name: hidden
 description: Learn about Sales tax rates in New York. Use Lookuptax for hassle-free validation of Tax ID validataion in New York.
