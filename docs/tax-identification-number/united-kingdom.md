@@ -10,7 +10,8 @@ tags :
 ---
 
 ## VAT Number 
-The tax identification number in UK is called VAT number. The format is as follows. VAT number has either 9 or 12 numbers, sometimes with ‘GB’ at the start, like 123456789 or GB123456789. You can check the validity of UK VAT number from the official [HMRC site](https://www.gov.uk/check-uk-vat-number) or a Vat validation provider like _[Lookuptax](https://lookuptax.com/)_.
+In the UK, the tax identification number is referred to as the VAT number. It typically consists of either 9 or 12 numbers, occasionally preceded by 'GB,' such as 123456789 or GB123456789. Validating a UK VAT number can be done through the official [HMRC site](https://www.gov.uk/check-uk-vat-number) website or a VAT validation service provider like [Lookuptax](https://lookuptax.com/).
+
 
 ## Unique Taxpayer Reference (UTR)
 
