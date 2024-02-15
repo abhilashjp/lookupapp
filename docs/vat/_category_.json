@@ -1,0 +1,18 @@
+{
+  "label": "VAT in Countries",
+  "position": 0,
+   "collapsible": true,
+  "collapsed": false,
+  "className": "hidden",
+ 
+  "link": {
+    "type": "generated-index",
+    "title": "VAT rate in countries",
+    "keywords": "VAT rates, VAT number verification, Find VAT, Chect VAT, Validate VAT",
+    "description": "Learn about VAT rates in countries across the world. Use Lookuptax for hassle-free tax id validation in over 100+ countries",
+  },
+   "customProps": {
+    "description": " Guides explains the VAT rates in countries across the world.Use Lookuptax for hassle-free tax id validation in over  100+ countries"
+  }
+}
+ 
