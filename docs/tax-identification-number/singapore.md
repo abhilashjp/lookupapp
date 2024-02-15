@@ -9,6 +9,36 @@ tags :
   - TIN
 ---
 
+## UEN - Business (ROB)
+
+UEN - Business (ROB) refers to the Unique Entity Number issued to business entities registered in Singapore.
+
+UEN is used to uniquely identify registered businesses operating in Singapore It is issued by government agencies like Accounting and Corporate Regulatory Authority (ACRA), Inland Revenue Authority of Singapore (IRAS) and others. All companies, businesses, partnerships, societies etc are required to register for a UEN. 
+
+
+**Format**
+
+UEN – Business (ROB): NNNNNNNNC - 9 characters
+
+
+## UEN – Local Company (ROC)
+
+UEN - Local Company (ROC) refers to the Unique Entity Number issued to locally registered companies in Singapore. ROC stands for "Registered Of Company"
+It is issued by the Accounting and Corporate Regulatory Authority (ACRA) in Singapore. All companies incorporated in Singapore are required to register for a UEN-Local Company
+
+
+**Format** 
+
+For Local Companies - YYYYNNNNNC - 10 characters
+For Foreign Companies - F000NNNNNC or FDDDNNNNNC 
+
+## UEN – Others
+This is the standard identification number assigned to entities that are not classified as businesses or local companies.
+
+**Format** 
+
+SYYPQNNNNC or TYYPQNNNNC - 10 characters
+
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
 
