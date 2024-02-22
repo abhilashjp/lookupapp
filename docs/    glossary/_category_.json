@@ -1,0 +1,17 @@
+{
+  "label": "Glossary",
+  "position": 0,
+   "collapsible": true,
+  "collapsed": false,
+  "className": "hidden",
+ 
+  "link": {
+    "type": "generated-index",
+    "title": "Glossary",
+    "keywords": "Verify Tax ID, VAT number verification, Find VAT, Chect VAT, Validate VAT, Glossary, Tax",
+    "description": "Learn about tax terms across the world.Use Lookuptax for hassle-free tax id validation in over 100+ countries",
+  },
+   "customProps": {
+    "description": " Guides explains the tax terminologies used in countries across the world.Use Lookuptax for hassle-free tax id validation in over  100+ countries"
+  }
+}
