@@ -33,7 +33,7 @@ tags:
 
 ## Overview
 
-Indirect taxes in India is called GST (Goods and Services Tax). It came into effect in July 2017. It replaced several indirect taxes such as VAT, excise duty, services taxes etc.  Read [more](https://cbic-gst.gov.in/pdf/01062019-GST-Concept-Status.pdf)
+Indirect taxes in India is called GST (Goods and Services Tax). It came into effect in July 2017. It replaced several indirect taxes such as VAT, excise duty, services taxes etc.  Read [more](/files/GST-Concept-and-Status01062019.pdf)
 
 ## Registration 
 
