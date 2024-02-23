@@ -41,7 +41,7 @@ The registration in GST is PAN based and State specific. Supplier has to registe
 
 If a person has unit in SEZ(Special Economic Zone) or is a SEZ developer and also unit in domestic tariff Area (i.e. outside the SEZ) in the same State, then he has to take separate registration for his SEZ unit / as a SEZ developer as a separate place of business of him. The GST law does not have the facility of centralized registration for units across multiple states. 
 
-Read [more](https://www.cbic.gov.in/resources//htdocs-cbec/gst/51_GST_Flyer_Chapter1.pdf) 
+Read [more](/files/registration-under-gst.pdf) 
 
 ### Who should register for GST 
 
