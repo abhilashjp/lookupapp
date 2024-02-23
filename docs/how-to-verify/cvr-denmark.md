@@ -48,7 +48,7 @@ These details can also be exported to a pdf. You can find a sample PDF [here](/f
 
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/verify/cvr-details-.PNG" alt="Successful CVR Verification on virk website" title="Successful CVR Verification on virk website"/>
+  <img src="/docs/img/verify/cvr-details.PNG" alt="Successful CVR Verification on virk website" title="Successful CVR Verification on virk website"/>
   </td></tr>
   <tr><td align="center">Successful CVR Verification</td></tr>
 </table>
