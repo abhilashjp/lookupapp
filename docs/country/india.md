@@ -83,7 +83,7 @@ Once GST regsitration is complete a supplier is issued a 15 digit GST identifica
 * Special Code 97 for 'Other Terrritory'
 
 ## Tax rates
-On Intra state transactions [CGST](https://www.cbic.gov.in/resources//htdocs-cbec/gst/CGST%20Act%20Updated%20as%20on%2031.08.2021.pdf) and SGST/UTGST are applied. In case of intersate transction [IGST](https://www.cbic.gov.in/resources//htdocs-cbec/gst/IGST-Act-Updated.pdf) is appiled . Following are the currently allowed tax rates. Along with these 'cess' might be levied by the state governments on some items
+On Intra state transactions [CGST](/files/CGST-Act-Updated-30092020.pdf) and SGST/UTGST are applied. In case of intersate transction [IGST](/files/IGST-updated-law.pdf) is appiled . Following are the currently allowed tax rates. Along with these 'cess' might be levied by the state governments on some items
 
 |CGST (%)|SGST (%)|IGST (%)|
 |-|-|-|
@@ -223,13 +223,11 @@ E-Invoice or IRN can’t be partially cancelled. It has to be fully cancelled.
 :::
 
 ## Reference links
-* [GST core concepts](https://cbic-gst.gov.in/pdf/01062019-GST-Concept-Status.pdf)
+* [GST core concepts](/files/GST-Concept-and-Status01062019.pdf)
 * [Notification No. 01/2022 – Central Tax](https://einv-apisandbox.nic.in/downloads/notfctn-01-central-tax-english-2022.pdf)
 * [FAQs on SEZs](https://www.nsez.gov.in/Resources/SEZ%20FAQs.pdf)
 * [GST help](https://www.gst.gov.in/help/helpmodules/)
-* [Penalty on GST](https://www.tgct.gov.in/tgportal/staffcollege/DR%20ACTOs%2017.01.2020%20to%2018.02.2020/February%20-%202020%20%20PDF%27s/03.02.2020,%201.%20Ch.Raja%20Krishna,%20Deputy%20Commissioner%20(ST),%20Demand%20and%20Recovery.pdf)
-* [Offences, Penalties, Prosecution and 
-Compounding, Page 438](https://www.cbic.gov.in/resources//htdocs-cbec/gst/Final-GST-FAQ-31218.pdf)
+* [Offences, Penalties, Prosecution and Compounding, Page 438](/files/Final-GST-FQ-31218.pdf)
 * [ISO Code](https://www.iso.org/obp/ui/#iso:code:3166:IN)
 * [Cancellation of einvoice . Refer page 4 & 11](https://einvoice1.gst.gov.in/Documents/GST_eInvoiceSystemDetailedOverview.pdf)
 * [Einvoice Cancellation](https://einvoice1.gst.gov.in/Others/Faqs)
