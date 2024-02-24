@@ -58,10 +58,11 @@ const config = {
           anonymizeIP: false,
         },
         sitemap: {
-  changefreq: 'weekly',
-  priority: 0.5,
-  ignorePatterns: ['/tags/**'], // Add this line to ignore tags pages
-},
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'], // Add this line to ignore tags pages
+          filename: 'sitemap.xml',
+        },
 
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
