@@ -39,7 +39,18 @@ A successful verifiction of the UEN on the UEN lookup tool will return the follo
   <tr><td align="center">Successful UEN Verification</td></tr>
 </table>
 
+## UEN check on ACRA Register
 
+UEN number search option is available for free on the ACRA Register on the bizfile website. You can access the UEN search [here](https://www.tis.bizfile.gov.sg/ngbtisinternet/faces/oracle/webcenter/portalapp/pages/TransactionMain.jspx?selectedETransId=dirSearch). You can search on the UEN website by the UEN number, Name of the company. You can also narrow down the results by the entity type. You also have an option to but detailed information such as business profile, Company Documents, Certificates etc.. 
+
+
+A successful verifiction of the UEN on the ## UEN check on ACRA Register will return the following details
+
+* Name
+* UEN
+* Status
+* Address
+* Industry. This displays the entity's primary activity 5-digit description.
 
 
 ----
