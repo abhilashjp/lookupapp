@@ -22,6 +22,7 @@ You can check the validity of an ABN from the Austrailian Business Register Webs
   <tr><td align="center">ABN lookup</td></tr>
 </table>
 
+Example : 49160299865
 
 The search returns the following details 
 * Entity name

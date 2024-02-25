@@ -19,7 +19,7 @@ Australia Company Number consists of 9 digits.
 | `\b\d{3} \d{3} \d{3}\b`    | Matches a 9-digit number delimited by space.     |
 | `\b\d{9}\b`                 | Matches a 9-digit number without a delimiter.    |
 
-
+Example : 160299865
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
