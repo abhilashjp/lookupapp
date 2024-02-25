@@ -41,10 +41,16 @@ A successful verifiction of the UEN on the UEN lookup tool will return the follo
 
 ## UEN check on ACRA Register
 
-UEN number search option is available for free on the ACRA Register on the bizfile website. You can access the UEN search [here](https://www.tis.bizfile.gov.sg/ngbtisinternet/faces/oracle/webcenter/portalapp/pages/TransactionMain.jspx?selectedETransId=dirSearch). You can search on the UEN website by the UEN number, Name of the company. You can also narrow down the results by the entity type. You also have an option to but detailed information such as business profile, Company Documents, Certificates etc.. 
+UEN number search option is available for free on the ACRA Register on the bizfile website. You can access the UEN search [here](https://www.tis.bizfile.gov.sg/ngbtisinternet/faces/oracle/webcenter/portalapp/pages/TransactionMain.jspx?selectedETransId=dirSearch). You can search on the UEN website by the UEN number, Name of the company. You can also narrow down the results by the entity type. You also have an option to but detailed information such as business profile, Company Documents, Certificates, Extracts etc.. 
 
 
-A successful verifiction of the UEN on the ## UEN check on ACRA Register will return the following details
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/verify/uen-bizfile.PNG" alt="UEN search on ACRA Register" title="UEN search on ACRA Register"/>
+  </td></tr>
+  <tr><td align="center">UEN search on ACRA Register</td></tr>
+</table>
+
+A successful verifiction of the UEN on ACRA Register will return the following details
 
 * Name
 * UEN
@@ -52,6 +58,17 @@ A successful verifiction of the UEN on the ## UEN check on ACRA Register will re
 * Address
 * Industry. This displays the entity's primary activity 5-digit description.
 
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/verify/uen-details-bizfile.PNG" alt="Successful UEN Verification on ACRA Register" title="Successful UEN Verification on ACRA Register"/>
+  </td></tr>
+  <tr><td align="center">Successful UEN Verification</td></tr>
+</table>
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/singapore-regsitration-certificate.PNG" alt="Incorporation certificate" title="Incorporation certificate"/>
+  </td></tr>
+  <tr><td align="center">Singapore Incorporation certificate</td></tr>
+</table>
 
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in UEN validation?**
