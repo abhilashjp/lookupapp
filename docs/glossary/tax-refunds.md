@@ -4,7 +4,7 @@ title: Tax Refunds
 keywords: [Tax Refunds, Lookuptax]
 sidebar_label: Tax refunds
 sidebar_class_name: hidden
-description: What is a tax refund. How does it work? Use Lookuptax for hassle-free validation of Australia Business Number in Austalia.
+description: What is a tax refund. How does it work? Use Lookuptax for hassle-free validation of VAT numbers.
 tags : 
   - Tax refunds
 ---
