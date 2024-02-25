@@ -1,5 +1,5 @@
 ---
-id: Sales Tax
+id: sales-tax
 title: Sales Tax
 keywords: [Sales Tax, Lookuptax]
 sidebar_label: Sales Tax
