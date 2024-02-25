@@ -20,6 +20,14 @@ UEN is used to uniquely identify registered businesses operating in Singapore It
 
 UEN – Business (ROB): NNNNNNNNC - 9 characters
 
+Official Database - [UEN search](https://www.uen.gov.sg/ueninternet/faces/pages/uenSrch.jspx)
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/singapore-regsitration-certificate.PNG" alt="Incorporation certificate" title="Incorporation certificate"/>
+  </td></tr>
+  <tr><td align="center">Singapore Incorporation certificate</td></tr>
+</table>
+
 
 ## UEN – Local Company (ROC)
 

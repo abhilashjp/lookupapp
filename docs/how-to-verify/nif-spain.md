@@ -22,7 +22,7 @@ Example:ESB66254202
   <tr><td align="center">Intra-community NIF Verification on tax agency website</td></tr>
 </table>
 
-A successful verifiction of the UID on the UID lookup tool will return the following details
+A successful verifiction of the NIF on the NIF lookup tool will return the following details
 
 * Date
 * Secure Verification Code - Example: FSX32SJFVQA3TJ9P. This verification code can be used to verify the autheticity of the verification on the https://www.agenciatributaria.gob.es/ site. 
