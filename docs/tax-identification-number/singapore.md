@@ -121,6 +121,18 @@ FIN number can be found on different passes such as Employment Pass, Overseas Ne
 </table>
 
 
+## GST Reg Number
+
+The Goods and Services Tax (GST) Registration Number in Singapore consists of 10 characters. The initial two characters can be either letters or numbers, followed by seven numeric characters, and ending with a checksum character. Issued by the Inland Revenue Authority of Singapore (IRAS), this number is assigned to entities registered for GST. Sometimes GST number will be same as the UEN number
+
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/taxid/gst-reg-no-singapore.PNG" alt="GST Reg Number" title="GST Reg Number"/>
+  </td></tr>
+  <tr><td align="center">GST Reg Number</td></tr>
+</table>
+
+
 ----
 **How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
 
