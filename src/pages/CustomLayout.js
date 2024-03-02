@@ -20,7 +20,8 @@ const CustomLayout = ({ children }) => {
         </script>
       </head>
       <body>
-        {children}
+        {/* Render the Markdown content */}
+        <div dangerouslySetInnerHTML={{ __html: children }} />
       </body>
     </html>
   );
