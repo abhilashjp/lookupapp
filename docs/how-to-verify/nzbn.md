@@ -10,12 +10,12 @@ tags :
   - NZBN
 ---
 
-## How to check NZBN online ?
+## NZBN verification on companies register website
 
 You can check the validity of an NZBN on the companies register from the New Zealand companies office Website for free. You can access the NZBN lookup service [here](https://companies-register.companiesoffice.govt.nz/). Using this tool you can search for a company by the company name or company number. The Companies Register also supports seach by Directors or shareholders name
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/verify/nzbn.PNG" alt="ABN lookup" title="ABN lookup"/>
+  <img src="/docs/img/verify/nzbn.PNG" alt="NZBN lookup" title="NZBN lookup"/>
   </td></tr>
   <tr><td align="center">NZBN lookup</td></tr>
 </table>
