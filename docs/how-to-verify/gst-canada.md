@@ -43,7 +43,8 @@ A successful verifiction of the GST on the GST registry lookup tool will return 
 </table>
 
 
-
+## Simplified GST account number
+ The list of businesess registered under simplified GST rules applicable for digital businesses are listed [here](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/digital-economy-gsthst/confirming-simplified-gst-hst-account-number.html)
 
 
 ----
