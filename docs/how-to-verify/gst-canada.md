@@ -10,10 +10,6 @@ tags :
   - GST
 ---
 
-
-R119278877
-
-
 ## GST verification on GST/HST Registry 
 
 You can check the validity of an GST or  HST on the canada revenue agency website for free. You can access the GST lookup service [here](https://www.businessregistration-inscriptionentreprise.gc.ca/ebci/brom/registry/pub/reg_01_Ld.action). Using this tool you can search for a company by the GST pr and HST. You are also required to submit full business name and a transaction date to search the GST. You will be required to accept the terms and condition on this [page](https://www.canada.ca/en/revenue-agency/services/e-services/digital-services-businesses/confirming-a-gst-hst-account-number/terms-conditions-use.html) before you can access the search page. 
@@ -37,7 +33,7 @@ A successful verifiction of the GST on the GST registry lookup tool will return 
 
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/verify/gat-details-canada.PNG" alt="Successful GST Verification on GST registry website" title="Successful GST Verification on GST registry website"/>
+  <img src="/docs/img/verify/gst-details-canada.PNG" alt="Successful GST Verification on GST registry website" title="Successful GST Verification on GST registry website"/>
   </td></tr>
   <tr><td align="center">Successful GST Verification</td></tr>
 </table>
