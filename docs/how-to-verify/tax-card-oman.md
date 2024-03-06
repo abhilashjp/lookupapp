@@ -42,7 +42,7 @@ A successful verifiction of the Tax Card Nummber on the taxoman lookup tool will
 
 
 ----
-**How [Lookuptax](https://lookuptax.com/) can help you in NZBN And VAT validation?**
+**How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
 
 **Lookuptax VAT validation** revolutionizes VAT number validation with its robust platform, empowering businesses to seamlessly verify VAT numbers across over 100 countries. Our cutting-edge technology ensures accurate and efficient validation, reducing errors and enhancing compliance.
 

@@ -12,7 +12,7 @@ tags :
 
 ## VATIN verification on TaxOman website
 
-You can check the validity of an VATIN on the taxoman website for free. You can access the VATIN lookup service [here](https://www.taxoman.gov.om/portal/web/taxportal/tax-data-validation). Using this tool you can search for a company by the VATIN . This lookup tool also supports seach by Tax Card Number.
+You can check the validity of an VATIN on the taxoman website for free. You can access the VATIN lookup service [here](https://www.taxoman.gov.om/portal/web/taxportal/tax-data-validation). Using this tool you can search for a company by the VATIN . This lookup tool also supports search by Tax Card Number.
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
   <img src="/docs/img/verify/vatin-oman.PNG" alt="VATIN lookup" title="VATIN lookup"/>
@@ -41,7 +41,7 @@ A successful verifiction of the VATIN on the taxoman lookup tool will return the
 
 
 ----
-**How [Lookuptax](https://lookuptax.com/) can help you in NZBN And VAT validation?**
+**How [Lookuptax](https://lookuptax.com/) can help you in VAT validation?**
 
 **Lookuptax VAT validation** revolutionizes VAT number validation with its robust platform, empowering businesses to seamlessly verify VAT numbers across over 100 countries. Our cutting-edge technology ensures accurate and efficient validation, reducing errors and enhancing compliance.
 
