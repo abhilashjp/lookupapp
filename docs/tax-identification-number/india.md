@@ -47,6 +47,8 @@ A typical PAN is AFZPK7190K.
 * Fifth character i.e. "K" in the above PAN represents first character of the PAN holder's last name/surname.
 * Next four characters i.e. "7190" in the above PAN are sequential number running from 0001 to 9999. Last character i.e. "K" in the above PAN is an alphabetic check digit.
 
+Example : AACCG0527D
+
 **Where to find PAN ?**
 PAN can be found on PAN card or PAN allotment letter
 
