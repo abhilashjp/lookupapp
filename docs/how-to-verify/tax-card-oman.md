@@ -12,7 +12,7 @@ tags :
 
 ## TAX card verification on TaxOman website
 
-You can check the validity of an Tax Card on the taxoman website for free. You can access the Tax card lookup service [here](https://www.taxoman.gov.om/portal/web/taxportal/tax-data-validation).  This lookup tool also supports seach by VATIN.
+You can check the validity of an Tax Card on the taxoman website for free. You can access the Tax card lookup service [here](https://www.taxoman.gov.om/portal/web/taxportal/tax-data-validation).  This lookup tool also supports search by VATIN.
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
   <img src="/docs/img/verify/vatin-oman.PNG" alt="VATIN lookup" title="VATIN lookup"/>
