@@ -13,7 +13,7 @@ tags :
 ## SIREN Search on INPI data portal
 
 
-SIREN number search option is available for free on the INPI data portal in France. You can access the nif search [here](https://data.inpi.fr/). You can search of a company by its name , SIREN, applicant etc. INPI portal contains the data from the registries of the commercial courts centralised in the French Companies Register (RNE).
+SIREN number search option is available for free on the INPI data portal in France. You can access the nif search [here](https://data.inpi.fr/). You can search of a company by its name , SIREN, SIRET, applicant etc. INPI portal contains the data from the registries of the commercial courts centralised in the French Companies Register (RNE).
 
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
