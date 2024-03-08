@@ -24,7 +24,7 @@ You can check the validity of QST on the canada Revenu Québec (revenuquebec.ca)
 * Example QST :  1227494057TQ0001
 
 
-A successful verifiction of the GST on the GST registry lookup tool will return the following details
+A successful verifiction of the QST on the QST registry lookup tool will return the following details
 
 * Registration number
 * Status

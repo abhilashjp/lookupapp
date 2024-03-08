@@ -12,7 +12,7 @@ tags :
 
 ## RUT verification on SII website 
 
-You can check the validity of RUT on the Chile SII website for free. You can access the QST lookup service [here](https://zeus.sii.cl/cvc/stc/stc.html). Using this tool you can search for a company by the RUT number. You are required to clear a captcha before submitting the search request.
+You can check the validity of RUT on the Chile SII website for free. You can access the RUT lookup service [here](https://zeus.sii.cl/cvc/stc/stc.html). Using this tool you can search for a company by the RUT number. You are required to clear a captcha before submitting the search request.
 
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
@@ -25,7 +25,7 @@ You can check the validity of RUT on the Chile SII website for free. You can acc
 Example RUT :  96557720-3
 
 
-A successful verifiction of the GST on the GST registry lookup tool will return the following details
+A successful verifiction of the RUT on the SII RUT lookup tool will return the following details
 
 * Name of the business
 * Taxpayer RUT
