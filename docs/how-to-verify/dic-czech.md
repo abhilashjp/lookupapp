@@ -24,7 +24,7 @@ You can check the validity of DIC on the Czech MOJE DANĚ website for free. You 
 
 Example DIC :  45799504
 
-A successful verifiction of the GST on the GST registry lookup tool will return the following details
+A successful verifiction of the DIC on the MOJE DANĚ website will return the following details
 
 
 * VAT identification number (DIC)
