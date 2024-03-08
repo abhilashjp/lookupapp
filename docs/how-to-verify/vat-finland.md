@@ -1,4 +1,3 @@
-
 ---
 id: vat-verification-finland
 title: How to verify VAT number in Finland?

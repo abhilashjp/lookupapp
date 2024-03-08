@@ -1,4 +1,3 @@
-
 ---
 id: vat-verification-belgium
 title: How to verify VAT number in Belgium?
