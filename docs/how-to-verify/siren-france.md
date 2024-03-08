@@ -24,6 +24,7 @@ SIREN number search option is available for free on the INPI data portal in Fran
 
 
 Example SIREN : 775670417
+
 Example SIRET: 77567041700051
 
 A successful verification of the SIREN number on the INPI companies lookup tool will return the following details
@@ -75,7 +76,7 @@ The INPI portal also allows you to do advanced seach and filters such as the fol
 * Start date of activity
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/verify/advaned-search-inpi.PNG" alt="Advanced Search on INPI Portal" title="Advanced Search on INPI Portal"/>
+  <img src="/docs/img/verify/advanced-search-inpi.PNG" alt="Advanced Search on INPI Portal" title="Advanced Search on INPI Portal"/>
   </td></tr>
   <tr><td align="center">Advanced Search on INPI Portal</td></tr>
 </table>
