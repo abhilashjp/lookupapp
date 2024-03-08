@@ -43,7 +43,7 @@ A successful verification of the Finland VAT number on the VIES VAT lookup tool 
 
 
 ## VAT validation via phone
-VAT validation can also be done via a phone call in Finland. You can call 029 497 051 to validate a VAT number(standard call rates will apply).
+VAT validation can also be done via a phone call in Finland. You can call  [029 497 051](tel:029497051) to validate a VAT number(standard call rates will apply).
 
 ## VAT validation via email
 
