@@ -24,7 +24,7 @@ You can check the validity of PST on the British columbia eTaxBC website for fre
 * Example PST :1247-7834, BN number -78656 8113
 
 
-A successful verifiction of the GST on the GST registry lookup tool will return the following details
+A successful verification of the GST on the GST registry lookup tool will return the following details
 
 * Business Number
 * PST Number

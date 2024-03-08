@@ -23,7 +23,7 @@ Example:53342345K
   <tr><td align="center">UEN search on UEN website</td></tr>
 </table>
 
-A successful verifiction of the UEN on the UEN lookup tool will return the following details
+A successful verification of the UEN on the UEN lookup tool will return the following details
 
 * UEN
 * Entity Type:

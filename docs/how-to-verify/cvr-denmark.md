@@ -22,7 +22,7 @@ Example:28866984
   <tr><td align="center">CVR Verification on virk website</td></tr>
 </table>
 
-A successful verifiction of the CVR on the CVR lookup tool will return the following details
+A successful verification of the CVR on the CVR lookup tool will return the following details
 
 * CVR number
 * Address

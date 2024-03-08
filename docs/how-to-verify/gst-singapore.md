@@ -24,7 +24,7 @@ Example:201812927R
   <tr><td align="center">GST search on iras website</td></tr>
 </table>
 
-A successful verifiction of the GST on the mytax portal GST lookup tool will return the following details
+A successful verification of the GST on the mytax portal GST lookup tool will return the following details
 
 * GST Reg No.
 * UEN/ NRIC

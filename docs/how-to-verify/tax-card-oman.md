@@ -24,7 +24,7 @@ You can check the validity of an Tax Card on the taxoman website for free. You c
 * Example Tax Card Number: 8062505
 
 
-A successful verifiction of the Tax Card Nummber on the taxoman lookup tool will return the following details
+A successful verification of the Tax Card Nummber on the taxoman lookup tool will return the following details
 
 * Tax Card No.
 * TIN

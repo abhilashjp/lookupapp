@@ -24,7 +24,7 @@ You can check the validity of an VAT on the sarsefiling website for free. You ca
 * Example VAT: 4480152117, 4720285933
 
 
-A successful verifiction of the VAT on the sarsefiling vat lookup tool will return the following details
+A successful verification of the VAT on the sarsefiling vat lookup tool will return the following details
 
 * VAT Trading Name	
 * VAT Registration Number	

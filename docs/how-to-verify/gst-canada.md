@@ -24,7 +24,7 @@ You can check the validity of an GST or  HST on the canada revenue agency websit
 * Example GST: 119278877 - University of Ottawa, 700561103 -  Google Asia Pacific Pte. Ltd.
 
 
-A successful verifiction of the GST on the GST registry lookup tool will return the following details
+A successful verification of the GST on the GST registry lookup tool will return the following details
 
 * GST/HST number
 * Business nameuniversity of ottawa

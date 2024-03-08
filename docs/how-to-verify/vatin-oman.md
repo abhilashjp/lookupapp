@@ -23,7 +23,7 @@ You can check the validity of an VATIN on the taxoman website for free. You can 
 * Example VATIN: OM1100000300
 
 
-A successful verifiction of the VATIN on the taxoman lookup tool will return the following details
+A successful verification of the VATIN on the taxoman lookup tool will return the following details
 
 * Name
 * VATIN

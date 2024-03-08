@@ -25,7 +25,7 @@ You can check the validity of RUT on the Chile SII website for free. You can acc
 Example RUT :  96557720-3
 
 
-A successful verifiction of the RUT on the SII RUT lookup tool will return the following details
+A successful verification of the RUT on the SII RUT lookup tool will return the following details
 
 * Name of the business
 * Taxpayer RUT
