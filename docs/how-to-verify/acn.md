@@ -10,6 +10,42 @@ tags :
   - ACN
 ---
 
+## ACN search on ASIC Registry
+
+ACN number search option is available for free on the Australian Securities and Investments Commission's Company regsiter. You can access the ABN search [here](https://connectonline.asic.gov.au/RegistrySearch/faces/landing/SearchRegisters.jspx?_adf.ctrl-state=1du6g3a845_4). You can search on the ASIC Registry by the ABN, ACN or Name of the company.
+
+Example: 001799837
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/verify/acn-asic-australia.PNG" alt="ACN search on ASIC registry" title="ACN search on ASIC registry"/>
+  </td></tr>
+  <tr><td align="center">ACN search on ASIC registry</td></tr>
+</table>
+
+A successful verification of the ABN on the ASIC registry will return the following details
+
+* Name: UBER PTY LTD
+* ACN:  001 799 837
+* ABN:  43 001 799 837(External Link)
+* Previous state number:  23333814
+* Previous state of registration: New South Wales
+* Registration date:  5/11/1979
+* Next review date: 5/11/2024
+* Status: Registered
+* Type: Australian Proprietary Company, Limited By Shares
+* Locality of registered office:  MOUNT LAWLEY WA 6050
+* Regulator:  Australian Securities & Investments Commission
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/verify/acn-details-asic-australia.PNG" alt="ACN verification status" title="ACN verification status"/>
+  </td></tr>
+  <tr><td align="center">ACN verification status</td></tr>
+</table>
+
+
+
+## ACN Format
+
 Australia Company Number consists of 9 digits.
 
 | Regex expressions          | Description                                      |

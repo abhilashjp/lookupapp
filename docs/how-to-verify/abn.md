@@ -10,9 +10,7 @@ tags :
   - ABN
 ---
 
-
-
-## How to check ABN online ?
+## ABN search on Austrailian Business Register
 
 You can check the validity of an ABN from the Austrailian Business Register Website for free. You can access the ABN lookup service [here](https://abr.business.gov.au/). Using this tool you can search for a company by ABN, ACN or name. Advanced search options are available [here](https://abr.business.gov.au/Search/Advanced)
 
@@ -38,7 +36,9 @@ The search returns the following details
   <tr><td align="center">ABN verification status</td></tr>
 </table>
 
-## How to verify ABN? 
+
+
+## How to verify format of ABN? 
 
 Australia Business Number consists of 11 digits
 
