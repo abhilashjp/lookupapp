@@ -12,7 +12,7 @@ tags :
 
 ## QST verification on Revenu Québec website 
 
-You can check the validity of QST on the canada Revenu Québec (revenuquebec.ca) website for free. You can access the QST lookup service [here](https://entreprises.revenuquebec.ca/EntNa/SX/SX00/SX00.SXCLT20A.ValiderInscription/SXCLT20AA?CLNG=F&SVAR=01). Using this tool you can search for a company by the QST number
+You can check the validity of QST on the canada Revenu Québec (revenuquebec.ca) website for free. You can access the QST lookup service [here](https://entreprises.revenuquebec.ca/EntNa/SX/SX00/SX00.SXCLT20A.ValiderInscription/SXCLT20AA?CLNG=F&SVAR=01). Using this tool you can search for a company by the QST number.
 
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
