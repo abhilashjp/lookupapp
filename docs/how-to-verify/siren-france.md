@@ -92,7 +92,7 @@ SIREN number search option is available for free on the Infogreffe Website in Fr
   <tr><td align="center">SIREN Search on Infogreffe Website</td></tr>
 </table>
 
-Example SIRET: 481 936 946, 878 547 868
+Example SIREN: 481 936 946, 878 547 868
 
 A successful verification of the SIREN Search on Infogreffe Website will return the following details
 
@@ -117,6 +117,51 @@ A successful verification of the SIREN Search on Infogreffe Website will return 
 
   <table align="center" border="0px" border-color="#dedede"><tr><td>
   <img src="/docs/img/verify/infogreffe-details-france.PNG" alt="Successful SIREN Verification on Infogreffe website" title="Successful SIREN Verification on Infogreffe website"/>
+  </td></tr>
+  <tr><td align="center">Successful SIREN Verification</td></tr>
+</table>
+
+
+## SIREN Search on Annuaire Entreprises Website
+
+You can verify the SIREN numners on the official french business directory on the Annuaire Entreprises Website. You can access the SIREN search [here](https://annuaire-entreprises.data.gouv.fr/). This tool also allows you to search a company by its name , SIREN, SIRET, address etc.
+
+<table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/verify/annuaire-entreprises-france.PNG" alt="SIREN validation on Annuaire Entreprises Website" title="SIREN validation on Annuaire Entreprises Website"/>
+  </td></tr>
+  <tr><td align="center">SIREN validation on Annuaire Entreprises Website</td></tr>
+</table>
+
+Example SIREN: 481 936 946, 878 547 868, 404 107 047
+
+A successful verification of the SIREN Search on Infogreffe Website will return the following details
+
+
+* Name of the business
+* SIREN
+* SIRET of the head office
+* VAT Number 
+* Main activity (NAF/APE)
+* NAF/APE code
+* Address 
+* Juridical nature eg: Foreign company not registered with the RCS
+* Employee workforce portion of the structure
+* Structure size Eg: Small or Medium Enterprise (SME), in 2021
+* Creation date
+* Last modification at INSEE
+* Last modification to Inpi
+* Details of Collective agreements)
+* Proof(s) of existence
+  * RNE extract (KBIS/D1 equivalent)
+  * Insee situation notice
+* Leaders
+* Documents
+* Financial datas
+
+You can also download the proof of regsitration from the Annuaire Entreprises Website. [Here](/files/extrait_immatriculation_inpi_404107047.pdf) is a sample Proof of registration.
+
+ <table align="center" border="0px" border-color="#dedede"><tr><td>
+  <img src="/docs/img/verify/annuaire-entreprises-details-france.PNG" alt="Successful SIREN Verification on Annuaire Entreprises Website" title="Successful SIREN Verification on Annuaire Entreprises Website"/>
   </td></tr>
   <tr><td align="center">Successful SIREN Verification</td></tr>
 </table>
