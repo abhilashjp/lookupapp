@@ -15,7 +15,8 @@ tags :
 Business License number search option is available for free on the UAE NER website. You can access the BL search [here](https://ner.economy.ae/Search_By_BL_No.aspx). You can also search a business by its name or CBLS number in this registry.  
 
 
-Example: 166479, 509406
+Example BL no: 166479, 509406, 186153, 1089546
+Example CBLS no : 11575055, 11925939
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
   <img src="/docs/img/verify/bl-uae.PNG" alt="GSTIN Verification" title="GSTIN Verification"/>
