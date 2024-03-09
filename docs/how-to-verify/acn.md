@@ -22,19 +22,19 @@ Example: 001799837
   <tr><td align="center">ACN search on ASIC registry</td></tr>
 </table>
 
-A successful verification of the ABN on the ASIC registry will return the following details
+A successful verification of the ACN on the ASIC registry will return the following details
 
-* Name: UBER PTY LTD
-* ACN:  001 799 837
-* ABN:  43 001 799 837(External Link)
-* Previous state number:  23333814
-* Previous state of registration: New South Wales
-* Registration date:  5/11/1979
-* Next review date: 5/11/2024
-* Status: Registered
-* Type: Australian Proprietary Company, Limited By Shares
-* Locality of registered office:  MOUNT LAWLEY WA 6050
-* Regulator:  Australian Securities & Investments Commission
+* Name
+* ACN
+* ABN
+* Previous state number
+* Previous state of registration
+* Registration date
+* Next review date
+* Status
+* Type
+* Locality of registered office
+* Regulator
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
   <img src="/docs/img/verify/acn-details-asic-australia.PNG" alt="ACN verification status" title="ACN verification status"/>
