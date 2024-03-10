@@ -38,6 +38,7 @@ const config = {
           breadcrumbs: true,
           showLastUpdateAuthor: false,
           showLastUpdateTime: true,
+          exclude: ['/tags/*'],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl: "https://github.com/abhilashjp/lookupapp/blob/main/",
@@ -60,7 +61,7 @@ const config = {
         sitemap: {
           changefreq: 'weekly',
         priority: 0.5,
-        exclude: ['/tags/**'],
+        
         
 
         },
