@@ -59,8 +59,10 @@ const config = {
         },
         sitemap: {
           changefreq: 'weekly',
-          priority: 0.5,
-          ignorePatterns: ['/tags/**'], // Add this line to ignore tags pages
+        priority: 0.5,
+        ignorePatterns: ['/tags/**'],
+        filename: 'sitemap.xml',
+          
         },
 
         theme: {

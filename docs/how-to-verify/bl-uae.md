@@ -12,7 +12,7 @@ tags :
 
 ## BL number check on NER(National Economic Register) website
 
-Business License number search option is available for free on the UAE NER website. You can access the BL search [here](https://ner.economy.ae/Search_By_BL_No.aspx). You can also search a business by its name or CBLS number in this registry.  
+Business License number search option is available for free on the UAE NER website. You can access the BL search [here](https://ner.economy.ae/Search_By_BL_No.aspx). You can also search a business by its name or CBLS number in this registry.NER's primary aims is to achieve integration and the smooth exchange and synchronisation of data between local and national registers. The same search options are available [here](https://cbls.economy.ae/Search_By_CBLS_No.aspx) as well.
 
 
 Example BL no: 166479, 509406, 186153, 1089546
