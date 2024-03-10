@@ -60,8 +60,7 @@ const config = {
         sitemap: {
           changefreq: 'weekly',
         priority: 0.5,
-        ignorePatterns: ['/tags/**'],
-        excludeTags: ['/tags/**']
+        exclude: ['/tags/**'],
         
 
         },
