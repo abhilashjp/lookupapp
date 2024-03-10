@@ -26,8 +26,7 @@ description: Learn about the VAT rules and guidelines in France
     </tr>
     <tr>
       <td>Tax Authority</td>
-      <td><a href="https://www.impots.gouv.fr/accueil">Tax administration</a>
-      </td>
+      <td><a href="https://www.impots.gouv.fr/accueil">Tax administration</a></td>
     </tr>
   </tbody>
 </table>

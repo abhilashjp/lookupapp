@@ -190,7 +190,9 @@ const config = {
       ],
     ],
     // End of plugin export code
-      
+      staticWebsites: {
+    excludePatterns: ['/tags/**'],
+  },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
