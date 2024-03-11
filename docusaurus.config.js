@@ -19,21 +19,13 @@ const config = {
   organizationName: "abhilashjp", // Usually your GitHub org/user name.
   projectName: "lookupapp", // Usually your repo name.
 customFields: {
-  {
+headers:  {
   "route": "/tags/**",
   "headers": {
     "X-Robots-Tag": "noindex"
   }
 },
-  headers: [
-    {
-      match: '/tags/**',
-      headers: [
-        { key: 'X-Robots-Tag', value: 'noindex' },
-      ],
-    },
-  ],
-},
+  
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
