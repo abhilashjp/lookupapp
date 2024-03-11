@@ -24,7 +24,7 @@ customFields: {
   "headers": {
     "X-Robots-Tag": "noindex"
   }
-}
+},
   headers: [
     {
       match: '/tags/**',
