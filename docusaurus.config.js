@@ -19,6 +19,12 @@ const config = {
   organizationName: "abhilashjp", // Usually your GitHub org/user name.
   projectName: "lookupapp", // Usually your repo name.
 customFields: {
+  {
+  "route": "/tags/**",
+  "headers": {
+    "X-Robots-Tag": "noindex"
+  }
+}
   headers: [
     {
       match: '/tags/**',
