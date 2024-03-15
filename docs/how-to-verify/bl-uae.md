@@ -19,7 +19,7 @@ Example BL no: 166479, 509406, 186153, 1089546
 Example CBLS no : 11575055, 11925939
 
 <table align="center" border="0px" border-color="#dedede"><tr><td>
-  <img src="/docs/img/verify/bl-uae.PNG" alt="GSTIN Verification" title="GSTIN Verification"/>
+  <img src="/docs/img/verify/bl-uae.PNG" alt="BL Verification" title="BL Verification"/>
   </td></tr>
   <tr><td align="center">BL Verification in UAE</td></tr>
 </table>
