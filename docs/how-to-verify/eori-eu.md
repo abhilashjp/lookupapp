@@ -36,7 +36,7 @@ Example EORI- FI2655044-9, NL863997260, NL812544353,DE 5834171
 A successful verification of the EORI on the EORI lookup tool will return the following details
 
 
-* Request date  15/03/2024
+* Request date
 * Stautus - This EORI number is valid or invalid
 * EORI Name 
 * Address  
